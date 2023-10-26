@@ -8,7 +8,6 @@ tags: ["Conceptuel", "Fluxus", "Miroirs", "Destin singulier"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/woodman.jpg"
 ---
-#  - ARTEFIELDS
 ## Des fulgurances de la sincérité
 
 **Francesca Woodman**, A eu une vie et une carrière fulgurantes. Elle s’est donnée la mort à 22 ans. Son œuvre est également fulgurante, riche et très imaginative. Ce qui caractérise le plus immédiatement le travail de Francesca Woodman c’est probablement sa sincérité mais aussi une forme d’immédiateté.
