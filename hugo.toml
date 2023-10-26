@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://afcld3.pages.dev'
 languageCode = "fr"
 title = 'ARTEFIELDS'
 theme = 'ananke'
