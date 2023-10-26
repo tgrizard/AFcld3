@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 authors: ["Thierry Grizard"]
 description: "Jenny Saville une artiste peintre contemporaine qui questionne la représentation du corps féminin dans une manière monumentale proche de la sculpture."
-tags: ["Peinture", "Sensorialité", "Corporéité"]
+tags: ["Peinture", "Sensorialité", "Corporéité", "Féminisme"]
 categories: ["Arts Visuels"]
 featured_image: "/posts/images/banner/saville.jpg"
 ---
