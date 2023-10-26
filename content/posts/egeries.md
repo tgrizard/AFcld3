@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 authors: ["Thierry Grizard"]
 description: "Les égéries ont toujours occupé une place essentielle dans la vie des artistes. Marthe Bonnard, Dina Vierny et Vera Broïdo sont à cet égard emblématiques."
-tags: ["Iconographie", "Sensorialité"]
+tags: ["Iconographie", "Sensorialité", "Destin singulier"]
 categories: ["Themes"]
 featured_image: "/posts/images/banner/egeries.jpg"
 ---

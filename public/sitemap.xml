@@ -67,6 +67,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/tags/destin-singulier/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/posts/egeries/</loc>
     <lastmod>2023-10-23T22:03:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -82,7 +87,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/tags/fluxus/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/tags/formalisme/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/woodman/</loc>
     <lastmod>2023-10-23T22:03:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -152,6 +167,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/tags/miroirs/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/tags/peinture/</loc>
     <lastmod>2023-10-23T22:03:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -207,6 +227,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/tags/street-photography/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/tags/surr%C3%A9alisme/</loc>
     <lastmod>2023-10-23T22:03:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -233,6 +258,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/maier/</loc>
     <lastmod>2023-10-23T22:03:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

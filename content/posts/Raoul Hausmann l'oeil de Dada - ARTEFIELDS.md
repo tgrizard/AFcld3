@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 authors: ["Thierry Grizard"]
 description: "Raoul Hausmann, un des pères du dadaïsme, et la Sensorialité Excentrique, ou comment ne pas séparer l'art de la vie, d'une vie éveillée par l'art. "
-tags: ["Dadaisme", "Sensorialité"]
+tags: ["Dadaisme", "Sensorialité", "Iconographie", "Destin singulier"]
 categories: ["Photographie", "Themes"]
 featured_image: "/posts/images/banner/raoul-hausmann.jpg"
 ---

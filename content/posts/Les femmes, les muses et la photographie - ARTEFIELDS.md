@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 authors: ["Thierry Grizard"]
 description: "Les femmes sont omniprésentes dans l'art mais le plus souvent à titre de modèles ou de muses, la photographie a joué un rôle libérateur sur ce point. "
-tags: ["Iconographie"]
+tags: ["Iconographie", "Destin singulier"]
 categories: ["Themes"]
 featured_image: "/posts/images/banner/muses.jpg"
 ---
