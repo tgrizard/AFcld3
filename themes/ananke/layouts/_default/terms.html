@@ -12,7 +12,6 @@
           <a href="{{ $term.RelPermalink }}" class="link blue hover-black">
             {{ $.Data.Singular | humanize }}: {{ $term.LinkTitle }}
           </a>
-            TEST
         </h2>
         {{ range $term.Pages }}
           {{ .Render "summary" }}
