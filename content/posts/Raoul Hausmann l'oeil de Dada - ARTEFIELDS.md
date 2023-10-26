@@ -118,4 +118,4 @@ Quand on considère la pluralité des créations de Raoul Hausmann, écrivain, p
 
 ---
 
-Cet article est parue en premier sur [artefields.net](https://www.artefields.net/raoul-hausmann-dadasophe-et-photographe/)
+Cet article est paru en premier sur [artefields.net](https://www.artefields.net/raoul-hausmann-dadasophe-et-photographe/)
