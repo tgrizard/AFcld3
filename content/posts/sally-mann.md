@@ -8,7 +8,6 @@ tags: ["Réalisme", "Sensorialité", "Photographie contingente", "Temporalité"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/sally-mann.jpg"
 ---
-#  - ARTEFIELDS
 ## Sally Mann, un journal photographique
 
 **Sally Mann** s’est fait connaître par son second livre « Immédiate Family » (1984-1992) qui souleva rapidement une polémique qui lui reprochait son exhibitionnisme à l’égard de sa famille, en particulier ses enfants et lui prêtait des intentions ambiguës relativement à ses images de nudités juvéniles qui parfois miment les attitudes adultes dans des poses volontairement provocantes, considérées par certains comme inappropriées. Il s’agit bien plus, évidemment, d’une question de codes culturels et dans certains cas de relents puritanistes.
