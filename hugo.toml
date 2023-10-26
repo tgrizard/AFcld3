@@ -28,6 +28,10 @@ enableRobotsTXT = false
     name = 'Thèmes'
     pageRef = '/categories/themes'
     weight = 40
+[[menu.main]]
+    name = 'Contact'
+    pageRef = 'contact'
+    weight = 50
 
 
 [taxonomies]
