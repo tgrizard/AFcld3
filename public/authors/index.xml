@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on ARTEFIELDS</title>
-    <link>/authors/</link>
+    <link>https://afcld3.pages.dev/authors/</link>
     <description>Recent content in Authors on ARTEFIELDS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 23 Oct 2023 22:03:27 +0200</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Oct 2023 22:03:27 +0200</lastBuildDate><atom:link href="https://afcld3.pages.dev/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anna Migdal</title>
-      <link>/authors/anna-migdal/</link>
+      <link>https://afcld3.pages.dev/authors/anna-migdal/</link>
       <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
       
-      <guid>/authors/anna-migdal/</guid>
+      <guid>https://afcld3.pages.dev/authors/anna-migdal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thierry Grizard</title>
-      <link>/authors/thierry-grizard/</link>
+      <link>https://afcld3.pages.dev/authors/thierry-grizard/</link>
       <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
       
-      <guid>/authors/thierry-grizard/</guid>
+      <guid>https://afcld3.pages.dev/authors/thierry-grizard/</guid>
       <description></description>
     </item>
     

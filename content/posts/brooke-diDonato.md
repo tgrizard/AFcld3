@@ -5,7 +5,7 @@ draft: false
 authors: ["Thierry Grizard"]
 tags: ["Surréalisme", "Corporéité"]
 categories: ["Photographie"]
-featured_image: "/posts/images/didonato.jpg"
+featured_image: "/posts/images/banner/didonato.jpg"
 ---
 
 Brooke DiDonato (née en 1990 dans l’Ohio, vit et travaille principalement à New-York) dans la filiation d’un **Guy Bourdin** et des surréalistes nous offre dans son travail ce qu’elle désigne elle-même comme « des gourmandises pour les yeux ». Il faut immédiatement préciser d’étranges gourmandises. Entre Guy Bourdin et les surréalistes la photographe américaine procède à des collages amenant à des collisions visuelles, des télescopages qui font émerger l’imaginaire, l’étrange et l’onirisme à partir de situations des plus banales. Elle emprunte à Guy Bourdin une réduction de moyen similaire, une certaine sensualité distanciée et matinée d’un aspect doucereux ; aux surréalistes elle reprend le collage et les « hasards objectifs ».
