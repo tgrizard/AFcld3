@@ -1,0 +1,58 @@
+baseURL = ''
+languageCode = "fr"
+title = 'ARTEFIELDS'
+theme = 'ananke'
+resourceDir = "../resources"
+
+DefaultContentLanguage = "fr"
+# SectionPagesMenu = "main"
+Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = false
+
+
+[menu]
+[[menu.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menu.main]]
+    name = 'Photographie'
+    pageRef = '/categories/photographie'
+    weight = 20
+[[menu.main]]
+    name = 'Arts visuels'
+    pageRef = '/categories/arts-visuels'
+    weight = 30
+[[menu.main]]
+    name = 'Thèmes'
+    pageRef = '/categories/themes'
+    weight = 40
+
+
+[taxonomies]
+    author = "authors"
+    tag = "tags"
+    category = "categories"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "Welcome to my blog and the art stream of consciousness."
+  background_color_class = "bg-black"
+  recent_posts_number = 5
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/artefields"
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/artefields"
+
