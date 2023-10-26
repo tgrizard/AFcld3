@@ -1,7 +1,7 @@
 ---
 title: "Apolonia Sokol, peindre l'intime et la tribu"
 date: 2023-10-23T22:03:27+02:00
-draft: false
+draft: true
 authors: ["Thierry Grizard"]
 description: "Apolonia Sokol est une jeune peintre qui forge tout son oeuvre sur le portrait et l'autoportrait où elle dresse la description intime de sa tribu."
 tags: ["Peinture"]
