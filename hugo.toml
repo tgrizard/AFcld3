@@ -1,6 +1,6 @@
-baseURL = 'https://afcld3.pages.dev'
+baseURL = 'https://artstream.net/'
 languageCode = "fr"
-title = 'ARTEFIELDS'
+title = 'ARTSTREAM'
 theme = 'ananke'
 resourceDir = "../resources"
 
