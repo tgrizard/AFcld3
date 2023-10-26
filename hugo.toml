@@ -13,25 +13,17 @@ enableRobotsTXT = false
 
 [menu]
 [[menu.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-[[menu.main]]
     name = 'Photographie'
     pageRef = '/categories/photographie'
-    weight = 20
+    weight = 10
 [[menu.main]]
     name = 'Arts visuels'
     pageRef = '/categories/arts-visuels'
-    weight = 30
+    weight = 20
 [[menu.main]]
     name = 'Thèmes'
     pageRef = '/categories/themes'
-    weight = 40
-[[menu.main]]
-    name = 'Contact'
-    pageRef = 'contact'
-    weight = 50
+    weight = 30
 
 
 [taxonomies]
