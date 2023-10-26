@@ -6,7 +6,7 @@ authors: ["Thierry Grizard"]
 description: "Grégoire Eloy est un photographe documentaire qui a franchi le pas de l'objectivité prétendue à l'intelligence sensible de ce dont il témoigne. "
 tags: ["Photographie contingente", "Sensorialité"]
 categories: ["Photographie"]
-featured_image: "/posts/images/eloy.jpg"
+featured_image: "/posts/images/banner/eloy.jpg"
 ---
 
 ## Témoignage sensible
