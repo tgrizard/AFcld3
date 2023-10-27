@@ -140,4 +140,4 @@ Le body art est une tentative de réinvestir le corps en vue d’une dénonciati
 ---
 
 
-Cette article est paru pour la première fois sur [Artefields.net](https://www.artefields.net/ana-mendieta-body-art/)
+Cet article est paru pour la première fois sur [Artefields.net](https://www.artefields.net/ana-mendieta-body-art/)
