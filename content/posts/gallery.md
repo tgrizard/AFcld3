@@ -2,6 +2,7 @@
 title: "gallery et carousel"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+hidden: true
 featured_image: ''
 omit_header_text: false
 description: "Si vous souhaitez en savoir plus et prendre contact !"
