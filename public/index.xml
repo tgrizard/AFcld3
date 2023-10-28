@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Artefields, arts as a moodboard on ARTSTREAM</title>
+    <title>ArtStream, arts as a moodboard on ARTSTREAM</title>
     <link>https://artstream.net/</link>
-    <description>Recent content in Artefields, arts as a moodboard on ARTSTREAM</description>
+    <description>Recent content in ArtStream, arts as a moodboard on ARTSTREAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 23 Oct 2023 22:03:27 +0200</lastBuildDate><atom:link href="https://artstream.net/index.xml" rel="self" type="application/rss+xml" />
