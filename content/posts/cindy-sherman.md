@@ -60,7 +60,7 @@ Elle déconstruit selon un axe général, mais pas de manière méthodique et ca
 
 #### The Picture Generation
 
-A peu près à la même époque que les débuts de Cindy Sherman, [Duane Hanson](https://www.artefields.net/duane-hanson-hyperrealisme/) dans ses mises en scène hyperréalistes déracine des situations sociales où transparaît avec constance le même épuisement, le vide, l’abattement. En 1978, avec Destroyed Room, [Jeff Wall](https://www.artefields.net/jeff-wall-la-photographie-mise-en-scene/), beaucoup plus distancié que Cindy Sherman, crée des tableaux photographiques dépeignant le désenchantement des « temps modernes ». Il le fait grâce à un procédé conceptuel exhibant l’écart entre la source d’inspiration (des tableaux classiques très populaires) et le « document » fictif, totalement reconstruit, d’une scène contemporaine. Il faut rappeler qu’en 2009 eut lieu une exposition retentissante au MET laquelle, sous le titre The Picture Generation 1974-1984 réunissait les artistes de l’appropriation et la déterritorialisation des images inspirées en partie par les structuralistes français, ainsi que Gilles Deleuze. On pouvait voir des artistes féministes déconstructivistes telle que Barbara Kruger, mais aussi [Robert Longo](https://www.artefields.net/robert-longo-ombre-et-lumiere/), Richard Prince, Jack Goldstein, etc. Cindy Sherman n’est donc pas isolée dans sa démarche, elle se distingue néanmoins par la part subjective et par son implication personnelle en tant que modèle unique de ses clichés.
+A peu près à la même époque que les débuts de Cindy Sherman, [Duane Hanson](https://www.artefields.net/duane-hanson-hyperrealisme/) dans ses mises en scène hyperréalistes déracine des situations sociales où transparaît avec constance le même épuisement, le vide, l’abattement. En 1978, avec Destroyed Room, [Jeff Wall](/posts/jeff-wall/), beaucoup plus distancié que Cindy Sherman, crée des tableaux photographiques dépeignant le désenchantement des « temps modernes ». Il le fait grâce à un procédé conceptuel exhibant l’écart entre la source d’inspiration (des tableaux classiques très populaires) et le « document » fictif, totalement reconstruit, d’une scène contemporaine. Il faut rappeler qu’en 2009 eut lieu une exposition retentissante au MET laquelle, sous le titre The Picture Generation 1974-1984 réunissait les artistes de l’appropriation et la déterritorialisation des images inspirées en partie par les structuralistes français, ainsi que Gilles Deleuze. On pouvait voir des artistes féministes déconstructivistes telle que Barbara Kruger, mais aussi [Robert Longo](https://www.artefields.net/robert-longo-ombre-et-lumiere/), Richard Prince, Jack Goldstein, etc. Cindy Sherman n’est donc pas isolée dans sa démarche, elle se distingue néanmoins par la part subjective et par son implication personnelle en tant que modèle unique de ses clichés.
 
 ![](/posts/images/sherman/cindy-sherman_photography_picture-generation-54.jpg)© Cindy Sherman
 
@@ -148,15 +148,15 @@ Cette part du travail de Cindy Sherman est irréductible, constante et donne pro
 * [Elina Brotherus](https://www.artefields.net/elina-brotherus-photography/)
 * Barbara Kruger
 * Robert Longo
-* [Francesca Woodman](https://www.artefields.net/francesca-woodman/)
+* [Francesca Woodman](/posts/woodman/)
 * La photographie objective allemande
 
 ⠀
 #### Les prédécesseurs :
 
 * Claude Cahun
-* Ana Mendieta
-* Fluxus
+* [Ana Mendieta](/posts/ana-mendieta-je-suis-une-sculpture-artefields/)
+* [Fluxus](/tags/fluxus)
 * Pierre Molinier
 * Joseph Kosuth
 * Art conceptuel

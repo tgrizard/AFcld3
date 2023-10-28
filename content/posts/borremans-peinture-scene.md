@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 authors: ["Thierry Grizard"]
 description: "Michael Borremans: « Une bonne œuvre d’art n’est ni une réponse ni une question. Une bonne œuvre est un nœud.» Cette phrase résume assez bien son œuvre."
-tags: ["Peinture", "Surréalisme", "Conceptuel"]
+tags: ["Peinture", "Surréalisme", "Conceptuel", "Théâtralité"]
 categories: ["Arts Visuels"]
 featured_image: "/posts/images/banner/borremans.jpg"
 ---

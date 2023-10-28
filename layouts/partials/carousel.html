@@ -1,0 +1,19 @@
+{{ .context.Scratch.Set "height" .height }}
+{{ .context.Scratch.Set "unit" .unit }}
+{{ .context.Scratch.Set "items" .items }}
+{{ partial "carousel.html" (dict "context" . "items" "1" "height" "50" "unit" "%" "duration" "7000") }}
+
+<div id="carousel10" class="carousel" duration="{{ .duration }}" items="{{ .items }}">
+    <ul>
+        {{ range $index, $slide := .context.Site.Data.carousel.images }}
+          <li id="c10_slide{{ add $index 1}}" style="min-width: calc(100%/{{ $.context.Scratch.Get "items" }}); padding-bottom: {{ $.context.Scratch.Get "height" }}{{ $.context.Scratch.Get "unit" }};"><img src="/posts/slider/" alt="" /><div><div>{{ $slide.content_html }}</div></div></li>
+        {{ end }}
+    </ul>
+    <ol>
+      {{ range $index, $page := .context.Site.Data.carousel.images }}
+        <li><a href="#c10_slide{{ add $index 1 }}"></a></li>
+      {{ end }}
+    </ol>
+    <div class="prev">&lsaquo;</div>
+    <div class="next">&rsaquo;</div>
+</div>
