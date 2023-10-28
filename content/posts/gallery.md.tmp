@@ -6,7 +6,7 @@ hidden: true
 featured_image: ''
 omit_header_text: false
 description: "Si vous souhaitez en savoir plus et prendre contact !"
-type: page
+type: post
 resources:
   - name: "slide1"
     src: "/posts/slider/slide1.jpg"
