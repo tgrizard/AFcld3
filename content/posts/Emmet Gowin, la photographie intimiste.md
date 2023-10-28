@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 authors: ["Thierry Grizard"]
 description: "Emmet Gowin est un photographe américain qui a ouvert la voie à la photographie intimiste en tentant de fixer sa fascination pour la vie simple de Danville."
-tags: ["Réalisme", "Sensorialité", "Photographie contingente", "Photographie objective"]
+tags: ["Réalisme", "Sensorialité", "Photographie contingente"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/gowin.jpg"
 ---
