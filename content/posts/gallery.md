@@ -1,7 +1,7 @@
 ---
 title: "gallery et carousel"
 date: 2023-10-23T22:03:27+02:00
-draft: false
+draft: true
 hidden: true
 featured_image: ''
 omit_header_text: false
