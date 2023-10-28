@@ -7,6 +7,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/posts/serrano/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/authors/anna-migdal/</loc>
     <lastmod>2023-10-23T22:03:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -72,7 +77,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/posts/altmejd/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/tags/destin-singulier/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/dividu/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/hanson/</loc>
     <lastmod>2023-10-23T22:03:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -123,6 +143,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/histoire-de-lart/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/hyperr%C3%A9alisme/</loc>
     <lastmod>2023-10-23T22:03:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -207,6 +232,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/tags/pop-art/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/posts/</loc>
     <lastmod>2023-10-23T22:03:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -222,12 +252,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/posts/longo/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/posts/sally-mann/</loc>
     <lastmod>2023-10-23T22:03:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/sara-punt/</loc>
+    <lastmod>2023-10-23T22:03:27+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/sculpture/</loc>
     <lastmod>2023-10-23T22:03:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

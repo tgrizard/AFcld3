@@ -45,6 +45,12 @@ enableRobotsTXT = false
   background_color_class = "bg-black"
   recent_posts_number = 5
 
+# [module]
+    # [[module.mounts]]
+      # source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+      # target = "assets/js/bootstrap.bundle.min.js"
+
+
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/artefields"

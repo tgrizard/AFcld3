@@ -46,7 +46,7 @@ Le medium de Cindy Sherman n’est pas strictement la photographie, elle est plu
 
 Les jeux d’apparences et la précarité de l’identité par identification aux modèles de représentation sont le sujet, le motif du travail de la photographe conceptuelle, le paysage sémiotique à partir duquel elle brode des jeux de rôles critiques, sarcastiques et propres à des glissements purement subjectifs et incontrôlés.
 
-La démarche de Cindy Sherman est, malgré la qualification de conceptuelle, intuitive. Certes, elle travaille par séries : les stéréotypes machistes du cinéma hollywoodien, les pleines pages de magazines de charme, la peur de vieillir et le jeunisme, les clowns tragiques du quotidien, etc. Il y a bien une apparence de systématisme, le même modèle, souvent unique, des cadrages assez similaires et en pied, une distance de prise de vue constante, un niveau de détail élevé, etc. Mais les agencements auxquels elle procède ne sont pas préétablis, de son propre aveu, elle ne sait jamais ce à quoi va aboutir la représentation théâtrale en cours. Cette machine désirante spéculaire qui fonctionne comme une sorte de digestion conceptuelle en images fait penser au travail de [David Altmejd](https://www.artefields.net/david-altmejd-entropie/) qui tente de nous faire rentrer dans le « dividu » qu’est un artiste, où l’intime et les représentations collectives se mêlent inextricablement. Les petits théâtres de Cindy Sherman font penser à cela, un processus dérivatif en cours, guidé par un concept à digérer, que l’appareil photographique arrête à des moments spécifiques.
+La démarche de Cindy Sherman est, malgré la qualification de conceptuelle, intuitive. Certes, elle travaille par séries : les stéréotypes machistes du cinéma hollywoodien, les pleines pages de magazines de charme, la peur de vieillir et le jeunisme, les clowns tragiques du quotidien, etc. Il y a bien une apparence de systématisme, le même modèle, souvent unique, des cadrages assez similaires et en pied, une distance de prise de vue constante, un niveau de détail élevé, etc. Mais les agencements auxquels elle procède ne sont pas préétablis, de son propre aveu, elle ne sait jamais ce à quoi va aboutir la représentation théâtrale en cours. Cette machine désirante spéculaire qui fonctionne comme une sorte de digestion conceptuelle en images fait penser au travail de [David Altmejd](/posts/altmejd) qui tente de nous faire rentrer dans le « dividu » qu’est un artiste, où l’intime et les représentations collectives se mêlent inextricablement. Les petits théâtres de Cindy Sherman font penser à cela, un processus dérivatif en cours, guidé par un concept à digérer, que l’appareil photographique arrête à des moments spécifiques.
 
 ![](/posts/images/sherman/cindy-sherman_photography_picture-generation-14.jpg)© Cindy Sherman
 
@@ -60,13 +60,13 @@ Elle déconstruit selon un axe général, mais pas de manière méthodique et ca
 
 #### The Picture Generation
 
-A peu près à la même époque que les débuts de Cindy Sherman, [Duane Hanson](https://www.artefields.net/duane-hanson-hyperrealisme/) dans ses mises en scène hyperréalistes déracine des situations sociales où transparaît avec constance le même épuisement, le vide, l’abattement. En 1978, avec Destroyed Room, [Jeff Wall](/posts/jeff-wall/), beaucoup plus distancié que Cindy Sherman, crée des tableaux photographiques dépeignant le désenchantement des « temps modernes ». Il le fait grâce à un procédé conceptuel exhibant l’écart entre la source d’inspiration (des tableaux classiques très populaires) et le « document » fictif, totalement reconstruit, d’une scène contemporaine. Il faut rappeler qu’en 2009 eut lieu une exposition retentissante au MET laquelle, sous le titre The Picture Generation 1974-1984 réunissait les artistes de l’appropriation et la déterritorialisation des images inspirées en partie par les structuralistes français, ainsi que Gilles Deleuze. On pouvait voir des artistes féministes déconstructivistes telle que Barbara Kruger, mais aussi [Robert Longo](https://www.artefields.net/robert-longo-ombre-et-lumiere/), Richard Prince, Jack Goldstein, etc. Cindy Sherman n’est donc pas isolée dans sa démarche, elle se distingue néanmoins par la part subjective et par son implication personnelle en tant que modèle unique de ses clichés.
+A peu près à la même époque que les débuts de Cindy Sherman, [Duane Hanson](/posts/hanson/) dans ses mises en scène hyperréalistes déracine des situations sociales où transparaît avec constance le même épuisement, le vide, l’abattement. En 1978, avec Destroyed Room, [Jeff Wall](/posts/jeff-wall/), beaucoup plus distancié que Cindy Sherman, crée des tableaux photographiques dépeignant le désenchantement des « temps modernes ». Il le fait grâce à un procédé conceptuel exhibant l’écart entre la source d’inspiration (des tableaux classiques très populaires) et le « document » fictif, totalement reconstruit, d’une scène contemporaine. Il faut rappeler qu’en 2009 eut lieu une exposition retentissante au MET laquelle, sous le titre The Picture Generation 1974-1984 réunissait les artistes de l’appropriation et la déterritorialisation des images inspirées en partie par les structuralistes français, ainsi que Gilles Deleuze. On pouvait voir des artistes féministes déconstructivistes telle que Barbara Kruger, mais aussi [Robert Longo](/posts/longo/), Richard Prince, Jack Goldstein, etc. Cindy Sherman n’est donc pas isolée dans sa démarche, elle se distingue néanmoins par la part subjective et par son implication personnelle en tant que modèle unique de ses clichés.
 
 ![](/posts/images/sherman/cindy-sherman_photography_picture-generation-54.jpg)© Cindy Sherman
 
 #### Le bris des icônes
 
-Les masques que portent Sherman sont inefficaces et brisés, l’angoisse débonde. On a souvent refusé à l’artiste américaine la possibilité de l’empathie, de la subjectivité débordant le cadre de la critique. Pourtant le gout pour le grotesque carnavalesque, le morbide et la déréliction est patent. Ce qui est, bien entendu, dérangeant dans le cadre d’une lecture étroitement politique et sociologique de l’œuvre de Cindy Sherman. Il faut aussi rappeler que dans les années 1980 d’autres artistes tels que [Andres Serrano](https://www.artefields.net/andres-serrano-un-moraliste-polemique/) avec Piss Christ (1987) ou Jeff Koons avec Made In Heaven (1989) montraient un profond intérêt pour la chair, l’organique et le morbide.
+Les masques que portent Sherman sont inefficaces et brisés, l’angoisse débonde. On a souvent refusé à l’artiste américaine la possibilité de l’empathie, de la subjectivité débordant le cadre de la critique. Pourtant le gout pour le grotesque carnavalesque, le morbide et la déréliction est patent. Ce qui est, bien entendu, dérangeant dans le cadre d’une lecture étroitement politique et sociologique de l’œuvre de Cindy Sherman. Il faut aussi rappeler que dans les années 1980 d’autres artistes tels que [Andres Serrano](/posts/serrano/) avec Piss Christ (1987) ou Jeff Koons avec Made In Heaven (1989) montraient un profond intérêt pour la chair, l’organique et le morbide.
 
 Il y a dans les jeux de poupées cruels de l’américaine une part d’incontrôlé qui excède le propos et fait preuve d’une récurrence têtue. Les failles qu’exhibent la photographe résident tout aussi bien dans la fracturation du modèle de représentation que dans la contamination gratuite et subjective.
 
@@ -136,32 +136,6 @@ Cette part du travail de Cindy Sherman est irréductible, constante et donne pro
 	* Clowns, 2003-2004, thème des clowns appliqué à des individus significatifs du point de vue social.
 	* Society Portraits; 2008, le jeunisse tel qu’il atteint les femmes mures.
 	* Les derniers travaux de Cindy Sherman portent sur les anciennes stars vieillissantes du cinéma.
-
-⠀
-#### Similarités :
-
-* Richard Prince
-* Jeff Wall et la Staged Photography
-* Taryn Simon
-* [Thomas Demand](https://www.artefields.net/thomas-demand-photography-and-models/)
-* Andres Serrano
-* [Elina Brotherus](https://www.artefields.net/elina-brotherus-photography/)
-* Barbara Kruger
-* Robert Longo
-* [Francesca Woodman](/posts/woodman/)
-* La photographie objective allemande
-
-⠀
-#### Les prédécesseurs :
-
-* Claude Cahun
-* [Ana Mendieta](/posts/ana-mendieta-je-suis-une-sculpture-artefields/)
-* [Fluxus](/tags/fluxus)
-* Pierre Molinier
-* Joseph Kosuth
-* Art conceptuel
-* Rembrandt
-* Caravage
 
 ---
 

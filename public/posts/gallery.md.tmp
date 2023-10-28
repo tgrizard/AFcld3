@@ -6,7 +6,8 @@ hidden: true
 featured_image: ''
 omit_header_text: false
 description: "Si vous souhaitez en savoir plus et prendre contact !"
-type: post
+type: gallery
+menu: main
 resources:
   - name: "slide1"
     src: "/posts/slider/slide1.jpg"
@@ -24,10 +25,12 @@ test carousel :
 -->
 
 
-{{<carousel>}}
+<!---{{<carousel>}}
 
 
 <!---{{<image-gallery>}}
+
+<!---{{gallery}}
 
 
 
