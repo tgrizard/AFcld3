@@ -7,6 +7,8 @@ description: "Apolonia Sokol est une jeune peintre qui forge tout son oeuvre sur
 tags: ["Peinture"]
 categories: ["Arts Visuels"]
 featured_image: "/posts/images/banner/sokol.jpg"
+_build:
+  list: false
 ---
 
 **Apolonia Sokol** est une peintre à fois cultivée et « naïve » aussi bien dans l’aspect formel que le rapport autobiographique à son travail.
