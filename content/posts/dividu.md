@@ -1,7 +1,7 @@
 ---
 title: "Les corps abstraits. Art contemporain et dividu"
 date: 2023-10-23T22:03:27+02:00
-draft: false
+draft: true
 authors: ["Thierry Grizard"]
 description: "Les corps abstraits. Art contemporain et dividu. Gormley et le corps abstrait. Giacometti et la fuite de l'individualité. Shiota et la mémoire plurale."
 tags: ["Iconographie", "Antony Gormley", "Chiharu Shiota"]

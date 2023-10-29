@@ -1,7 +1,7 @@
 ---
 title: "Giacometti, l'aporie du portrait"
 date: 2023-10-23T22:03:27+02:00
-draft: false
+draft: true
 authors: ["Thierry Grizard"]
 description: "Giacometti: “L'idée de faire une peinture ou une sculpture de la chose telle que je la vois ne m'effleure plus.” "
 tags: ["Sculpture", "Dividu", "Conceptuel"]
@@ -30,6 +30,13 @@ C’est une tautologie butant sur l’aporie de la figuration et le désir compu
 Il y a chez Giacometti beaucoup de Beckett.
 
 *« (…) il faut continuer, je ne peux pas continuer, il faut continuer, je vais donc continuer, il faut dire des mots, tant qu’il y en a, il faut les dire, jusqu’à ce qu’ils me trouvent, jusqu’à ce qu’ils me disent, étrange peine, étrange faute, il faut continuer, c’est peut-être déjà fait, ils m’ont peut-être déjà dit, ils m’ont peut-être porté jusqu’au seuil de mon histoire, devant la porte qui s’ouvre sur mon histoire, ça m’étonnerait, si elle s’ouvre, ça va être moi, ça va être le silence, là où je suis, je ne sais pas, je ne le saurai jamais, dans le silence on ne sait pas, il faut continuer, je ne peux pas continuer, je vais continuer. »* – Samuel Beckett, L’innommable, Les éditions de Minuit, 1953
+
+---
+
+### Voir :
+- [Chiharu Shiota](/posts/shiota-evidence/)
+
+- [Antony Gormley](/posts/gormley-corps-abstraits/)
 
 ---
 
