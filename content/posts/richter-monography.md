@@ -47,7 +47,7 @@ Mais Gerhard Richter dérogea à diverses reprises de la ligne de conduite qu’
 
 ---
 
-## Gerhard Richter, sélection d’articles parus sur Artefields :
+## Gerhard Richter, sélection d’articles :
 
 - ### Gerhard Richter, série vénitienne : 
 [![Gerhard Richter, série vénitienne](/posts/images/banner/richter-venice.jpg )](/gerhard-richter-venise/)
