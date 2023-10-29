@@ -5,8 +5,7 @@ draft: true
 hidden: true
 authors: ["Thierry Grizard"]
 description: "Albert Renger-Patzsch est un photographe allemand considéré comme un des chefs de file de la Nouvelle Objectivité qui libérât la photographie de la peinture"
-tags: [ "Featured", "Conceptuel", "Photographie Objective", "Iconographie"]
-categories: ["Photographie"]
+tags: [ "Photographie Objective" ]categories: ["Photographie"]
 featured_image: "/posts/images/banner/patzsch.jpg"
 ---
 ## Albert Renger-Patzsch, formes et structure

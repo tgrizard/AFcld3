@@ -2,9 +2,10 @@
 title: "Thomas Demand, de l'architecture des images"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /thomas-demand-photography-and-models/
 authors: ["Thierry Grizard"]
 description: "Thomas Demand est une sorte architecte plasticien qui réalise des maquettes à partir d’images d’archives pour les réduire à leur seule géométrie abstraite."
-tags: [ "Featured", "Conceptuel", "Photographie Objective", "Iconographie"]
+tags: [ "Featured", "Conceptuel", "Photographie Objective", "Iconographie", "Palimpseste"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/demand.jpg"
 featured: true
@@ -26,7 +27,7 @@ L’«aesthetic of anti-aesthetics »  d’Ed Ruscha est une des expressions pl
 
 **L’anti subjectivisme**
 
-A partir de 1987, Demand poursuit à l’Académie des beaux-arts de Munich des études d’architecture d’intérieure, puis prolonge de 1990 à 1992 son cursus dans la section sculpture à l’Académie des beaux-arts de Düsseldorf sous l’influence tutélaire de Joseph Beuys et Bernd et Hilla Becher. C’est dans cette académie que se formèrent [Gerhard Richter](/tags/gerhard-richter/) (de 1961 à 1964), [Thomas Ruff](/posts/ruff/) (de 1977 à 1985), [Thomas Struth](/posts/struth/) (de 1973 à 1980), Thomas Schütte (de 1973 à 1976) et [Andreas Gursky](/posts/gursky/) (de 1980 à 1987). Les deux courants qui caractérisent les Beaux-Arts de Düsseldorf à l’époque sont « l’art social » de Beuys et l’héritage de la Nouvelle Objectivité initiée entre autres par [Albert Renger-Patzsch](/posts/patzsch-private) et August Sander, mouvement artistique que les Becher perpétuèrent dans leur travail d’archivistes du patrimoine industriel du 19° siècle et début 20°. Le trait esthétique dominant chez les Becher est la neutralité ainsi que la frontalité et le désir d’échapper à toute forme de subjectivité. Une caractéristique qui marqua durablement la photographie allemande mais aussi l’œuvre de Richter qui est, au même titre que le travail de Ruff par exemple, une réflexion sur la représentation et le médium en lui-même sous l’influence plus ou moins marquée de l’art conceptuel et du mouvement Fluxus pour ce qui concerne le rapport à l’Histoire et la « matière sociale » à sculpter.
+A partir de 1987, Demand poursuit à l’Académie des beaux-arts de Munich des études d’architecture d’intérieure, puis prolonge de 1990 à 1992 son cursus dans la section sculpture à l’Académie des beaux-arts de Düsseldorf sous l’influence tutélaire de Joseph Beuys et Bernd et Hilla Becher. C’est dans cette académie que se formèrent [Gerhard Richter](/tags/gerhard-richter/) (de 1961 à 1964), [Thomas Ruff](/thomas-ruff/) (de 1977 à 1985), [Thomas Struth](/posts/struth/) (de 1973 à 1980), Thomas Schütte (de 1973 à 1976) et [Andreas Gursky](/posts/gursky/) (de 1980 à 1987). Les deux courants qui caractérisent les Beaux-Arts de Düsseldorf à l’époque sont « l’art social » de Beuys et l’héritage de la Nouvelle Objectivité initiée entre autres par [Albert Renger-Patzsch](/posts/patzsch-private) et August Sander, mouvement artistique que les Becher perpétuèrent dans leur travail d’archivistes du patrimoine industriel du 19° siècle et début 20°. Le trait esthétique dominant chez les Becher est la neutralité ainsi que la frontalité et le désir d’échapper à toute forme de subjectivité. Une caractéristique qui marqua durablement la photographie allemande mais aussi l’œuvre de Richter qui est, au même titre que le travail de Ruff par exemple, une réflexion sur la représentation et le médium en lui-même sous l’influence plus ou moins marquée de l’art conceptuel et du mouvement Fluxus pour ce qui concerne le rapport à l’Histoire et la « matière sociale » à sculpter.
 
 On voit bien qu’elles sont les influences qui orientent le travail de Thomas Demand, une réflexion sur la représentation notamment dans son rapport aux faits de société et les représentations collectives, de même que l’évacuation de toute forme de pathos, voire même d’humanité.
 
