@@ -1,0 +1,26 @@
+
+<ul>
+{{ if isset .Params "featured_post" }}
+  {{ with .Site.GetPage .Params.featured_post }}{{ .Title }}{{ end }}
+{{ end }}
+</ul>
+
+<section>
+  <ul>
+    {{ range $key, $taxonomy := .Site.Taxonomies.featured }}
+      <li>{{ $key }}</li>
+      <ul>
+        {{ range $taxonomy.Pages }}
+          <li hugo-nav="{{ .RelPermalink }}"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </ul>
+  <ul>
+{{ if isset .Params "featured_post" }}
+  {{ with .Site.GetPage .Params.featured_post }}{{ .Title }}{{ end }}
+{{ end }}
+</ul>
+{{ partial "featured-post.html" . }}
+
+</section>

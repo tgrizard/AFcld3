@@ -4,9 +4,10 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 authors: ["Thierry Grizard"]
 description: "Thomas Demand est une sorte architecte plasticien qui réalise des maquettes à partir d’images d’archives pour les réduire à leur seule géométrie abstraite."
-tags: ["Conceptuel", "Photographie Objective", "Iconographie"]
+tags: [ "Featured", "Conceptuel", "Photographie Objective", "Iconographie"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/demand.jpg"
+featured: true
 ---
 
 ## Les maquettes du réel

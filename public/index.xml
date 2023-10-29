@@ -5,8 +5,16 @@
     <link>https://artstream.net/</link>
     <description>Recent content in ArtStream, arts as a moodboard on ARTSTREAM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    <lastBuildDate>Mon, 23 Oct 2023 22:03:27 +0200</lastBuildDate><atom:link href="https://artstream.net/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://artstream.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://artstream.net/featured/</link>
+      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
+      
+      <guid>https://artstream.net/featured/</guid>
+      <description>Featured Posts {{ partial &amp;quot;featured.html&amp;quot; . }} {{ end }} </description>
+    </item>
+    
     <item>
       <title>Ana Mendieta, je suis une sculpture</title>
       <link>https://artstream.net/posts/ana-mendieta-je-suis-une-sculpture-artefields/</link>
@@ -24,6 +32,15 @@
       <guid>https://artstream.net/posts/serrano/</guid>
       <description>Andres Serrano le moraliste La carrière de Andres Serrano s’est construite, dès ses débuts en 1987, sur le scandale, spécifiquement avec la représentation d’un Crucifix immergé dans l’urine. Or quand on prend le temps de considérer la cohérence de son travail on réalise que l’artiste américain est plus polémique , au sens étymologique, que provocateur et encore moins transgressif.
 © Andres Serrano, « Piss Christ », 1987. Série « Immersions », 1987-1990.</description>
+    </item>
+    
+    <item>
+      <title>Antony Gormley sculpture contemporaine et corps abstraits</title>
+      <link>https://artstream.net/posts/gormley-corps-abstraits/</link>
+      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
+      
+      <guid>https://artstream.net/posts/gormley-corps-abstraits/</guid>
+      <description>Antony Gormley est un des acteurs majeurs du retour à la statuaire. L’artiste s’oppose à toute représentation et toute narration tout en voulant « figurer » l’Homme, ou plutôt le corps humain, sans visage ni action, sexué mais au titre de fonction non de genre.Des corps abstraits.</description>
     </item>
     
     <item>
@@ -131,6 +148,18 @@ Les photographies de Francesca Woodman sont presque toujours des mises en scène
     </item>
     
     <item>
+      <title>Giacometti, l&#39;aporie du portrait</title>
+      <link>https://artstream.net/posts/giacometti-portrait/</link>
+      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
+      
+      <guid>https://artstream.net/posts/giacometti-portrait/</guid>
+      <description>Giacometti et le portrait Giacometti qui se questionne sur le problème de l’existence même du modèle et de l’impossibilité de reproduire ce qui est vu.
+Catharsis ?
+Dada, les conséquences nihilistes Duchampiennes, ne sont pas loin, mais le peintre suisse refuse de renoncer à une pratique dont il pense pourtant qu’elle sera sans succès. Pour lui la finalité elle même de rendre le motif a perdu son sens.
+Tautologies ! D’où cette idée que ces portraits-prétexte durant lesquels il soumettait le modèle au joug de la pose sont tautologiques.</description>
+    </item>
+    
+    <item>
       <title>Gilbert Garcin, jeune photographe retraité du dérisoire</title>
       <link>https://artstream.net/posts/garcin/</link>
       <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
@@ -210,6 +239,16 @@ Tête de la « korè de Lyon », musée des Beaux-Arts de Lyon.</description>
     </item>
     
     <item>
+      <title>Les corps abstraits. Art contemporain et dividu</title>
+      <link>https://artstream.net/posts/dividu/</link>
+      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
+      
+      <guid>https://artstream.net/posts/dividu/</guid>
+      <description>Corps abstrait et « Dividu » Antony Gormley a développé dans sa statuaire l’idée de corps abstrait, le corps comme un point d’inter-action avec les multiples niveaux du monde physique. On rejoint le concept de « dividu » ébauché par Gilles Deleuze et développé par Keiichiro Hirano.
+Le « dividu » est pour faire très court l’après de l’individu tel qu’il a été lentement élaboré depuis l’humanisme de la renaissance. L’homme de l’humanisme est le sujet pensant, l’unité rationnelle, l’individu dans un espace physique qui ne se présente plus tel un cosmos englobant mais comme un objet quantifiable et contrôlable par la raison, les nombres, la mécanique.</description>
+    </item>
+    
+    <item>
       <title>Les étranges gourmandises photographiques de Brooke DiDonato</title>
       <link>https://artstream.net/posts/didonato/</link>
       <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
@@ -277,21 +316,23 @@ Sara Punt (née en 1994 aux Pays-Bas) confie dans un entretien avoir voulu dès 
     </item>
     
     <item>
+      <title>Thomas Demand, de l&#39;architecture des images</title>
+      <link>https://artstream.net/posts/demand/</link>
+      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
+      
+      <guid>https://artstream.net/posts/demand/</guid>
+      <description>Les maquettes du réel Thomas Demand (né en 1964 à Munich, Allemagne) est le plus jeune rejeton de la Photographie Objective allemande issue de l’Académie des Beaux-Arts de Düsseldorf.
+© Thomas Demand, « Clearing », 2003.
+Nonobstant cette filiation, l’artiste américain Ed Ruscha est certainement une des influences les plus notables qui ait marqué le travail de Demand, notamment par le biais des parents de son ami d’enfance Pepper Herbig, collectionneurs d’art contemporain en particulier d’art conceptuel avec des artistes tels que Bruce Nauman, Gerhard Richter, Robert Ryman et Ed Ruscha.</description>
+    </item>
+    
+    <item>
       <title>Vivian Maier entre ombres et miroirs</title>
       <link>https://artstream.net/posts/maier/</link>
       <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
       
       <guid>https://artstream.net/posts/maier/</guid>
       <description>La photographie à la dérobée “I’m a sort of spy.” _Vivian Maier. Le travail de Vivian Maier (originellement Mayer, modifié en Maier lors de la naturalisation de son père) a été découvert fortuitement par un jeune homme, John Maloof, féru de ventes aux enchères et travaillant sur un livre retraçant l’histoire de Chicago. En 2007 ce dernier acquiert, en vue d’enrichir sa documentation, pour la somme de 380 dollars, un lot de photographies par milliers de Vivian Maier.</description>
-    </item>
-    
-    <item>
-      <title>Posts Archive</title>
-      <link>https://artstream.net/posts/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://artstream.net/posts/archive/</guid>
-      <description>This page contains an archive of all posts.</description>
     </item>
     
   </channel>
