@@ -13,7 +13,9 @@ Le micro-site **Artstream.net** reprend une version allégée du site maître [a
 Artstream, c’est aussi le lieu de quelques expérimentations qui seront développées plus amplement sur **Artefields**.
 
 
-Pour toute information complémentaire et recherches d’analyses plus avancée se rendre donc sur le site principal.
+Pour toute information complémentaire et recherches d’analyses plus avancées se rendre donc sur le site principal.
+
+---
 
 Si vous souhaitez prendre contact se reporter à la [page dédiée d’Artefields](https://www.artefields.net/contact/).
 
