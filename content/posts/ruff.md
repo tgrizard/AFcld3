@@ -44,6 +44,7 @@ Thomas Ruff cherche par ses distanciations au représenté et son analyse au plu
 
 *“Most of the photos we come across today are not really authentic anymore. They have the authenticity of a manipulated and prearranged reality. You have to know the conditions of a particular photograph in order to understand it properly.”* _Thomas Ruff.
 
+
 ---
 
 ![](/posts/images/ruff/thomas-ruff-david-zwirners-photography-conceptual-art-porn-2.jpg)
