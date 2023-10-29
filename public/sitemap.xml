@@ -7,8 +7,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/posts/patzsch-private/</loc>
+    <lastmod>2023-10-29T18:50:56+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/posts/ana-mendieta-je-suis-une-sculpture-artefields/</loc>
-    <lastmod>2023-10-27T16:48:34+02:00</lastmod>
+    <lastmod>2023-10-29T18:20:20+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/gursky/</loc>
+    <lastmod>2023-10-29T18:39:52+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -33,22 +43,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/arts-visuels/</loc>
-    <lastmod>2023-10-29T12:53:51+01:00</lastmod>
+    <lastmod>2023-10-29T18:23:28+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-10-29T12:53:51+01:00</lastmod>
+    <lastmod>2023-10-29T18:50:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/body-art/</loc>
-    <lastmod>2023-10-29T12:53:51+01:00</lastmod>
+    <lastmod>2023-10-29T18:20:20+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-10-29T12:53:51+01:00</lastmod>
+    <lastmod>2023-10-29T18:50:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -68,7 +78,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/conceptuel/</loc>
-    <lastmod>2023-10-29T12:53:29+01:00</lastmod>
+    <lastmod>2023-10-29T18:50:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -78,7 +88,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/corpor%C3%A9it%C3%A9/</loc>
-    <lastmod>2023-10-29T12:53:51+01:00</lastmod>
+    <lastmod>2023-10-29T18:20:20+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -93,7 +103,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/destin-singulier/</loc>
-    <lastmod>2023-10-27T16:48:34+02:00</lastmod>
+    <lastmod>2023-10-29T18:20:20+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -118,7 +128,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/featured/</loc>
-    <lastmod>2023-10-29T01:31:31+02:00</lastmod>
+    <lastmod>2023-10-29T18:39:52+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -128,7 +138,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/fluxus/</loc>
-    <lastmod>2023-10-27T16:48:34+02:00</lastmod>
+    <lastmod>2023-10-29T18:20:20+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -142,8 +152,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/tags/gerhard-richter/</loc>
+    <lastmod>2023-10-29T18:23:28+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/posts/richter-venice/</loc>
-    <lastmod>2023-10-26T15:17:10+02:00</lastmod>
+    <lastmod>2023-10-29T18:23:28+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -168,7 +183,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/iconographie/</loc>
-    <lastmod>2023-10-29T01:31:31+02:00</lastmod>
+    <lastmod>2023-10-29T18:50:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -223,17 +238,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/peinture/</loc>
-    <lastmod>2023-10-28T19:45:52+02:00</lastmod>
+    <lastmod>2023-10-29T18:23:28+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/performance/</loc>
-    <lastmod>2023-10-29T12:53:51+01:00</lastmod>
+    <lastmod>2023-10-29T18:20:20+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/photographie/</loc>
-    <lastmod>2023-10-29T01:31:31+02:00</lastmod>
+    <lastmod>2023-10-29T18:50:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -243,7 +258,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/photographie-objective/</loc>
-    <lastmod>2023-10-29T01:31:31+02:00</lastmod>
+    <lastmod>2023-10-29T18:50:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -253,7 +268,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-10-29T12:53:51+01:00</lastmod>
+    <lastmod>2023-10-29T18:50:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -288,7 +303,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/sensorialit%C3%A9/</loc>
-    <lastmod>2023-10-28T20:18:24+02:00</lastmod>
+    <lastmod>2023-10-29T18:20:20+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -308,7 +323,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-10-29T12:53:51+01:00</lastmod>
+    <lastmod>2023-10-29T18:50:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -328,12 +343,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2023-10-29T12:53:51+01:00</lastmod>
+    <lastmod>2023-10-29T18:50:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/demand/</loc>
-    <lastmod>2023-10-29T01:31:31+02:00</lastmod>
+    <lastmod>2023-10-29T18:39:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/ruff/</loc>
+    <lastmod>2023-10-29T18:30:30+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/struth/</loc>
+    <lastmod>2023-10-29T18:34:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

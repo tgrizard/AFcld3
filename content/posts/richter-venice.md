@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 authors: ["Thierry Grizard"]
 description: "Gerhard Richter dans la série consacrée à Venise donne une sorte d'image concentrée de sa carrière où l'essentiel est la surface picturale. "
-tags: ["Peinture", "Conceptuel"]
+tags: ["Peinture", "Conceptuel", "Gerhard Richter"]
 categories: ["Arts Visuels"]
 featured_image: "/posts/images/banner/richter-venice.jpg"
 ---
