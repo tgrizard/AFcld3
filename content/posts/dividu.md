@@ -6,7 +6,7 @@ url: /les-corps-abstraits-art-contemporain-et-dividu/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/les-corps-abstraits-art-contemporain-et-dividu/"]
 description: "Les corps abstraits. Art contemporain et dividu. Gormley et le corps abstrait. Giacometti et la fuite de l'individualité. Shiota et la mémoire plurale."
-tags: ["Iconographie", "Antony Gormley", "Chiharu Shiota"]
+tags: ["Iconographie", "Antony Gormley", "Chiharu Shiota", "Dividu"]
 categories: ["Themes"]
 featured_image: "/posts/images/banner/gormley-dividu.jpg"
 ---
@@ -18,8 +18,4 @@ Le « dividu » est pour faire très court l’après de l’individu tel qu’i
 
 A l’opposé le « dividu » est plural et rhyzomatique. Un certain nombre artiste tente directement ou indirectement, consciemment ou pas complètement de répondre à cette nouvelle vision du sujet éclaté.
 
-Antony Gormley est un des meilleurs représentants de cette tendance.
-
----
-
-![](/posts/images/dividu/0738_ferment_2007_001.jpg)© Antony Gormley
+[Antony Gormley](/tags/antony-gormley/) est un des meilleurs représentants de cette tendance.

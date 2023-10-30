@@ -2,12 +2,13 @@
 title: "Antony Gormley sculpture contemporaine et corps abstraits"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /antony-gormley-second-body-les-corps-abstraits/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/antony-gormley-second-body-les-corps-abstraits/"]
 description: "Antony Gormley un des sculpteurs contemporains les plus importants a renouvelé la statuaire faisant du corps humain comme réseau le centre de sa démarche."
 tags: ["Sculpture", "Dividu", "Conceptuel", "Antony Gormley"]
 categories: ["Arts Visuels"]
 featured_image: "/posts/images/banner/gormley.jpg"
-summary: "Antony Gormley est un des acteurs majeurs du retour à la statuaire. L’artiste s’oppose à toute représentation et toute narration tout en voulant « figurer » l’Homme, ou plutôt le corps humain, sans visage ni action, sexué mais au titre de fonction non de genre.Des corps abstraits."
 ---
 ## **Antony Gormley et Les « corps abstraits »**
 

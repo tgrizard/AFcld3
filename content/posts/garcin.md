@@ -3,6 +3,8 @@ title: "Gilbert Garcin, jeune photographe retraité du dérisoire"
 date: 2023-10-23T22:03:27+02:00
 draft: false
 authors: ["Thierry Grizard"]
+url: /gilbert-garcin-photography-surrealism/
+source: ["https://www.artefields.net/gilbert-garcin-photography-surrealism/"]
 description: "Gilbert Garcin est un photographe singulier autant par sa carrière tardive que sa manière rudimentaire d'élaborer des aphorismes visuels surréalistes. "
 tags: ["Surréalisme"]
 categories: ["Photographie"]
@@ -90,7 +92,3 @@ Le théâtre de la dérision « Garcinien » est néanmoins constamment empreint
 * Veendam Artotheque (Pays-Bas).
 * West Collection (Philadelphie).
 * Titze Collection (Vienne/Autriche).
-
----
-
-Cet article est paru en premier sur [artefields.net](https://www.artefields.net/gilbert-garcin-photography-surrealism/)

@@ -3,6 +3,7 @@ title: "Grégoire Eloy, déambulations photographiques"
 date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /gregoire-eloy-deambulations-photographiques/
+source: ["https://www.artefields.net/gregoire-eloy-deambulations-photographiques/"]
 authors: ["Thierry Grizard"]
 description: "Grégoire Eloy est un photographe documentaire qui a franchi le pas de l'objectivité prétendue à l'intelligence sensible de ce dont il témoigne. "
 tags: ["Photographie contingente", "Sensorialité"]
@@ -104,9 +105,5 @@ Les mouvements photographiques de Grégoire Eloy sont en deçà de la prise phot
 * Alain Willaume
 * [Pour plus détail se rendre sur cette page](https://tendancefloue.net/photographes/?ref=artefields.net)
 
-***
-   
-Article paru pour la première fois sur [Artefields.net](https://www.artefields.net/gregoire-eloy-deambulations-photographiques/) le 20 juin 2021.
-   
    
    

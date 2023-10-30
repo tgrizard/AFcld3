@@ -3,6 +3,8 @@ title: "Emmet Gowin, la photographie intimiste"
 date: 2023-10-23T22:03:27+02:00
 draft: false
 authors: ["Thierry Grizard"]
+url: /emmet-gowin-photography/
+source: ["https://www.artefields.net/emmet-gowin-photography/"]
 description: "Emmet Gowin est un photographe américain qui a ouvert la voie à la photographie intimiste en tentant de fixer sa fascination pour la vie simple de Danville."
 tags: ["Réalisme", "Sensorialité", "Photographie contingente"]
 categories: ["Photographie"]
@@ -164,7 +166,3 @@ certain it’s not me. It must be the earth itself breathing.” – Emmet Gowin
 *1973 – 2009 Professeurs de photographie à Princeton University, Visual Arts Program, Princeton, NJ, Etats Unis.*
 
 Emmet Gowin est représenté par Pace/MacGill Gallery, New York, Etats Unis.
-
----
-
-Cet article est paru en premier sur [artefields.net](https://www.artefields.net/emmet-gowin-photography/)
