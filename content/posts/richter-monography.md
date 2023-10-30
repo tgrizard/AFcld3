@@ -53,8 +53,6 @@ Pourtant, dans “Lesende”, Gerhard Richter n’hésite plus à se confronter,
 => [ *Ref Atlas* ](https://www.gerhard-richter.com/fr/art/paintings/photo-paintings/landscapes-14/cyperus-5051)
 {{< /text-ml50 >}}
 
-
-
 Gerhard Richter, à partir de 1962, veut se soustraire au sens, au sujet et donc à toute forme de narration. Il prétend également vouloir se déprendre de la subjectivité en recourant à une supposée objectivité de la photographie. L’objectivité de la photographie sans qualité n’est probablement pas à comprendre comme une neutralité du signifiant, notamment quand il s’agit de la Presse. En détachant ces clichés banals, sinon dénués d’appartenances culturelles, sociologiques, Gerhard Richter pense pouvoir bannir toute dimension esthétique et se concentrer sur le plan pictural du tableau. C’est une sorte de figuration qui se veut abstraite, purement concentrée sur le support et sa surface. Il ne se contente donc pas de reproduire, il déréalise, il étiole, au sens figuré, comme au sens propre, ce qui, paradoxalement, résulte de la soumission du pictural au photographique.
 C’est évidemment dans cette tension dialectique que réside la puissance de l’art de Gerhard Richter. 
 
@@ -80,7 +78,8 @@ Mais Gerhard Richter dérogea à diverses reprises de la ligne de conduite qu’
 
 {{< figure 
 src="/posts/images/banner/richter-venice.jpg" 
-title="Gerhard Richter série vénitienne" link="/gerhard-richter-venise/"  >}}
+title="Gerhard Richter série vénitienne" 
+link="/gerhard-richter-venise/"  >}}
 
 {{< figure 
 src="/posts/images/banner/richter-photo.jpg" 
@@ -90,7 +89,7 @@ link="/gerhard-richter-et-la-photographie/"  >}}
 {{< figure 
 src="/posts/images/banner/richter-flou.jpg" 
 title="Gerhard Richter, les flous de l'hyperréalisme" 
-link="/Posts/images/banner/richter-flou/"  >}}
+link="/gerhard-richter-hyperrealisme-flou/"  >}}
 
 {{< figure 
 src="/posts/images/banner/richter-iceberg-2.jpg" 
