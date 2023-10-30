@@ -2,7 +2,9 @@
 title: "Duane Hanson et l'hyperréalisme"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /duane-hanson-hyperrealisme/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/duane-hanson-hyperrealisme/"]
 description: "Duane Hanson a révolutionné la sculpture moderne en la détachant de toute recherche formelle ou expressive au profit de mises en scènes hyperréalistes."
 tags: ["Sculpture", "Hyperréalisme"]
 categories: ["Arts Visuels"]
@@ -111,7 +113,3 @@ A partir de 1970 Duane Hanson s’engagera dans une production moins polémique 
 Il meurt d’un cancer le 6 janvier 1996
 
 ![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-25.jpg)© Duane Hanson.
-
----
-
-Source : [Artefields.net](https://www.artefields.net/duane-hanson-hyperrealisme/)

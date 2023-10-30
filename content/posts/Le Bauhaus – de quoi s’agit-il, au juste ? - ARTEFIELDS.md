@@ -2,7 +2,9 @@
 title: "Le Bauhaus – de quoi s’agit-il, au juste ?"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /art-history-modern-art-bauhaus/
 authors: ["Anna Migdal"]
+source: ["https://www.artefields.net/art-history-modern-art-bauhaus/"]
 description: "Cent ans après l’ouverture du Bauhaus cette école d'art reste toujours bien présente dans le monde entier notamment dans le design et l'architecture. "
 tags: ["Iconographie", "Histoire de l'art"]
 categories: ["Themes"]
@@ -121,7 +123,3 @@ Fonctionnalité, innovation et optimisation, ces termes liés également à l’
 * Barry Bergdoll, Leah Dickerman, *Bauhaus 1919-1933: Workshops for Modernity*, New York: Museum of Modern Art, 2009.
 * Nicholas Fox Weber, *La Bande du Bauhaus*, Paris : Fayard, 2015.
 * Fiona MacCarthy, *Gropius: The Man who Built the Bauhaus*, Cambridge, MA: Harvard University Press, 2019.
-
----
-
-Cet article est paru en premier sur [artefields.net](https://www.artefields.net/art-history-modern-art-bauhaus/)

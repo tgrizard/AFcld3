@@ -4,6 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /ron-mueck-et-le-caravage-lincredulite-de-saint-thomas/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/ron-mueck-et-le-caravage-lincredulite-de-saint-thomas/"]
 description: "Ron Mueck et le Caravage. L'incrédulité de Saint Thomas, dans son œuvre Youth Ron Mueck se confronte aux grandes références de l'histoire de l'art."
 tags: ["Sculpture", "Hyperréalisme", "Palimpseste", "Ron Mueck"]
 categories: ["Arts Visuels"]
@@ -56,7 +57,3 @@ Or, on a envie de dire la même chose des œuvres de Mueck car malgré la vérac
 Son hyperréalisme n’est pas un miroir, mais comme chez Le Caravage, un instantané saisi depuis un point de vue particulier et qui, à l’inverse de la photographie de rue, est le fruit d’un long travail de réflexion et de préparation (esquisses, modèle en argile, etc). Il semblerait donc bien que le souci de Mueck soit aussi, à l’instar du Caravage, de rendre compte du sentiment du sacré de la vie – de son miracle tout au moins – qu’il incarne dans la représentation d’un individu souvent accablé par sa condition sociale. Ron Mueck est un humaniste désenchanté.
 
 Pour autant, il ne faut tout de même pas perdre de vue une dimension ironique de ces rapprochements avec les grandes œuvres que Ron Mueck semble affectionner.
-
----
-
-Source : [artefields.net](https://www.artefields.net/ron-mueck-et-le-caravage-lincredulite-de-saint-thomas/)

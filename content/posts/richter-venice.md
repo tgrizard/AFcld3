@@ -107,7 +107,3 @@ Gerhard Richter veut probablement montrer que la peinture est fondamentalement u
 ---
 
 ![](/posts/images/richter/inapiantingbrown1972gerhard-richter.jpg)© Gerhard Richter, Inpainting (Brown), 1972.
-
----
-
-Article paru en premier sur [artefields.net](https://www.artefields.net/gerhard-richter-venise/)

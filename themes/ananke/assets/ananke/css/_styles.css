@@ -23,4 +23,11 @@
   font-weight: 400;
 } 
 
+.image-center {
+  img {
+  width: 95%;
+  margin: auto;
+  display: block;
+  }
+}
 

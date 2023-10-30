@@ -2,7 +2,9 @@
 title: "Francesca Woodman ou de l'ingénuité ?"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /francesca-woodman/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/francesca-woodman/"]
 description: "L’œuvre photographique de Francesca Woodman est fulgurante et imaginative, principale caractéristique: la sincérité."
 tags: ["Conceptuel", "Fluxus", "Miroirs", "Destin singulier"]
 categories: ["Photographie"]
@@ -61,7 +63,3 @@ Une exposition à la Fondation Cartier sera consacrée à Francesca Woodman à p
 ---
 
 © George and Betty Woodman.
-
----
-
-Source [artefields.net](https://www.artefields.net/francesca-woodman/).

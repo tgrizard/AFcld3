@@ -1,7 +1,9 @@
 ---
 title: 'Sara Punt photographier et sculpter les corps'
 date: 2023-10-23T22:03:27+02:00
+url: /sara-punt-photographier-et-sculpter-les-corps/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/sara-punt-photographier-et-sculpter-les-corps/"]
 description: "Sara Punt est une jeune photographe néerlandaise qui appréhende la photographie comme une chorégraphie qui sculpte et stylise les corps. "
 featured_image: "/posts/images/banner/punt.jpg"
 draft: false
@@ -24,6 +26,4 @@ L’approche de Sara Punt rappelle évidemment les nus de Bill Brandt qui lui-m�
 Sara Punt se distingue néanmoins par une plus grande abstraction, une sensualité très atténuée, aucune référence explicite à des sculpteurs ou peintres classiques ou modernes. Sara Punt par désir probable de ne retenir que les lignes et formes, surexpose ou teinte les peaux, polit les épidermes. Il n’y a donc pas l’érotisme puissant de Bill Brandt ou les chairs généreuses, presque chtoniennes et identifiables d’Irving Penn.
 
 Inversement, Sara Punt, dans sa proximité non érotisée des corps, présente des affinités certaines avec une peintre au talent immense, Jenny Saville, qui tente à toute force de sortir des canons classiques et contemporains, des diktats de la mode, de l’injonction de « bonne » santé, de la bien-pensance des corps et des individus qui s'efforcent de trouver un lien harmonieux. Un corps qui ne soit pas une « persona », un masque, une parure, mais un lien solide et plein.
-
-La suite de cet article est à lire sur [artefields.net](https://www.artefields.net/sara-punt-photographier-et-sculpter-les-corps/)
 

@@ -2,7 +2,9 @@
 title: "Jeff Wall la photographie mise en scène"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /jeff-wall-la-photographie-mise-en-scene/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/jeff-wall-la-photographie-mise-en-scene/"]
 description: "Jeff Wall est un photographe qui par des mises en scènes cinématographiques documente son époque à travers des narrations savantes et mystérieuses."
 tags: ["Staged Photography", "conceptuel", "Théâtralité", "Palimpseste"]
 categories: ["Photographie"]
@@ -125,7 +127,3 @@ Il y a, au final, dans tout le travail de Jeff Wall une intention de critique so
 Prix au marteau : 501 160 €.Caisson lumineux, 214 cm x 273,5 cm x 25 cm 2002 , 2/2.
 
 Sotheby’s NY, « Contemporary Art Afternoon Auction », 19/05/2017.
-
----
-
-Paru en premier sur [artefields.net](https://www.artefields.net/jeff-wall-la-photographie-mise-en-scene/)

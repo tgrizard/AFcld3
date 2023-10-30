@@ -59,7 +59,3 @@ Albert Renger-Patzsch, formes et structure Albert Renger-Patzsch (1897-1966) est
 #### [Thomas Ruff L’image Photographique N’est-Elle Qu’un Simulacre ?](https://www.artefields.net/thomas-ruff/)
 
 Thomas Ruff ou de l’impossibilité d’enregistrer la « réalité réelle » Thomas Ruff (né en 1958), a été l’élève de ...
-
----
-
-Source : [artefields.net](https://www.artefields.net/dossier-la-photographie-objective/)

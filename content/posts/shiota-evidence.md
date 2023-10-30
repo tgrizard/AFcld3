@@ -2,7 +2,9 @@
 title: "Chiharu Shiota simplicité et évidence"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /chiharu-shiota-simplicite-et-evidence/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/chiharu-shiota-simplicite-et-evidence/"]
 description: "Chiharu Shiota est une plasticienne japonaise mondialement connue pour ses installations épurées son œuvre s'avère cependant plus complexe que cette image."
 tags: ["Body Art", "Performance", "Temporalité", "Corporéité", "Chiharu Shiota"]
 categories: ["Arts Visuels"]
@@ -133,8 +135,3 @@ D’ailleurs elle travaille sans maquette, ni dessin préparatoire, avec une gra
 ---
 
 ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota.002.jpg) 
- 
-
- ---
-
-Cet article a été publié en premier sur [artefields.net](https://www.artefields.net/chiharu-shiota-simplicite-et-evidence/)

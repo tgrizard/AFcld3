@@ -2,7 +2,9 @@
 title: "Les femmes, les muses et la photographie"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /femmes-photographie-muses-artistes-femmes/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/femmes-photographie-muses-artistes-femmes"]
 description: "Les femmes sont omniprésentes dans l'art mais le plus souvent à titre de modèles ou de muses, la photographie a joué un rôle libérateur sur ce point. "
 tags: ["Iconographie", "Destin singulier"]
 categories: ["Themes"]
@@ -62,7 +64,3 @@ Par ailleurs, de nombreux photographes hommes ont parfois fait de leurs compagne
 Les femmes et la photographie entretiennent donc un rapport très complexe avec ce medium dont elles ont néanmoins pris possession très tôt. Probablement parce qu’il était initialement dédaigné par les artistes hommes ainsi que les institutions culturelles dominantes. Il y avait là une voie plus facile d’accès.
 
 La femme dans la photographie a été, et est encore, à la fois un objet de la réification mercantile et une muse fondatrice. Cependant, depuis les années 1960 et 1970, les femmes ont profondément modifié ce rapport en se saisissant avec enthousiasme de la capacité critique et réflexive de la photographie. En se représentant autrement, à travers le miroir de l’image photographique, les femmes ont radicalement changé l’appréhension de ce médium.
-
----
-
-Cet article est paru en premier sur [artefields.net](https://www.artefields.net/femmes-photographie-muses-artistes-femmes/?ref=artefields.net)

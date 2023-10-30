@@ -2,7 +2,9 @@
 title: "Robert Longo ombre et lumière"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /robert-longo-ombre-et-lumiere/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/robert-longo-ombre-et-lumiere/"]
 description: "Robert Longo est un dessinateur américain proche du Pop Art et de l'hyperréalisme qui se caractérise par une virtuosité inégalée."
 tags: ["Peinture", "Pop Art", "Conceptuel", "Hyperréalisme"]
 categories: ["Arts Visuels"]
@@ -217,29 +219,3 @@ Finalement au delà de l’aspect spectaculaire bizarrement hollywoodien pour un
 * Ludwig Museum – Museum of Contemporary Art – Budapest, Budapest
 * Berardo Museum, Lisboa
 * Tate Britain, Londres
-
-⠀
----
-
-### Quelques enchères à titre d’exemple:
-
-Série The Outward and Visible Signs of an Inward and Invisible Grace.
-Untitled (Earth, for Zander) (2006).
-Dessin, Fusain/papier , 182 cm x 213 cm.
-Prix au marteau: 200 000 €.
-Ketterer Kunst GmbH, 10/06/2017.
-Allemagne. Série « Men in cities ».
-Untitled (Jules) (1981).
-Dessin, Fusain, 242 cm x 121 cm.
-Prix au marteau: 216 524 € .
-Phillips , 10/03/2017.
-Royaume-Uni. Série « Monster ».
-Bird’s Head (Kanagawa) (2003).
-Dessin, Fusain/papier , 106,7 cm x 167,6 cm.
-Prix au marteau: 249 788 €.
-Sotheby’s , 29/09/2016.
-États-Unis.
-
----
-
-Source : [artefields.net](https://www.artefields.net/robert-longo-ombre-et-lumiere/)

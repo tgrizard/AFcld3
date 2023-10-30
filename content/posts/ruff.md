@@ -4,6 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /thomas-ruff/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/thomas-ruff/"]
 description: "Thomas Ruff cherche par son travail de mise hors contexte, son analyse des procédés propres à la photographie à montrer qu'il n'y a pas de réalité réelle. "
 tags: [ "Featured", "Conceptuel", "Photographie Objective", "Iconographie"]
 categories: ["Photographie"]
@@ -61,9 +62,3 @@ Thomas Ruff cherche par ses distanciations au représenté et son analyse au plu
 
 * © Thomas Ruff
 * Courtesy [Galerie David Zwirner](http://www.davidzwirner.com/?ref=artefields.net)
-
-
----
-
-
-Source [artefields.net](https://www.artefields.net/thomas-ruff/)

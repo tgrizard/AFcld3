@@ -2,7 +2,9 @@
 title: "Andres Serrano photographe et moraliste"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /andres-serrano-un-moraliste-polemique/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/andres-serrano-un-moraliste-polemique/"]
 description: "Cindy Sherman a fondé tout son travail sur le travestissement, en portant des masques parodiques elle tente de montrer ce qui se cache derrière eux."
 tags: ["Conceptuel", "Iconographie"]
 categories: ["Photographie"]
@@ -126,8 +128,3 @@ Andres Serrano est un photographe américain né en 1950 à New York. De 1967 à
 * Museo Reina Sofia, Madrid, Espagne.
 * Vancouver Art Gallery, Vancouver, Canada
 * Israel Museum, Jerusalem, Israel
-
----
- 
-
-Source : [Artefields.net](https://www.artefields.net/andres-serrano-un-moraliste-polemique/)

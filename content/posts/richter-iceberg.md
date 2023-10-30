@@ -4,6 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /gerhard-richter-iceberg/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/gerhard-richter-iceberg/"]
 description: "Eisberg, 1982 avec ce tableau complexe et ambigu l'artiste peintre contemporain allemand atteint le sommet de sa période photo réaliste."
 tags: ["Peinture", "Conceptuel", "Gerhard Richter", "Hyperréalisme"]
 categories: ["Arts Visuels"]
@@ -66,7 +67,3 @@ Dans le cas des paysages groenlandais Gerhard Richter cumule:
 L’ambiguïté et la complexité de ces œuvres à travers un motif ordinaire exercent une véritable fascination parce que tout parait suspendu et indécis. Ce qui a été sous la lumière du jour et s’offre à nous via la reproduction du réel se dilue dans un chromatisme presque Wagnérien qui se propage et se diffuse en variations constantes depuis la surface même de la toile.
 
 ![](/posts/images/richter/gerhard-richterDoppelgraupaintinghyperrealismart-gallerymarian-goodman2014abstraction-.742334.jpg)©Gerhard Richter. Doppelgrau, 2014. Courtesy Marian Goodman gallery
-
----
-
-Source : [artefields.net](https://www.artefields.net/gerhard-richter-iceberg/)

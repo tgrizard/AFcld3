@@ -2,7 +2,9 @@
 title: "Raoul Hausmann l'oeil de Dada"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /raoul-hausmann-dadasophe-et-photographe/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/raoul-hausmann-dadasophe-et-photographe/"]
 description: "Raoul Hausmann, un des pères du dadaïsme, et la Sensorialité Excentrique, ou comment ne pas séparer l'art de la vie, d'une vie éveillée par l'art. "
 tags: ["Dadaisme", "Sensorialité", "Iconographie", "Destin singulier"]
 categories: ["Photographie", "Themes"]
@@ -115,7 +117,3 @@ Quand on considère la pluralité des créations de Raoul Hausmann, écrivain, p
 ---
 
 ![](/posts/images/hausmann/raoul-hausmanndadadadaismphotographyvera-broidoexpositionjeu-de-paume.021.jpg)© Raoul Hausmann. « Tête mécanique ou l’Esprit de notre temps », vers 1920.
-
----
-
-Cet article est paru en premier sur [artefields.net](https://www.artefields.net/raoul-hausmann-dadasophe-et-photographe/)

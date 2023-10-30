@@ -2,7 +2,9 @@
 title: "Le sourire dans les arts visuels"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /sourire-visual-arts-art-history/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/sourire-visual-arts-art-history/artefields.net"]
 description: "Le sourire n'est pas si fréquemment représenté que cela dans les arts visuels sa figuration plastique a connue bien des vicissitudes "
 tags: ["Iconographie"]
 categories: ["Themes"]
@@ -144,15 +146,3 @@ Cette tendance est également très présente chez les jeunes peintres figuratif
 ---
 
 ![](/posts/images/sourire/rembrandt_picasso_la-pisseuse.jpg)Picasso | Rembrandt, « La femme qui pisse ».
-
----
-
-#### A voir également
-⠀
-* Courtesy [Le Louvre](https://www.louvre.fr/?ref=artefields.net)
-* Courtesy [musée des Beaux-Arts de Lyon](https://www.mba-lyon.fr/?ref=artefields.net)
-* Courtesy [musée du Centre Pompidou](https://www.centrepompidou.fr/?ref=artefields.net)
-
----
-
-Cet article est paru en premier sur [artefields.net](https://www.artefields.net/sourire-visual-arts-art-history/?ref=artefields.net)

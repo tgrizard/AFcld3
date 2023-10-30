@@ -2,7 +2,9 @@
 title: "Le nu et les corps photographiques"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /nu-et-corps-photographiques/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/nu-et-corps-photographiques/"]
 description: "La photographie de nu est aussi variée et hétérogène que la peinture de nu. Petit tour d'horizon en partant de quelques photographes emblématiques."
 tags: ["Iconographie", "Corporéité"]
 categories: ["Themes"]
@@ -10,13 +12,13 @@ featured_image: "/posts/images/banner/corps-photo.jpg"
 ---
 ## Comment photographier les corps ?
 
-Si on exclut la photographie de charme et érotique le nu en photographie se présente sous bien des aspects. On ne peut qu'en retenir quelques uns : héritier des arts plastiques quand il s’agit du pictorialisme; sous l’influence naturelle des grands mouvements esthétiques du 20° et 21° siècle; ou encore élément essentiel de certains courants de l'art moderne, tels que le Body Art, Fluxus, et bien entendu l’[hyperréalisme](https://www.artefields.net/sculpture-peinture-hyperrealiste/). 
+Si on exclut la photographie de charme et érotique le nu en photographie se présente sous bien des aspects. On ne peut qu'en retenir quelques uns : héritier des arts plastiques quand il s’agit du pictorialisme; sous l’influence naturelle des grands mouvements esthétiques du 20° et 21° siècle; ou encore élément essentiel de certains courants de l'art moderne, tels que le Body Art, Fluxus, et bien entendu l’[hyperréalisme](/tags/hyperréalisme). 
 
 ![](/posts/images/corps-photo/laure-albin-guillot_photography_nude.001.jpg)Laure Albin Guillot
 
 ### Fluxus, performance et jeux de mots visuels
 
-Une des constantes de la photographie de nu qui ne soit pas de charme est la construction de l’image à travers des corps qui sont tels des signes, où donc la part érotique ou tout simplement sensuelle est presque inexistante. Au sein de cette catégorie on retrouve des photographes tels que **Ren Hang**, **Elina Brotherus**, **Polly Penrose**, **Francesca Woodman, Alix Cléo Roubaud,**entre autres. Ce qui caractérise cet ensemble assez hétérogène repose sur l’idée centrale de performance associée à la représentation des corps comme des mises en acte d’idées, notions ou tout simplement jeux de mots qui deviennent des jeux de signes visuels. Dans ces cas de figures la filiation avec Fluxus et le happening ou le Body Art est évidente et rejoint par exemple les démarches d’artistes modernes ou contemporains telle que  [**Ana Mendieta**](https://www.artefields.net/ana-mendieta-body-art/), ou Marina Abramović.
+Une des constantes de la photographie de nu qui ne soit pas de charme est la construction de l’image à travers des corps qui sont tels des signes, où donc la part érotique ou tout simplement sensuelle est presque inexistante. Au sein de cette catégorie on retrouve des photographes tels que **Ren Hang**, **Elina Brotherus**, **Polly Penrose**, **Francesca Woodman, Alix Cléo Roubaud,**entre autres. Ce qui caractérise cet ensemble assez hétérogène repose sur l’idée centrale de performance associée à la représentation des corps comme des mises en acte d’idées, notions ou tout simplement jeux de mots qui deviennent des jeux de signes visuels. Dans ces cas de figures la filiation avec Fluxus et le happening ou le Body Art est évidente et rejoint par exemple les démarches d’artistes modernes ou contemporains telle que  [**Ana Mendieta**](/ana-mendieta-body-art/), ou Marina Abramović.
 
 ![](/posts/images/corps-photo/polly-penrose_photography_body-of-work-25-1.jpg)© Polly Penrose.![](/Alix-Cle-o-Roubaud--c.1979-81--Pinceau-lumineux-2.jpg)© Alix Cléo Roubaud.
 
@@ -26,11 +28,11 @@ Une autre tendance intéressante est celle des photographes qui questionnent la 
 
 ![](/posts/images/corps-photo/maisie-cousins_nude_photography.001.jpg)© Maisy Cousins.
 
-Les inspiratrices de ces jeunes photographes femmes sont, entre autres, [**Francesca Woodman**](https://www.artefields.net/francesca-woodman/), Vanessa Beecroft, Valie Export, Ana Mendieta ou Carolee Schneemann. Il y a également, bien évidemment, la figure presque tutélaire de **Cindy Sherman** qui déconstruit par le grotesque, le dérisoire ou le décalage ironique les grandes représentations collectives qui façonnent l’image de la femme, des femmes, de leur propre conscience qu’elles ont d’elles-mêmes.
+Les inspiratrices de ces jeunes photographes femmes sont, entre autres, [**Francesca Woodman**](/francesca-woodman/), Vanessa Beecroft, Valie Export, Ana Mendieta ou Carolee Schneemann. Il y a également, bien évidemment, la figure presque tutélaire de **Cindy Sherman** qui déconstruit par le grotesque, le dérisoire ou le décalage ironique les grandes représentations collectives qui façonnent l’image de la femme, des femmes, de leur propre conscience qu’elles ont d’elles-mêmes.
 
 Très proche de Cindy Sherman, **Andres Serrano** procède suivant une méthode similaire qui consiste en représentant de manière très codifiée et académique ce qu’on considère comme des déviances ou tout du moins hors de la normalité, le sadisme, l’ondinisme, la vieillesse et la sexualité, les difformités physiques et ainsi de suite. La photographie de Serrano est très liée au corps, à la chair et au sexe au sein d’un univers intellectuel empruntant à la religion. Serrano est un photographe transgressif qui fait pourtant œuvre de moraliste, y compris quand il traite de la sexualité et du charnel en général.
 
-[**Jenny Saville**](https://www.artefields.net/jenny-saville/), la grande peintre anglaise, avec le concours du photographe Glen Luchford, a produit un livre photographique, Closes Contact, permettant d’apprécier sa perception des corps, dans une mise en forme systématiquement monumentale, presque baroque et aux antipodes des canons, notamment ceux concernant les femmes, mais aussi les hommes, les transsexuels. Son travail pictural a eu un impact très profond sur de nombreux photographes.
+[**Jenny Saville**](/jenny-saville/), la grande peintre anglaise, avec le concours du photographe Glen Luchford, a produit un livre photographique, Closes Contact, permettant d’apprécier sa perception des corps, dans une mise en forme systématiquement monumentale, presque baroque et aux antipodes des canons, notamment ceux concernant les femmes, mais aussi les hommes, les transsexuels. Son travail pictural a eu un impact très profond sur de nombreux photographes.
 
 ![](/posts/images/corps-photo/105841_3-1.jpg)© Glen Luchford & Jenny Saville.
 
@@ -44,7 +46,7 @@ Très proche de Cindy Sherman, **Andres Serrano** procède suivant une méthode 
 
 Autre perception des corps, cette fois toute en suavité, **Carla van De Puttelaar** qui travaille principalement autour de sa fascination pour l’épiderme et les représentations du nu dans l’art classique notamment les peintres flamands. Elle en donne une image « moderne », plus sensuelle, libérée des dogmes religieux. Elle est toujours au plus près de la peau, à fleur de peau, de sa texture, ses aspérités, son organicité, sa fragilité. L’univers de Carla van De Puttelaar présente de nombreuses affinités avec de celui de [**Berlinde de Bruyckere**](https://www.artefields.net/berlinde-de-bruyckere-sculpture/) bien qu’il soit moins noir et tragique. 
 
-En ceci elle s’apparente à **Trine Sondergaard** qui tente également de procurer à travers une lumière nordique spécifique, notamment en s’inspirant de ** [Vilhelm Hammershøi](https://www.artefields.net/vilhelm-hammershoi-peintre-du-silence/)**, la délicatesse infinie et la fragilité des corps, des épidermes, de la brièveté de la jeunesse, du miracle ouateux de la lumière baignant un corps. Les modèles de Trine Sondergaard sont dans une certaine mesure des tanagras venus du Nord.
+En ceci elle s’apparente à **Trine Sondergaard** qui tente également de procurer à travers une lumière nordique spécifique, notamment en s’inspirant de **[Vilhelm Hammershøi](https://www.artefields.net/vilhelm-hammershoi-peintre-du-silence/)**, la délicatesse infinie et la fragilité des corps, des épidermes, de la brièveté de la jeunesse, du miracle ouateux de la lumière baignant un corps. Les modèles de Trine Sondergaard sont dans une certaine mesure des tanagras venus du Nord.
 
 ![](/posts/images/corps-photo/carla-van-de-puttelaar_photography_nude.001-2.jpg)© Carla van de Puttelaar.
 
@@ -65,8 +67,3 @@ Sara Punt reprend le flambeau mais en instillant une part de performance dans so
 Pour en savoir plus suivre le lien ci-dessous vers les articles détaillés consacrés à chacun des photographes abordés brièvement dans cet article.
 
 ![](/posts/images/corps-photo/irving-penn_photography_nudes.001.jpg)© Irving Penn.![](/posts/images/corps-photo/sara-punt_photography_in-the-absence-of-eye-.-1.jpg)© Sara Punt.
-
-
----
-
-Cet article est paru en premier sur [artefields.net](https://www.artefields.net/nu-et-corps-photographiques/)

@@ -2,7 +2,9 @@
 title: "Sally Mann ou la vie dans les bois"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /sally-mann-american-photographer/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/sally-mann-american-photographer/"]
 description: "Sally Mann utilise la photographie comme un journal intime où se mêlent introspection et émotions ordinaires, parfois extatiques, souvent sensuelles."
 tags: ["Réalisme", "Sensorialité", "Photographie contingente", "Temporalité", "Uchronie"]
 categories: ["Photographie"]
@@ -168,7 +170,3 @@ What Remains, 2003.
 Still Time, 1994.
 Immediate Family, 1992.
 At Twelve, 1988.
-
----
-
-Cet article a été publié en premier sur [artefields.net](https://www.artefields.net/sally-mann-american-photographer/).

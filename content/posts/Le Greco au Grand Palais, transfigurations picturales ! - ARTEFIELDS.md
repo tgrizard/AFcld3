@@ -2,7 +2,9 @@
 title: "Le Greco au Grand Palais, transfigurations picturales !"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /le-greco-grand-palais-tranfigurations-picturales/
 authors: ["Anna Migdal"]
+source: ["https://www.artefields.net/le-greco-grand-palais-tranfigurations-picturales/"]
 description: "Le Greco, la rétrospective au musée du Grand Palais fournit une occasion unique d'admirer les transfigurations de cet artiste peintre hors normes."
 tags: ["Peinture"]
 categories: ["Arts Visuels"]
@@ -79,7 +81,3 @@ Ce vocabulaire spécifique défini par le Greco dans la distorsion des formes, l
 * Courtesy Le [Grand Palais](https://www.grandpalais.fr/fr?ref=artefields.net)
 * Photographie *in situ* : Thierry Grizard @ [tgrid.net](https://tgrid.net/?ref=artefields.net)
 * Camera : Leica Q (Typ 116).
-
----
-
-Cet article est paru en premier sur [artefields.net](https://www.artefields.net/le-greco-grand-palais-tranfigurations-picturales/)
