@@ -56,6 +56,12 @@
         {{ . }}
       {{ end }}
       </span>
+      <span>
+        - Source :
+        {{ range .Param "source" }}
+        {{ . }}
+      {{ end }}
+      </span>
        <hr>
       {{- partial "tags.html" . -}}
       <div class="mt6 instapaper_ignoref">

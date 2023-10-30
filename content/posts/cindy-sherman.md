@@ -4,6 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /cindy-sherman-picture-generation/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/cindy-sherman-picture-generation/"]
 description: "Cindy Sherman a fondé tout son travail sur le travestissement, en portant des masques parodiques elle tente de montrer ce qui se cache derrière eux."
 tags: ["Conceptuel", "Féminisme", "Théâtralité", "Palimpseste"]
 categories: ["Photographie"]
@@ -137,7 +138,3 @@ Cette part du travail de Cindy Sherman est irréductible, constante et donne pro
 	* Clowns, 2003-2004, thème des clowns appliqué à des individus significatifs du point de vue social.
 	* Society Portraits; 2008, le jeunisse tel qu’il atteint les femmes mures.
 	* Les derniers travaux de Cindy Sherman portent sur les anciennes stars vieillissantes du cinéma.
-
----
-
-Cet article est paru en premier sur [artefields.net](https://www.artefields.net/cindy-sherman-picture-generation/)

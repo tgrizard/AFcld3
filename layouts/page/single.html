@@ -9,6 +9,19 @@
       </header>
       <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
         {{ .Content }}
+        <hr>
+      <span>
+        Auteur :
+        {{ range .Param "authors" }}
+        {{ . }}
+      {{ end }}
+      </span>
+      <span>
+        - Source :
+        {{ range .Param "source" }}
+        {{ . }}
+      {{ end }}
+      </span>
       </div>
     </article>
   </div>

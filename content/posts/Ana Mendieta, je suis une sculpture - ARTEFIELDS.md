@@ -4,6 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /ana-mendieta-body-art/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/ana-mendieta-body-art/"]
 description: "Ana Mendieta était une artiste de la performance et du body art il est pourtant impossible de la cantonner dans ces frontières bien trop étroites pour elle."
 tags: ["Body Art", "Fluxus", "Performance", "Sensorialité", "Corporéité", "Destin singulier"]
 categories: ["Arts Visuels"]
@@ -136,9 +137,3 @@ Le body art est une tentative de réinvestir le corps en vue d’une dénonciati
 
 
 *© Courtesy Estate of Ana Mendieta and Galerie Lelong*
-
-
----
-
-
-Source [Artefields.net](https://www.artefields.net/ana-mendieta-body-art/)

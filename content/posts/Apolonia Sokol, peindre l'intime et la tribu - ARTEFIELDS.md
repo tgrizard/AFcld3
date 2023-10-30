@@ -4,6 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: true
 url: /apolonia-sokol-portrait-autoportrait/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/apolonia-sokol-portrait-autoportrait/"]
 description: "Apolonia Sokol est une jeune peintre qui forge tout son oeuvre sur le portrait et l'autoportrait où elle dresse la description intime de sa tribu."
 tags: ["Peinture"]
 categories: ["Arts Visuels"]
@@ -31,7 +32,3 @@ Si formellement et dans la relation à la narration le caractère « naïf » du
 ### Portraits tribaux en icônes
 
 Les portraits isolés ou de groupe d’Apolonia Sokol appartiennent bien à l’âge numérique, elle se rapproche sur ce point de peintres comme Katinka Lampe, Claire Tabouret, Jean-Baptiste Boyer  Marion Bataillard  ou les photographes tels que Carla Van De Puttelaar, Coco Capitan ou Ren Hang (voir les articles publiés sur [artefields.net](https://www.artefields.net)). Ils agissent comme des reprises d’un thème classique de la peinture que l’art moderne et les avant-gardes avaient en partie expulsés de leurs champs d’expression. Les tableaux d’Apolonia Sokol sont comme le retour postmoderniste du refoulé sous la forme de portraits tribaux, de communauté, de cercles d’amis à l’ère des réseaux sociaux. Ils sont d’autant plus iconiques que le portrait ne dépeint pas une psychologie, une présence, un charisme quelconque mais une figure particulière d’un récit plus large, qui peut aborder tout aussi bien les difficultés d’intégration, le racisme, la place de la femme dans tel ou tel milieu ou pays, la représentation du corps, le genre, etc. L’absence de distance entre la vie privée de l’artiste et le contenu narratif des toiles souligne l’appartenance à l’ère numérique où le privé se représente tout en jouant de multiples paravents, ici l’épuration des détails, le hiératisme, l’anecdote icônifiée. D’ailleurs la peintre n’hésite pas se représenter dans ses toiles ou à se mettre en scène dans des photographies où elle mime la pose hiératique de ses figures.
-
----
-
-La suite de l'article est à lire sur [artefields.net](https://www.artefields.net/apolonia-sokol-portrait-autoportrait/)

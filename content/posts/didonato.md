@@ -4,6 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /brooke-didonato-surrealism-photography/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/brooke-didonato-surrealism-photography/"]
 tags: ["Surréalisme", "Corporéité"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/didonato.jpg"
@@ -67,7 +68,3 @@ Toutes ces séries soulignent à quel point Il n’y a pas chez Brooke DiDonato 
 Les mises en scène ou reconstructions de Brooke DiDonato visent avant tout à déconstruire sans asséner un discours ou même une solution quelconque. Toutes les séries de la photographe américaine ont donc pour axe central les glissements de sens dans l’idée de souligner que les évidences ne sont telles que par consensus et inattention, par paresse intellectuelle ou sensible.
 
 ![](/posts/images/didonato/brooke-didonato_photography_surrealism.0012.jpg)© Brooke DiDonato.![](/posts/images/didonato/brooke-didonato_photography_surrealism.0013.jpg)© Brooke DiDonato.
-
----
-
-Cet article est paru en premier sur [artefields.net](https://www.artefields.net/brooke-didonato-surrealism-photography/)

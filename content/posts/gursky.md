@@ -3,6 +3,7 @@ title: "Andreas Gursky le vertige du réel"
 date: 2023-10-23T22:03:27+02:00
 draft: false
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/andreas-gursky-le-vertige-du-reel/"]
 description: "Andreas Gursky, qui est historiquement affilié à la photographie objective allemande et l’Ecole de Düsseldorf, est formellement assez proche de ce courant mais sur le fond il se rapproche davantage d’une certaine forme de romantisme en particulier s’agissant du sentiment du sublime. "
 tags: [ "Featured", "Conceptuel", "Photographie Objective", "Iconographie"]
 categories: ["Photographie"]
@@ -215,8 +216,3 @@ Andreas Gursky se situe assez paradoxalement au carrefour du romantisme par les 
 * Rhein II, 1999, 1/6, chromogenic color print face-mounted to Plexiglas, (185.4 x 363.5 cm.). Prix au marteau: 4,338,500 $. Christie’s, Post-War Contemporary Evening Sale 8 November 2011, New York.
 
 ⠀![](/posts/images/gursky/andreas-gursky-rhein-II-1.jpg)© Andreas Gursky.
-
----
-
-
-Source : [artefields.net](https://www.artefields.net/andreas-gursky-le-vertige-du-reel/)

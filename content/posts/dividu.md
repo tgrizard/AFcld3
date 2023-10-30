@@ -4,6 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: true
 url: /les-corps-abstraits-art-contemporain-et-dividu/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/les-corps-abstraits-art-contemporain-et-dividu/"]
 description: "Les corps abstraits. Art contemporain et dividu. Gormley et le corps abstrait. Giacometti et la fuite de l'individualité. Shiota et la mémoire plurale."
 tags: ["Iconographie", "Antony Gormley", "Chiharu Shiota"]
 categories: ["Themes"]
@@ -22,8 +23,3 @@ Antony Gormley est un des meilleurs représentants de cette tendance.
 ---
 
 ![](/posts/images/dividu/0738_ferment_2007_001.jpg)© Antony Gormley
-
----
-
-
-Source [Artefields.net](https://www.artefields.net/les-corps-abstraits-art-contemporain-et-dividu/)

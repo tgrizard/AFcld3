@@ -5,6 +5,7 @@ draft: false
 url: /gerhard-richter-atlas-et-monographie/
 type: page
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/gerhard-richter-atlas-et-monographie/"]
 description: "L'atlas de,Gerhard Richter, territoire iconographique de sa peinture"
 tags: ["Peinture", "Conceptuel", "Gerhard Richter", "Hyperréalisme"]
 categories: ["Themes"]
@@ -57,12 +58,3 @@ Mais Gerhard Richter dérogea à diverses reprises de la ligne de conduite qu’
 [![Gerhard Richter, les flous de l'hyperréalisme](/posts/images/banner/richter-liseuse.jpg)](/gerhard-richter-hyperrealisme-flou/)
 - ### Gerhard Richter, Eisberg, un tableau magistral du peintre allemand : 
 [![Gerhard Richter, Eisberg, un tableau magistral du peintre allemand"](/posts/images/banner/richter-iceberg-2.jpg)](/gerhard-richter-iceberg/)
-
-
----
-
-Auteur : Thierry Grizard.
-
----
-
-Source : [artefields.net](https://www.artefields.net/gerhard-richter-atlas-et-monographie/)

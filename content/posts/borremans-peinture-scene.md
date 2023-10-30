@@ -3,6 +3,7 @@ title: "Michael Borremans. La peinture serait-elle une mise en scène ?"
 date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /michael-borremans/
+source: ["https://www.artefields.net/michael-borremans/"]
 authors: ["Thierry Grizard"]
 description: "Michael Borremans: « Une bonne œuvre d’art n’est ni une réponse ni une question. Une bonne œuvre est un nœud.» Cette phrase résume assez bien son œuvre."
 tags: ["Peinture", "Surréalisme", "Conceptuel", "Théâtralité"]
@@ -72,8 +73,3 @@ D’ailleurs Michael Borremans a réalisé de nombreux films où il reproduit se
 Le travail de Michael Borremans est une boucle sans fin. Une peinture exécutée dans une manière jouant ironiquement de « l’académisme », et donc, en principe, tributaire de l’idée d’imitation, de véracité du motif. Mais elle ne livre que des énigmes questionnant le statut de la représentation. Finalement ce qui est donné à voir c’est cette boucle, sa mise en scène itérative.
 
 ![](/posts/images/borremans/michael-borremans-peinture-portrait-belgium-realisme-velazquez.827.jpg)
-
----
-
-
-Cet article est paru en premier sur [artefields.net](https://www.artefields.net/michael-borremans/)

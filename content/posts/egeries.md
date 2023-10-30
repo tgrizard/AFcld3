@@ -4,6 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /egeria-marthe-bonnard-dina-vierny-vera-broido/
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/egeria-marthe-bonnard-dina-vierny-vera-broido/?ref=artefields.net"]
 description: "Les égéries ont toujours occupé une place essentielle dans la vie des artistes. Marthe Bonnard, Dina Vierny et Vera Broïdo sont à cet égard emblématiques."
 tags: ["Iconographie", "Sensorialité", "Destin singulier"]
 categories: ["Themes"]
@@ -41,8 +42,3 @@ Elle mena après ces années de bohème et de liberté une vie d’écrivaine, t
 Nik Cohn confie qu’à la fin de sa vie, dans sa quatre-vingt-seizième année, elle demanda à son fils de lui apporter des tirages d’elle, nue, que Raoul Hausmann avait signés.
 
 ![](/posts/images/egeries/vera-broido_raoul-hausmann_sylt_ibiza.jpg.018.jpg) 
- 
- ---
- 
-
-Cet article est paru en premier sur [artefields.net](https://www.artefields.net/egeria-marthe-bonnard-dina-vierny-vera-broido/?ref=artefields.net)
