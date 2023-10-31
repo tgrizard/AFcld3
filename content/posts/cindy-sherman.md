@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /cindy-sherman-picture-generation/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/cindy-sherman-picture-generation/"]
+source:
 description: "Cindy Sherman a fondé tout son travail sur le travestissement, en portant des masques parodiques elle tente de montrer ce qui se cache derrière eux."
 tags: ["Conceptuel", "Féminisme", "Théâtralité", "Palimpseste"]
 categories: ["Photographie"]

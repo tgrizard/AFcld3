@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /art-history-modern-art-bauhaus/
 authors: ["Anna Migdal"]
-source: ["https://www.artefields.net/art-history-modern-art-bauhaus/"]
+source:
 description: "Cent ans après l’ouverture du Bauhaus cette école d'art reste toujours bien présente dans le monde entier notamment dans le design et l'architecture. "
 tags: ["Iconographie", "Histoire de l'art"]
 categories: ["Themes"]

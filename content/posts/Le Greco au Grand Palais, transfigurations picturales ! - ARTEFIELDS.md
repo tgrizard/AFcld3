@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /le-greco-grand-palais-tranfigurations-picturales/
 authors: ["Anna Migdal"]
-source: ["https://www.artefields.net/le-greco-grand-palais-tranfigurations-picturales/"]
+source:
 description: "Le Greco, la rétrospective au musée du Grand Palais fournit une occasion unique d'admirer les transfigurations de cet artiste peintre hors normes."
 tags: ["Peinture"]
 categories: ["Arts Visuels"]

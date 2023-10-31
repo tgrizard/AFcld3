@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /thomas-demand-photography-and-models/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/thomas-demand-photography-and-models/"]
+source:
 description: "Thomas Demand est une sorte architecte plasticien qui réalise des maquettes à partir d’images d’archives pour les réduire à leur seule géométrie abstraite."
 tags: [ "Featured", "Conceptuel", "Photographie Objective", "Iconographie", "Palimpseste"]
 categories: ["Photographie"]

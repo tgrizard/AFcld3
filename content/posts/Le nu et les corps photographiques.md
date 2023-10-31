@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /nu-et-corps-photographiques/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/nu-et-corps-photographiques/"]
+source:
 description: "La photographie de nu est aussi variée et hétérogène que la peinture de nu. Petit tour d'horizon en partant de quelques photographes emblématiques."
 tags: ["Iconographie", "Corporéité"]
 categories: ["Themes"]

@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /lee-price-junk-food/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/lee-price-junk-food/"]
+source:
 description: "Junk Food et description hyper réelle de la compulsion voici le thème de la série d'autoportraits réalisés par Lee Price depuis bientôt 7 années."
 tags: ["Peinture", "Hyperréalisme"]
 categories: ["Arts Visuels"]

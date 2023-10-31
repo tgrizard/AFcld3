@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /david-altmejd-entropie/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/david-altmejd-entropie/"]
+source:
 description: "David Altmejd, dans cette œuvre, Untitled 2 (Bronze Bodybuilders), on retrouve toujours la même obsession pour la narration et les boucles temporelles."
 tags: ["Sculpture", "Dividu"]
 categories: ["Arts Visuels"]
