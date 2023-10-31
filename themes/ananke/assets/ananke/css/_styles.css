@@ -27,11 +27,41 @@
               }
 } 
 
+.nested-links-button a{
+  overflow-wrap: break-word;
+  text-decoration: none;
+  color: #db9b27;
+  font-style: normal;
+  font-weight: 400;
+}
+
 .image-center {
   img {
   width: 95%;
   margin: auto;
   display: block;
   }
+}
+
+.button-black {
+    align-items: center;
+    background-color: black;
+    border-radius: 3px;
+    cursor: pointer;
+    display: inline-flex;
+    font-size: 15px;
+    font-weight: 800;
+    height: 36px;
+    justify-content: center;
+    letter-spacing: .5px;
+    outline: none;
+    padding: 0 15px;
+    text-transform: uppercase;
+    color: white !important;
+    text-decoration: none !important;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 50px;
+    width: 100%;
 }
 

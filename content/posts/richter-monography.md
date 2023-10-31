@@ -72,9 +72,7 @@ Mais Gerhard Richter dérogea à diverses reprises de la ligne de conduite qu’
 
 ---
 
-{{< text-h2 >}}
-"Gerhard Richter, sélection d’articles"
-{{< /text-h2 >}}
+{{< black-button >}} ## Gerhard Richter, sélection d’articles {{< /black-button >}}
 
 {{< figure 
 src="/posts/images/banner/richter-venice.jpg" 
