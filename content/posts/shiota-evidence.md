@@ -6,7 +6,7 @@ url: /chiharu-shiota-simplicite-et-evidence/
 authors: ["Thierry Grizard"]
 source:
 description: "Chiharu Shiota est une plasticienne japonaise mondialement connue pour ses installations épurées son œuvre s'avère cependant plus complexe que cette image."
-tags: ["Body Art", "Performance", "Temporalité", "Corporéité", "Chiharu Shiota"]
+tags: ["Body Art", "Performance", "Japon", "Temporalité", "Corporéité", "Chiharu Shiota"]
 categories: ["Arts Visuels"]
 featured_image: "/posts/images/banner/shiota.jpg"
 ---
@@ -85,7 +85,7 @@ Il y a un autre aspect du travail de la plasticienne japonaise qui pourrait pass
 
 #### La part obscure
 
-Par ailleurs les premiers travaux de Shiota _dont certaines performances_ étaient assez violentes et mortifères. Elle utilisait alors le sang, la terre, la boue, l’eau ruisselante, le feu et s’exposait nue à des confrontations intenses avec la matière. Ces expérimentations de jeunesse portent l’empreinte évidente du mouvement Gutai particulièrement fondateur de l’art contemporain mais aussi d’artistes comme **[Ana Mendieta](https://www.artefields.net/ana-mendieta-body-art/), [Boltanski](https://www.artefields.net/christian-boltanski-les-catacombes-du-coeur/)** ou **[Yayoi Kusama](https://www.artefields.net/yayoi-kusama/)** pour ses premiers « happening ».
+Par ailleurs les premiers travaux de Shiota _dont certaines performances_ étaient assez violentes et mortifères. Elle utilisait alors le sang, la terre, la boue, l’eau ruisselante, le feu et s’exposait nue à des confrontations intenses avec la matière. Ces expérimentations de jeunesse portent l’empreinte évidente du mouvement Gutai particulièrement fondateur de l’art contemporain mais aussi d’artistes comme [Ana Mendieta](/ana-mendieta-body-art/), Boltanski ou Yayoi Kusama pour ses premiers « happening ».
 
 ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-7.jpg)© Chiharu Shiota.
 
