@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /gerhard-richter-iceberg/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/gerhard-richter-iceberg/"]
+source: 
 description: "Eisberg, 1982 avec ce tableau complexe et ambigu l'artiste peintre contemporain allemand atteint le sommet de sa période photo réaliste."
 tags: ["Peinture", "Conceptuel", "Gerhard Richter", "Hyperréalisme"]
 categories: ["Arts Visuels"]

@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /brooke-didonato-surrealism-photography/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/brooke-didonato-surrealism-photography/"]
+source: 
 tags: ["Surréalisme", "Corporéité"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/didonato.jpg"

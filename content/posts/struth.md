@@ -4,8 +4,8 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /thomas-struth-photographie-objective/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/thomas-struth-photographie-objective/"]
-description: "TThomas Struth est un des représentants majeurs de la Photographie Objective allemande il se caractérise par une photographie suscitant d'étranges décalages. "
+source: 
+description: "Thomas Struth est un des représentants majeurs de la Photographie Objective allemande il se caractérise par une photographie suscitant d'étranges décalages. "
 tags: [ "Featured", "Conceptuel", "Photographie Objective", "Iconographie"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/struth.jpg"
@@ -17,13 +17,13 @@ featured: true
 
 ### Thomas Struth et l’Ecole de Düsseldorf
 
-Le travail de Thomas Struth est très marqué par sa formation initiale. De [Gerhard Richter](https://www.artefields.net/../gerhard-richter-atlas-et-monographie/) il retient, dans la droite ligne du minimalisme et de l’art conceptuel, la volonté de se déprendre de toute subjectivité, en tentant de maintenir une approche analytique du sujet compris comme un objet formel du médium utilisé. Le référent est d’une certaine manière détaché du réel et absorbé et « digéré » par le « milieu » du moyen de représentation.
+Le travail de Thomas Struth est très marqué par sa formation initiale. De [Gerhard Richter](/../gerhard-richter-atlas-et-monographie/) il retient, dans la droite ligne du minimalisme et de l’art conceptuel, la volonté de se déprendre de toute subjectivité, en tentant de maintenir une approche analytique du sujet compris comme un objet formel du médium utilisé. Le référent est d’une certaine manière détaché du réel et absorbé et « digéré » par le « milieu » du moyen de représentation.
 
 ![](/posts/images/struth/thomas-struthnasaphotographyallemagnephotographie-objectivevignette.002.jpg)© Thomas Struth.
 
 Quant à sa filiation avec Bernd et Hilla Becher elle est évidente. Les Becher ont entrepris un travail documentaire strict du patrimoine industriel de la fin du 19° et 20° siècles. Ils procédaient suivant une méthodologie rigoureuse se caractérisant par la frontalité, une lumière étale, un niveau de détail très poussé, l’absence de toute figure humaine et le travail en série.
 
-Thomas Struth respecte ces deux voies particulièrement fécondes dans l’art contemporain, tout spécialement concernant la photographie dite objective à laquelle sont apparentés : [Thomas Ruff](https://www.artefields.net/thomas-ruff/), Candida Höfer, [Andreas Gursky](https://www.artefields.net/../andreas-gursky-le-vertige-du-reel/), Thomas Demand, etc. En outre, cette démarche est à rapprocher de la [Nouvelle Objectivité](https://www.artefields.net/photographie-objective/) qui donna en Allemagne ses lettres de noblesse à la photographie auparavant ravalée au rang de pâle copie de la peinture ou de piètre moyen de documentation anecdotique.
+Thomas Struth respecte ces deux voies particulièrement fécondes dans l’art contemporain, tout spécialement concernant la photographie dite objective à laquelle sont apparentés : [Thomas Ruff](/thomas-ruff/), Candida Höfer, [Andreas Gursky](/andreas-gursky-le-vertige-du-reel/), Thomas Demand, etc. En outre, cette démarche est à rapprocher de la [Nouvelle Objectivité](/photographie-objective/) qui donna en Allemagne ses lettres de noblesse à la photographie auparavant ravalée au rang de pâle copie de la peinture ou de piètre moyen de documentation anecdotique.
 
 ![](/posts/images/struth/thomas-struthnasaphotographyallemagnephotographie-objective.018.jpg)© Thomas Struth.
 

@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /jeff-wall-la-photographie-mise-en-scene/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/jeff-wall-la-photographie-mise-en-scene/"]
+source:
 description: "Jeff Wall est un photographe qui par des mises en scènes cinématographiques documente son époque à travers des narrations savantes et mystérieuses."
 tags: ["Staged Photography", "conceptuel", "Théâtralité", "Palimpseste"]
 categories: ["Photographie"]
@@ -80,7 +80,7 @@ Jeff Wall dans de nombreux cas ne s’est donc pas contenté de transposer des �
 
 ![](/posts/images/jeff-wall/thomas-demand.jpg)© Thomas Demand, « Control Room », 2011. Reproduction en carton d’une photographie prise à Fukushima No. 1 d’une salle de contrôle.
 
-Mais pas seulement, un peu comme Thomas Demand qui fabrique en carton monochrome des maquettes à grandes échelles de photographies d’événements politiques et historiques pour mieux s’en distancier, et tenir ainsi un discours critique sur le médium photographique et son sujet, ici l’histoire, Jeff Wall comme le plasticien allemand ne se contente pas de mimer il déconstruit en reconstruisant. D’où probablement l’effet d'étrangeté produite par ces « *staged photographies* ». Il désigne lui-même cet effet de viduité par le terme de « ghost » ou « spectral », effet qu’il produit par le réalisme des détails mais dans un ensemble volontairement factice en terme de jeux d’acteurs. Cindy Sherman procède exactement d’une manière identique en reproduisant cinématographiquement les stéréotypes de la société de consommation. D’autres photographes se sont engagés dans cette voie, Philip-Lorca diCorcia, [Gregory Crewdson](https://www.artefields.net/gregory-crewdson-cathedral-of-the-pines/) par exemple.
+Mais pas seulement, un peu comme Thomas Demand qui fabrique en carton monochrome des maquettes à grandes échelles de photographies d’événements politiques et historiques pour mieux s’en distancier, et tenir ainsi un discours critique sur le médium photographique et son sujet, ici l’histoire, Jeff Wall comme le plasticien allemand ne se contente pas de mimer il déconstruit en reconstruisant. D’où probablement l’effet d'étrangeté produite par ces « *staged photographies* ». Il désigne lui-même cet effet de viduité par le terme de « ghost » ou « spectral », effet qu’il produit par le réalisme des détails mais dans un ensemble volontairement factice en terme de jeux d’acteurs. Cindy Sherman procède exactement d’une manière identique en reproduisant cinématographiquement les stéréotypes de la société de consommation. D’autres photographes se sont engagés dans cette voie, Philip-Lorca diCorcia, [Gregory Crewdson](/gregory-crewdson-cathedral-of-the-pines-private/) par exemple.
 
 ![](/posts/images/jeff-wall/jeff-wall-photography-staged-photography-cinematographic-photography-canada-photographe-canadien.026-13.jpg)© Jeff Wall, « Milk », 1984.
 

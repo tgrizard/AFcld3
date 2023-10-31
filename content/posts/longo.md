@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /robert-longo-ombre-et-lumiere/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/robert-longo-ombre-et-lumiere/"]
+source: 
 description: "Robert Longo est un dessinateur américain proche du Pop Art et de l'hyperréalisme qui se caractérise par une virtuosité inégalée."
 tags: ["Peinture", "Pop Art", "Conceptuel", "Hyperréalisme"]
 categories: ["Arts Visuels"]

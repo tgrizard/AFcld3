@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /ron-mueck-et-le-caravage-lincredulite-de-saint-thomas/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/ron-mueck-et-le-caravage-lincredulite-de-saint-thomas/"]
+source: 
 description: "Ron Mueck et le Caravage. L'incrédulité de Saint Thomas, dans son œuvre Youth Ron Mueck se confronte aux grandes références de l'histoire de l'art."
 tags: ["Sculpture", "Hyperréalisme", "Palimpseste", "Ron Mueck"]
 categories: ["Arts Visuels"]

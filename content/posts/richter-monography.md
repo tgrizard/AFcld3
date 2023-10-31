@@ -5,7 +5,7 @@ draft: false
 url: /gerhard-richter-atlas-et-monographie/
 type: page
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/gerhard-richter-atlas-et-monographie/"]
+source: 
 description: "L'atlas de,Gerhard Richter, territoire iconographique de sa peinture"
 tags: ["Peinture", "Conceptuel", "Gerhard Richter", "Hyperréalisme"]
 categories: ["Themes"]

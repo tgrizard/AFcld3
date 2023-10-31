@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /duane-hanson-hyperrealisme/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/duane-hanson-hyperrealisme/"]
+source: 
 description: "Duane Hanson a révolutionné la sculpture moderne en la détachant de toute recherche formelle ou expressive au profit de mises en scènes hyperréalistes."
 tags: ["Sculpture", "Hyperréalisme"]
 categories: ["Arts Visuels"]
@@ -24,7 +24,7 @@ D’ailleurs, Duane Hanson aurait pu opter pour des accessoires et vêtements mo
 
 ### Duane Hanson et Ron Mueck
 
-Duane Hanson et [Ron Mueck](https://www.artefields.net/ron-mueck-et-le-caravage-lincredulite-de-saint-thomas/) à plusieurs décennies d’écart font ils la même chose ?
+Duane Hanson et [Ron Mueck](/ron-mueck-et-le-caravage-lincredulite-de-saint-thomas/) à plusieurs décennies d’écart font ils la même chose ?
 
 A première vue oui, ils transposent du réel dans des lieux inhabituels.
 
@@ -44,7 +44,7 @@ Chez Mueck la solitude est complète, ses personnages affrontent les grandes que
 
 Le Pop Art qui dominait à l’époque de Hanson et dont il faisait partie se caractérise par une critique optimiste de la société de consommation de masse. Il en reprend les codes, les érige en icônes ironiques. La critique par réappropriation et détournement attaque le conformisme bourgeois et celui de la classe moyenne avec une énergie positive reposant sur l’idée que la profusion et le progrès ne cesseront jamais.
 
-Le « post-modernisme » repose quant à lui sur l’éclatement des systèmes de valeur et la conscience claire que le progrès n’est pas nécessairement un vecteur positif. Les mythes collectifs se sont effondrés, demeure la fragmentation, y compris du sujet qui se vit comme un nœud de flux contradictoires, ce que certains ont désigné comme le « [dividu](https://www.artefields.net/les-corps-abstraits-art-contemporain-et-dividu/) ». Une « personae » dépourvue de centralité, aux pulsions sociales et individuelles innombrables, or ce joyeux maelstrom conduit, quand il ne peut se satisfaire, à la déréliction. C’est de là que provient la majorité des saynètes du sculpteur australien.
+Le « post-modernisme » repose quant à lui sur l’éclatement des systèmes de valeur et la conscience claire que le progrès n’est pas nécessairement un vecteur positif. Les mythes collectifs se sont effondrés, demeure la fragmentation, y compris du sujet qui se vit comme un nœud de flux contradictoires, ce que certains ont désigné comme le « [dividu](/les-corps-abstraits-art-contemporain-et-dividu/) ». Une « personae » dépourvue de centralité, aux pulsions sociales et individuelles innombrables, or ce joyeux maelstrom conduit, quand il ne peut se satisfaire, à la déréliction. C’est de là que provient la majorité des saynètes du sculpteur australien.
 
 Duane Hanson critique, Ron Mueck constate, observe, dissèque.
 
@@ -54,7 +54,7 @@ Duane Hanson critique, Ron Mueck constate, observe, dissèque.
 
 L’hyperréalisme de Duane Hanson, qui de nos jours parait parfois imparfait, pas totalement mimétique, relève, en réalité, davantage d’une « sculpture » iconique et descriptive que de l’illusionnisme. C’est une rupture de milieu qu’opèrent ces intrusions hyperréalistes dans des lieux spécifiques des élites et de la bourgeoisie.
 
-L’hyperréalisme en peinture ne veut pas être illusionniste, dans la reproduction minutieuse du réel, il cherche un effet de décalage par l’excès de détails, de saturations des couleurs. On en revient aux signes et leurs icônes. La [peinture hyperréaliste](https://www.artefields.net/hyperrealisme/) est précisément hyper réelle, elle brille, elle est trop plane et parfaite pour être trompeuse.
+L’hyperréalisme en peinture ne veut pas être illusionniste, dans la reproduction minutieuse du réel, il cherche un effet de décalage par l’excès de détails, de saturations des couleurs. On en revient aux signes et leurs icônes. La [peinture hyperréaliste](/tags/hyperréalisme/) est précisément hyper réelle, elle brille, elle est trop plane et parfaite pour être trompeuse.
 
 ![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-17.jpg)© Duane Hanson.
 

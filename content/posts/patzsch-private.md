@@ -2,9 +2,9 @@
 title: "Albert Renger-Patzsch, Les Choses"
 date: 2023-10-7T22:03:27+02:00
 draft: false
-url: /albert-renger-patzsch-photography/
+url: /albert-renger-patzsch-photography-private/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/albert-renger-patzsch-photography/"]
+source: 
 description: "Albert Renger-Patzsch est un photographe allemand considéré comme un des chefs de file de la Nouvelle Objectivité qui libérât la photographie de la peinture"
 summary: "Cette publication est réservée aux abonnés d'artefields.net"
 tags: [ "Photographie Objective" ]
