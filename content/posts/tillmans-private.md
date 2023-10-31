@@ -1,9 +1,11 @@
 ---
 title: "Wolfgang Tillmans la photographie iconoclaste"
 date: 2023-10-23T22:03:27+02:00
+url: /wolfgang-tillmans/
 draft: false
 hidden: false
 authors: ["Thierry Grizard"]
+source: ["https://www.artefields.net/wolfgang-tillmans/"]
 description: "Wolfgang Tillmans a renouvelé la photographie plasticienne en transgressant les frontières entre les genres et en proposant des accrochages iconoclastes."
 summary: "Cette publication est réservée aux abonnés d'artefields.net"
 tags: [ "Conceptuel", "Photographie Objective", "Iconographie"]

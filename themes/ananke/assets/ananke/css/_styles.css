@@ -21,6 +21,10 @@
   color: #db9b27;
   font-style: normal;
   font-weight: 400;
+              a:hover {
+  color: #db9b27;
+  background-color: transparent;
+              }
 } 
 
 .image-center {

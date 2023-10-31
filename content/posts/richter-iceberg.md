@@ -8,7 +8,7 @@ source: ["https://www.artefields.net/gerhard-richter-iceberg/"]
 description: "Eisberg, 1982 avec ce tableau complexe et ambigu l'artiste peintre contemporain allemand atteint le sommet de sa période photo réaliste."
 tags: ["Peinture", "Conceptuel", "Gerhard Richter", "Hyperréalisme"]
 categories: ["Arts Visuels"]
-featured_image: "/posts/images/banner/richter-iceberg2.jpg"
+featured_image: "/posts/images/banner/richter-iceberg-2.jpg"
 ---
 ## Eisberg ou du photo réalisme
 

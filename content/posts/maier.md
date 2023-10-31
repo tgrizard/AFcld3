@@ -24,7 +24,7 @@ Un des problèmes centraux concernant le travail de Maier réside dans la relati
 
 ### Vivian Maier et la Street Photography
 
-Puisque l’on sait que Vivian était amatrice d’expositions, de musées, de cinémas et une lectrice compulsive de la Presse, il est inconcevable qu’elle n’ait pas eu connaissance du mouvement de la [Street Photography](https://www.artefields.net/topic/street-photography/), et qu’elle n’ait donc pas vu le travail de photographes tels que Lisette Model, Robert Frank, Harry Callahan, Helen Lewitt, Weegee ou Diane Arbus. Plusieurs des clichés que Maloof a fait publier, parmi les plus de 100 000 disponibles, attestent plus ou moins directement de ces influences possibles.
+Puisque l’on sait que Vivian était amatrice d’expositions, de musées, de cinémas et une lectrice compulsive de la Presse, il est inconcevable qu’elle n’ait pas eu connaissance du mouvement de la [Street Photography](/tags/street-photography/), et qu’elle n’ait donc pas vu le travail de photographes tels que Lisette Model, Robert Frank, Harry Callahan, Helen Lewitt, Weegee ou Diane Arbus. Plusieurs des clichés que Maloof a fait publier, parmi les plus de 100 000 disponibles, attestent plus ou moins directement de ces influences possibles.
 
 ![](/posts/images/maier/vivian-maier-photography-lisette-model.001.jpg)@ Vivian Maier.
 

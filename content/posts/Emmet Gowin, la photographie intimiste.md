@@ -93,15 +93,15 @@ D’ailleurs, cet encadrement de porte apparait dans plusieurs prises de vue, la
 
 Emmet Gowin a ouvert la voie du journal photographique dans laquelle se sont ensuite engagés de nombreux photographes.
 
-[Sally Mann, voir sur artefields.net](https://www.artefields.net/sally-mann-american-photographer/), avec « Immediate Family », a dans la suite de Gowin développé une chronique familiale aux dimensions d’une réflexion universelle, sur le miracle de la vie où la mort, la disparition, et la mémoire, prennent leur place.
+[Sally Mann](/sally-mann-american-photographer/), avec « Immediate Family », a dans la suite de Gowin développé une chronique familiale aux dimensions d’une réflexion universelle, sur le miracle de la vie où la mort, la disparition, et la mémoire, prennent leur place.
 
-[Araki, voir sur artefields.net](https://www.artefields.net/araki/), avec « A Sentimental Journey », a lui aussi dressé un portrait saisissant de sa femme Yoko aux prises avec le cancer, avant de poursuivre un carnet intime apocryphe où le sexe, la mort et la dissipation dans l’étourdissement hédoniste, se mêlent inextricablement.
+[Araki](https://www.artefields.net/araki/), avec « A Sentimental Journey », a lui aussi dressé un portrait saisissant de sa femme Yoko aux prises avec le cancer, avant de poursuivre un carnet intime apocryphe où le sexe, la mort et la dissipation dans l’étourdissement hédoniste, se mêlent inextricablement.
 
-[Elina Botherus, voir sur artefields.net](https://www.artefields.net/elina-brotherus-carpe-fucking-diem/), qui à travers son autobiographie intitulée « Fucking Carpe Diem », passe de sa souffrance à ne pouvoir enfanter à la mise en situation de son corps dans un appareil esthétique et conceptuel proche de Fluxus.
+[Elina Botherus](https://www.artefields.net/elina-brotherus-carpe-fucking-diem/), qui à travers son autobiographie intitulée « Fucking Carpe Diem », passe de sa souffrance à ne pouvoir enfanter à la mise en situation de son corps dans un appareil esthétique et conceptuel proche de Fluxus.
 
 Nan Goldin a élargi le journal intime à celui de la famille étendue des marginaux New-yorkais préfigurant ainsi « l’image sociale » des réseaux sociaux.
 
-[Wolfgang Tillmans, voir sur artefields.net](https://www.artefields.net/wolfgang-tillmans/), sur bien des points, reprend également cette démarche mais dans le cadre de l’ère numérique et d’une forme « mondialisée » du cercle intime.
+[Wolfgang Tillmans](/wolfgang-tillmans/), sur bien des points, reprend également cette démarche mais dans le cadre de l’ère numérique et d’une forme « mondialisée » du cercle intime.
 
 L’exposition photographique de l’intime est devenue omniprésente, c’est encore plus frappant avec les réseaux sociaux. Pourtant, « l’image sociale » n’est pas un carnet intime, une révélation, elle en est plutôt la négation. C’est une mise en représentation, une auto-fiction, ayant en vue la reconnaissance et l’identification à un groupe.
 

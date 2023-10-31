@@ -12,7 +12,9 @@ featured: true
 ---
 ## Le sublime désenchanté
 
-![](/posts/images/gursky/andreas-gursky-photography-Review-2015_d04f929e9046e5d0f5a5ae0c17a29977.jpg)© Andreas Gursky. « Review » 2015.
+![](/posts/images/gursky/andreas-gursky-photography-Review-2015_d04f929e9046e5d0f5a5ae0c17a29977.jpg)
+
+{{< text-center >}}© *Andreas Gursky. « Review » 2015.*{{< /text-center >}}
 
 Andreas Gursky, qui est historiquement affilié à la photographie objective allemande et l’Ecole de Düsseldorf, est formellement assez proche de ce courant mais sur le fond il se rapproche davantage d’une certaine forme de romantisme en particulier s’agissant du sentiment du sublime.
 
@@ -28,7 +30,8 @@ Le sentiment du sublime était, si on peut se permettre ce raccourci, une forme 
 
 Or ce que nous montre le plasticien allemand, dans ses images en quelque sorte monstrueuses, c’est précisément la finitude, mais dans un sens très moderne, voire sociologique. Nous ne sommes, de son point de vue d’éthologue, que d’infimes particules d’une espèce endémique, fréquemment entropique tout du moins à l’égard de son environnement et des individus composant le tout normatif.
 
-![](/posts/images/gursky/andreas-gursky-photography-Hong-Kong-Stock-Exchang_cb8811b49342dc11c109b3b621b65053-1.jpg)© Andreas Gursky. « Stock Exchange II », 1994.
+![](/posts/images/gursky/andreas-gursky-photography-Hong-Kong-Stock-Exchang_cb8811b49342dc11c109b3b621b65053-1.jpg)
+{{< text-center >}}© Andreas Gursky. « Stock Exchange II », 1994.{{< /text-center >}}
 
 Les bourses d’échanges sont, par exemple, des ruches effrayantes d’individus qui vus à la bonne distance sont tous identiques car mus par les mêmes valeurs dans des comportements holistiques qui évident aussi bien la personne que son rapport à la Nature.
 
@@ -38,41 +41,47 @@ Les barres d’immeubles, les plages ou les condominiums sont observés sous ce 
 
 Le sublime de Gursky est un sublime post-moderne, il ne retient que la dimension sans le pathos et l’élévation spirituelle, il écrase, aplatit. L’image elle-même se transforme en un motif chaotique tel un pan déchiré d’une tapisserie diabolique.
 
-![](/posts/images/gursky/andreas-gursky-photography-Cocoon-II-2008_aedcae9bf087f3ee9c9f2656a7555eb6-1.jpg)© Andreas Gursky. « Cocoon II », 2008.
+![](/posts/images/gursky/andreas-gursky-photography-Cocoon-II-2008_aedcae9bf087f3ee9c9f2656a7555eb6-1.jpg)
+{{< text-center >}}© Andreas Gursky. « Cocoon II », 2008.{{< /text-center >}}
 
 ### L’objectivité documentaire est impossible
 
 Andreas Gursky n’est cependant pas indifférent, il est même plutôt engagé politiquement, socialement et revendique une démarche documentaire. Documentaire au sens étymologique, ce n’est pas un re-portage mais une étude au moyen de l’image photographique. Une image photographique tout à fait consciente qu’elle n’est pas une reproduction mais une reconstruction au même titre que toute représentation. C’est bien entendu l’héritage de l’Ecole de Düsseldorf et de l’enseignement des Becher.
 
-La [photographie](https://www.artefields.net/photographie-et-art-contemporain/) n’est pas plus objective que tout autre mode de figuration, elle a d’ailleurs perdu son ingénuité très rapidement. Gursky pousse ce constat jusqu’au bout dans la lignée d’un [Thomas Ruff](https://www.artefields.net/thomas-ruff/), Candida Höfer ou [Jeff Wall](https://www.artefields.net/jeff-wall-la-photographie-mise-en-scene/). Sous des dehors ressortant de l’objectivité, c’est à dire un style froid, distancié et détaillé jusqu’à en être baroque, il n’hésite pas à retoucher parfois de manière très conséquente ses prises de vues pour en faire des images documentaires, ou plutôt des images qui documentent très précisément une activité humaine.
+La [photographie](/photographie-et-art-contemporain/) n’est pas plus objective que tout autre mode de figuration, elle a d’ailleurs perdu son ingénuité très rapidement. Gursky pousse ce constat jusqu’au bout dans la lignée d’un [Thomas Ruff](/thomas-ruff/), Candida Höfer ou [Jeff Wall](/jeff-wall-la-photographie-mise-en-scene/). Sous des dehors ressortant de l’objectivité, c’est à dire un style froid, distancié et détaillé jusqu’à en être baroque, il n’hésite pas à retoucher parfois de manière très conséquente ses prises de vues pour en faire des images documentaires, ou plutôt des images qui documentent très précisément une activité humaine.
 
 Concernant le concert de Madonna Gursky dit en réalité davantage qu’un reportage Stendhalien au niveau des individus, de la proximité et de la participation sur le vif. Faute d’objectivité possible il documente au travers d’une image composite. Ces photographies sont au sens strict des synthèses.
 
-![](/posts/images/gursky/andreas-gursky-photography-madonna-1-2001.001_e0e5b37950ea705e48814c98897c91a5.jpg)© Andreas Gursky. « Madonna I », 2001.
+![](/posts/images/gursky/andreas-gursky-photography-madonna-1-2001.001_e0e5b37950ea705e48814c98897c91a5.jpg)
+{{< text-center >}}© Andreas Gursky. « Madonna I », 2001.{{< /text-center >}}
 
 ---
 
 ### Das Rhein…
 
-La fameuse photographie du Rhin est révélatrice de la démarche, très construite, du photographe de Düsseldorf. Cette image est celle d’une photographie impossible. En effet, un certain nombre de détails ont été effacés (entre autres une usine qui était sur l’autre rive), d’autres accentués (le moutonnement des flots et de la pelouse). C’est, en quelque sorte, une image de la Nature, mais la géométrie parfaite de la prise de vue et la composition à la Rothko transforme cette représentation en un tableau abstrait qui évoque l’empreinte de l’homme sur son environnement tout en congédiant sa présence, y compris dans ses créations. Pourtant tout évoque l’artificiel, le Rhin lui-même fleuve de légende et porteur de toute une culture romantique devient un flux géométrique et totalement domestiqué ne suscitant aucun sentiment prémoderne de Beauté ou de transcendance. Cette image proche de [Gerhard Richter](https://artefields.net/gerhard-richter-hyperrealisme-flou/?ref=artefields.net) est brutale dans sa représentation de la puissance physique du Rhin mais aussi dans la mise en évidence de sa totale soumission à l’industrie de l’Homme. Le sublime est « physiquement » là mais évidé de sa dimension métaphysique, il ne demeure que la violence de la modernité ou postmodernité.
+La fameuse photographie du Rhin est révélatrice de la démarche, très construite, du photographe de Düsseldorf. Cette image est celle d’une photographie impossible. En effet, un certain nombre de détails ont été effacés (entre autres une usine qui était sur l’autre rive), d’autres accentués (le moutonnement des flots et de la pelouse). C’est, en quelque sorte, une image de la Nature, mais la géométrie parfaite de la prise de vue et la composition à la Rothko transforme cette représentation en un tableau abstrait qui évoque l’empreinte de l’homme sur son environnement tout en congédiant sa présence, y compris dans ses créations. Pourtant tout évoque l’artificiel, le Rhin lui-même fleuve de légende et porteur de toute une culture romantique devient un flux géométrique et totalement domestiqué ne suscitant aucun sentiment prémoderne de Beauté ou de transcendance. Cette image proche de [Gerhard Richter](/gerhard-richter-hyperrealisme-flou/) est brutale dans sa représentation de la puissance physique du Rhin mais aussi dans la mise en évidence de sa totale soumission à l’industrie de l’Homme. Le sublime est « physiquement » là mais évidé de sa dimension métaphysique, il ne demeure que la violence de la modernité ou postmodernité.
 
-![](/posts/images/gursky/andreas-gursky-photography-Rhine-II-1999_9c5fe86628247139408e34183d731d62.jpg)© Andreas Gursky. « Rhein II », 1999.
+![](/posts/images/gursky/andreas-gursky-photography-Rhine-II-1999_9c5fe86628247139408e34183d731d62.jpg)
+{{< text-center >}}© Andreas Gursky. « Rhein II », 1999.{{< /text-center >}}
 
 ### Bergwerk Ost, 2008
 
 « Bergwerk Ost » est une photographie qui procède exactement comme celle du Rhin. Andreas Gursky se rend dans une usine et prend de nombreux clichés du vestiaire. Lors de cette séance des ouvriers sortant de la douche passent nus pour s’habiller et regagner leurs domiciles après une journée probablement harassante. Mais le photographe ne s’en soucie aucunement, ce qui l’intéresse ce sont les dépouilles suspendues au plafond par des crochets, ces vêtements qui pendent mollement dans un grand désordre visuel évoquant de piteuses silhouettes humaines. C’est cette trace de l’activité industrieuse des individus qui intéressent Gursky et qu’il considère comme plus révélatrice à la fois de l’aliénation du travail ouvrier mais aussi de sa lente disparition dans un mouvement inexorable de disqualification. Là encore il ne délivre cette image sombre, chaotique et évocatrice de périodes historiques tragiques, qu’après avoir procédé à de très nombreuses retouches sur palette graphique. Les ouvriers seront effacés, les vêtements multipliés et les ombres exagérées afin d’aboutir à une image d’entropie, d’anonymat, de dissolution dans la pénombre. Le document se rapproche dès lors de l’allégorie. C’est une des autres dimensions du travail de Gursky. La plupart de ces allégories ou « métaphores » procèdent par le vide et l’absence. C’est vrai aussi des clichés d’architecture tels que le PCF ou Brasilia de Oscar Niemeyer.
 
-![](/posts/images/gursky/andreas-gursky-photography-Hamm-Bergwerk-Ost-2008_862b1c4f63c62db62a1de00b3ff38c41.jpg)© Andreas Gursky. « Bergwerk Ost », 2008.
+![](/posts/images/gursky/andreas-gursky-photography-Hamm-Bergwerk-Ost-2008_862b1c4f63c62db62a1de00b3ff38c41.jpg)
+{{< text-center >}}© Andreas Gursky. « Bergwerk Ost », 2008.{{< /text-center >}}
 
 ### Illustrer le réel
 
 Andreas Gursky se situe assez paradoxalement au carrefour du romantisme par les dimensions, la modernité pour le désenchantement et le postmodernisme pour l’usage de la photographie comme vecteur sémiologique, cependant sa démarche reste toujours ancrée dans le réel et le sociologique, mais pas celui de la reproduction qui est presque toujours détachée de son objet immédiat. De manière plus conséquente Andreas Gursky choisit de rendre compte, de documenter, par un discours visuel très élaboré et savant à la limite de l’étourdissement baroque.
 
-![](/posts/images/gursky/andreas-gursky-photography-Frankfurt-2007_e14d9a192bf0d01717467151b1cf0251.jpg)© Andreas Gursky. « Frankfurt », 2007.
+![](/posts/images/gursky/andreas-gursky-photography-Frankfurt-2007_e14d9a192bf0d01717467151b1cf0251.jpg)
+{{< text-center >}}© Andreas Gursky. « Frankfurt », 2007.{{< /text-center >}}©
 
 ---
 
-![](/posts/images/gursky/andreas-gursky-photography-Antarctic-2010__5f44ad141b4254b4fd307ec14e2feb2b.jpg)© Andreas Gursky. « Antarctic », 2010.
+![](/posts/images/gursky/andreas-gursky-photography-Antarctic-2010__5f44ad141b4254b4fd307ec14e2feb2b.jpg)
+{{< text-center >}}©© Andreas Gursky. « Antarctic », 2010.{{< /text-center >}}©
 
 ---
 
@@ -198,21 +207,3 @@ Andreas Gursky se situe assez paradoxalement au carrefour du romantisme par les 
 * Andreas Gursky, Galerie Johnen & Schöttle, Cologne, Germany
 * 1987
 * Andreas Gursky, Düsseldorf Flughafen, Düsseldorf, Germany
-
-⠀
----
-
-#### Andreas Gursky enchères
-
-* « Los Angeles » (1998-1999), Cibachrome , 158,3 cm x 316,5 cm. Prix au marteau: 1 557611 €, Phillips , 06/10/2017, Royaume-Uni.
-
-⠀![](/posts/images/gursky/andreas-gursky_los-angeles_4bcb1a19dcc3314387be08812c229d18.jpg)© Andreas Gursky.
-* Rimini (2003), C print , 297 cm x 207 cm. Prix au marteau: 546 528 €, Sotheby’s ,28/06/2017, Royaume-Uni.
-
-⠀![](/posts/images/gursky/andreas-gursky-rimini_7c2f37c2f173c8d5f0cff8eaf5d1dace.jpg)© Andreas Gursky.
-* « Grundig Nürnberg » (1993), tirage chromogénique , 174,5 cm x 210 cm. Prix au marteau: 59 081 €, Christie’s , 01/07/2015, Royaume-Uni.
-
-⠀![](/posts/images/gursky/andreas-gursky-Grundig-Nu_CC_88rnberg_6d7704d6bcb6395c807f6497a7dfb302.jpg)© Andreas Gursky.
-* Rhein II, 1999, 1/6, chromogenic color print face-mounted to Plexiglas, (185.4 x 363.5 cm.). Prix au marteau: 4,338,500 $. Christie’s, Post-War Contemporary Evening Sale 8 November 2011, New York.
-
-⠀![](/posts/images/gursky/andreas-gursky-rhein-II-1.jpg)© Andreas Gursky.

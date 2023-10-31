@@ -57,26 +57,24 @@
       {{ end }}
       </span>
       <span>
-        - Source :
+        - Source : <a href="https://artefields.net">artefields.net</a> - 
         {{ range .Param "source" }}
         {{ . }}
       {{ end }}
       </span>
        <hr>
       {{- partial "tags.html" . -}}
-      <div class="mt6 instapaper_ignoref">
+      {{/* <div class="mt6 instapaper_ignoref">
       {{ if .Site.DisqusShortname }}
         {{ template "_internal/disqus.html" . }}
       {{ end }}
       {{ if .Site.Params.commentoEnable }}
         {{- partial "commento.html" . -}}
       {{ end }}
-      </div>
+      </div> */}}
     </div>
-
-    <aside class="w-30-l mt6-l">
+    <aside class="w-100-l mt2-l">
       {{- partial "menu-contextual.html" . -}}
     </aside>
-
   </article>
 {{ end }}
