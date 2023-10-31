@@ -6,7 +6,7 @@ url: /sugimoto-le-temps-de-la-photographie/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/sugimoto-le-temps-de-la-photographie/"]
 description: "Hiroshi Sugimoto un des photographes conceptuels les plus connus ne capte pas de qu'il a devant l'objectif mais le temps qui s'écoule au-delà du présent."
-tags: [ "Conceptuel", "Temporalité", "Uchronie", "Japon" ]
+tags: [ "Conceptuel", "Temporalité", "Uchronie" ]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/sugimoto.jpg"
 featured: true
