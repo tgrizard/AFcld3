@@ -1,4 +1,2 @@
 # Redirects from what the browser requests to what we serve
 /nouvelle-vision-photographie-1920-1930/ /
-/posts/ruff/ /thomas-ruff/
-/posts/{slug} /{slug}/

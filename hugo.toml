@@ -10,7 +10,6 @@ Paginate = 9 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = false
 
-
 [menu]
 [[menu.main]]
     name = 'Photographie'
