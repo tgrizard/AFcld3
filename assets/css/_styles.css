@@ -1,5 +1,7 @@
 /* Put your custom styles : aassets/nanke/css/ */
 
+<style>
+
 #TableOfContents ul li {
   margin-bottom: 1em;
 }
@@ -15,14 +17,60 @@
 
 }
 
-/* eidted in /themes/ananke/css/_styles.css here as a reminder
-.nested-links a{
+.nested-links-button a{
   overflow-wrap: break-word;
   text-decoration: none;
   color: #db9b27;
   font-style: normal;
   font-weight: 400;
+}
 
-}$/
+.image-center {
+  img {
+    width: 95%;
+    margin: auto;
+    display: block;
+    }
+}
+
+.button-black {
+    align-items: center;
+    background-color: black;
+    border-radius: 3px;
+    cursor: pointer;
+    display: inline-flex;
+    font-size: 15px;
+    font-weight: 800;
+    height: 36px;
+    justify-content: center;
+    letter-spacing: .5px;
+    outline: none;
+    padding: 0 15px;
+    text-transform: uppercase;
+    color: white !important;
+    text-decoration: none !important;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 50px;
+    width: 100%;
+}
+
+.masonry {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Colonnes dynamiques */
+    gap: 10px; /* Marge entre les images */
+}
+
+.masonry-item {
+    break-inside: avoid; /* Empêche les images de se fragmenter sur plusieurs colonnes */
+    margin-bottom: 10px; /* Marge inférieure entre les éléments */
+}
+
+.masonry-item img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Supprime l'espace réservé sous les images */
+}
 
 
+</style>

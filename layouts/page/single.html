@@ -10,7 +10,12 @@
       </header>
       <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
         {{ .Content }}
-        <hr>
+        <span>
+        {{ range .Param "access" }}
+        {{ . }}
+      {{ end }}
+       <hr>
+      </span>
       <span>
         Auteur :
         {{ range .Param "authors" }}

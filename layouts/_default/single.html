@@ -51,6 +51,12 @@
       {{- .Content -}}
       <hr>
       <span>
+        {{ range .Param "access" }}
+        {{ . }}
+      {{ end }}
+      </span>
+      <hr>
+      <span>
         Auteur :
         {{ range .Param "authors" }}
         {{ . }}

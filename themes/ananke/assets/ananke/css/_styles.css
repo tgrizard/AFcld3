@@ -65,3 +65,21 @@
     width: 100%;
 }
 
+.masonry {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Colonnes dynamiques */
+    gap: 10px; /* Marge entre les images */
+}
+
+.masonry-item {
+    break-inside: avoid; /* Empêche les images de se fragmenter sur plusieurs colonnes */
+    margin-bottom: 10px; /* Marge inférieure entre les éléments */
+}
+
+.masonry-item img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Supprime l'espace réservé sous les images */
+}
+
+
