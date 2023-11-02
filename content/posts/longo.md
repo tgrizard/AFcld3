@@ -2,7 +2,7 @@
 title: "Robert Longo ombre et lumière"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-url: /robert-longo-ombre-et-lumiere/
+# url: /robert-longo-ombre-et-lumiere/
 authors: ["Thierry Grizard"]
 source: 
 description: "Robert Longo est un dessinateur américain proche du Pop Art et de l'hyperréalisme qui se caractérise par une virtuosité inégalée."
