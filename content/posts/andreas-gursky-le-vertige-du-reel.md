@@ -11,7 +11,7 @@ categories: ["Photographie"]
 featured_image: "/posts/images/banner/gursky.jpg"
 featured: true
 ---
-## Le sublime désenchanté !
+## Le sublime désenchanté
 
 ![](/posts/images/gursky/andreas-gursky-photography-Review-2015_d04f929e9046e5d0f5a5ae0c17a29977.jpg)
 

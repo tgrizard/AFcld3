@@ -2,7 +2,7 @@
 title: "Art et perception dans l'art contemporain"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-url: /art-et-perception-art-contemporain-private/
+#url: /art-et-perception-art-contemporain-private/
 type: page
 authors: ["Thierry Grizard"]
 source: 
