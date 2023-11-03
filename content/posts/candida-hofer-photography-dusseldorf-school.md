@@ -2,7 +2,7 @@
 title: "Candida Höfer ou l’œil du Cyclope"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-url: /candida-hofer-photography-dusseldorf-school/
+# url: /candida-hofer-photography-dusseldorf-school/
 authors: ["Thierry Grizard"]
 source: 
 description: "Candida Höfer est une des figures centrales de la Photographie Objective allemande elle s'en distingue par un classicisme paradoxal."

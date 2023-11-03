@@ -2,7 +2,7 @@
 title: "Hyperrealisme en sculpture, de George Segal à Ron Mueck"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-url: /ron-mueck-george-segal-duane-hanson-lhyperrealisme-dans-la-sculpture-contemporaine/
+# url: /ron-mueck-george-segal-duane-hanson-lhyperrealisme-dans-la-sculpture-contemporaine/
 type: page
 authors: ["Thierry Grizard"]
 source:

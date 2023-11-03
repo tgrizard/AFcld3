@@ -3,7 +3,7 @@ title: "Gilbert Garcin, jeune photographe retraité du dérisoire"
 date: 2023-10-23T22:03:27+02:00
 draft: false
 authors: ["Thierry Grizard"]
-url: /gilbert-garcin-photography-surrealism/
+# url: /gilbert-garcin-photography-surrealism/
 source:
 description: "Gilbert Garcin est un photographe singulier autant par sa carrière tardive que sa manière rudimentaire d'élaborer des aphorismes visuels surréalistes. "
 tags: ["Surréalisme"]

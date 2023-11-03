@@ -2,7 +2,7 @@
 title: "Michael Borremans. La peinture serait-elle une mise en scène ?"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-url: /michael-borremans/
+# url: /michael-borremans/
 source: 
 authors: ["Thierry Grizard"]
 description: "Michael Borremans: « Une bonne œuvre d’art n’est ni une réponse ni une question. Une bonne œuvre est un nœud.» Cette phrase résume assez bien son œuvre."

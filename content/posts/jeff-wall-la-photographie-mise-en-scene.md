@@ -2,7 +2,7 @@
 title: "Jeff Wall la photographie mise en scène"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-url: /jeff-wall-la-photographie-mise-en-scene/
+# url: /jeff-wall-la-photographie-mise-en-scene/
 authors: ["Thierry Grizard"]
 source:
 description: "Jeff Wall est un photographe qui par des mises en scènes cinématographiques documente son époque à travers des narrations savantes et mystérieuses."
