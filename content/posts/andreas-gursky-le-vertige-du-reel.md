@@ -2,7 +2,7 @@
 title: "Andreas Gursky le vertige du réel"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-url: /andreas-gursky-le-vertige-du-reel/
+# url: /andreas-gursky-le-vertige-du-reel/
 authors: ["Thierry Grizard"]
 source: 
 description: "Andreas Gursky, qui est historiquement affilié à la photographie objective allemande et l’Ecole de Düsseldorf, est formellement assez proche de ce courant mais sur le fond il se rapproche davantage d’une certaine forme de romantisme en particulier s’agissant du sentiment du sublime. "
@@ -11,7 +11,7 @@ categories: ["Photographie"]
 featured_image: "/posts/images/banner/gursky.jpg"
 featured: true
 ---
-## Le sublime désenchanté
+## Le sublime désenchanté !
 
 ![](/posts/images/gursky/andreas-gursky-photography-Review-2015_d04f929e9046e5d0f5a5ae0c17a29977.jpg)
 
