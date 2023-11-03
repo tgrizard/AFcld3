@@ -2,7 +2,7 @@
 title: "Apolonia Sokol, peindre l'intime et la tribu"
 date: 2023-10-23T22:03:27+02:00
 draft: true
-url: /apolonia-sokol-portrait-autoportrait/
+# url: /apolonia-sokol-portrait-autoportrait/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/apolonia-sokol-portrait-autoportrait/"]
 description: "Apolonia Sokol est une jeune peintre qui forge tout son oeuvre sur le portrait et l'autoportrait où elle dresse la description intime de sa tribu."

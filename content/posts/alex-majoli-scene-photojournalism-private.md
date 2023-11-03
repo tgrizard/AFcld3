@@ -2,7 +2,7 @@
 title: "Alex Majoli, un photojournaliste baroque"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-url: /alex-majoli-scene-photojournalism-private/
+# url: /alex-majoli-scene-photojournalism-private/
 authors: ["Thierry Grizard"]
 source:
 access: ["Réservé aux abonnés"]

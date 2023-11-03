@@ -2,7 +2,7 @@
 title: "Egéries de Marthe Bonnard, Vera Broïdo à Dina Vierny"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-url: /egeria-marthe-bonnard-dina-vierny-vera-broido/
+# url: /egeria-marthe-bonnard-dina-vierny-vera-broido/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/egeria-marthe-bonnard-dina-vierny-vera-broido/?ref=artefields.net"]
 description: "Les égéries ont toujours occupé une place essentielle dans la vie des artistes. Marthe Bonnard, Dina Vierny et Vera Broïdo sont à cet égard emblématiques."
