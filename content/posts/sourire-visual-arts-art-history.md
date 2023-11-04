@@ -2,7 +2,7 @@
 title: "Le sourire dans les arts visuels"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-url: /sourire-visual-arts-art-history/
+# url: /sourire-visual-arts-art-history/
 authors: ["Thierry Grizard"]
 source:
 description: "Le sourire n'est pas si fréquemment représenté que cela dans les arts visuels sa figuration plastique a connue bien des vicissitudes "
