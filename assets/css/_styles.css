@@ -25,6 +25,14 @@
   font-weight: 400;
 }
 
+.nested-links-black a{
+  overflow-wrap: break-word;
+  text-decoration: none;
+  color: black;
+  font-style: normal;
+  font-weight: 400;
+}
+
 .image-center {
   img {
     width: 95%;
