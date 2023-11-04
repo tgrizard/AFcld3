@@ -17,14 +17,16 @@ Pour toute information complémentaire et recherches d’analyses plus avancées
 
 ---
 
-Si vous souhaitez prendre contact se reporter à la [page dédiée d’Artefields](https://www.artefields.net/contact/).
+Si vous souhaitez prendre contact utilisez le formulaire :
 
+{{<form>}}
 
 Très bonne lecture !
 
+{{<br>}}
 
----
 
-{{< contact-form >}}
+
+
 
 

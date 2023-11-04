@@ -80,5 +80,9 @@
     display: block; /* Supprime l'espace réservé sous les images */
 }
 
+.form {
+    text-align: center;
+  }
+ 
 
 </style>
