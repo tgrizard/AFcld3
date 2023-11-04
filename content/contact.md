@@ -2,6 +2,7 @@
 title: "Contact"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+layout: "contact"
 featured_image: ''
 omit_header_text: true
 description: "Si vous souhaitez en savoir plus et prendre contact !"
