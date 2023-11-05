@@ -1,6 +1,7 @@
 ---
 title: "Ursula Schulz-Dornburg photographe des périphéries"
-date: 2023-10-23T22:03:27+02:00
+date: 2023-10-27
+url: /ursula-schulz-dornburg-solo-show-mep-private/
 draft: false
 authors: ["Thierry Grizard"]
 source:

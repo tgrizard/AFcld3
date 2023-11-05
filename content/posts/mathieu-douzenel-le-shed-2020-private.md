@@ -2,9 +2,10 @@
 title: "Mathieu Douzenel, portraits de bunkers"
 date: 2023-10-23T22:03:27+02:00
 draft: false
+url: /mathieu-douzenel-le-shed-2020-private/
 authors: ["Thierry Grizard"]
 source:
-# access: ["Réservé aux abonnés"]
+access: ["Réservé aux abonnés"]
 description: "Le photographe français Mathieu Douzenel expose au SHED une série photographique intitulée Monuments, des portraits de bunkers en déshérence."
 tags: ["conceptuel", "Photo documentaire"]
 categories: ["Photographie"]
