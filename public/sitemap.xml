@@ -242,16 +242,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/tags/galerie-dimages/</loc>
-    <lastmod>2023-11-01T10:21:26+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/gallery-masonry/</loc>
-    <lastmod>2023-11-01T10:21:26+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://artstream.net/tags/gerhard-richter/</loc>
     <lastmod>2023-11-04T00:55:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -312,11 +302,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/categories/images-gallery/</loc>
-    <lastmod>2023-11-01T10:21:26+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://artstream.net/tags/installation/</loc>
     <lastmod>2023-11-04T00:48:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -324,11 +309,6 @@
   </url><url>
     <loc>https://artstream.net/tags/japon/</loc>
     <lastmod>2023-11-04T00:57:43+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/jeff-wall-gallery/</loc>
-    <lastmod>2023-11-01T10:21:26+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
