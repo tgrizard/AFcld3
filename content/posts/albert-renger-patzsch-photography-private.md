@@ -2,7 +2,7 @@
 title: "Albert Renger-Patzsch, Les Choses"
 date: 2023-10-7T22:03:27+02:00
 draft: false
-url: /albert-renger-patzsch-photography-private/
+# url: /albert-renger-patzsch-photography-private/
 authors: ["Thierry Grizard"]
 access: ["Réservé aux abonnés"]
 source: 
