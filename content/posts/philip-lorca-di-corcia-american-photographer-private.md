@@ -2,7 +2,7 @@
 title: "Philip-Lorca diCorcia, un photographe disruptif"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-url: /philip-lorca-di-corcia-american-photographer-private/
+# url: /philip-lorca-di-corcia-american-photographer-private/
 authors: ["Thierry Grizard"]
 source:
 access: ["Réservé aux abonnés."]

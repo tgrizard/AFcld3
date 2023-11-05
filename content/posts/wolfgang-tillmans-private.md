@@ -5,9 +5,9 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 hidden: false
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/wolfgang-tillmans/"]
+# source: ["https://www.artefields.net/wolfgang-tillmans/"]
 description: "Wolfgang Tillmans a renouvelé la photographie plasticienne en transgressant les frontières entre les genres et en proposant des accrochages iconoclastes."
-summary: "Cette publication est réservée aux abonnés d'artefields.net"
+summary: "Wolfgang Tillmans a renouvelé la photographie plasticienne en transgressant les frontières entre les genres et en proposant des accrochages iconoclastes."
 tags: [ "Conceptuel", "Photographie Objective", "Iconographie"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/tillmans.jpg"
