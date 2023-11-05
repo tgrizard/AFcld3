@@ -68,7 +68,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-11-04T19:08:16+01:00</lastmod>
+    <lastmod>2023-11-05T01:46:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -88,7 +88,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-11-04T19:08:16+01:00</lastmod>
+    <lastmod>2023-11-05T01:46:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -108,7 +108,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/conceptuel/</loc>
-    <lastmod>2023-11-04T19:08:16+01:00</lastmod>
+    <lastmod>2023-11-05T01:35:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -183,7 +183,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/formalisme/</loc>
-    <lastmod>2023-11-04T00:48:19+01:00</lastmod>
+    <lastmod>2023-11-05T00:45:32+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -263,7 +263,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/iconographie/</loc>
-    <lastmod>2023-11-04T19:07:00+01:00</lastmod>
+    <lastmod>2023-11-05T00:39:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -274,6 +274,11 @@
   </url><url>
     <loc>https://artstream.net/tags/installation/</loc>
     <lastmod>2023-11-04T00:48:54+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/jan-groover-american-photographer-private/</loc>
+    <lastmod>2023-11-05T00:45:32+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -342,6 +347,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/posts/mathieu-douzenel-le-shed-2020-private/</loc>
+    <lastmod>2023-11-05T00:27:37+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/michael-ackerman-photography/</loc>
+    <lastmod>2023-11-05T01:46:42+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/posts/michael-borremans/</loc>
     <lastmod>2023-11-03T13:05:01+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -358,7 +373,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/palimpseste/</loc>
-    <lastmod>2023-11-04T00:40:34+01:00</lastmod>
+    <lastmod>2023-11-05T01:35:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -382,18 +397,28 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/posts/peter-hujar-photography-monograph-article-private/</loc>
+    <lastmod>2023-11-05T00:39:41+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/philip-lorca-di-corcia-american-photographer-private/</loc>
+    <lastmod>2023-11-05T00:01:34+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/tags/photo-documentaire/</loc>
-    <lastmod>2023-11-03T12:58:34+01:00</lastmod>
+    <lastmod>2023-11-05T00:27:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/photographie/</loc>
-    <lastmod>2023-11-04T19:08:16+01:00</lastmod>
+    <lastmod>2023-11-05T01:46:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/photographie-contingente/</loc>
-    <lastmod>2023-11-04T00:47:32+01:00</lastmod>
+    <lastmod>2023-11-05T01:46:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -408,7 +433,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/photographie-objective/</loc>
-    <lastmod>2023-11-04T19:07:00+01:00</lastmod>
+    <lastmod>2023-11-05T00:45:32+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -428,7 +453,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-11-04T19:08:16+01:00</lastmod>
+    <lastmod>2023-11-05T01:46:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -478,12 +503,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/sensorialit%C3%A9/</loc>
-    <lastmod>2023-11-04T00:56:23+01:00</lastmod>
+    <lastmod>2023-11-05T01:46:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/staged-photography/</loc>
-    <lastmod>2023-11-03T12:58:02+01:00</lastmod>
+    <lastmod>2023-11-05T00:01:34+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -507,8 +532,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/posts/suzanne-jongmans-biographie-galerie-private/</loc>
+    <lastmod>2023-11-05T01:35:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-11-04T19:08:16+01:00</lastmod>
+    <lastmod>2023-11-05T01:46:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -523,7 +553,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/th%C3%A9%C3%A2tralit%C3%A9/</loc>
-    <lastmod>2023-11-03T13:05:01+01:00</lastmod>
+    <lastmod>2023-11-05T01:35:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -533,7 +563,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2023-11-04T19:08:16+01:00</lastmod>
+    <lastmod>2023-11-05T01:46:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -559,6 +589,16 @@
   </url><url>
     <loc>https://artstream.net/tags/uchronie/</loc>
     <lastmod>2023-11-04T19:05:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/underground/</loc>
+    <lastmod>2023-11-05T00:39:41+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/ursula-schulz-dornburg-solo-show-mep-private/</loc>
+    <lastmod>2023-11-05T00:14:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

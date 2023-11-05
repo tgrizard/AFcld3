@@ -2,6 +2,7 @@
 title: ""
 date: {{ .Date }}
 draft: false
+access:
 layout:
 featured:
 authors: [""]
