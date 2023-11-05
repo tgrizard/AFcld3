@@ -1,7 +1,7 @@
 ---
 title: "Coco Capitan, busy living à la MEP"
 date: 2023-04-06
-# url: 
+url: /coco-capitan-mep-busy-living-private/
 # layout: ""
 draft: false
 hidden: false
