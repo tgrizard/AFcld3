@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-11-06T15:10:22+01:00</lastmod>
+    <lastmod>2023-11-06T20:01:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-11-06T15:10:22+01:00</lastmod>
+    <lastmod>2023-11-06T20:01:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -28,7 +28,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/photographie/</loc>
-    <lastmod>2023-11-06T15:10:22+01:00</lastmod>
+    <lastmod>2023-11-06T20:01:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -38,22 +38,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-11-06T15:10:22+01:00</lastmod>
+    <lastmod>2023-11-06T20:01:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-11-06T15:10:22+01:00</lastmod>
+    <lastmod>2023-11-06T20:01:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2023-11-06T15:10:22+01:00</lastmod>
+    <lastmod>2023-11-06T20:01:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/iconographie/</loc>
-    <lastmod>2023-11-06T13:55:35+01:00</lastmod>
+    <lastmod>2023-11-06T19:35:39+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -428,7 +428,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/photographie-contingente/</loc>
-    <lastmod>2023-11-05T12:15:01+01:00</lastmod>
+    <lastmod>2023-11-06T20:01:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -503,12 +503,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/sensorialit%C3%A9/</loc>
-    <lastmod>2023-11-05T12:15:01+01:00</lastmod>
+    <lastmod>2023-11-06T20:01:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/staged-photography/</loc>
-    <lastmod>2023-11-05T12:19:20+01:00</lastmod>
+    <lastmod>2023-11-06T19:58:05+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -589,6 +589,31 @@
   </url><url>
     <loc>https://artstream.net/posts/wolfgang-tillmans-private/</loc>
     <lastmod>2023-11-05T20:43:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/alex-prager-film-photography-private/</loc>
+    <lastmod>2023-11-06T19:58:05+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/emptiness/</loc>
+    <lastmod>2023-11-06T19:47:35+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/guillaume-hebert-festival-circulations-private/</loc>
+    <lastmod>2023-11-06T19:35:39+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/katrin-koenning-photography-private/</loc>
+    <lastmod>2023-11-06T19:47:35+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/todd-hido-photography-private/</loc>
+    <lastmod>2023-11-06T20:01:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
