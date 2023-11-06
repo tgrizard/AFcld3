@@ -14,7 +14,6 @@ tags: [ "Erotisme", "Corporéité"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/hang.jpg"
 ---
-# Ren Hang, des signes de l'amour - ARTEFIELDS
 ## Ren Hang, ceci n’est pas de la photographie
 
 **Ren Hang** hormis le souffle de « subversion » de la jeunesse chinoise exprime aussi et surtout la nouvelle approche de la photographie, où celle-ci en tant que telle n’a aucune valeur intrinsèque, ou le rapport même au réfèrent et donc la valeur d’archive et d’indexation ne compte plus. L’appareil photo ne sert plus à produire des instantanés photographiques, mais à créer (non pas reproduire et produire) des images. Images dans le cas de Ren Hang qui sont un subtil mélange entre une idée graphique, un jeu de mot visuel autour du corps et de l’intime et une interaction érotisée avec ses modèles qui sont ou des proches ou des connaissances avec qui il entretenait fréquemment une relation amicale.
