@@ -1,0 +1,49 @@
+---
+title: "Elina Brotherus le geste et l'idée"
+date: 2022-10-23
+url: /elina-brotherus-photography-private/
+# layout: ""
+draft: false
+hidden: false
+authors: ["Thierry Grizard"]
+access: ["Réservé aux abonnés"]
+# source: [""]
+description: "lina Brotherus est une artiste finlandaise qui utilise la photographie comme un happening visuel qui joue avec des idées et les gestes qu'elles suscitent"
+summary: "lina Brotherus est une artiste finlandaise qui utilise la photographie comme un happening visuel qui joue avec des idées et les gestes qu'elles suscitent"
+tags: [ "Fluxus", "Conceptuel", "Corporéité"]
+categories: ["Photographie"]
+featured_image: "/posts/images/banner/brotherus.jpg"
+---
+## Elina est au centre de tout, Cosa mentale
+
+**Elina Brotherus** est une plasticienne finlandaise qui pratique essentiellement la photographie et la vidéo.
+
+![](/posts/images/brotherus/elina-brotherus-photography-fluxus-finland-carpe-fucking-diem.039-29.jpg)
+
+© Elina Brotherus. Artist and her Model (2005-2011), Green Lake, 2007.
+
+La démarche de cette jeune artiste, née le 29 avril 1972 à Helsinki, se caractérise par la sérialité laquelle s’articule en général autour d’un thème assez simple, le paysage, la maison, le peintre et son modèle, l’interactivité, la maternité, les jeux de miroirs, etc.
+
+Au sein des dérivations possibles, il y a un certain nombre de constantes qui agrègent l’ensemble. La plus évidente consiste dans la quasi exclusivité du modèle, à savoir Elina Brotherus elle-même. Elle apparaît non seulement dans la majorité de ses clichés mais, trait marquant, elle les habite souvent seule, pour ainsi dire isolée, fréquemment statique et assez inexpressive. Pourtant qu’elle soit de dos, de trois quarts ou qu’elle ignore l’objectif sa présence est déterminante. Dans de nombreuses situations elle souligne par son isolement le vide qui habite la scène ou le caractère abstrait du propos.
+
+On est dans le registre de l’allégorie dans bien des cas ou dans la citation interrogeant certains modes de représentation qu’il s’agisse du paysage, du modèle et sa figuration ou d’une forme d’introspection autobiographique. Nous sommes dans un espace mental.
+
+### La « geste » d’Elina
+
+Cette mise en représentation de soi-même fait évidemment penser à Cindy Sherman mais alors que celle-ci décortique les représentations de la femme en y mêlant de l’autobiographique, Elina Brotherus se situe dans la sphère des idées, des gestes et du corps, il n’y a pas de critique sociale ou culturelle. L’autobiographie distanciée, tirée vers des concepts visuels, est permanente. Elle est de ce point de vue plus proche de [Francesca Woodman](/francesca-woodman/) que de Cindy Sherman. On retrouve la même corporéité, le même dépouillement dans la mise en scène, une préoccupation identique pour le geste réduit à son épure.
+
+D’ailleurs la photographe finlandaise cite explicitement Woodman dans certaines de ses pièces. De plus elle partage avec elle le même intérêt pour le mouvement Fluxus. Elina Brotherus a, en effet, rejoué les performances de certains de ses membres.
+
+![](/posts/images/brotherus/elina-brotherus-photography-fluxus-finland-carpe-fucking-diem.039-22.jpg)
+
+© Elina Brotherus. Model Studies, (2002-2008). Model Study 5, 2004.
+
+---
+
+![](/posts/images/brotherus/francesca-woodman-photography-fluxus-conceptual-art-surrealism.jpg)
+
+© Francesca Woodman.
+
+### La photographie est un jeu, un happening, Fluxus
+
+Les vidéos de Elina Brotherus inspirées du mouvement Fluxus soulignent un aspect important de son travail qui peut se voir comme une performance à l’instar de Woodman. L’acte, le geste ou la situation captés relève dans une certaine mesure d’une performance minimaliste dont la prise de vue ne serait qu’une trace. Cependant chez elle l’acte est comme un performatif, c’est un geste mais aussi et surtout un acte de langage sous forme imagière. Nombre de photos sont, au-delà de l’allégorie, des jeux de mots visuels, des glissements sémiotiques fréquemment teintés d’humour, des idées actives en somme...
