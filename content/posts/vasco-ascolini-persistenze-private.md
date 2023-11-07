@@ -1,0 +1,29 @@
+---
+title: "Vasco Ascolini, Persistenze"
+date: 2023-10-23
+url: /vasco-ascolini-persistenze-private/
+# layout: ""
+draft: false
+hidden: false
+authors: ["Thierry Grizard"]
+access: ["Réservé aux abonnés"]
+# source: [""]
+description: "Vasco Ascolini le photographe des clairs obscurs donne dans une exposition intitulée Persistenze une vision personnelle de ce que la photographie révèle"
+summary: "Vasco Ascolini le photographe des clairs obscurs donne dans une exposition intitulée Persistenze une vision personnelle de ce que la photographie révèle"
+tags: [ "Photographie contingente"]
+categories: ["Photographie"]
+featured_image: "/posts/images/banner/vasco.jpg"
+---
+## Obscurité et révélation
+
+**Vasco Ascolini** fait l’objet d’une exposition personnelle à la [galerie Claude Samuel](http://www.claude-samuel.com/expositions/2017/ascolini/?ref=artefields.net).
+
+Il s’agit d’une partie plus personnelle du travail du photographe italien, en tout cas plus conceptuelle. En effet, on connait de son travail davantage les prises de vue de théâtre ou de sculptures et autres œuvres d’art. Dans ces séries le photographe se démarque par des cadrages où le clair et l’obscur sont valorisés dans des plans nettement étagés.
+
+L’autre particularité de ce travail est la manière dont les axes de prise de vue font penser à des mises en perspective cinématographiques. En effet, la mise en situation des œuvres avec le lieu et la lumière du moment évoque fortement le principe de la caméra subjective. La chambre noire de Vasco Ascolini est comme l’oeil d’un visiteur flânant dans des espaces et des heures désertés du public ou qui lui sont habituellement inaccessibles.
+
+![](/posts/images/vasco/IMG_20170309_192719-Edit-3173-x-2167.0001-1024x699.jpg)© Vasco Ascolini.
+
+### Persistenze
+
+Dans cette exposition intitulée « Persistenze »  rien de tout cela. Très peu de cadrages larges permettant d’apprécier l’espace. Beaucoup d’obscurité. Et des images dont le plan de représentation est griffé, altéré et marqué en post-production.   Vasco Ascolini reprend donc certaines de ses photographies de commandes ou de nouvelles et les retravaille. En effet, par des interventions ultérieures à la prise de vue, il effectue un travail qui peut paraître paradoxal. Le paradoxe réside en ceci qu’il estompe, plonge ce qui était en pleine lumière dans l’obscurité en intervenant sur le « révélateur » photographique qu’il soit chimique ou numérique.   Par ailleurs, il griffe, altère, détériore la surface « exposée » pour mieux noyer le « sujet » de la prise de vue...

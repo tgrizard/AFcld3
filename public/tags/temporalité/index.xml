@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Temporalité on ARTSTREAM</title>
+    <title>temporalité on ARTSTREAM</title>
     <link>https://artstream.net/tags/temporalit%C3%A9/</link>
-    <description>Recent content in Temporalité on ARTSTREAM</description>
+    <description>Recent content in temporalité on ARTSTREAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 23 Oct 2023 22:03:27 +0200</lastBuildDate><atom:link href="https://artstream.net/tags/temporalit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
@@ -34,6 +34,15 @@ Chiharu Shiotatransmet dans son travail un message très simple qui pourrait par
       <guid>https://artstream.net/posts/sugimoto-le-temps-de-la-photographie/</guid>
       <description>Photographe de la déshérence Temps de pose et contingence Sugimoto use de la photographie strictement pour ce qu’elle offre techniquement et substantiellement, à savoir le rapport au temps (de pose), la captation de la lumière, et la profondeur de champ.
 L’intention qui préside à cet usage très restrictif de l’outil, qui est aussi le médium, est d’œuvrer comme un archéologue du futur (les séries: Theater et Seascape) ou un entomologiste (les séries « Diorama », la série « Portraits », les séries « Joe » et « Architecture »).</description>
+    </item>
+    
+    <item>
+      <title>Art contemporain et temporalité, de Rauschenberg à Sugimoto</title>
+      <link>https://artstream.net/art-contemporain-et-temporalite/</link>
+      <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://artstream.net/art-contemporain-et-temporalite/</guid>
+      <description>Art contemporain et temporalité, le temps qu&amp;rsquo;il soit uchronique, dystopique ou en acte a toujours été un objet central des arts visuels</description>
     </item>
     
   </channel>
