@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-11-07T13:54:03+01:00</lastmod>
+    <lastmod>2023-11-07T14:15:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-11-07T13:54:03+01:00</lastmod>
+    <lastmod>2023-11-07T14:15:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -28,7 +28,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/photographie/</loc>
-    <lastmod>2023-11-07T13:48:43+01:00</lastmod>
+    <lastmod>2023-11-07T14:15:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -38,17 +38,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-11-07T13:54:03+01:00</lastmod>
+    <lastmod>2023-11-07T14:15:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-11-07T13:54:03+01:00</lastmod>
+    <lastmod>2023-11-07T14:15:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2023-11-07T13:54:03+01:00</lastmod>
+    <lastmod>2023-11-07T14:15:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -173,7 +173,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/corpor%C3%A9it%C3%A9/</loc>
-    <lastmod>2023-11-07T13:39:13+01:00</lastmod>
+    <lastmod>2023-11-07T14:15:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -742,6 +742,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/le-nu-photographique-par-carla-van-de-puttelaar-private/</loc>
+    <lastmod>2023-11-07T14:15:54+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/ren-hang-private/</loc>
     <lastmod>2023-11-07T13:39:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -754,11 +759,6 @@
   </url><url>
     <loc>https://artstream.net/sylvie-bonnot-private/</loc>
     <lastmod>2023-11-07T13:44:08+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/posts/le-nu-photographique-par-carla-van-de-puttelaar/</loc>
-    <lastmod>2023-11-07T12:40:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
