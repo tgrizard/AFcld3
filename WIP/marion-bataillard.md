@@ -1,0 +1,75 @@
+# Marion Bataillard, le mental et le physique - ARTEFIELDS
+## Marion Bataillard et le grotesque
+
+Ce qui frappe immédiatement chez **Marion Bataillard**, hormis le corps omniprésent et la crudité du propos, ce sont les perspectives renversées aux points de fuite multiples qui désorganisent l’espace pictural, les anatomies dérangeantes parfois difformes, aux membres défiant les proportions, aux visages pourtant fréquemment détaillés, donc plutôt réalistes, mais affublés d’yeux globuleux ou d’autres particularités qui brisent l’effet illusionniste, enfin la gamme chromatique dominée par des couleurs acides, parfois contrariées.
+
+![](marion-bataillard/marion-bataillardpaintingnuditysexualityrealismnaturalismsalon-de-montrouge.004.jpg)© Marion Bataillard. « L’âge commerçant avec l’abondance dans son jardin », 140×200 cm, huile sur toile, 2017
+
+Les figures ont toutes quelque chose de disgracieux. Marion Bataillard fuit l’harmonie, le repos. Il n’y a ni de fidélité psychologique au modèle, ni d’exactitude anatomique, nous sommes toujours, plus ou moins, dans le grotesque sans verser dans la pantomime expressionniste.
+
+Tout au contraire, la texture de la toile est lisse, étirée, vitrifiée, réfléchissante et tranchante. L’artiste peintre française utilise fréquemment des châssis en bois qui sont comme des miroirs tendus aux préparations très fluides. Quant aux contours ils sont nets, sinon dessinés, néanmoins étiolés pour certains petits formats à l’exécution plus rapide, c’est plutôt l’exception. L’aspect visuel est donc en tension et semble se démentir en permanence entre vérisme des tessitures et aberrations des formes qu’il s’agisse des corps ou des décors abstraits, fonds que les figures habitent à peine posées là incongrûment. Cette peinture est inconfortable, perturbante sans être violente.
+
+Évidemment, on pense aux expressionnistes et néo-expressionnistes allemands, en particulier aux écoles de Leipzig qui ont fait perdurer [Max Beckmannn](https://www.artefields.net/max-beckmann-enfer-des-oiseaux/), Otto Dix et Oskar Kokoschka à travers des emprunts au Pop Art et l’héritage du réalisme socialiste. Mais alors que les peintres de Leipzig se situent, pour la grande majorité, dans le contexte social et historique, Marion Bataillard n’aborde que l’intime, le très intime, le corps, la sexualité, la présence physique du peintre relativement à sa toile.
+
+![](marion-bataillard/marion-bataillardpaintingnuditysexualityrealismnaturalismsalon-de-montrouge.007-2.jpg)© Marion Bataillard. « Etude pour un couple d’amoureux », 55x100cm, huile sur bois, 2015.
+
+### Combattre les effets par des effets
+
+Une figuration qui combat les pièges du naturalisme par les déformations de perspectives ou anatomiques. Un espace mental de la figure qui dément l’idéalisation et l’intellectualisme par la présence de corps ordinaires et désirants. Un réalisme psychologique renversé par le grotesque. Des modèles aux regards directs, crus, voire provocants, qui refusent la réification qu’elle soit anecdotique, naturaliste ou idéalisante. C’est une peinture en quelque sorte sur-jouée, intelligente et charnelle —surtout pas sensuelle— qui cherche à perturber la lecture, quelque fois à provoquer. C’est indubitablement une peinture en rébellion. Il y a toujours une narration concentrée, sans juxtaposition temporelle, ni arrêt du temps à fonction réaliste. C’est une peinture par métaphore mais sous forme d’oxymore qui réfute ce qui parait se dire pour laisser transparaitre une virulence sourde et viscérale. En fuyant les effets naturalistes Marion Bataillard use d’autre effets qui amènent dans la représentation picturale une tension certaine, un « discours » en déséquilibre complet.
+
+![](marion-bataillard/marion-bataillardpaintingnuditysexualityrealismnaturalismsalon-de-montrouge.003.jpg)© Marion Bataillard. « La jeune fille et la mort », 140×100 cm, huile sur bois, 2017.
+
+C’est de la peinture figurative non pas parce qu’elle est réaliste, fort peu, encore moins naturaliste, (anecdotique), mais parce qu’elle articule un discours visuel, quoique récalcitrant à se livrer immédiatement. D’autres on tracer la voie, Balthus par exemple, en outre depuis la renaissance et l’humanisme, figurer l’homme en situation n’est pas une description mais une représentation, c’est probablement vrai, par « essence », de toute reproduction picturale. Alors qu’est ce qui est représenté, peut-être une « idée picturale » ancrée dans l’intimité physique du peintre, encadrée du dialogue avec l’histoire de la peinture.
+
+### Iconographie insignifiante ?
+
+On trouve chez Marion Bataillard des éléments empruntés à Cimabue, Cranach, Dürer, et bien d’autres éléments tels que des compas, des ordinateurs, des miroirs, des fruits connotés, des figures géométriques tels que cercles ou cages « parallélépipèdiques » échappées d’un Francis Bacon. Cette peinture figurative est celle du signifiant pictural qui se joue du signifié pour le suspendre par une narration ponctuelle, c’est à dire concentrée en un point, celui de la « veduta », la fenêtre de la toile.
+
+![](marion-bataillard/marion-bataillardpaintingexpressionismbacchanales.001-2.jpg)© Marion Bataillard. « Bacchanales », huile sur toile, 195 x 520 cm, 2013. Collection privée.
+
+D’où cette multiplication des références académiques, mythologiques ou symboliques plus ou moins vidées de leur substance propre. Ce sont, tout au plus, des métaphores qui écartent l’intime qui se tapit dans la toile, l’évènement du jour, l’exaltation ou l’abattement du moment. L’iconographie de Marion Bataillard relève de l’accessoire d’atelier, elle alimente une narration plus intime qui pourtant se refuse tout en contaminant le « sens » littéral du tableau. Tous ces objets et corps en apesanteur, qui devraient glisser au sol, se répandre hors le cadre du tableau, pointent essentiellement vers la relation physique du peintre à la toile réelle, l’exercice de peindre et ce qui finit par transparaitre, selon sa propre logique, sur la surface picturale. Peindre nous dit Marion Bataillard est une chose mentale en relation avec l’histoire des arts qui passe par l’exercice de la main, du corps, et d’une machine désirante.
+
+### La bonne position du peintre et son modèle
+
+La chair est donc centrale chez Marion Bataillard, aussi bien le physique représenté, les modèles en tant que corps présents par rapport auxquels il faut, pour le peintre, se situer, que la position du peintre lui-même, de sa main qui, d’ailleurs, apparaît occasionnellement dans certaines œuvres, aussi bien que le regard et sa hauteur. Il en résulte, pour finir, la vision couchée sur la toile qui est encore un tout autre axe, plusieurs points de vue qui engendrent une multitude de problématiques d’ordres très différents, picturaux, perceptuels, subjectifs, phénoménologiques, etc.
+
+![](marion-bataillard/marion-bataillardpaintingexpressionismrealism.001.jpg)© Marion Bataillard. « La Notte », 65x100cm, huile sur toile, 2015.
+
+A l’instar d’autres peintres de sa génération tels que [David Lefebvre](https://www.artefields.net/david-lefebvre-artiste-peintre/) ou [François Malingrëy](https://www.artefields.net/francois-malingrey/), Marion Bataillard tâtonne de toute évidence dans ces champs d’expérimentations. Elle fractionne et multiplie les plans picturaux, mais c’est là l’aspect le plus superficiel, extérieur, formel, déjà bien connu et exploré dans les arts visuels. Bataillard, plus profondément, peint, en quelque sorte, par-dessus son épaule, en dédoublée. Elle voit le modèle en déporté, tout semble désaxé chez elle. Ce qui donne chair à ces accumulations de détails narratifs et symboliques, assez anecdotiques, c’est la présence du peintre, sa position relativement à sa main ou l’angle de vue qui n’est jamais celui de l’œil physique du peintre mais son parti pris pictural. La position du peintre est comme celle d’un corps éthérique décalé.
+
+![](marion-bataillard/marion-bataillardpaintingnuditysexualityrealismnaturalismsalon-de-montrouge.012.jpg)© Marion Bataillard. « Le sujet », 81x130cm, oil on canvas, 2015.
+
+On pense aussi bien à Balthus qui brisait et renversait ses modèles dans d’étranges positions géométriques aux allures de tortures, que Bacon qui surplombait ses scènes d’écorchés sur fond de scènes circulaires de théâtre, d’arènes mentales, de cirque tragique ou de ring. On retrouve précisément chez Marion Bataillard des rappels des nuques brisées de Balthus ou des pistes circulaires de Francis Bacon.
+
+Bataillard c’est l’espace mental plus ou moins pervers de Balthus, la violence vue d’ailleurs de Bacon et une puissance dionysiaque subtilement sardonique.
+
+![](marion-bataillard/marion-bataillardpaintingnuditysexualityrealismnaturalismsalon-de-montrouge.014.jpg)© Marion Bataillard. « Les beaux jours », 180×80 cm, huile sur toile, 2017.
+
+---
+
+![](marion-bataillard/marion-bataillard-artiste-peintre-palais-de-tokyo-paris.013.jpg)© Marion Bataillard. « L’amour triomphant », 146x225cm, huile sur bois, 2015. Collection privée. Courtesy Palais de Tokyo, 2015.
+
+---
+
+#### Marion Bataillard, biographie :
+
+Marion Bataillard est née à Nantes (France) en 1983.
+Après avoir vécu à Montluçon et Berlin elle travaille et vit actuellement à Paris. **Education :**
+2002-2007:
+ESAD Strasbourg, classe de Manfred Sternjakob et Daniel
+Schlier.
+2005:
+HGB Leipzig, classe de Neo Rauch. **Prix:**
+2016 :
+Premier prix Antoine Marin.
+2015 :
+Grand prix ex æquo du 60ème salon de Montrouge. **Expositions personnelles:**
+2017 : « Créatures », Galerie ALB, Paris
+2016 : « Figures de l’amour », Amy Li gallery, Beijing
+2013 : « Ripailles », Orangerie du Château de la Louvière, Montluçon (France)
+2009 : « Marion Bataillard. Paintings », STYX Projects, Berlin
+Marion Bataillard est représentée par la [galerie ALB](http://www.galeriealb.com/?ref=artefields.net) (Paris, France) et la [galerie Amy Li](http://amyligallery.com/?ref=artefields.net), (Beijing, China).
+
+[Le site de l’artiste](https://www.marionbataillard.com/?ref=artefields.net)
+
+[Marion Bataillard, le mental et le physique - ARTEFIELDS](https://www.artefields.net/marion-bataillard/)

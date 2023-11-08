@@ -1,0 +1,72 @@
+# Karel appel, un humaniste barbare - ARTEFIELDS
+## Karel Appel, une spontanéité délibérée
+
+![](karel-appel-humaniste-barbare/karel-appel-cobra-expressionism-action-painting-humanism-painting-solo-show-pompidou-museum-2015.014-1024x512.jpg)© Karel Appel. Courtesy Centre Pompidou.
+
+**Karel Appel** (1921/2006), c’est une peinture qui tente la voie de l’immédiateté sans s’encombrer du débat dominant de l’époque, les années 50, entre figuration et abstraction.
+
+L’immédiateté c’est pour l’artiste néerlandais l’impulsivité, le geste qui prime sur l’idée, y compris et surtout contre toute forme de dogme qui pourrait brider cette énergie.
+
+### Cobra
+
+---
+
+C’est ce qui a défini le bref mouvement Cobra (Copenhague, Bruxelles, Amsterdam) qui n’est d’ailleurs pas un mouvement isolé. En effet, bien d’autres mouvements en ont appelé au retour au primitivisme, à l’art brut, l’art naïf dépouillé de l’intellectualisme occidental qui a assisté médusé à deux guerres qui furent comme des homicides de l’humanité elle même.
+Le mouvement Cobra revendique, veut retrouver la naïveté prétendue et fantasmée du sauvage. Le mouvement Cobra est donc aussi bien tributaire du surréalisme pour l’appel à l’inconscient que de l’expressionnisme pour sa brutalité, son désespoir.
+
+Ce courant d’un art plus physique est général dans les années 50: Action Painting, Gutai, etc. Cependant la revue Cobra n’aura duré qu’une année, or Karel Appel a été rangé définitivement sous cette bannière. L’un des buts de cette rétrospective au Centre Pompidou était précisément de montrer de Karel Appel autre chose que la manière Cobra.
+
+### Mythologie et bestiaires
+
+---
+
+![](karel-appel-humaniste-barbare/karel-appel_cobra_painting.001.jpg)
+
+Pas d’huile dans cette exposition au Centre Pompidou (2016), il est donc bien difficile de voir la différence avec ce qui caractérise pour tout un chacun le style Cobra de Karel Appel, à savoir des mouvements amples, violents et rapides dans une matière picturale aussi épaisse que la gangue originelle. Par contre on pouvait voir beaucoup de pastels, dessins, fusains, etc.
+
+Effectivement on découvre un Karel Appel relativement nouveau. C’est toute une mythologie personnelle échafaudée autour des grands mythes populaires qui apparait. Mythologie constituée d’un bestiaire d’animaux aux formes archaïsantes et de divinités orgiastiques. Mais il y a aussi tout un imaginaire de l’enfance, ou plutôt qui s’inspire de l’âge encore vierge de toute culture. Car ces representations “naïves” ne sont absolument pas enfantines, elle sont hantées par la violence et la cruauté des hommes. Les visages grimacent, les corps sont contorsionnés, à l’image des bas reliefs médiévaux figurant la tentation et les enfers.
+
+### Iconographie barbare
+
+---
+
+L’expressionnisme sauvage de Cobra est donc bien là mais avec un contenu récurrent, un système d’éléments narratifs ou plutôt d’une iconographies célébrant ce qu’il y a de plus viscéral chez l’homme. C’est en quelque sorte plus structuré que les huiles tumultueuses que l’on connait de Karel Appel, mais l’aspect régressif (revendiqué) et barbare (étranger), voulant échapper au formatage culturel persistent.
+
+Ce n’est pas étonnant, et c’est ce qui fait la force de cette œuvre qui veut se dépouiller autant qu’il est possible et exprimer une sorte d’humanisme lucide et fondé sur l’empathie.
+
+![](karel-appel-humaniste-barbare/karel-appel-cobra-expressionism-action-painting-humanism-painting-solo-show-pompidou-museum-2015.022-1024x683.jpg)© Karel Appel. Courtesy Centre Pompidou.
+
+### Rétrospective Karel Appel au MaMvp (2017)
+
+Si l’exposition au Centre Pompidou donnait davantage une perspective sur l’iconographie et les trames narratives du travail de Karel Appel, la rétrospective modeste mais complète au MaM de la ville de Paris permet de retrouver ce qui a fait la notoriété du peintre néerlandais. Le geste pictural tout d’abord, la peinture au tube directement appliqué tel quel avec rage et en dans tous les cas « spontanéité », avec toutes les réserves que l’on peut objecter à une démarche du retour à l’état de nature. Objections que connaissaient parfaitement Corneille, Asger Jorn, Constant ou Appel. L’autre aspect du travail de l’artiste  qui est assez frappant dans cette donation de 21 œuvres par la Karel Appel Foundation est la noirceur assez fréquente des thèmes. Le retour à « l’enfance » se fait surtout dans la perspective de l’histoire du 20° siècle et la boucherie de la dernière guerre. Les contes pour enfants et les mythes sont de toute façon peuplés de monstres et sous-tendu par l’angoisse de la perte, de l’isolement, la culpabilité, etc.
+
+![](karel-appel-humaniste-barbare/karel-appel-exposition-mam-paris-france-2017-peinture-artiste-peintre-cobra-figuration-libre-transavangardia-bad-painting-pop-art-noir.jpg)© Karel Appel. Courtesy musée d’art moderne de la ville de Paris.
+
+Hormis la sauvagerie ou plutôt la violence, ou encore l’énergie picturale qui parcourt ces quelques pièces exposées, on finit par remarquer que la palette n’est pas si chatoyante que ce qu’il est convenu de dire de ce représentant emblématique du mouvement CoBrA. Il y a beaucoup de noirs très épais, huileux et goudronneux, et des teintes rouges sang terreux, ou des bleus métalliques mêlés de blancs sales. Donc la violence est omniprésente dans cette collection d’œuvres couvrant l’ensemble de la carrière du peintre que ce soit dans les thèmes, le geste et les teintes. Quant à la période 1960/70 on sent les tentatives plus ou moins infructueuses de se renouveler au contact du Pop Art, d’un timide retour à l’abstraction, ou de motifs tels que le nu ou le paysage.
+
+![](karel-appel-humaniste-barbare/karel-appel-exposition-mam-paris-france-2017-peinture-artiste-peintre-cobra-figuration-libre-transavangardia-bad-painting-pop-art.jpg)© Karel Appel. Courtesy musée d’art moderne de la ville de Paris.
+
+L’exposition s’achève avec quelques pièces des années 1980 et au-delà. Les toiles monumentales qui sont présentées sont bien plus narratives que ce qui a été fait précédemment. Le devancier de la Figuration Libre, du Bad Painting, neofauves et Transavangardia rejoint la lame de fond du retour à la narration via le vernaculaire.  C’est composé comme il se doit quant on « illustre » un récit, mais la violence du geste est bien présente, notamment dans la toile intitulée « Before the catastrophe » (1985) qui rejoint la fureur d’un Van Gogh dans un maelstrom de jaunes, rouges et bleus pierreux.
+
+![](karel-appel-humaniste-barbare/karel-appel-exposition-mam-paris-france-2017-peinture-artiste-peintre-cobra-figuration-libre-transavangardia-bad-painting-3.jpg)© Karel Appel. Courtesy MaM, Paris.
+
+---
+
+![](karel-appel-humaniste-barbare/karel-appel-exposition-mam-paris-france-2017-peinture-artiste-peintre-cobra-figuration-libre-transavangardia-bad-painting-2.jpg)© Karel Appel. Courtesy MaM, Paris.
+
+---
+
+![](karel-appel-humaniste-barbare/karel-appel-exposition-mam-paris-france-2017-peinture-artiste-peintre-cobra-figuration-libre-transavangardia-bad-painting-4.jpg)© Karel Appel. Courtesy musée d’art moderne de la ville de Paris.
+
+---
+
+#### Karel Appel biographie succincte:
+
+* CoBrA (1948/51): Création du mouvement CoBrA avec Christian Dotremont, Constant, Corneille, Asger Jorn.
+* Post CoBrA (1952/57): Dissolution officielle du mouvement CoBrA en 1951. Karel Appel s’installe à Paris et est remarqué par Michel Tapié (critique d’art) qui le soutient et lui permet d’accéder à une certaine reconnaissance internationale.
+* Tentations du Pop Art et d’un certain retour à l’abstraction (1960/70). Période durant laquelle il développe ses sculptures sur bois peint.
+* 1980/2000. Karel Appel renoue avec l’expressionnisme mais dans un registre narratif toujours inspiré des mythes populaires, son œuvre de précurseur dans le domaine du vernaculaire (avec évidemment Dubuffet) rejoint les mouvements picturaux associés au Bad Painting.
+
+⠀
+
+[Karel appel, un humaniste barbare - ARTEFIELDS](https://www.artefields.net/karel-appel-humaniste-barbare/)
