@@ -52,9 +52,15 @@ cascade:
 
 {{< br >}}
 
-{{< black-button2 >}}
+<!-- {{< black-button2 >}}
 [Voir tous les articles](/posts/)
-{{< /black-button2 >}}
+{{< /black-button2 >}}-->
+
+{{< hr >}}
+
+{{< text-center >}}
+#### [*Voir tous les articles*](posts)
+{{< /text-center >}}
 
 
 

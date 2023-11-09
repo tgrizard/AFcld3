@@ -94,7 +94,7 @@
     outline: none;
     padding: 0 15px;
     text-transform: uppercase;
-    color: white;
+    color: #fff !important;
     text-decoration: none !important;
     padding-left: 10px;
     padding-right: 10px;
