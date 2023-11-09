@@ -37,12 +37,21 @@
 .nested-links-black a{
   overflow-wrap: break-word;
   text-decoration: none;
-  color: black;
+  color: black !important;
   font-style: normal;
   font-weight: 400;
 }
 
 .nested-links a {
+  overflow-wrap: break-word;
+  text-decoration: none;
+  color: #fff;
+  font-style: normal;
+  font-weight: 600;
+  font-size: x-large;
+}
+
+.bb a {
   overflow-wrap: break-word;
   text-decoration: none;
   color: #fff;
@@ -70,15 +79,17 @@
     cursor: pointer;
     display: inline-flex;
     font-size: 15px;
-    font-weight: 800;
+    font-weight: 600;
     height: 36px;
     justify-content: center;
     letter-spacing: .5px;
     outline: none;
     padding: 0 15px;
     text-transform: uppercase;
-    color: white !important;
+    color: white;
     text-decoration: none !important;
+    padding-left: 10px;
+    padding-right: 10px;
     padding-top: 25px;
     padding-bottom: 25px;
     margin-top: 50px;
