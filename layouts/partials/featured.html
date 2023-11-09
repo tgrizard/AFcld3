@@ -3,10 +3,9 @@
   <div class="bg-white mb1 mt1 pa0 gray overflow-hidden">
     <div class="f5 lh-copy mb1 mt1  bg-white">
      {{ range first 8 .Site.Taxonomies.categories.featured }}
-    <a href="{{ .Page.RelPermalink }}"></a>
-
-    {{ .Render "summary-with-image" }}
-      {{ end }}
+        <a href="{{ .Page.RelPermalink }}"></a>
+        {{ .Render "summary-with-image" }}
+        {{ end }}
     </div>
   </div>
 </div>

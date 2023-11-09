@@ -9,6 +9,10 @@ cascade:
 ---
 {{< br1 >}}
 
+{{< card2 >}}
+
+{{< br1 >}}
+
 {{< text-center >}}
 ### Sally Mann ou la vie dans les bois
 {{< /text-center >}}
@@ -33,8 +37,12 @@ cascade:
 
 {{< br >}}
 
-{{< black-button >}}
+{{< black-button2 >}}
 [Voir tous les articles](/posts/)
-{{< /black-button >}}
+{{< /black-button2 >}}
+
+
+
+
 
 

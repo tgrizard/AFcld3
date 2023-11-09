@@ -7,7 +7,7 @@ authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/emmet-gowin-photography/"]
 description: "Emmet Gowin est un photographe américain qui a ouvert la voie à la photographie intimiste en tentant de fixer sa fascination pour la vie simple de Danville."
 tags: ["Réalisme", "Sensorialité", "Photographie contingente"]
-categories: ["Photographie"]
+categories: ["Photographie", "Focus"]
 featured_image: "/posts/images/banner/gowin.jpg"
 ---
 

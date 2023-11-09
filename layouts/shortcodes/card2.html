@@ -1,0 +1,13 @@
+
+<div class="pr3-ns mb4 mb0-ns w-100-ns">
+  <div class="relative w-100 w-100-l mb4 bg-white">
+     {{ range first 2 .Site.Taxonomies.categories.focus }}
+        <a href="{{ .Page.RelPermalink }}"></a>
+        {{ .Render "summary-with-image2" }}
+        {{ end }}
+    </div>
+</div>
+
+
+      
+          

@@ -7,7 +7,7 @@ authors: ["Thierry Grizard"]
 source: 
 description: "Duane Hanson a révolutionné la sculpture moderne en la détachant de toute recherche formelle ou expressive au profit de mises en scènes hyperréalistes."
 tags: ["Sculpture", "Hyperréalisme"]
-categories: ["Arts Visuels"]
+categories: ["Arts Visuels", "Focus"]
 featured_image: "/posts/images/banner/hanson.jpg"
 ---
 ## Sculpture et moulage
