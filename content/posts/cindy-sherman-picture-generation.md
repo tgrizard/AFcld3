@@ -7,7 +7,7 @@ authors: ["Thierry Grizard"]
 source:
 description: "Cindy Sherman a fondé tout son travail sur le travestissement, en portant des masques parodiques elle tente de montrer ce qui se cache derrière eux."
 tags: ["Conceptuel", "Féminisme", "Théâtralité", "Palimpseste"]
-categories: ["Photographie"]
+categories: ["Photographie", "Featured"]
 featured_image: "/posts/images/banner/sherman.jpg"
 ---
 ## Cindy Sherman, masques et portraits de genre

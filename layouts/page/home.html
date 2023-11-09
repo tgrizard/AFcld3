@@ -1,0 +1,21 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns w-100">
+      <header>
+                Welcome to my blog and the art stream of consciousness.
+        <hr size=1 color=gray>
+        <br>
+        <h1 class="f1 tc">
+          {{ .Title }}
+        </h1>
+      </header>
+      <div class="pr3-ns mb4 mb0-ns w-100 w-100-ns">
+        {{ partial "featured.html" . }}
+      </div>
+      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+        {{ .Content }}
+      </div>
+    </article>
+  </div>
+{{ end }}

@@ -7,7 +7,7 @@ authors: ["Thierry Grizard"]
 source: 
 description: "Andreas Gursky, qui est historiquement affilié à la photographie objective allemande et l’Ecole de Düsseldorf, est formellement assez proche de ce courant mais sur le fond il se rapproche davantage d’une certaine forme de romantisme en particulier s’agissant du sentiment du sublime. "
 tags: [ "Featured", "Conceptuel", "Photographie Objective", "Iconographie"]
-categories: ["Photographie"]
+categories: ["Photographie", "Featured"]
 featured_image: "/posts/images/banner/gursky.jpg"
 featured: true
 ---

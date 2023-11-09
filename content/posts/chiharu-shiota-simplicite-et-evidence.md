@@ -7,7 +7,7 @@ authors: ["Thierry Grizard"]
 source:
 description: "Chiharu Shiota est une plasticienne japonaise mondialement connue pour ses installations épurées son œuvre s'avère cependant plus complexe que cette image."
 tags: ["Body Art", "Performance", "Plasticien", "Japon", "Temporalité", "Corporéité", "Chiharu Shiota"]
-categories: ["Arts Visuels"]
+categories: ["Arts Visuels", "Featured"]
 featured_image: "/posts/images/banner/shiota.jpg"
 ---
 ## Chiharu Shiota, une Parque moderne

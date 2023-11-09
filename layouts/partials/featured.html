@@ -1,39 +1,20 @@
 
-<ul>
-{{ if isset .Params "featured_post" }}
-  {{ with .Site.GetPage .Params.featured_post }}{{ .Title }}{{ end }}
-{{ end }}
-</ul>
+<div class="relative w-100 mb1 mt1 bg-white nested-copy-line-height ">
+  <div class="bg-white mb1 mt1 pa0 gray overflow-hidden">
+    <div class="f5 lh-copy mb1 mt1  bg-white">
+     {{ range first 8 .Site.Taxonomies.categories.featured }}
+    <a href="{{ .Page.RelPermalink }}" color=red></a>
 
-<section>
-  <ul>
-    {{ range $key, $taxonomy := .Site.Taxonomies.featured }}
-      <li>{{ $key }}</li>
-      <ul>
-        {{ range $taxonomy.Pages }}
-          <li hugo-nav="{{ .RelPermalink }}"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-        {{ end }}
-      </ul>
-    {{ end }}
-  </ul>
-  <ul>
-{{ if isset .Params "featured_post" }}
-  {{ with .Site.GetPage .Params.featured_post }}{{ .Title }}{{ end }}
-{{ end }}
-</ul>
-{{ partial "featured-post.html" . }}
-
-  <div class="mw8 center">
-    <section class="ph4">
-      {{ range $term := .Data.Pages }}
-        <h2 class="f2">
-          <a href="{{ $term.RelPermalink }}" class="link black hover-black">
-            {{ $.Data.Singular | humanize }}: {{ $term.LinkTitle }}
-          </a>
-        </h2>
-        {{ range $term.Pages }}
-          {{ .Render "summary" }}
-        {{ end }}
+    {{ .Render "summary-with-image" }}
       {{ end }}
-    </section>
+    </div>
   </div>
+</div>
+
+<style>
+a:link {
+  color: dimgray;
+  background-color: transparent;
+  text-decoration: none;
+}
+</style>

@@ -1,5 +1,20 @@
 <div text-align: center;>
-	<span class="button-black" class="nested-links-button">
+	<span class="button-black nested-links hover-white">
 		{{ .Inner | markdownify }}
 	</span>
 </div>
+<style>
+.nested-links a {
+  overflow-wrap: break-word;
+  text-decoration: none;
+  color: #fff;
+  font-style: normal;
+  font-weight: 600;
+  font-size: x-large;
+}
+
+ .nested-links a:hover {
+  color: #db9b27;
+}
+
+  </style>

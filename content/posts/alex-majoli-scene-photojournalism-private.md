@@ -5,10 +5,11 @@ draft: false
 # url: /alex-majoli-scene-photojournalism-private/
 authors: ["Thierry Grizard"]
 source:
+featured: true
 access: ["Réservé aux abonnés"]
 description: "Alex Majoli est un photojournaliste éminent de l'agence Magnum depuis 8 années il parcourt le monde pour en donner une autre image profondément théâtrale."
-tags: ["Photo documentaire", "Théâtralité", "Photographie Objective"]
-categories: ["Photographie"]
+tags: ["Photo documentaire", "Théâtralité", "Photographie Objective", "Featured"]
+categories: ["Photographie", "Featured"]
 featured_image: "/posts/images/banner/majoli.jpg"
 ---
 ## Alex Majoli, scènes d’Histoire

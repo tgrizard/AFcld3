@@ -17,6 +17,15 @@
 
 }
 
+.bl a {
+  overflow-wrap: break-word;
+  text-decoration: none;
+  color: #fff;
+  font-style: normal;
+  font-weight: 600;
+  font-size: x-large;
+}
+
 .nested-links-button a{
   overflow-wrap: break-word;
   text-decoration: none;
@@ -31,6 +40,19 @@
   color: black;
   font-style: normal;
   font-weight: 400;
+}
+
+.nested-links a {
+  overflow-wrap: break-word;
+  text-decoration: none;
+  color: #fff;
+  font-style: normal;
+  font-weight: 600;
+  font-size: x-large;
+}
+
+ .nested-links a:hover {
+  color: #db9b27;
 }
 
 .image-center {
@@ -81,8 +103,11 @@
 }
 
 .form {
-    text-align: center;
+    text-align: center; 
   }
- 
+
+.tc {
+style="text-align:center"
+  }
 
 </style>
