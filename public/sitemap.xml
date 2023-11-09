@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-11-09T13:34:50+01:00</lastmod>
+    <lastmod>2023-11-09T17:24:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-11-09T13:34:50+01:00</lastmod>
+    <lastmod>2023-11-09T17:24:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/conceptuel/</loc>
-    <lastmod>2023-11-09T01:05:03+01:00</lastmod>
+    <lastmod>2023-11-09T17:07:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -28,7 +28,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/photographie/</loc>
-    <lastmod>2023-11-09T13:34:50+01:00</lastmod>
+    <lastmod>2023-11-09T17:24:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -38,22 +38,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-11-09T13:34:50+01:00</lastmod>
+    <lastmod>2023-11-09T17:24:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-11-09T13:34:50+01:00</lastmod>
+    <lastmod>2023-11-09T17:24:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2023-11-09T13:34:50+01:00</lastmod>
+    <lastmod>2023-11-09T17:24:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/iconographie/</loc>
-    <lastmod>2023-11-09T01:03:56+01:00</lastmod>
+    <lastmod>2023-11-09T17:24:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -173,7 +173,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/dadaisme/</loc>
-    <lastmod>2023-11-04T00:53:02+01:00</lastmod>
+    <lastmod>2023-11-09T17:24:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -183,7 +183,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/destin-singulier/</loc>
-    <lastmod>2023-11-04T19:08:16+01:00</lastmod>
+    <lastmod>2023-11-09T17:24:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -233,7 +233,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/fluxus/</loc>
-    <lastmod>2023-11-07T01:17:14+01:00</lastmod>
+    <lastmod>2023-11-09T17:07:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -242,8 +242,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/posts/francesca-woodman/</loc>
-    <lastmod>2023-11-04T19:08:16+01:00</lastmod>
+    <loc>https://artstream.net/francesca-woodman/</loc>
+    <lastmod>2023-11-09T17:07:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -388,7 +388,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/miroirs/</loc>
-    <lastmod>2023-11-04T19:08:16+01:00</lastmod>
+    <lastmod>2023-11-09T17:07:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -462,8 +462,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/posts/raoul-hausmann-dadasophe-et-photographe/</loc>
-    <lastmod>2023-11-04T00:52:21+01:00</lastmod>
+    <loc>https://artstream.net/raoul-hausmann-dadasophe-et-photographe/</loc>
+    <lastmod>2023-11-09T17:24:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -508,7 +508,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/sensorialit%C3%A9/</loc>
-    <lastmod>2023-11-09T13:34:50+01:00</lastmod>
+    <lastmod>2023-11-09T17:24:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -558,7 +558,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/themes/</loc>
-    <lastmod>2023-11-07T13:54:03+01:00</lastmod>
+    <lastmod>2023-11-09T17:24:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -813,7 +813,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/</loc>
-    <lastmod>2023-11-09T13:32:42+01:00</lastmod>
+    <lastmod>2023-11-09T17:24:09+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

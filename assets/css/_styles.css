@@ -72,6 +72,14 @@
     }
 }
 
+.ic {
+  img {
+    width: 50%;
+    margin: auto;
+    display: block;
+    }
+}
+
 .button-black {
     align-items: center;
     background-color: black;
