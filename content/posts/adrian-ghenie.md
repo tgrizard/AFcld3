@@ -20,7 +20,9 @@ Temps de lecture estimé :  11 minutes
 
 **Adrian Ghenie,** né en 1977 en Roumanie, vit et travaille à Berlin où il a cofondé la [Galérai plan B](http://www.plan-b.ro/?ref=artefields.net), qui gère deux espaces d’art contemporain (Cluj et Berlin). Adrian Ghenie après quelques années difficiles a connu une reconnaissance internationale fulgurante. Sa cote sur le marché de l’art s’est envolée depuis 2011.
 
+{{< image-center >}}
 ![](/posts/images/ghenie/adrian-ghenie-centre-georges-pompidou-paris-artiste-peintre.003.jpg)
+{{< /image-center >}}
 
 La peinture d’Adrian Ghenie, qui a suivi un enseignement d’arts plastiques à l’université de Cluj-Napoca, est issue d’un certain isolement culturel en raison de la fermeture de la Roumanie de Ceausescu.
 
@@ -42,7 +44,9 @@ On pourrait presque dire la tessiture des monstres de l’histoire, mais aussi c
 
 Il utilise le couteau, la spatule, de grandes brosses, des projections ou encore des pochoirs pour redonner au motif figuré ce qu’il appelle donc une « texture ». Une peinture figurative qui devient — par l’intrusion de l’abstraction gestuelle — dysmorphique. Apparait alors comme un deuxième moment du motif figuré des monstres, ceux qui sont tapis derrière tous ces portraits souriants de tyrans, dictateurs ou exécutants zélés et psychopathes.
 
+{{< image-center >}}
 ![](/posts/images/ghenie/adrian-gheniepainting2018jungles-in-parisropac.001.jpg)
+{{< /image-center >}}
 
 ### **Figurer le portrait**
 

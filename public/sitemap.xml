@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-11-11T19:22:59+01:00</lastmod>
+    <lastmod>2023-11-11T22:10:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-11-11T19:22:59+01:00</lastmod>
+    <lastmod>2023-11-11T22:10:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/conceptuel/</loc>
-    <lastmod>2023-11-11T19:22:15+01:00</lastmod>
+    <lastmod>2023-11-11T19:36:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -38,17 +38,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-11-11T19:22:59+01:00</lastmod>
+    <lastmod>2023-11-11T22:10:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-11-11T19:22:59+01:00</lastmod>
+    <lastmod>2023-11-11T22:10:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2023-11-11T19:22:59+01:00</lastmod>
+    <lastmod>2023-11-11T22:10:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -128,7 +128,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/arts-visuels/</loc>
-    <lastmod>2023-11-11T19:19:02+01:00</lastmod>
+    <lastmod>2023-11-11T22:10:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -213,7 +213,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/etranget%C3%A9/</loc>
-    <lastmod>2023-11-11T19:19:02+01:00</lastmod>
+    <lastmod>2023-11-11T19:36:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -223,7 +223,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/featured/</loc>
-    <lastmod>2023-11-11T12:21:47+01:00</lastmod>
+    <lastmod>2023-11-11T22:10:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -383,12 +383,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/michael-borremans/</loc>
-    <lastmod>2023-11-11T19:19:02+01:00</lastmod>
+    <lastmod>2023-11-11T19:36:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/posts/michael-borremans/</loc>
-    <lastmod>2023-11-11T19:19:02+01:00</lastmod>
+    <loc>https://artstream.net/michael-borremans/</loc>
+    <lastmod>2023-11-11T19:36:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -413,7 +413,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/peinture/</loc>
-    <lastmod>2023-11-11T19:19:02+01:00</lastmod>
+    <lastmod>2023-11-11T22:10:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -538,7 +538,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/surr%C3%A9alisme/</loc>
-    <lastmod>2023-11-11T19:19:02+01:00</lastmod>
+    <lastmod>2023-11-11T19:36:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -558,7 +558,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/th%C3%A9%C3%A2tralit%C3%A9/</loc>
-    <lastmod>2023-11-11T19:22:15+01:00</lastmod>
+    <lastmod>2023-11-11T19:36:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -603,7 +603,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/adrian-ghenie/</loc>
-    <lastmod>2023-11-11T12:24:11+01:00</lastmod>
+    <lastmod>2023-11-11T22:10:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -658,7 +658,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/adrian-ghenie/</loc>
-    <lastmod>2023-11-11T12:21:47+01:00</lastmod>
+    <lastmod>2023-11-11T22:10:25+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
