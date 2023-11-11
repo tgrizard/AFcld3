@@ -2,7 +2,7 @@
 title: "Sally Mann ou la vie dans les bois"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /sally-mann-american-photographer/
+url: /sally-mann-american-photographer/
 authors: ["Thierry Grizard"]
 source: 
 description: "Sally Mann utilise la photographie comme un journal intime où se mêlent introspection et émotions ordinaires, parfois extatiques, souvent sensuelles."
