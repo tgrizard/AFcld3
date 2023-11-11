@@ -2,7 +2,7 @@
 title: "Cindy Sherman The Picture Generation"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /cindy-sherman-picture-generation/
+url: /cindy-sherman-picture-generation/
 authors: ["Thierry Grizard"]
 source:
 description: "Cindy Sherman a fondé tout son travail sur le travestissement, en portant des masques parodiques elle tente de montrer ce qui se cache derrière eux."
@@ -21,6 +21,7 @@ Cindy Sherman est de manière convenue présentée comme une photographe concept
 Ce sont évidemment des raccourcis, qui, en outre, reposent sur des notions proches parfois du postulat, notamment lorsqu’il s’agit de définir ce qu’est le post-moderne.
 
 Mais avant tout, s’agit-il bien de photographie ? C’est la première chose que l’on souhaite clarifier. Cindy Sherman n’a jamais montré de photographies, instantanées, photo de rue, ou autre, hors les clichés de ses mises en scène, à l’exception, tout de même, des publications sur son compte Instagram.
+
 {{< image-center >}}
 ![](/posts/images/sherman/cindy-sherman_photography_picture-generation-10.jpg)
 {{< /image-center >}}
