@@ -89,3 +89,5 @@ Le travail de Michael Borremans est une boucle sans fin. Une peinture exécutée
 {{< /image-center >}}
 
 © Michaël Borremans
+
+
