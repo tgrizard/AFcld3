@@ -52,15 +52,19 @@ Il utilise le couteau, la spatule, de grandes brosses, des projections ou encore
 
 De même que Francis Bacon préférait peindre ses modèles d’après photo plutôt que de se confronter à eux physiquement lors d’une séance de pose, Adrian Ghenie exécute des portraits d’images photographiques. Bacon ne souhaitait pas faire le portrait d’Isabel Rawsthorne, Lucian Freud ou Georges Dyer, l’épaisseur psychologique et charnelle du modèle en lui-même ne l’intéressait pas. Les portraits de Bacon sont composites, ils mêlent plusieurs références, dans le cas du « Pape Hurlant » Innocent X, il superpose le cri de la femme énuclée dans Le Cuirassé Potemkine à l’œuvre de Velasquez, en utilisant des procèdes typiquement photographiques, les flous de bougés, les filés, les rémanences et autres aberrations optiques. Bacon était fasciné par la photographie tout en ne lui reconnaissant aucune valeur artistique. Les images photographiques permettent avant tout d’alimenter des collages servant l’expression figurative d’une intensité esthétique, émotionnelle, fantasmatique. C’est ainsi que l’on retrouve de nombreuses postures dans les tableaux de Bacon qui sont empruntées à Muybridge.
 
+{{< image-center >}}
 ![](/posts/images/ghenie/adrian-gheniepainting2018jungles-in-parisropacchristiesauction.001-5.jpg)
+{{< /image-center >}}
 
 ---
-
+{{< image-center >}}
 ![](/posts/images/ghenie/adrian-gheniepainting2018jungles-in-parisropac.005.jpg)
+{{< /image-center >}}
 
 Adrian Ghenie, qui n’a pas non plus renoncé à la figuration, procède de la même manière. Non seulement il procède fréquemment à des collages préparatoires qui juxtaposent les angles, textures et matières, mais, plus fondamentalement, il n’utilise pas banalement le document photographique au seul titre de source d’inspiration. L’image photographique a une présence particulière, elle donne à voir par abstraction, elle isole le temps et le lieu, sans commentaire elle peut paraitre fantomatique, elle ne conserve que ce que la lumière a permis de fixer à cet instant. C’est surtout vrai des images documentaires qui arrachent au devenir un moment dès lors déraciné. C’est cet aspect abstrait, d’ombre et de lumière qui intéresse Ghenie, qu’il désigne en des termes picturaux comme le « volume » auquel il veut redonner une « texture », de la chair, en particulier dans le registre de l’intensité émotionnelle, mais aussi du point de vue d’une vision personnelle de l’histoire des monstres qui ont marqué l’histoire moderne et contemporaine.
-
+{{< image-center >}}
 ![](/posts/images/ghenie/adrian-gheniepainting2018jungles-in-parisropacchristiesauction.001.jpg)
+{{< /image-center >}}
 
 ### **Dialogue avec Van Gogh et le Douanier Rousseau**
 
@@ -69,14 +73,16 @@ Parfois, l’énergie picturale du « néo-expressionnisme » — en réalité t
 En effet, depuis quelques temps Ghenie s’éloigne régulièrement de l’histoire et ses images. Ou plutôt il s’intéresse à une autre histoire, celle de la peinture, en particulier Van Gogh et plus récemment le Douanier Rousseau. Là, encore la parenté avec Bacon est frappante. De même que le peintre anglais n’a évidemment pas tenté de faire une nouvelle version du Pape Innocent X, Adrian Ghenie n’aborde l’autoportrait de Van Gogh qu’autant qu’il s’agit pour lui d’une confrontation féconde. Les réinterprétations du peintre continuent à évoquer et donc ressembler à Van Gogh, pourtant à l’instar de Bacon, ce qui domine ce n’est pas l’analogie mais la surcharge idiosyncrasique sous forme de gestes vifs au couteau ou directement depuis la main en éclaboussures virulentes, déstructurantes formellement, qui « dé-figurent » le portrait pour lui octroyer une autre dimension.
 
 ---
-
+{{< image-center >}}
 ![](/posts/images/ghenie/adrian-gheniepaintingexpressionnismromania.006.jpg).
+{{< /image-center >}}
 
 Le débat n’est plus ici de tracer la frontière entre la figuration et l’abstraction. La figuration qui serait dominée par la mimesis et l’abstraction par le geste et la pure subjectivité. La figuration n’est plus mimétique depuis longtemps, elle se réfère, colle, hybride, est plus iconiques que mimétique. Deleuze distinguait le « figural » du figuratif, une « manière » « analogique » qui n’appartient qu’au champ de la peinture tout en n’en étant pas purement forme à l’opposé de l’abstraction. L’abstraction ne peut pas non plus se définir par la seule gestuelle. Le geste abstrait appartient tout aussi bien au peintre qui peint des figures, il simplifie, synthétise, réduit. Faire donc le partage entre le geste prétendument abstrait et le mimétisme figuratif n’est pas pertinent touchant Ghenie et d’ailleurs la plupart des peintres post modernes.
 
 Alors que peint Adrian Ghenie ? Lorsqu’il s’agit de la peinture d’histoire, probablement la fascination et l’horreur pour ces personnages iconiques de la violence ; concernant Van Gogh « défiguré » peut-être bien la même violence mais cette fois créatrice et non destructrice, sans évoquer l’hommage intime au maître ; quant au Douanier Rousseau, l’excès qui caractérise l’œuvre de Ghenie rencontre l’exubérance d’une nature exotique — au sens étymologique — fantasmée, qui contamine tout, assortie de multiples connotations sexuelles.
-
-![](/posts/images/ghenie/adrian-gheniepainting2018jungles-in-paris.006.jpg)
+{{< image-center >}}
+![](/posts/images/ghenie/adrian-gheniepainting2018jungles-in-paris.006.jpg) 
+{{< /image-center >}}
 
 ### **Portrait et paysage**
 
