@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-11-12T15:50:30+01:00</lastmod>
+    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-11-12T15:50:30+01:00</lastmod>
+    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -38,17 +38,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-11-12T15:50:30+01:00</lastmod>
+    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-11-12T15:50:30+01:00</lastmod>
+    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2023-11-12T15:50:30+01:00</lastmod>
+    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -128,7 +128,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/arts-visuels/</loc>
-    <lastmod>2023-11-12T15:50:30+01:00</lastmod>
+    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -413,7 +413,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/peinture/</loc>
-    <lastmod>2023-11-12T15:50:30+01:00</lastmod>
+    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -817,8 +817,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/muriel-rodolosse-private/</loc>
+    <lastmod>2023-11-12T16:10:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/aurore-pallet-isabelle-gounod-private/</loc>
     <lastmod>2023-11-08T00:36:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/markus-akesson-2-private/</loc>
+    <lastmod>2023-11-12T16:00:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -858,12 +868,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/lionel-sabatte-la-poussiere-et-les-territoires-private/</loc>
-    <lastmod>2023-11-12T15:50:30+01:00</lastmod>
+    <lastmod>2023-11-12T15:55:03+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/michael-borremans-sixteen-dances-private/</loc>
     <lastmod>2023-11-12T14:29:28+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/peter-martensen-ravages-et-histoire-private/</loc>
+    <lastmod>2023-11-12T16:06:52+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -884,6 +899,11 @@
   </url><url>
     <loc>https://artstream.net/eva-nielsen-serigraphie-private/</loc>
     <lastmod>2023-11-12T14:50:35+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/origine-du-monde-magritte-private/</loc>
+    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
