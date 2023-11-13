@@ -1,11 +1,26 @@
-# Hyperrealisme et photo-réalisme en peinture - ARTEFIELDS
+---
+title: "Hyperrealisme et photo-réalisme en peinture"
+date: 2015-08-23
+url: /hyperrealisme/
+# layout: ""
+draft: false
+hidden: false
+authors: ["Thierry Grizard"]
+# access: ["Réservé aux abonnés"]
+# source: [""]
+description: "L'hyperréalisme est né avec le Pop Art. Il fut initialement dominé par la peinture, la sculpture hyperréaliste domine largement actuellement"
+summary: "L'hyperréalisme est né avec le Pop Art. Il fut initialement dominé par la peinture, la sculpture hyperréaliste domine largement actuellement"
+tags: [ "Peinture"]
+categories: ["Arts Visuels"]
+featured_image: "/posts/images/banner/hyperrealism2.jpg"
+---
 ## L’hyperréalisme en peinture
 
 **L\`hyperréalisme** ou photo-réalisme a connu son essor et son nom avec le galeriste américain [Louis K. Meisel](http://www.meiselgallery.com/?ref=artefields.net) dans les années 60. Il fut initialement le propre du seul medium de la peinture.
 
 ---
 
-![](Hyperrealisme%20et%20photo-re%CC%81alisme%20en%20peinture%20-%20ARTEFIELDS/photorealism-hyperrealism-louis-k-meisel-painting-art-contemporain.jpg)
+![](/posts/images/hyperrealism/photorealism-hyperrealism-louis-k-meisel-painting-art-contemporain.jpg)
 
 ---
 
@@ -19,7 +34,7 @@ En opposition à l’idéalisme de l’art abstrait qu’il s’agisse   du lyr
 
 ### Chuck Close l’hyperréalisme dans le registre du « portrait » monumental
 
-![](Hyperrealisme%20et%20photo-re%CC%81alisme%20en%20peinture%20-%20ARTEFIELDS/chuck-close-photorealisme-hyperrealism-art-contemporain-painting.906-840x1024.jpg)
+![](/posts/images/hyperrealism/chuck-close-photorealisme-hyperrealism-art-contemporain-painting.906-840x1024.jpg)
 
 ---
 
@@ -27,7 +42,7 @@ En opposition à l’idéalisme de l’art abstrait qu’il s’agisse   du lyr
 
 ---
 
-![](Hyperrealisme%20et%20photo-re%CC%81alisme%20en%20peinture%20-%20ARTEFIELDS/chuck-close-photorealisme-hyperrealism-art-contemporain-painting-louis-k-meisel.906-1024x633.jpg)
+![](/posts/images/hyperrealism/chuck-close-photorealisme-hyperrealism-art-contemporain-painting-louis-k-meisel.906-1024x633.jpg)
 
 ---
 
@@ -35,7 +50,7 @@ En opposition à l’idéalisme de l’art abstrait qu’il s’agisse   du lyr
 
 ---
 
-![](Hyperrealisme%20et%20photo-re%CC%81alisme%20en%20peinture%20-%20ARTEFIELDS/ralph-goings-photorealisme-hyperrealism-art-contemporain-painting-louis-k-meisel.9061-1024x692.jpg)
+![](/posts/images/hyperrealism/ralph-goings-photorealisme-hyperrealism-art-contemporain-painting-louis-k-meisel.9061-1024x692.jpg)
 
 ---
 
@@ -43,7 +58,7 @@ Ce qu’il y a donc de particulièrement fascinant dans la démarche des hyperr�
 
 L’hyperréalisme en sculpture est né avec Duane Hanson, George Segal et John de Andrea, entre autres, avec la même attention aux signes de la modernité et sa critique implicite. L’hyperréalisme en sculpture n’a cessé d’évoluer avec les techniques mais a aussi déplacé les centres d’intérêts. Ron Mueck est évidemment le personnalité la plus en avant dans le registre de la sculpture hyperréaliste.
 
-**[Pour en savoir plus voir l’article « L’hyperréalisme en sculpture »](https://www.artefields.net/ron-mueck-george-segal-duane-hanson-lhyperrealisme-dans-la-sculpture-contemporaine/)**
+**[Pour en savoir plus voir l’article « L’hyperréalisme en sculpture »](/ron-mueck-george-segal-duane-hanson-lhyperrealisme-dans-la-sculpture-contemporaine/)**
 
 Il y a de très nombreux prolongements à ce mouvement artistique. Qu’il s’agisse de photographie avec les tenants de la « Photographie Objective », tels que Thomas Ruff, Candida Höfer ou Gursky ou encore la démarche obsessionnelle de Thomas Demand à reproduire en maquette des photographies de faits divers pour ensuite les photographier sous cette forme et détruire au final la réplique.
 
@@ -51,25 +66,18 @@ Mais d’autres grands peintres ont aussi exploré ce rapport mimétique à la p
 
 **Pour en savoir plus :**
 
-* [Gerhard Richter et les flous de hyper réels.](https://www.artefields.net/gerhard-richter-hyperrealisme-flou/)
-* [Gerhard Richter et la photographie.](https://www.artefields.net/gerhard-richter-et-la-photographie/)
+* [Gerhard Richter et les flous de hyper réels.](/gerhard-richter-hyperrealisme-flou/)
+* [Gerhard Richter et la photographie.](/gerhard-richter-et-la-photographie/)
 
 ⠀
 On trouve aussi de jeunes artistes au réalisme encore plus saisissant qui continuent à interroger les signes de « la vie moderne ». On peut citer [Lee Price](http://www.leepricestudio.com/?ref=artefields.net) qui dans des œuvres d’un hyperréalisme invraisemblable questionne la représentation de la Femme dans nos société. Ces œuvres sont autant de couvertures de magazines féminins détournées, au même aspect glacé, à l’exception de l’authenticité du modèle figuré, (Lee Price en personne), et le surréalisme des mises en situation.
 
-**[En savoir plus sur Lee Price:](https://www.artefields.net/lee-price-junk-food/)**
+**[En savoir plus sur Lee Price:](/lee-price-junk-food/)**
 
 ---
 
-![](Hyperrealisme%20et%20photo-re%CC%81alisme%20en%20peinture%20-%20ARTEFIELDS/eVvxdyB.jpg)
+![](/posts/images/hyperrealism/eVvxdyB.jpg)
 
-**Articles similaires:**
-
-* [Sculpture contemporaine hyperréaliste](https://www.artefields.net/ron-mueck-george-segal-duane-hanson-lhyperrealisme-dans-la-sculpture-contemporaine/)
-* [Thomas Ruff et la « réalité réelle »](https://www.artefields.net/thomas-ruff/)
-* [Ron Mueck et Le Caravage](https://www.artefields.net/ron-mueck-et-le-caravage-lincredulite-de-saint-thomas/)
-
-⠀
 ---
 
 ## Les hyperréalistes. Chefs de file
@@ -78,19 +86,16 @@ On trouve aussi de jeunes artistes au réalisme encore plus saisissant qui conti
 
 ### Chuck Close
 
-![](Hyperrealisme%20et%20photo-re%CC%81alisme%20en%20peinture%20-%20ARTEFIELDS/chuck-close-photorealisme-hyperrealism-art-contemporain-painting.905.jpg)
+![](/posts/images/hyperrealism/chuck-close-photorealisme-hyperrealism-art-contemporain-painting.905.jpg)
 
 ---
 
 ### Richard Estes
 
-![](Hyperrealisme%20et%20photo-re%CC%81alisme%20en%20peinture%20-%20ARTEFIELDS/chuck-close-photorealisme-hyperrealism-art-contemporain-painting-louis-k-meisel.905.jpg)
+![](/posts/images/hyperrealism/chuck-close-photorealisme-hyperrealism-art-contemporain-painting-louis-k-meisel.905.jpg)
 
 ---
 
 ### Ralph Goings
 
-![](Hyperrealisme%20et%20photo-re%CC%81alisme%20en%20peinture%20-%20ARTEFIELDS/ralph-goings-photorealisme-hyperrealism-art-contemporain-painting-louis-k-meisel.906.jpg) 
- 
-
-[Hyperrealisme et photo-réalisme en peinture - ARTEFIELDS](https://www.artefields.net/hyperrealisme/)
+![](/posts/images/hyperrealism/ralph-goings-photorealisme-hyperrealism-art-contemporain-painting-louis-k-meisel.906.jpg) 

@@ -1,4 +1,19 @@
-# Anselm Kiefer et Rodin confrontation - ARTEFIELDS
+---
+title: "Anselm Kiefer et Rodin confrontation"
+date: 2017-04-23
+url: /anselm-kiefer-rodin/
+# layout: ""
+draft: false
+hidden: false
+authors: ["Thierry Grizard"]
+# access: ["Réservé aux abonnés"]
+# source: [""]
+description: "Anselm Kiefer invité par le musée Rodin à se confronter au sculpteur de la démesure, ce n'est pas fortuit, Kiefer est également un artiste de la démesure"
+summary: "Anselm Kiefer invité par le musée Rodin à se confronter au sculpteur de la démesure, ce n'est pas fortuit, Kiefer est également un artiste de la démesure"
+tags: [ "Peinture"]
+categories: ["Arts Visuels"]
+featured_image: "/posts/images/banner/kiefer3.jpg"
+---
 ## Anselm Kiefer et Rodin, boites à idées et processus
 
 **Anselm Kiefer** et **Rodin**, deux monstres sacrés mis en parallèle par le musée Rodin. Anselm Kiefer a relevé le défi semble-t-il avec enthousiasme. Il se confronte donc au travail d’Auguste Rodin et tisse avec prolixité ses obsessions au corpus de Rodin.
@@ -11,7 +26,7 @@ Par ailleurs Anselm Kiefer entreprit quelques temps plus tard une visite prolong
 
 ---
 
-![](Anselm%20Kiefer%20et%20Rodin%20confrontation%20-%20ARTEFIELDS/anselm-kiefer-rodin-muse-e-rodin-exposition-france-paris-2017-2.jpg)
+![](/posts/images/kiefer/anselm-kiefer-rodin-muse-e-rodin-exposition-france-paris-2017-2.jpg)
 
 ---
 
@@ -21,7 +36,7 @@ C’est l’objet de cette exposition. Anselm Kiefer y présente une quarantaine
 
 ---
 
-![](Anselm%20Kiefer%20et%20Rodin%20confrontation%20-%20ARTEFIELDS/anselm-kiefer-auguste-rodin-rodin-musee-rodin-paris-france-exposition-2017-2.jpg)Vue de l’exposition. Courtesy musée Rodin.
+![](/posts/images/kiefer/anselm-kiefer-auguste-rodin-rodin-musee-rodin-paris-france-exposition-2017-2.jpg)Vue de l’exposition. Courtesy musée Rodin.
 
 ---
 
@@ -31,11 +46,11 @@ Ici Auguste Rodin est davantage un ferment à « idées » que le partenaire d�
 
 ---
 
-![](Anselm%20Kiefer%20et%20Rodin%20confrontation%20-%20ARTEFIELDS/anselm-kiefer-auguste-rodin-rodin-musee-rodin-paris-france-exposition-2017-4.jpg)Anselm Kiefer Marmorklippen 2014 © Anselm Kiefer ph. Charles Duprat collection particulière.JPG
+![](/posts/images/kiefer/anselm-kiefer-auguste-rodin-rodin-musee-rodin-paris-france-exposition-2017-4.jpg)Anselm Kiefer Marmorklippen 2014 © Anselm Kiefer ph. Charles Duprat collection particulière.JPG
 
 ---
 
-![](Anselm%20Kiefer%20et%20Rodin%20confrontation%20-%20ARTEFIELDS/anselm-kiefer-rodin-muse-e-rodin-exposition-france-paris-2017-8.jpg)BnF. Exposition, Anselm Kiefer, « l’alchimie du livre ».
+![](/posts/images/kiefer/anselm-kiefer-rodin-muse-e-rodin-exposition-france-paris-2017-8.jpg)BnF. Exposition, Anselm Kiefer, « l’alchimie du livre ».
 
 ---
 
@@ -43,7 +58,7 @@ Le musée à cette occasion et dans le cadre du centenaire du sculpteur a exhum�
 
 ---
 
-![](Anselm%20Kiefer%20et%20Rodin%20confrontation%20-%20ARTEFIELDS/anselm-kiefer-auguste-rodin-rodin-absolution-musee-rodin-paris-france-exposition-2017.jpg)L’Absolution A. RODIN S.3452 Plâtre et tissu H. 190 cm ; L. 95 cm ; P. 75 cm Paris, musée Rodin © agence photographique du musée Rodin – Pauline Hisbacq.
+![](/posts/images/kiefer/anselm-kiefer-auguste-rodin-rodin-absolution-musee-rodin-paris-france-exposition-2017.jpg)L’Absolution A. RODIN S.3452 Plâtre et tissu H. 190 cm ; L. 95 cm ; P. 75 cm Paris, musée Rodin © agence photographique du musée Rodin – Pauline Hisbacq.
 
 ---
 
@@ -53,18 +68,6 @@ Du 14 mars au 22 octobre 2017.
 
 ---
 
-A lire aussi sur Anselm Kiefer:
-
-* [Rétrospective du Centre Pompidou.](https://www.artefields.net/anselm-kiefer-centre-georges-pompidou/)
-* [Gerhard Richter vs Anselm Kiefer.](https://www.artefields.net/gerhard-richter-et-kiefer/)
-
-⠀
----
-
 * © Anselm Kiefer.
 * Courtesy musée Rodin.
-* Courtesy [BNF](http://www.bnf.fr/fr/evenements_et_culture/expositions/f.kiefer_alchimie.html?ref=artefields.net).
-
-⠀
-
-[Anselm Kiefer et Rodin confrontation - ARTEFIELDS](https://www.artefields.net/anselm-kiefer-rodin/)
+* Courtesy [BNF](http://www.bnf.fr/fr/evenements_et_culture/expositions/f.kiefer_alchimie.html?ref=artefields.net)

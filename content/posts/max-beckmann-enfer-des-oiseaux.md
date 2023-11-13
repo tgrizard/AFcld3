@@ -1,4 +1,19 @@
-# Max Beckmann l'Enfer des oiseaux - ARTEFIELDS
+---
+title: "Max Beckmann l'Enfer des oiseaux"
+date: 2017-10-23
+url: /max-beckmann-enfer-des-oiseaux/
+# layout: ""
+draft: false
+hidden: false
+authors: ["Thierry Grizard"]
+# access: ["Réservé aux abonnés"]
+# source: [""]
+description: "Max Beckmann, Hölle der Vögel (l'Enfer des oiseaux) en vente chez Christie's est parvenu au marteau au prix record de 40,8 M€"
+summary: "Max Beckmann, Hölle der Vögel (l'Enfer des oiseaux) en vente chez Christie's est parvenu au marteau au prix record de 40,8 M€"
+tags: [ "Peinture"]
+categories: ["Arts Visuels"]
+featured_image: "/posts/images/banner/beckmann.jpg"
+---
 ## L’enfer des oiseaux
 
 En 1937 **Max Beckmann** considéré par les nazis comme « peintre dégénéré » se voit contraint de quitter l’Allemagne. Hölle der Vögel (l’Enfer des oiseaux) est l’une des œuvres qu’il réalisa lors de son exil à Amsterdam.
@@ -9,6 +24,4 @@ Au côté de la mère patrie diabolique un autre volatile monstrueux aux ailes d
 
 Cette œuvre de la même époque que Guernica de Picasso occupe une place centrale dans l’expressionnisme allemand. Elle était en vente chez [Christie’s](http://www.christies.com/lotfinder//max-beckmann-holle-der-vogel-6089482-details.aspx?from=salesummary&amp;intObjectID=6089482&amp;lid=1&amp;ref=artefields.net) et a atteint 40,8 M€ au marteau, un prix record pour Max Beckmann.
 
-![](Max%20Beckmann%20l'Enfer%20des%20oiseaux%20-%20ARTEFIELDS/max-beckmann-ho-lle-der-vo-gel-Birds--Hell-painting-nazi-expressionnisme-auction-christie.001.jpg)© Max Beckmann.
-
-[Max Beckmann l'Enfer des oiseaux - ARTEFIELDS](https://www.artefields.net/max-beckmann-enfer-des-oiseaux/)
+![](/max-beckmann-ho-lle-der-vo-gel-Birds--Hell-painting-nazi-expressionnisme-auction-christie.001.jpg)© Max Beckmann.
