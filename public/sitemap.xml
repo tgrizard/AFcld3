@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
+    <lastmod>2023-11-13T18:37:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
+    <lastmod>2023-11-13T18:37:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -38,17 +38,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
+    <lastmod>2023-11-13T18:37:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
+    <lastmod>2023-11-13T18:37:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
+    <lastmod>2023-11-13T18:37:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -128,7 +128,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/arts-visuels/</loc>
-    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
+    <lastmod>2023-11-13T18:37:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -413,7 +413,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/peinture/</loc>
-    <lastmod>2023-11-12T16:14:27+01:00</lastmod>
+    <lastmod>2023-11-13T18:37:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -897,6 +897,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/alberola-prix-fondation-del-duca-private/</loc>
+    <lastmod>2023-11-13T18:06:43+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/eva-nielsen-serigraphie-private/</loc>
     <lastmod>2023-11-12T14:50:35+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -942,6 +947,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/miquel-barcelo-private/</loc>
+    <lastmod>2023-11-13T18:13:29+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/farah-atassi-entropie-decorative-private/</loc>
     <lastmod>2023-11-12T14:56:31+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -952,8 +962,33 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/katinka-lampe-art-paris-art-fair-private/</loc>
+    <lastmod>2023-11-13T18:27:50+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/</loc>
+    <lastmod>2023-11-13T18:23:48+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/R%C3%A9trospective%20Anselm%20Kiefer%20au%20Centre%20Pompidou/</loc>
     <lastmod>2023-11-11T12:38:49+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/ronan-barrot-private/</loc>
+    <lastmod>2023-11-13T18:33:09+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/markus-lupertz-fauvism-leipzig-private/</loc>
+    <lastmod>2023-11-13T18:18:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/giulia-andreani-mythes-et-histoire-private/</loc>
+    <lastmod>2023-11-13T18:37:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
