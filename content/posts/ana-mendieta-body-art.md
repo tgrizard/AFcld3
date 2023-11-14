@@ -1,6 +1,7 @@
 ---
 title: "Ana Mendieta, je suis une sculpture"
 date: 2023-10-23T22:03:27+02:00
+url: /ana-mendieta-body-art/
 draft: false
 authors: ["Thierry Grizard"]
 source: 
@@ -14,8 +15,9 @@ featured_image: "/posts/images/banner/mendieta.jpg"
 ### Une cosmologie à usage personnel
 
 Née en 1948 à La Havane (Cuba) **Ana Mendieta** fut envoyée avec sa sœur Raquelin, pendant la révolution castriste, à 12 ans, dans un orphelinat américain de l’Iowa, alors que son père était emprisonné pour collaboration avec les États Unis. Cet arrachement au milieu familial et le déracinement de l’exil constituèrent une plaie qu’elle s’emploiera à couturer durant toute sa brève existence. La vie et l’œuvre d’Ana Mendieta peuvent en grande partie se lire comme une quête des origines et de son identité, notamment à travers son propre corps et des performances ritualisées aux fortes connotations panthéistes.
-
+{{< imgc >}}
 ![](/posts/images/mendieta/ana-mendieta_body-art_performance.jpg)
+{{< /imgc >}}
 
 ### Le corps comme vecteur de création
 
@@ -28,8 +30,9 @@ Au croisement de ces deux tendances se trouve le mouvement Fluxus qui dans son d
 Ana Mendieta n’est donc pas isolée dans sa démarche, d’autant plus que durant son cursus universitaire (un semestre sur les arts « primitifs » puis un diplôme de peinture), elle assista notamment à des interventions d’artistes tels Vito Acconci, Allan Kaprow, Carolee Schneemann et Nam June Paik.  Ces interventions furent mises sur pied par Hans Breder à l’Université de l’Iowa dans le cadre du programme Intermedia axé sur le Body Art et l’idée que l’activité créatrice doit être centrée sur l’artiste plutôt que sur l’idée abstraite d’Art.
 
 La formation d’Ana Mendieta correspondait parfaitement à ses attentes personnelles qui dès lors fit de son corps, tout du moins durant la première décennie de son activité artistique, son vecteur d’expression. Ses premières performances furent données pour l’essentiel dans le cadre du programme dirigé par Hans Breder dont elle était également le modèle des Body Sculpture.
-
+{{< imgc >}}
 ![](/posts/images/mendieta/ana-mendieta_body-art_transformations_gender-3.jpg)
+{{< /imgc >}}
 
 ### Ana Mendieta une artiste syncrétiste
 
@@ -56,8 +59,9 @@ L’artiste américano cubaine abandonna la peinture après son diplôme car de 
 Le caractère ritualiste du travail d’Ana Mendieta pourrait la rapprocher d’un autre « chaman » de l’art moderne : Joseph Beuys. Mais le performeur allemand, figure de proue du  mouvement Fluxus, donnait à ses actions un caractère politique et très biographique. Or Ana Mendieta dans sa quête des origines et du primordial s’éloigne assez rapidement du politique pour s’orienter vers des préoccupations à la fois plus personnelles et universalistes notamment dans les performances à connotations fusionnelles, comprises comme un retour au sein d’un tout qui l’a dépasse et lui procure le confort d’un abri. Sa démarche est donc plus mystique que politique, plus panthéiste qu’individualiste, plus privée que sociale, moins biographique qu’existentielle. L’évolution de son travail atteste cette inclination à la réduction. Ana Mendieta au cours du temps apure et laisse une place toujours plus importante à une sorte de sentiment agnostique du sacrée. De la première performance politique et anecdotique se rapportant au viol d’une étudiante aux questions de genres puis aux marques, traces et signatures jusqu’aux totems, Ana Mendieta recherche une expression archaïque et universelle de la Nature entendue comme un tout.
 
 C’est ainsi que les Siluetas du début entendues comme marques particulière du corps d’Ana Mendieta deviennent des îles à la dérive rappelant la forme de Cuba, ou encore que les impressions se simplifient, les bras pliés et relevés disparaissent, la tête et les pieds s’affinent, à tel point que la silhouette devient métonymique pour devenir une vulve primordiale, en particulier lorsque le site offre un élément aqueux. Finalement des silhouettes métaphoriques de l’artiste il ne restera que des totems sexuels et vulvaires anonymes, personnifiant une puissance, celle de la Terre Mère, de la fécondité, du retour au ventre fécond auto-générateur.
-
-![](/posts/images/mendieta/ana-mendieta_body-art_chicken-dead.jpg)
+{{< imgc >}}
+![](/posts/images/mendieta/ana-mendieta_body-art_chicken-dead.jpg) 
+{{< /imgc >}}
 
 ### Les signatures et autres traces néolithiques (siluetas) (1973-1980)
 
@@ -72,36 +76,41 @@ Les rites de passage vers l’état scripturaire peuvent prendre tous les aspect
 Le site peut-être également chargé d’histoire, c’est-à-dire du récit des actions de l’homme, et dans le cas d’Ana Mendieta, il ne peut s’agir que des cultures ancestrales antérieures à l’essor de l’occident, relevant en général de ce qu’on a appelé parfois les religions animistes (afro cubaines, amérindiennes, Santeria, etc.). Dans ce cas de figure l’inscription corporelle est à comprendre comme un retour vers des origines historiques et familiales étendues plus ou moins imaginaires.
 
 Entre sculpture vivante ou performance sculpturale, le corps est donc pour Ana Mendieta le vecteur absent d’une forme qu’il a sculpté lors d’un rituel propitiatoire demandant aux « puissances », aux « esprits » (de la Nature, des morts, de la communauté historique) d’intercéder en sa faveur afin qu’elle puisse regagner son unité.
-
+{{< imgc >}}
 ![](/posts/images/mendieta/ana-mendieta_body-art_siluetas-2.jpg)
+{{< /imgc >}}
 
 ### « Earth-Body works », suaires christiques et ex-voto
 
 Les performances d’Ana Mendieta sont des sculptures visuelles d’un site par l’inscription de son corps comme silhouette, inscription, dédicace chamanique et trace. La finalité n’est pas une expérience solitaire ou partagée du primal, de la mort ou de la naissance et renaissance mais une sorte d’ex-voto syncrétiste, tel qu’Ana Mendieta a dû en voir durant son enfance ou lors de ses nombreux périples au Mexique.
 
 Les « Earth-Body » composant les tableaux sculpturaux sont une manière de lier le narratif et le performatif. Le travail de l’artiste américano cubaine est une sorte de narration gestuelle où il est constamment question de son déracinement compris dans tous les sens métaphoriquement possibles. Elle représente et se figure (sculpturalement) le retour à la matrice maternelle, historique, physique ou spirituelle à travers des énoncés performatifs qui sont autant d’actions ritualisées et de gestes.
-
-![](/posts/images/mendieta/ana-mendieta_body-art-9.jpg)
+{{< imgc >}}
+![](/posts/images/mendieta/ana-mendieta_body-art-9.jpg) 
+{{< /imgc >}}
 
 ### Mirage
 
 En 1974 Ana Mendieta se livre à une performance au contenu particulièrement narratif qu’elle intitula Mirage (1974, Iowa, Super 8, non sonorisé). Dans cette action on ne voit que le reflet d’Ana Mendieta (hors cadre) muni d’une prothèse de ventre de femme enceinte. Le miroir est disposé à même le sol dans un environnement naturel apparemment sauvage. Etrange évocation de la Terre Mère, mêlant la biographie, le mythe, la performance et le site, ainsi que la Nature et l’artifice du miroir. La psyché bon marché renvoie vers non pas une déesse mais la simple personne d’Ana Mendieta, nue, présente en tant que sculpture vivante qui détruit la prothèse (l’artifice trompeur) de fécondité pour en extirper des plumes évoquant l’impermanence, la légèreté inconsistante d’un songe — peut-être trompeur — de retour possible vers la Terre Mère et, par la même occasion, d’une renaissance libératrice. Cette accumulation syncrétiste de strates signifiantes est caractéristique du travail de l’artiste, Narcisse, l’artifice, la Nature, le civilisé et le sauvage, le contingent et l’universel, la fécondité et la tromperie stérile, tout se mêle inextricablement, dans une mise ne scène dépouillée et concentrée, qui par ailleurs rappelle dans un registre très diffèrent le parcours de Francesca Woodman.
-
+{{< imgc >}}
 ![](/posts/images/mendieta/ana-mendieta_body-art_mirage.jpg)
+{{< /imgc >}}
 
 #### Fétiches, « Rupestrian Sculptures » et totems
 
 1981, Ana Mendieta crée les « Ruspestrian Sculptures » une série de neuf « Earth Work », d’œuvres telluriques et tutélaires dans le parc de Jaruco (Cuba, près de la Havane). On constate à quel point Ana Mendieta pratique le syncrétisme, la citation implicite et hétérogène. Dans ce parc naturel se mêlent plusieurs couches d’histoire, celle des conquêtes européennes puis américaines, et la révolution cubaine, elle y adjoint sa fascination pour une ère fantasmatique de l’histoire humaine échappant au désenchantement moderne et à l’occident colonisateur. Contemporaine du post-modernisme, héritière de l’art moderne, dans une démarche de recherche des origines presque « new age » Ana Mendieta trace des formes simplifiées de la féminité vue comme source de vie et refuge. L’artiste performeuse « joue » le néolithique, le chamane post-moderne, à la manière d’un Carlos Castaneda particulièrement en vogue à l’époque. De même que le Pop Art a conduit à la réappropriation (voire notre article sur Cindy Sherman du langage vernaculaire de l’ère des Mass Media, Ana Mendieta brasse dans une réappropriation rétrospective, pleine d’anachronismes insoucieux, une grande quantité de codes culturels dits « primitifs » et syncrétistes, magiques. Elle ne se sentait pas incluse dans la société post-industrielle américaine, elle souhaitait en quelque sorte ré-enchanter son présent et retrouver son origine plus ou moins fantasmée, ainsi qu’un supposé fond primordial commun de l’humanité inspiré des théories jungiennes.
-
+{{< imgc >}}
 ![](/posts/images/mendieta/ana-mendieta_body-art_fetish_land-art.jpg)
+{{< /imgc >}}
 
 ### Le corps métaphore
 
 Le corps n’est pas culturel ou naturel il devient les deux, car la dichotomie n’existe que dans le registre d’une appartenance culturelle. Le corps devient objet de conscience et n’advient que par le passage de l’immanence au médiatisé, il devient culturel et donc naturel, beau, laid, désirable, convenable, malade ou sain, vivant ou inerte, organique. Le corps c’est le point de passage des actions immédiates aux actions cultivées aussi bien que dressées. Non seulement l’état de nature est une idéation, voire une utopie, mais le corps de l’homme est aussi immédiatement immergé dans un le milieu social privé et étendu, dans la « polis », sa relation à la nature se résume aux pulsions contraintes, refoulées, ou réglées.
 
 Le body art est une tentative de réinvestir le corps en vue d’une dénonciation, une révélation ou un retour. Chez Ana Mendieta tous ces registres sont profondément associés, car, pour elle, il n’y a pas de corps sans histoire et hors de la cité. Puisque le corps est un vecteur abritant la nature organique comme pulsionnelle, il est une source inépuisable d’expériences révélatrices, il peut dans des performances individuelles nous offrir des retours mystiques et cathartiques plus ou moins chimériques vers un avant de l’aliénation sociale. Les performances ritualistes sont pour Ana Mendieta autant de transmutations matérielles et psychiques, de « communions » apaisantes et libératrices.
-
+{{< imgc >}}
 ![](/posts/images/mendieta/ana-mendieta_body-art_rupestrian_terra-mater.jpg)
+{{< /imgc >}}
 
 #### Citations :
 
@@ -110,8 +119,9 @@ Le body art est une tentative de réinvestir le corps en vue d’une dénonciati
 « In essence my works arte the re-activation of primeval beliefs at work within the human psyché. » – Ana Mendieta.
 
 « My work is basically in the tradition of a Neolithic artist. It has very little to do with most earth art. I’m not interested in the formal qualities of my materials, but their emotionnal and sensual one. » – Ana Mendieta.
-
+{{< imgc >}}
 ![](/posts/images/mendieta/ana-mendieta-body-art-3.jpg)
+{{< /imgc >}}
 
 #### Repères biographiques :
 
