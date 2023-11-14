@@ -17,9 +17,7 @@ cascade:
 ### Sally Mann ou la vie dans les bois
 {{< /text-center >}}
 
-{{< image-center >}}
 [![Sally Man](/posts/images/banner/sally-mann.jpg)](/sally-mann-american-photographer/)
-{{< /image-center >}}
 
 {{< br2 >}}
 
@@ -31,9 +29,7 @@ cascade:
 ### Jeff Wall la photographie mise en scène
 {{< /text-center >}}
 
-{{< image-center >}}
 [![Jeff Wall](/posts/images/banner/jeff-wall.jpg)](jeff-wall-la-photographie-mise-en-scene)
-{{< /image-center >}}
 
 {{< br2 >}}
 
@@ -43,12 +39,10 @@ cascade:
 ### Mood Board
 {{< /text-center >}}
 
-{{< image-center50 >}}
 [![Jeff Wall](/gallery/woodman2.jpg)](francesca-woodman)
 [![Jeff Wall](/gallery/brotherus2.jpg)](elina-brotherus-photography-private)
 [![Jeff Wall](/gallery/broido2.jpg)](raoul-hausmann-dadasophe-et-photographe)
 [![Jeff Wall](/gallery/penrose2.jpg)](polly-penrose-body-as-prop-private)
-{{< /image-center50 >}}
 
 {{< br >}}
 

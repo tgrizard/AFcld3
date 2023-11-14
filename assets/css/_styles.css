@@ -64,13 +64,30 @@
   color: #db9b27;
 }
 
-.image-center {
-  img {
-    width: 95%;
-    margin: auto;
-    display: block;
-    }
+.imgf {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
+.imgd {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+.imgc div {
+  display: block;
+  width: 100%;
+  margin: auto;
+}
+
+.imga {
+  display: block;
+  width: 100%;
+  margin: auto;
+}
+
 
 .ic {
   img {

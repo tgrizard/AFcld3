@@ -19,9 +19,9 @@ featured_image: "/posts/images/banner/borremans4.jpg"
 **Michaël Borremans** et « …ces incidents brillants de clarté formelle et au contenu impénétrable » — Samuel Beckett, « Watt », 1953.
 
 Michaël Borremans (1963/…) dans ce portrait qui n’en est pas un, se livre à un de ses jeux préférés créer l’ambiguïté. Dans ce magnifique tableau, à la facture classique très inspirée de Velasquez, le peintre belge provoque ce qu’il cherche systématiquement: l’arrêt.
-{{< image-center >}}
+{{< imgc >}}
 ![](/posts/images/borremans/michael-borremans-artiste-peintre-peinture-portrait-the-banana.jpg)
-{{< /image-center >}}
+{{< /imgc >}}
 
 © Michael Borremans. « The Banana ».
 

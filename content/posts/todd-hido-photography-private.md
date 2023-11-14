@@ -24,9 +24,9 @@ La photographie est certes une reproduction mécanique du visible, mais l’œil
 
 Todd Hido oscille entre ces deux pôles, il pratique des prises de vues, (au Pentax 6 x 7), sans mise en scène — sinon le cadrage —ni retouches lourdes à la [Gursky](/andreas-gursky-le-vertige-du-reel/). Il part donc d’une base documentaire, notamment sur le suburbain, mais avec le projet délibéré de trouver un contexte propice à suggérer une humeur, une atmosphère, souvent très cinématographique, susceptible d’amener une narration de « l’avant », sur ce qui a précédé ce moment d’étrangeté et qui permettrait d’en saisir précisément le mystère. Tout le travail de Todd Hido relève du « ça me fait penser à ça ! »
 
-{{< image-center >}}
+{{< imgc >}}
 ![](/posts/images/hido/todd-hidophotographyhouse-huntingamerican-photographer.004.jpg)
-{{< /image-center >}}
+{{< /imgc >}}
 
 ### Déambulation et cinématographie
 
