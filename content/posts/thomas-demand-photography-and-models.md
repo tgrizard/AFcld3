@@ -16,15 +16,21 @@ featured: true
 
 **Thomas Demand** (né en 1964 à Munich, Allemagne) est le plus jeune rejeton de la Photographie Objective allemande issue de l’Académie des Beaux-Arts de Düsseldorf.
 
-![](/posts/images/demand/thomas-demandphotographyconceptual-artclearing.001.jpg)© Thomas Demand, « Clearing », 2003.
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographyconceptual-artclearing.001.jpg) {{< /imgc >}}
+
+© Thomas Demand, « Clearing », 2003.
 
 Nonobstant cette filiation, l’artiste américain Ed Ruscha est certainement une des influences les plus notables qui ait marqué le travail de Demand, notamment par le biais des parents de son ami d’enfance Pepper Herbig, collectionneurs d’art contemporain en particulier d’art conceptuel avec des artistes tels que Bruce Nauman, Gerhard Richter, Robert Ryman et Ed Ruscha. Ce dernier fut, en 1970, l’objet d’une exposition de plusieurs de ses livres d’artiste à la galerie Heiner Friedrich à Munich. Or ces livres auto-édités, à la facture sophistiquée, se caractérisent par le paradoxe de montrer sous une forme précieuse et raffinée des photographies de sujets prosaïques — station essence, parking, architecture vernaculaire banale, piscine, etc. — dans une manière « amateur » dépourvue de qualité esthétique. Ce qui intéressait Ed Ruscha n’était rien d’autre que la tension entre une pseudo forme documentaire, l’objet d’édition de luxe à connotation « arty » et la démarche conceptuelle consistant à montrer non pas l’objet mais une forme de désignation, une « manière » de description d’une réalité sociologique s’invalidant elle-même par ses contradictions formelles.
 
-![](/posts/images/demand/thomas-demandphotographyconceptual-artgrotto.001.jpg)© Thomas Demand, « Grotto », 2013.
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographyconceptual-artgrotto.001.jpg) {{< /imgc >}}
+
+© Thomas Demand, « Grotto », 2013.
 
 L’«aesthetic of anti-aesthetics »  d’Ed Ruscha est une des expressions plastiques du nominalisme de l’art conceptuel tel qu’il s’est exprimé avec Joseph Kosuth (« One and Three Chairs », 1965). Une sorte de mise en pratique plastique du courant de pensée issue de la philosophie analytique, notamment du « second » Wittgenstein — que le plasticien allemand aurait lu dans les années 1980 — semble être au cœur de sa future démarche. Autre détail plus contingent mais significatif : l’aspect vide et inhabité des photographies d’Ed Ruscha qui a dû laisser chez Demand une empreinte durable.
 
-![](/posts/images/demand/thomas-demandphotographystaged-photography.009.jpg)© Thomas Demand, « Diving Board », 1994.
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographystaged-photography.009.jpg) {{< /imgc >}}
+
+© Thomas Demand, « Diving Board », 1994.
 
 **L’anti subjectivisme**
 
@@ -32,45 +38,59 @@ A partir de 1987, Demand poursuit à l’Académie des beaux-arts de Munich des 
 
 On voit bien qu’elles sont les influences qui orientent le travail de Thomas Demand, une réflexion sur la représentation notamment dans son rapport aux faits de société et les représentations collectives, de même que l’évacuation de toute forme de pathos, voire même d’humanité.
 
-![](/posts/images/demand/thomas-demandphotographystaged-photography.014.jpg)© Thomas Demand, « Control Room », 2011.
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographystaged-photography.014.jpg) {{< /imgc >}}
+
+© Thomas Demand, « Control Room », 2011.
 
 **Les mandalas de Thomas Demand**
 
 Toute la procédure conceptuelle de Thomas Demand fonctionne comme un décryptage qui dissèque une « Crime Scene », au sens d’un chef d’accusation qui reconstitue le lieu d’un accident, d’un fait qui demande à être examiner. Le photographe allemand dans la plupart des cas s’inspire d’une image de Presse, d’un fait divers ou historique ou d’une représentation collective significative d’un système de valeurs. A l’instar d’un [Gerhard Richter](/gerhard-richter-venise/) qui recopie une image photographique pour se concentrer sur la surface picturale de représentation, Thomas Demand reconstruit en papier et en carton, parfois à l’échelle 1, des lieux qu’il vide de ses occupants, mais aussi de ses références historiques précises. Il effectue un étrange passage du contingent, de l’anecdotique, à l’abstrait sinon l’universel. Le lieu est fidèlement reconstitué mais sous des apparences qui ne retiennent que les formes géométriques et des couleurs réduites à des aplats presque dénués de texture.
 
-![](/posts/images/demand/thomas-demandphotographystaged-photography.016.jpg)© Thomas Demand, « Gangway », 2001.
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographystaged-photography.016.jpg) {{< /imgc >}}
+
+© Thomas Demand, « Gangway », 2001.
 
 Autre transposition étonnante, l’image en deux dimensions prend du volume, elle passe à la tridimensionnalité, elle pourrait de ce fait gagner en réalisme et pourtant ce n’est pas le cas. L’éclairage très soigné mais étal ne fait que souligner ce paradoxe d’un surcroît d’artificialité. L’objet réfèrent de la photographie se mue en une boite de Cornell, un objet suprématiste à la Theo van Doesburg ou une utopie constructiviste à la Lissitzky, une maquette d’architecture dans son abstraction conceptuelle.
 
 L’un des meilleurs exemples de ce procédé de raréfaction conceptuelle est « Raum » (pièce), 1994. Dans cette transposition, sous forme de maquette minimaliste qui expurge l’humain et les scories pour ne retenir que la géométrie, il faut voir une référence implicite au Quartier Général d’Hitler à Rastenburg en 1944 après une tentative d’attentat de la résistance allemande à l’encontre du dictateur. Demand s’appuie pour cette restitution de « scène de crime » sur une photographie où l’on voit des officiers allemands dont Hermann Goering. Or le photographe efface toute présence humaine, mais aussi tous les micro détails de texture et débris, de ce fait il gomme non seulement le moment d’histoire, mais aussi sa violence, l’affect et tous les récits associés au nazisme, à l’héroïsme de Claus von Stauffenberg, ne demeure qu’un chaos abstrait, impersonnel et sans historicité. En dépouillant la scène de son histoire et son affect il souligne l’épaisseur considérable des signifiés et narrations liés à cette image.
 
-![](/posts/images/demand/thomas-demandphotographystaged-photography.029.jpg)© Thomas Demand, « Room », 1994.
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographystaged-photography.029.jpg) {{< /imgc >}}
+
+© Thomas Demand, « Room », 1994.
 
 ---
 
-![](/posts/images/demand/thomas-demandphotographyconceptual-artgoeringhitlerWolfsschanze.001.jpg)
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographyconceptual-artgoeringhitlerWolfsschanze.001.jpg) {{< /imgc >}}
 
 D’autres scènes usent du même ressort, notamment « Büro », 1995, qui reconstitue le sac du siège de la Stasi après la chute du mur de Berlin en 1990, un moment d’histoire mémorable dépouillé de ses récits émotionnels, politiques et idéologiques; autres exemples similaires : « Badezimmer », 1997, évoquant la mort suspecte du politicien allemand Uwe Barschel dont la Une du Spiegel en 1987 souleva un immense scandale ; « Küche », 2004 qui reconstruit la dernière cache à Tikrit où Saddam Hussein fut capturé en 2003 ; « Space Simulator », 2003, reconstruction dans laquelle Thomas Demand donne une image sans pathos de la conquête spatiale.
 
-![](/posts/images/demand/thomas-demandphotographystaged-photography.015.jpg)© Thomas Demand, « Office », 1995.
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographystaged-photography.015.jpg) {{< /imgc >}}
+
+© Thomas Demand, « Office », 1995.
 
 ---
 
-![](/posts/images/demand/thomas-demandphotographystaged-photography.027.jpg)© Thomas Demand, « Bathroom », 1997.
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographystaged-photography.027.jpg) {{< /imgc >}}
+
+© Thomas Demand, « Bathroom », 1997.
 
 Cependant le plasticien allemand n’a pas exclusivement traité de grands événements historiques, il s’est aussi beaucoup penché sur les médias avec en particulier la représentation (« Studio », 1997) du studio télé du premier quiz allemand « What’s My Line » réduit à un décor vide où, sans les indications du photographe, il serait bien difficile d’y voir la référence à un Quizz désuet. Thomas Demand a abordé d’autres sujets, de simples matières ou détails tels que des impacts de balles, la vie de bureau et ainsi de suite.
 
 Le travail de dépouillement et de déréalisation ne s’arrête cependant pas là. En effet, après avoir passer des semaines à se documenter et recréer par réduction une scène photographique dans ses détails les plus significatifs du point de vue strictement formel et structurel, Thomas Demand photographie son travail et le détruit pour ne conserver que des clichés à visée documentaire et des tirages monumentaux à destination des expositions. Le travail de raréfaction du réel est parvenu à son terme, l’image abstraite, constructiviste et vide de sens est rendu à sa bidimensionnalité, sa planéité, sa viduité. Ne demeure que l’architecture de l’événement, le lieu sans son histoire.
 
-![](/posts/images/demand/thomas-demandphotographystaged-photography.003.jpg)© Thomas Demand, « Studio », 1997.
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographystaged-photography.003.jpg) {{< /imgc >}}
+
+© Thomas Demand, « Studio », 1997.
 
 ---
 
-![](/posts/images/demand/thomas-demandphotographyconceptual-artrobert-lembkewhat-s-my-linestudio.001.jpg)
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographyconceptual-artrobert-lembkewhat-s-my-linestudio.001.jpg) {{< /imgc >}}
 
 ---
 
-![](/posts/images/demand/thomas-demandphotographystaged-photography.002.jpg)© Thomas Demand, « Space Simulator », 2003.
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographystaged-photography.002.jpg) {{< /imgc >}}
+
+© Thomas Demand, « Space Simulator », 2003.
 
 **Du général au particulier, les « Dailies »**
 
@@ -78,7 +98,9 @@ Le passage de la déconstruction, reconstruction analytique des « faits » méd
 
 Depuis les années 2000, la virtualisation du réel et l’envahissement de l’image numérique, la critique de l’objectivité photographique est galvaudée, car admise et entérinée par tout un chacun, au point que la traque des « fakes news » est devenu un jeu ordinaire soulignant le scepticisme général à l’égard de l’image pourtant omniprésente.
 
-![](/posts/images/demand/thomas-demandphotographystaged-photographydailies.002.jpg)© Thomas Demand, « Dailies ».
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographystaged-photographydailies.002.jpg) {{< /imgc >}}
+
+© Thomas Demand, « Dailies ».
 
 Le cœur du travail du photographe allemand parait dès lors moins incisif, voire redondant. C’est probablement une des raisons qui l’a poussé à reproduire, non plus des faits historiques mais des images telles que tout un chacun en produit à chaque instant avec son Smartphone.
 
@@ -88,7 +110,9 @@ Dans ces images-signes qui pourraient passer pour des natures mortes contemporai
 
 Or le cœur de cette production pléthorique d’images en réseau est constitué principalement de récits d’identification plus ou moins narcissiques, où la « persona » et son idiosyncrasie sont le message et le véritable réfèrent. Thomas Demand, ayant évacué l’humanité de son propos, se trouve contraint de ne plus représenter dans ses mises en scène minimalistes et auto destructives que les signes de l’activité humaine. Plus exactement, le plasticien allemand restitue de manière raréfiée les petits moments d’émotions esthétiques que tout un chacun capture avec son smartphone pour le partager avec le flux des amis étendus.
 
-![](/posts/images/demand/thomas-demandphotographystaged-photographydailies.006.jpg)© Thomas Demand, « Dailies ».
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographystaged-photographydailies.006.jpg) {{< /imgc >}}
+
+© Thomas Demand, « Dailies ».
 
 Bizarrement la réduction récursive de Thomas Demand semble ici excéder en termes d’image le référent. Le double abstrait, en raison de son esthétisme et de la complexité de la démarche, pèse davantage que son original.
 
@@ -98,4 +122,6 @@ Une image finale qui n’est pas un reflet, mais un signe obtenu par soustractio
 
 Les derniers travaux semblent vouloir quitter la dimension purement critique, maintenant banale, pour se diriger vers une image qui par son esthétique et quelque fois son caractère spectaculaire écrase le contenu référentiel lui-même.
 
-![](/posts/images/demand/thomas-demandphotographyphotographie-objectivenouvelle-objectivit-Neue-Sachlichkeitspeermodelpavillon-allemand.jpg)© Thomas Demand, « Model », 2000.
+{{< imgc >}} ![](/posts/images/demand/thomas-demandphotographyphotographie-objectivenouvelle-objectivit-Neue-Sachlichkeitspeermodelpavillon-allemand.jpg) {{< /imgc >}}
+
+© Thomas Demand, « Model », 2000.

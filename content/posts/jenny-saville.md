@@ -6,6 +6,7 @@ url: /jenny-saville/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/jenny-saville/"]
 description: "Jenny Saville une artiste peintre contemporaine qui questionne la représentation du corps féminin dans une manière monumentale proche de la sculpture."
+summary: "Jenny Saville une artiste peintre contemporaine qui questionne la représentation du corps féminin dans une manière monumentale proche de la sculpture."
 tags: ["Peinture", "Sensorialité", "Corporéité", "Féminisme"]
 categories: ["Arts Visuels"]
 featured_image: "/posts/images/banner/saville.jpg"
@@ -14,7 +15,7 @@ featured_image: "/posts/images/banner/saville.jpg"
 
 **Jenny Saville** (née en 1970), est une artiste peintre d’origine écossaise. Dès ses débuts elle a été suivi comme beaucoup d’autres artistes anglais de la Young British Artists par Charles Saachi, puis son œuvre s’est très rapidement imposée dans le champ de l’art contemporain.
 
-![](/posts/images/saville/jenny-saville-painting-nude-female-feminism-portrait-nude-young-english-artist.500-1024x315.jpg)
+{{< imgc >}} ![](/posts/images/saville/jenny-saville-painting-nude-female-feminism-portrait-nude-young-english-artist.500-1024x315.jpg) {{< /imgc >}}
 
 ---
 
@@ -36,7 +37,7 @@ Une de ses œuvres « Plan » (1993) représente d’ailleurs une femme en contr
 
 Par conséquent les deux versants sont présents: la picturalité baroque et monumentale des chairs d’une part et la mise en question du genre et de la normalité d’autre part.
 
-![](/posts/images/saville/jenny-saville-painting-nude-female-feminism-portrait-nude-young-english-artist.503-1024x315.jpg)
+{{< imgc >}} ![](/posts/images/saville/jenny-saville-painting-nude-female-feminism-portrait-nude-young-english-artist.503-1024x315.jpg) {{< /imgc >}}
 
 ---
 
@@ -54,7 +55,7 @@ Jenny Saville en étant peintre et modèle veut casser la logique de l’objecti
 
 « The process of the making is the subject. » _ Jenny Saville. Dans cette toile néanmoins apparaît immédiatement ce qu’il y a de vraiment personnel chez Jenny Saville et qui ne se limite pas à une démarche politique ou sociale. D’emblée Jenny Saville montre son « obsession » pour la masse des chairs, leur gravité ainsi que l’élasticité/plasticité de l’épiderme qui semble avoir de la peine à maintenir cette abondance de matière. Elle exhibe la monumentalité, certes inscrite dans un engagement et un souci de réappropriations du corps de la femme, mais aussi et plus spécifiquement la monumentalité comme pure expression picturale.
 
-![](/posts/images/saville/jenny-saville-painting-nude-female-feminism-portrait-nude.602-1024x341.jpg)
+{{< imgc >}} ![](/posts/images/saville/jenny-saville-painting-nude-female-feminism-portrait-nude.602-1024x341.jpg) {{< /imgc >}}
 
 ---
 
@@ -66,7 +67,7 @@ Elle monumentalise le modèle non seulement par les proportions picturales – l
 
 La plasticité des chairs permet de travailler la toile peinte comme une sculpture en traitant les masses colorées comme des volumes. Les corps sont comme des paysages de chairs donnant lieu à une peinture sculpturale, qui cherche les masses, les ombres, les failles et les blancs. Les parties lumineuses sont traitées comme des crêtes de paysage.
 
-![](/posts/images/saville/jenny-saville_torso.500.jpg)
+{{< imgc >}} ![](/posts/images/saville/jenny-saville_torso.500.jpg) {{< /imgc >}}
 
 Le « Torso » est un autre bon exemple de ce traitement des chairs comme un paysage de masses charnues: cette masse sculpturale moins élastique, plus musculeuse que d’habitude, où l’énergie du peintre se déverse.  Le tableau est abstrait dans la composition. Mais par delà l’anatomie brossée à grands traits et cohérente il s’agit surtout dans cette pièce des rapports entre les clairs et les obscurs, ici on pourrait presque parler de pleins et de vides, de masses et d’élasticité. Tout dans l’œuvre de Jenny Saville est avant tout une question de poids et de tensions.
 
@@ -86,7 +87,7 @@ C’est une autre des particularités du travail de cette artiste peintre, les c
 
 Mais il y a aussi une touche complètement libérée et abstraite qui travaille les corps comme des paysages. D’autant plus que les dimensions permettent de parcourir de grandes masses de matière, « de chair picturale ».
 
-![](/posts/images/saville/jenny-saville-painting-nude-female-feminism-portrait-nude.600-1024x341.jpg)
+{{< imgc >}} ![](/posts/images/saville/jenny-saville-painting-nude-female-feminism-portrait-nude.600-1024x341.jpg) {{< /imgc >}}
 
 ---
 
@@ -102,7 +103,7 @@ Un autre motif devient également récurrent : la maternité comme lien physique
 
 Apparaissent donc de nouvelles problématiques celles de représenter  et la fluidité du temps, et les transformations dans la durée en un espace pictural unique, mais aussi le lien avec toutes les autres mères, les mères au sens strict comme toutes les maternités de l’histoire de l’art.
 
-![](/posts/images/saville/jenny-saville_maternity.jpg)
+{{< imgc >}} ![](/posts/images/saville/jenny-saville_maternity.jpg) {{< /imgc >}}
 
 « The Mothers » (2011) est assez emblématique de ce point de vue.  Le pluriel du titre n’est pas innocent, Jenny Saville s’inscrit comme mère de ses enfants dans la chaîne des mères réelles, mais elle interroge aussi les représentations de la maternité à fil de l’histoire.
 
@@ -112,7 +113,7 @@ Apparaît aussi des pendants masculins au modèle féminin, de petits garçons, 
 
 ### **L’origine du monde:**
 
-![](/posts/images/saville/jenny-saville_self-portrait.jpg)
+{{< imgc >}} ![](/posts/images/saville/jenny-saville_self-portrait.jpg) {{< /imgc >}}
 
 Une œuvre plus ancienne, « Reflective Flesh » (2004) exprime assez bien cette affirmation du corps de la femme comme génératrice de vie, c’est notamment le cas dans cette œuvre, que certains ont assimilé à l’origine du monde de Courbet.
 
@@ -124,8 +125,8 @@ Il n’y a aucun érotisme, pas même d’exhibitionnisme dans cette toile, seul
 
 Jenny Saville bien que toujours attachée à la question du genre et de la normalité semble vouloir universaliser l’objet de ses recherches, passant du genre à la corporéité, de la figuration d’un instant à l’introduction de la temporalité.
 
-![](/posts/images/saville/jenny-saville_nude_flesh_yba_young-british-artists.jpg)
+{{< imgc >}} ![](/posts/images/saville/jenny-saville_nude_flesh_yba_young-british-artists.jpg) {{< /imgc >}}
 
 ---
 
-![](/posts/images/saville/1655_rembrandt_boeuf--corch-.jpg)
+{{< imgc >}} ![](/posts/images/saville/1655_rembrandt_boeuf--corch-.jpg) {{< /imgc >}}
