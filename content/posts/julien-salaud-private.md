@@ -29,4 +29,5 @@ Une autre caractéristique de l’œuvre de Julien Salaud est le soin apporté a
  
 
 Plus récemment Julien Salaud inspiré par les études de Chantal Jègues-Wolkiewiez, (selon cette ethnologue et astronome les peintures pariétales de la grotte de Lascaux seraient des représentations de la voute celeste), transcrit cette théorie dans des installations in situ développant la representation de la Nature comme évocation du ciel nocturne...
+
 {{< imgc >}} ![](/posts/images/salaud/julien-salaud-hybrid-taxidermie-nature-odd-installation-plasticien-palais-de-tokyo.056.jpg) {{< /imgc >}}
