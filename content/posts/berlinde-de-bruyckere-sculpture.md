@@ -40,7 +40,9 @@ Le travail de Berlinde de Bruyckere est plus visuel que formel, au sens d’un s
 ### Angoisse et déréliction
 L’angoisse est probablement le moteur du travail de Berlinde de Bruyckere. Cette notion se définit traditionnellement par l’inadéquation entre les questions que l’Homme se pose quant aux origines, à la finalité, au sens, au Monde et l’absence de réponse de ce dernier, le constat vertigineux de l’impasse, l’aporie, le non-sens et de la déréliction.
 
+{{< imgc >}}
 ![Berlinde de Bruyckere](/posts/images/bruyckere/erlinde-de-bruyckeresculpturevitrines.001.jpg)
+{{< /imgc >}}
  
 Berlinde de Bruyckere ne tapisse pas seulement les murs de son atelier de références à l’art ancien, on peut y voir également de nombreuses photographies d’actualité, ou de moments tragiques de l’histoire proche et contemporaine. La plasticienne belge ne constate — devant la scène du Monde — que violence, mort, souffrance, destruction, absurdité, pourtant au sein de cette fureur et des agonies (luttes angoissées), elle persiste à voir la « sublime beauté » — au sens presque romantique — de la fragilité en tant que telle, c’est-à-dire un équilibre extrêmement précaire surplombant le chaos.
 La sculpture peinte ou la peinture sculptée de Bruyckere est donc bien une sorte de rituel qui conjure l’angoisse et la destruction par le souci et l’hommage rendu à la perfection de ce qui demeure encore en équilibre. C’est pourquoi l’artiste belge ne pose que rarement ses dépouilles à même les autels ou stèles qui les reçoivent. Elle interpose, très fréquemment, un drap, une couverture, un bandage.  Les supports eux-mêmes sont la plupart du temps étiques et frêles ou désuets.
@@ -48,8 +50,10 @@ La sculpture peinte ou la peinture sculptée de Bruyckere est donc bien une sort
 # Agnus Dei, Dieu est mort
 Berlinde de Bruyckere eut l’occasion lors d’une rétrospective à Bruxelles de voir l’Agnus Dei de **Zurbarán**. Elle fut bouleversée par cette œuvre où le Christ est représenté en victime sacrificielle, en agneau de Dieu, dont le sacrifice sur la croix représente la rédemption des hommes.
 
+{{< imgc >}}
 ![Berlinde de Bruyckere](/posts/images/bruyckere/zurbaranagnus-deipainting.001.jpg)
 Francisco de Zurbarán, Agnus Dei, 1635-40
+{{< /imgc >}}
  
 Le tableau est très réaliste dans le rendu et offre un contraste troublant entre l’animal paisible, la cruauté des liens qui l’assujettissent, l’innocence de l’agneau et l’imminence de son oblation. Une inscription accompagne le tableau : « Il a été mené à la tuerie comme une brebis ; et comme un agneau, muet devant celui qui le tond, il n’a pas ouvert la bouche. », (Actes des Apôtres, 8 :32).
 Le silence innocent et paisible de la victime expiatoire ont subjugué la plasticienne, qui dès lors décida de répondre à cette émotion par un hommage. Cela donna lieu à la pièce intitulée « To Zurbaràn », (2015), qui fut présentée lors de l’installation « No Life Lost » à la galerie Hauser & Wirth, New York.
@@ -67,12 +71,16 @@ Berlinde de Bruyckere explique, d’ailleurs, que s’agissant de la position du
 Ce qui est en cause dans l’angoisse, ce n’est pas tant le monde extérieur que soi-même, la révélation de notre propre finitude et de l’inconnu qui héberge la conscience : le corps et l’organique, lesquels suivent leurs cours indépendamment de notre volonté. C’est cette béance que l’œuvre de Bruyckere exhibe dans le sentiment de la stupeur, mais aussi l’étonnement face au spectacle miraculeux de la vie.
 A partir des années 1990, avant de découvrir et d’utiliser pleinement les possibilités de la cire pour mouler des membres, ou autres éléments récupérés tels que des branches ou troncs d’arbre, la plasticienne couvrait des figures humaines naturalistes, soit de couvertures élimées et crasseuses, soit de chevelures à la longueur démesurée assimilables à des racines surgissant du crâne. Les attitudes de ces personnages — inspirés de la Marie Madeleine de Gregor Erhart — sont la plupart du temps celle de la prostration, du repli sur soi jusqu’à la position fœtale. Ils sont sans visage, sans identité, ils fuient en s’abritant.
 
+{{< imgc >}}
 ![](/posts/images/bruyckere/berlinde-de-bruyckerehairmagdalenasculpturevenicebiennalegregor-erhart.001.jpg)
- 
+{{< /imgc >}}
+
 Avec l’acquisition maîtrisée des moulages en cire peints Berlinde de Bruyckere à explorer encore plus avant le rapport stupéfié au corps. Les figures deviennent hybrides, les métamorphoses et les glissements entre genres et espèces se généralisent. De même, le rapport entre l’extérieur et l’intérieur, l’organique et son enveloppe, devient poreux, les plaies s’ouvrent vers l’inconnu qui se répand sous la forme d’intestins, de branches aux couleurs d’épiderme, de harnais vaginaux.
 Les métamorphoses deviennent le moyen privilégié d’expression sinon d’allégorie, tout du moins de métaphores sur la mort, la corruption, le chaos et l’étrange beauté morbide des nouveaux agencements organiques de la vie qui se poursuit. ~[Sally Mann](/sally-mann-american-photographer/)~ dans sa série « Body Farm » exalte la même fascination pour la transformation des chairs dans la mort. La plasticienne belge va cependant plus loin puisqu’elle imagine, à partir de ses propres obsessions, des agencements improbables qui n’ont d’autres impulsions que le choix esthétique d’une forme, d’un mouvement, d’une texture ou d’une composition. Mais si le choix des éléments est inévitablement arbitraire la finalité demeure constante, un récit métaphorique sur l’équilibre dans toute sa précarité.
 
+{{< imgc >}}
 ![Berlinde de Bruyckere](/posts/images/bruyckere/erlinde-de-bruyckeresculptureroots.002.jpg)
+{{< /imgc >}}
  
 Avec Cripplewood, (2013, Pavillon belge), de Bruyckere à partir du lieu qui motive le projet, en l’occurrence Venise et sa biennale, file une métaphore sur Saint Sébastien, personnage omniprésent dans la peinture italienne et qui dès le 15° siècle se féminise en un jeune éphèbe à l‘attitude extatique plutôt ambiguë. Or ce que retient la plasticienne, c’est l’indifférence de Saint Sébastien à son martyr malgré ses plaies multiples et son enchaînement à une colonne qui pourrait tout aussi bien être un arbre.  Cripplewood est donc une sorte de Saint Sébastien couché, mais dont le tronc, fort et imperturbable, est celui d’un arbre récupéré en France qui fascinait l’artiste par sa force paisible d’arbre mort. Pourtant, Berlinde de Bruyckere et ses assistants ont entrepris lors de son assemblage de le protéger du contact avec le sol, de suturer ses plaies et fractures, il est également abrité d’un dais composé de vieilles couvertures élimées à la main, la plupart de sa surface est composée d’élément en cire aux teintes chairs. La métamorphose métaphorique est totale entre l’histoire de l’art et du lieu, la nature et l’artificiel, l’humain et le végétal, jusqu’à l’allusion évidente aux brancards de la première guerre mondiale, tout ceci dans une pénombre digne de la tradition du clair-obscur.
 
@@ -85,8 +93,9 @@ La série consacrée au mythe d’Actéon en est une illustration frappante. Act
  
 La constante reste la transgression et la métamorphose. C’est ce que retient de Bruyckere en insistant sur l’interprétation sacrificielle, voire christique. Dans sa vision du mythe ne reste que ce que les chiens n’ont pas dévoré : les bois du cerf. Des bois qui ne sont pas fait d’os mais d’un épiderme tavelé, parcouru de veines visibles et d’une teinte vitreuse. L’artiste dépose avec soin — en interposant du tissu — ces reliefs/reliques d’un festin cynégétique sur des autels de fortunes ou en les accrochant à des crocs non pas de chien mais de boucher, (le père de Berlinde de Bruyckere est chasseur et boucher de profession).
 
-
+{{< imgc >}}
 ![Berlinde de Bruyckere](/posts/images/bruyckere/berlinde-de-bruyckereacteonsculpture.003.jpg)
+{{< /imgc >}}
 
 Dans cette série sur Actéon et l’hubris des hommes on voit, avec évidence, les métaphores, analogies, métonymies innombrables, qui structurent le travail de métamorphose à l’œuvre dans les créations de la plasticienne. Glissements sémiotiques qui parcourent tous les registres :
 * Les harnais d’équitation évoquant le vagin telle une plaie qui permet de voir l’inconnu caché au sein de l’enveloppe épidermique.
@@ -94,8 +103,9 @@ Dans cette série sur Actéon et l’hubris des hommes on voit, avec évidence, 
 * Des lambeaux de chair recousus ou mêlés que l’artiste expose et protège comme une relique sous un dôme en verre qui pourrait tout aussi bien être posé sur une étagère de laboratoire médical.
 * Des dépouilles de chevaux écorchés dont il ne reste que le cuir séché tel des feuilles de tabac que l’artiste réserve dans des vitrines à demi ouvertes ou fermées selon le point de vue adopté.
 * Des branches d’arbres morts peintes à l’image de membres humains qu’elle remise dans des armoires vitrées de cuisine ou bibliothèques rustiques désuètes faisant penser à des retables.
-
+{{< imgc >}}
 ![](/posts/images/bruyckere/erlinde-de-bruyckeresculpturevaginavitrinevaserelic.005.jpg)
+{{< /imgc >}}
  
 Berlinde de Bruyckere procède à une sorte de métonymie généralisée, occasion de métamorphoses innombrables, qui se nourrit des angoisses et fantasmes personnels comme de l’histoire de l’art, la religion comme rituelle et le spectacle des violences — perpétuellement répétées — du monde contemporain. La stupéfaction de la sculptrice, peintre et plasticienne, oscille entre la fascination morbide et le dépassement cathartique où l’empathie, le souci et le « soin » de ce qui a été meurtrie sont prépondérants, par-delà le macabre et le trauma.
 
