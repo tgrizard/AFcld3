@@ -1,0 +1,79 @@
+# 
+# César entre modernité et classicisme
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018expansion.001-2.jpg)
+**César Baldaccini**, dit César, est un artiste un peu tombé dans l’oubli, victime de sa surexposition médiatique de son vivant ; de l’ambiguïté de son travail soupçonné, dans les années 1990, d’être plus classique que moderne ; et d’une succession chaotique jetant un doute sur l’authenticité de nombreuses pièces.
+La rétrospective produite par Bernard Blistène au ~[Centre Pompidou](https://www.centrepompidou.fr/)~, rassemblant une centaine d’œuvres, souligne néanmoins un certain retour de l’artiste marseillais sur le marché de l’art et du goût des amateurs comme du grand public pour le « revival » permettant de redécouvrir les mouvements artistiques des années 1960, en l’occurrence, les fameux Nouveaux Réalistes.
+Or ce qui frappe dès l’entrée de la scénographique ouverte, en un seul plateau d’exposition, c’est la diversité de l’œuvre et sa grande sensualité.
+**César est un sculpteur !**
+César a voulu après ses années de formation académique s’éloigner de cet héritage en se revendiquant avec talent, entre autres, de ~[Giacometti](https://www.artefields.net/giacometti/)~ qu’il rencontre en 1946 et Germaine Richier dont il fait la connaissance en 1950.
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018.029.jpg)
+© César.
+ 
+Free public preview↑/↓Only visible to members
+La première partie de l’exposition est donc consacrée à cette filiation. Alors que Giacometti fait preuve d’un certain désespoir très existentialiste, symptomatique de son époque, dans sa tentative obsessionnelle de saisir la silhouette, la figure et l’échelle des choses, César montre à l’opposé beaucoup d’humour, de vitalité et de sensualité. Il emprunte à Giacometti, dans cet état d’esprit dionysiaque partagé à l’époque par un autre grand sculpteur : Takis, la recherche des vides atmosphériques qui font respirer les volumes, et mettent la matière en mouvement.
+Comme chez Giacometti les pièces de jeunesse de César sont toujours dans des équilibres dynamiques dotés d’appuis assurés. Mais alors que le sculpteur Suisse modelait le volume, César par manque de moyen, selon l’hagiographie officielle, et probablement plus profondément par empathie avec l’esprit du temps, (le Pop Art apparu en Angleterre et aux Etats Unis au milieu des années 1950), procède à ses débuts par collages, agrégations, assemblages.
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018.002.jpg)
+© César.
+ 
+Mais le classicisme de César malgré la modernité des matériaux est bien présent, c’est de la sculpture, notamment sur l’équilibre, l’enveloppe et sa texture, le creux et les ombres. La ferraille soudée prélevée dans les décharges, pour moderne qu’elle soit dans son caractère manufacturée et son utilisation comme matériau, reste une matière que le sculpteur façonne, transformant le matériel en matériau précisément.
+**La peau, les ailes et les plaques**
+Une grande partie des sculptures anthropomorphiques, animalières ou les portraits composés de clous, plaques et rebuts métalliques est donc dominée par le souci de l’enveloppe, de la peau et du squelette qui la tend, la déchire, l’évide ou la resserre. C’est évidemment le tribut à Germaine Richier, dans une tonalité cependant bien moins tragique.
+César, à partir de 1956, commence à greffer à ses sujets des ailes qui finiront par devenir indépendantes. Plaques que César surnommait les « boucliers », en effet, on pourrait y voir notamment des boucliers ~[Iatmul](https://www.artefields.net/quai-branly-bouclier-iatmul/)~ sous forme de bas-reliefs à l’ornementation en entrelacs foisonnante et organique, célébrant la vie, la sexualité, la force. Dans une certaine mesure ces volutes décoratives empilées, aux drapés gonflés ou écrasés, semblent annoncer dans le registre plastique les compressions. Par ailleurs, l’on trouve dans ces pièces anthropomorphiques et ces stèles , qu’il s’agisse des ailes ou des Plaques presque totémiques, les prémices de la statutaire d’un ~[Antony Gormley](https://www.artefields.net/antony-gormley-second-body-les-corps-abstraits/)~.
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018.030.jpg)
+© César.
+ 
+
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018.001.jpg)
+© César.
+ 
+
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018.006.jpg)
+© César.
+ 
+**Readymades et Compressions Dirigées**
+En 1960 César découvre la presse hydraulique de la Société Française des ferrailles de Gennevilliers, s’ouvre alors la voie des Compressions. Le sculpteur semble alors s’éloigner de son métier pour emprunter le chemin ouvert par Dada et Marcel Duchamp, celui de l’autonomie de l’œuvre, l’abandon du savoir-faire, de la virtuosité au profit du geste artistique et l’acte performatif qui en nommant un objet le dévoile comme appartenant au champ de l’art.
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018.012.jpg)
+© César.
+ 
+
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018.016.jpg)
+© César.
+ 
+César prélève donc en 1959 des plaques, des boites, autres tuyaux et accessoires métalliques pour les compresser, puis grâce à la grande presse hydraulique il procède de même mais avec une carrosserie de voiture, sans autre intervention que le choix des matériels recyclés et le degré de compression. Il en résulte, en 1960, les premiers parallélépipèdes, un geste singulier à l’époque, (même si John Chamberlain dans une autre perspective intègre des pièces d’automobiles dans ses sculptures dès 1956), qui pourraient si César n’était pas si attaché aux matériaux se rapprocher du minimalisme alors émergeant. Il semble donc s’éloigner apparemment de la sculpture classique. C’est aussi l’année où Pierre Restany crée le groupe des Nouveaux réalistes que l’artiste rejoint immédiatement en compagnie, entre autres, d’Arman, Yves Klein, Raymond Hains, Jean Tinguely, Martial Raysse, Villeglé et Daniel Spoerri.
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018.021.jpg)
+© César.
+ 
+Mais dans le même temps que César procède à ses compressions sous forme de ready-mades il travaille parallèlement à des tableaux bas-reliefs à partir de carrosseries d’Austin et de Renault comprimées et à nouveau récupérées qu’il « colle » comme un éclaté sur une plaque de métal, collage sculptural à la Spoerri censé représenter le portrait de Patrick Walberg, pièce qui prend la direction opposée des hasards objectifs du geste spécifique des Compressions.
+D’ailleurs, César entamera dès les premiers parallélépipèdes « neutres » ce qu’il désignait comme des Compressions Dirigées où il choisissait les éléments de carrosseries, leur disposition et le niveau de compression, dans une recherche de densité de matière, de texture et de teintes fidèles à l’esprit de la sculpture. Le ready-made devient en quelque sorte, c’est le paradoxe, une manière, un outil servant une facture. Cette voie sera poursuivi par bien d’autres sculpteurs, notamment ~[Tony Cragg](https://www.artefields.net/tony-cragg-archeologue-du-present-et-au-dela/)~.
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018.007.jpg)
+© César.
+ 
+**Le Pouce et les empreintes**
+En 1965, César commence le cycle des empreintes sur modèles vivants qu’il agrandit démesurément grâce à la technique du pantographe. L’anecdote veut qu’il ait initié cette démarche pour répondre à la demande de la galerie Claude Bernard en vue d’une exposition intitulée « La Main, de Rodin à Picasso », n’ayant rien d’approprié César découvrant fortuitement le pantographe prend l’empreinte de son pouce et l’agrandit dans une résine rose d’une hauteur de 45 cm. La démarche est en l’occurrence moins brutale que les Compressions mais plus radicale dans la mesure où l’intervention technique et subjective de l’artiste est réduite au minimum, sinon dans la proclamation de son statut de créateur de valeur en glorifiant, de surcroît, une partie de son anatomie dont la connotation phallique ne peut échapper à personne. César multipliera les déclinaisons du Pouce dans de nombreux matériaux et surtout dans une échelle toujours plus gigantesque, puisque ce Pouce atteindra jusqu’à 12 m de hauteur. Il reproduisit la démarche avec le sein d’une danseuse du Crazy Horse faute d’avoir su convaincre Brigitte Bardot et Jane Fonda.
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018.022.jpg)
+© César.
+ 
+
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018.018.jpg)
+© César.
+ 
+**Expansions, du geste à la performance**
+A partir de 1967, César entreprend les Expansions en polyuréthane expansé qu’il a déjà expérimentées avec les moulages du Pouce. Le fluide et l’organique se subsistent au mécanique. De même l’artiste semble s’éloigner quelque peu de l’esprit Nouveaux réalistes pour se rapprocher, sinon dans l’esprit, tout du moins formellement, des happenings et Fluxus.
+Certes le matériau est moderne, il est indépendant de la main de l’artiste qui ne contrôle que très partiellement le processus, pourtant là encore César, après les Compressions dirigées se livre à des Expansions dirigées, en outre il retravaille le fruit du hasard, en effet, il trouva le moyen de fixer la résultante de ses performances mais aussi et surtout il appliqua aux expansions des finitions en laque acrylique après ponçage qui octroient une sensualité évocatrice et particulièrement érotique à ces pièces. Par ailleurs, cette finition très sophistiquée et à l’aspect luxueux semble annoncer le post pop art à la Murakami ou Koons.
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018cu.002.jpg)
+© César.
+ 
+**Les enveloppages**
+La découverte du polyuréthane a permis également à César de se livrer à des expérimentations qu’il considérait comme mineures et qu’il a rapidement délaissées : les « enveloppages », ou quand l’artiste semble se montrer plus duchampien que jamais en emprisonnant dans un matériau mou qui durcit au contact du Fréon des objets appartenant à une autre époque, vieille machine à écrire, ventilateur désuet, objets chinés. Mais là encore les enveloppes sont prétexte à des recherches sur les courbes, l’élasticité et les angles, les objets enserrés paraissent nostalgiques. Quant aux ustensiles vomissant la mousse de polyuréthane, l’humour prend le pas tout en se rapprochant encore une fois de Spoerri.
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018cu.006.jpg)
+© César.
+ 
+**La suite milanaise**
+L’exposition se clôt sur une série de compressions réalisée en 1998, intitulée : « Suite milanaise », ensemble aux couleurs acidulées et aux formes plus douces, moins comprimées, des drapés métalliques aux couleurs suaves, qui montrent à quel point classicisme et modernité pop art se sont intimement mêlées dans le travail de César, mais aussi l’humour du sculpteur qui mêle violence du geste et subtilité des formes et matières. Finalement, César sous des dehors à connotations Dadaïstes et Pop Art c’est bien plus intéressé aux formes et aux matériaux qu’aux signes et l’iconographie de l’âge de la consommation de masse.
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018.009.jpg)
+© César.
+ 
+
+![](cesar-centre-pompidou/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018cu.003-1.jpg)
+© César.
+ 
