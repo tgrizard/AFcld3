@@ -44,12 +44,12 @@ L’angoisse est probablement le moteur du travail de Berlinde de Bruyckere. Cet
  
 Berlinde de Bruyckere ne tapisse pas seulement les murs de son atelier de références à l’art ancien, on peut y voir également de nombreuses photographies d’actualité, ou de moments tragiques de l’histoire proche et contemporaine. La plasticienne belge ne constate — devant la scène du Monde — que violence, mort, souffrance, destruction, absurdité, pourtant au sein de cette fureur et des agonies (luttes angoissées), elle persiste à voir la « sublime beauté » — au sens presque romantique — de la fragilité en tant que telle, c’est-à-dire un équilibre extrêmement précaire surplombant le chaos.
 La sculpture peinte ou la peinture sculptée de Bruyckere est donc bien une sorte de rituel qui conjure l’angoisse et la destruction par le souci et l’hommage rendu à la perfection de ce qui demeure encore en équilibre. C’est pourquoi l’artiste belge ne pose que rarement ses dépouilles à même les autels ou stèles qui les reçoivent. Elle interpose, très fréquemment, un drap, une couverture, un bandage.  Les supports eux-mêmes sont la plupart du temps étiques et frêles ou désuets.
+
 # Agnus Dei, Dieu est mort
 Berlinde de Bruyckere eut l’occasion lors d’une rétrospective à Bruxelles de voir l’Agnus Dei de **Zurbarán**. Elle fut bouleversée par cette œuvre où le Christ est représenté en victime sacrificielle, en agneau de Dieu, dont le sacrifice sur la croix représente la rédemption des hommes.
 
 ![Berlinde de Bruyckere](/posts/images/bruyckere/zurbaranagnus-deipainting.001.jpg)
-
-Francisco de Zurbarán, Agnus Dei, 1635-40.
+Francisco de Zurbarán, Agnus Dei, 1635-40
  
 Le tableau est très réaliste dans le rendu et offre un contraste troublant entre l’animal paisible, la cruauté des liens qui l’assujettissent, l’innocence de l’agneau et l’imminence de son oblation. Une inscription accompagne le tableau : « Il a été mené à la tuerie comme une brebis ; et comme un agneau, muet devant celui qui le tond, il n’a pas ouvert la bouche. », (Actes des Apôtres, 8 :32).
 Le silence innocent et paisible de la victime expiatoire ont subjugué la plasticienne, qui dès lors décida de répondre à cette émotion par un hommage. Cela donna lieu à la pièce intitulée « To Zurbaràn », (2015), qui fut présentée lors de l’installation « No Life Lost » à la galerie Hauser & Wirth, New York.
