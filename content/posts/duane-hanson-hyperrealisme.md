@@ -12,15 +12,15 @@ featured_image: "/posts/images/banner/hanson.jpg"
 ---
 ## Sculpture et moulage
 
-**Duane Hanson** (1925/1996) a débuté sa carrière sous l’influence du Pop Art, de [Robert Rauschenberg](https://www.artefields.net/robert-rauschenberg-vaporous-fantasies/) et de George Segal. Mais alors que Segal crée des êtres « neutres » à partir de moulage sur modèle vivant, Hanson adopte dans le champ de la sculpture la ligne conductrice des peintres hyperréalistes et par conséquent de l’illusionnisme.
+**Duane Hanson** (1925/1996) a débuté sa carrière sous l’influence du Pop Art, de [Robert Rauschenberg](/robert-rauschenberg-vaporous-fantasies/) et de George Segal. Mais alors que Segal crée des êtres « neutres » à partir de moulage sur modèle vivant, Hanson adopte dans le champ de la sculpture la ligne conductrice des peintres hyperréalistes et par conséquent de l’illusionnisme.
 
-![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-13.jpg)© Duane Hanson.
+{{< imgc >}} ![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-13.jpg) {{< /imgc >}}
 
 Il en résulte que le travail de Hanson s’éloigne radicalement du travail de Segal mais également de la sculpture classique, quoiqu’on ait déjà reproché, en 1877, à Rodin d’avoir utilisé pour  « L’âge d’airain » un moulage d’après modèle vivant. La technique n’a donc rien de révolutionnaire ! Dans tous les cas ce procédé implique qu’il n’y a plus de travail de la matière dont l’artiste démiurgique extrait une forme. La sculpture est issue de l’empreinte positive en plâtre d’un négatif, celui du moulage en résine et polyester, ce que l’on désigné sous le terme de « lifecasting ». L’intervention sur le volume est donc minimale, purement technique. Elle consiste essentiellement dans une sorte de direction d’acteur. L’intervention de l’artiste se résume par conséquent à peindre/colorier l’empreinte de la manière la plus réaliste possible en parachevant le tout avec des accessoires issus du commerce.
 
 D’ailleurs, Duane Hanson aurait pu opter pour des accessoires et vêtements modelés, mais précisément dans sa volonté d’illusionnisme parfait et son rejet de la subjectivité il préféra recourir à des éléments manufacturés. On est dans le registre de la reproduction mimétique. Seuls les expressions et la mise en situation révèlent une intention « artistique ». Nous sommes davantage dans une installation que dans la sculpture.
 
-![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-8.jpg)© Duane Hanson.
+{{< imgc >}} ![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-8.jpg) {{< /imgc >}}
 
 ### Duane Hanson et Ron Mueck
 
@@ -32,11 +32,13 @@ Hanson du social, Mueck de l’existentiel, tout en s’attachant l’un et l’
 
 En outre, il ne faut pas oublier un facteur essentiel de l’art de Ron Mueck, les changements d’échelles, qui introduisent un facteur de valeur physique dans le rapport au spectateur, et une dimension ontologique jamais dénuée d’ironie.
 
-![](/posts/images/hanson/ron-mueck-hyperrealism-sculpture-exhibtion-houston-2017-MFA-10-1.jpg)© Ron Mueck. « Young Couple », 2013, mixed media, Yageo Foundation Collection, Taiwan. Courtesy Hauser & Wirth. Photo: Patrick Gries.
+{{< imgc >}} ![](/posts/images/hanson/ron-mueck-hyperrealism-sculpture-exhibtion-houston-2017-MFA-10-1.jpg) {{< /imgc >}}
+
+© Ron Mueck. « Young Couple », 2013, mixed media, Yageo Foundation Collection, Taiwan. Courtesy Hauser & Wirth. Photo: Patrick Gries.
 
 Chez Hanson on trouve pourtant dans les expressions de ses personnages le même abattement, la même fatigue. Toutefois l’optimisme des années soixante et l’impression d’appartenir à une nation et un corps social restent présents. Ces laissés-pour-compte n’en affichent pas moins la certitude d’appartenir à un pays, une nation, un ensemble de valeurs. Ils subissent mais adhèrent. Le propos de Duane Hanson est évidemment de dénoncer le caractère fallacieux de ce système.
 
-![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-28.jpg)© Duane Hanson.
+{{< imgc >}} ![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-28.jpg) {{< /imgc >}}
 
 Chez Mueck la solitude est complète, ses personnages affrontent les grandes questions seuls, sans certitude collective qui puissent les rassurer en procurant un sens à l’aliénation sociale et consumériste.
 
@@ -48,7 +50,7 @@ Le « post-modernisme » repose quant à lui sur l’éclatement des systèmes d
 
 Duane Hanson critique, Ron Mueck constate, observe, dissèque.
 
-![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-29.jpg)© Duane Hanson.
+{{< imgc >}} ![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-29.jpg) {{< /imgc >}}
 
 ### De l’hyperréalisme à l’illusion presque parfaite
 
@@ -56,15 +58,15 @@ L’hyperréalisme de Duane Hanson, qui de nos jours parait parfois imparfait, p
 
 L’hyperréalisme en peinture ne veut pas être illusionniste, dans la reproduction minutieuse du réel, il cherche un effet de décalage par l’excès de détails, de saturations des couleurs. On en revient aux signes et leurs icônes. La [peinture hyperréaliste](/tags/hyperréalisme/) est précisément hyper réelle, elle brille, elle est trop plane et parfaite pour être trompeuse.
 
-![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-17.jpg)© Duane Hanson.
+{{< imgc >}} ![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-17.jpg) {{< /imgc >}}
 
 La sculpture hyperréaliste de Hanson procède également par l’excès, les vêtements sont iconiques d’une catégorie sociale, les détails épidermiques sont poussés à l’extrême, les attitudes représentent des actes symptomatiques, voire caricaturaux. La seule chose qui soit réellement naturelle dans ces sculptures ce sont les poses obtenues par le truchement de moulages sur des modèles. Quoique Duane Hanson est fait évoluer sa technique en passant de moulages en plâtre complets à des fragments d’empreintes, jambes, visages, mains, qui sont assemblés pour finalement aboutir non pas au portrait d’un individu mais à la figuration d’une typologie sociale, les ouvriers, les policiers, les gens du spectacle et ainsi de suite.
 
 ### Moulages et subjectivité
 
-Duane Hanson proclamait fréquemment qu’il rejetait l’idiosyncrasie artistique, l’expression bourgeoise de la subjectivité du créateur. A l’instar du pop art, de l’art conceptuel et du minimalisme, Hanson se situe dans la lignée de l’aversion duchampienne pour l’art rétinien et l’émotion esthétique. Les sculptures faites d’après moulage sans intervention créatrice et dans le souci de reproduction fidèle des détails vestimentaires et épidermiques, relèvent de cette démarche. Ce ne sont pas des sculptures mais des *ready made*. Une sorte de reproduction photo réaliste en volume. L’idée est bien de prélever du réel avec le minimum d’intervention pour l’exposer, le rendre visible pour ce qu’il est et non comme une métaphore artistique. De ce point de vue l’existentialisme des sculptures photo réalistes de Mueck ou l’expressionnisme de [Sam Jinks](https://www.artefields.net/ron-mueck-et-sam-jinks/) sont diamétralement opposés au travail de Duane Hanson. Il n’y a de continuité que formelle, les intentions divergent du tout au tout.
+Duane Hanson proclamait fréquemment qu’il rejetait l’idiosyncrasie artistique, l’expression bourgeoise de la subjectivité du créateur. A l’instar du pop art, de l’art conceptuel et du minimalisme, Hanson se situe dans la lignée de l’aversion duchampienne pour l’art rétinien et l’émotion esthétique. Les sculptures faites d’après moulage sans intervention créatrice et dans le souci de reproduction fidèle des détails vestimentaires et épidermiques, relèvent de cette démarche. Ce ne sont pas des sculptures mais des *ready made*. Une sorte de reproduction photo réaliste en volume. L’idée est bien de prélever du réel avec le minimum d’intervention pour l’exposer, le rendre visible pour ce qu’il est et non comme une métaphore artistique. De ce point de vue l’existentialisme des sculptures photo réalistes de Mueck ou l’expressionnisme de [Sam Jinks](/ron-mueck-et-sam-jinks/) sont diamétralement opposés au travail de Duane Hanson. Il n’y a de continuité que formelle, les intentions divergent du tout au tout.
 
-![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-15.jpg)© Duane Hanson.
+{{< imgc >}} ![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-15.jpg) {{< /imgc >}}
 
 ### Supermarket Woman
 
@@ -72,7 +74,7 @@ Supermarket Lady (1969) une des sculptures les plus connues de Hanson est révé
 
 Le paradoxe est évidemment que le vivant est simulé par de la matière inerte, ce qui est vivant et prend pied dans une autre dimension de la réalité, ce n’est rien d’autre que l’action. Ces simulacres paraissent vivants pas uniquement en raison de leur réalisme mais parce qu’ils sont en train d’agir. La Supermarket Lady surgit comme une trombe de gouaille et d’assurance « vulgaire » dans la quiétude du monde de l’art. Cette sculpture est un happening sous forme de *ready made*, ce n’est pas une peinture sociale c’est un fragment de social brut, ce n’est pas un portrait psychologique mais une typologie sociologique, ce n’est pas une métaphore mais une description visant à la neutralité, ce n’est pas émotionnel mais en action.
 
-![](/posts/images/hanson/supermarket-lady-duane-hanson-hyperrealism.jpg)© Duane Hanson. Supermarket Lady.
+{{< imgc >}} ![](/posts/images/hanson/supermarket-lady-duane-hanson-hyperrealism.jpg) {{< /imgc >}}
 
 ### Action et haeccéités
 
@@ -80,13 +82,13 @@ Les sculptures de Duane Hanson sont donc toujours prises en train d’agir y com
 
 L’intention du sculpteur américain était de provoquer le spectateur, ce qui est particulièrement évident à ses débuts quand il mettait en scène des événements relatifs à la guerre du Vietnam ou les émeutes raciales des années 70.
 
-![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-19.jpg)© Duane Hanson.
+{{< imgc >}} ![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-19.jpg) {{< /imgc >}}
 
 Mais la provocation en vue de susciter un choc et une prise de conscience n’était pas le seul but de Duane Hanson.
 
 Dans la période postérieure il abandonne l’idée de la « performance » par délégation, d’une sculpture proche dans l’esprit des « happenings » pour rechercher une interaction plus subtile avec le public. En disposant ses pièces à l’image d’individus réellement présents dans l’espace d’exposition, Duane Hanson cherche à surprendre, tout en essayant de susciter une empathie, une interaction réelle dans le parcours. C’est ainsi qu’un « Security Guard » est appuyé nonchalamment contre un mur, que « Man with Handtruck » pousse son diable parmi les visiteurs, ou que « Queenie II » effectue le ménage dans l’enceinte du musée ou la galerie. Il y a bien un effet d’effraction mais aussi une forme d’intersubjectivité.
 
-![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-4.jpg)© Duane Hanson.
+{{< imgc >}} ![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-4.jpg) {{< /imgc >}}
 
 Chez Mueck, par exemple, les œuvres se présentent plutôt comme des instants, des haeccéités incongrûment transplantées et offertes au voyeurisme du visiteur.
 
@@ -96,13 +98,13 @@ Cette différence assez fondamentale se rapporte aussi au cinéma de l’époque
 
 Le cinéma de Duane Hanson est celui du Cinémascope de Don Siegel ou Zabriskie Point d’Antonioni, pour Mueck nous sommes plutôt dans Lynch ou Wenders, on passe d’un cinéma d’action à un cinéma d’ambiance. Les systèmes narratifs sont néanmoins assez identiques. Ils relèvent d’une forme de montage cinématographique, la séquence de l’exposition est dynamitée par un plan de coupe brutal, une ellipse qui fait surgir la surprise en introduisant quelque chose d’étranger au lieu.
 
-![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-24.jpg)© Duane Hanson.
+{{< imgc >}} ![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-24.jpg) {{< /imgc >}}
 
 ### Jeff Koons, Maurizio Cattalan et Duane Hanson
 
 Jeff Koons est davantage que Ron Mueck le véritable héritier de Duane Hanson. On pourrait y inclure Cattalan. Ce n’est évidemment pas un hasard, l’un comme l’autre sont des artistes post Pop Art dont le moteur essentiel est l’ironie et la subversion. Car si le Pop Art n’est pas révolutionnaire il est subversif et c’est, au final, ce qui définit le mieux l’œuvre de Hanson.
 
-![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-5.jpg)© Duane Hanson.
+{{< imgc >}} ![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-5.jpg) {{< /imgc >}}
 
 ### Biographie
 
@@ -112,4 +114,6 @@ A partir de 1970 Duane Hanson s’engagera dans une production moins polémique 
 
 Il meurt d’un cancer le 6 janvier 1996
 
-![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-25.jpg)© Duane Hanson.
+© Duane Hanson.
+
+{{< imgc >}} ![](/posts/images/hanson/duane-hanson-sculpture-hyperrealism-pop-art.033-25.jpg) {{< /imgc >}}
