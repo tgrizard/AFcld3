@@ -2,7 +2,7 @@
 title: "Gerhard Richter, les flous de l'hyperréalisme"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /gerhard-richter-hyperrealisme-flou/
+url: /gerhard-richter-hyperrealisme-flou/
 authors: ["Thierry Grizard"]
 source: 
 description: "Gerhard Richter dans ses « peintures photographiques » procède par dénégation du procédé qu’il emploie, à savoir la « manière » hyperréaliste. "

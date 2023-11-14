@@ -2,7 +2,7 @@
 title: "Gerhard Richter, Eisberg, un tableau magistral du peintre allemand"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /gerhard-richter-iceberg/
+url: /gerhard-richter-iceberg/
 authors: ["Thierry Grizard"]
 source: 
 description: "Eisberg, 1982 avec ce tableau complexe et ambigu l'artiste peintre contemporain allemand atteint le sommet de sa période photo réaliste."

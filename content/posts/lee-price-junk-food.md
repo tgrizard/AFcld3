@@ -2,7 +2,7 @@
 title: "Lee Price, les selfies hyper réels de la junk food"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /lee-price-junk-food/
+url: /lee-price-junk-food/
 authors: ["Thierry Grizard"]
 source:
 description: "Junk Food et description hyper réelle de la compulsion voici le thème de la série d'autoportraits réalisés par Lee Price depuis bientôt 7 années."

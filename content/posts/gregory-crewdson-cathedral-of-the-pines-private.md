@@ -2,7 +2,7 @@
 title: "Gregory Crewdson The Beckett pictures"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /gregory-crewdson-cathedral-of-the-pines-private/
+url: /gregory-crewdson-cathedral-of-the-pines-private/
 authors: ["Thierry Grizard"]
 source:
 description: "Gregory Crewdson appartient à la mouvance de la stage photography. Une photographie inspirée du cinéma et qui met en scène l'étrange, le quotidien, etc"

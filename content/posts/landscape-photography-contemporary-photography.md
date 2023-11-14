@@ -2,7 +2,7 @@
 title: "Photographie et paysages photographiques"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /landscape-photography-contemporary-photography/
+url: /landscape-photography-contemporary-photography/
 type: page
 authors: ["Thierry Grizard"]
 source: 

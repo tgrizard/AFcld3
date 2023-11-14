@@ -1,7 +1,7 @@
 ---
 title: "Henry Wessel déambulations californiennes"
 date: 2019-06-10
-# url: /henry-wessel-photography-california-private/
+url: /henry-wessel-photography-california-private/
 # layout: ""
 draft: false
 hidden: false

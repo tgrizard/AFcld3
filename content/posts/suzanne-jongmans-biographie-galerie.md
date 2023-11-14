@@ -4,7 +4,7 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 authors: ["Thierry Grizard"]
 source:
-# url: /suzanne-jongmans-biographie-galerie/
+url: /suzanne-jongmans-biographie-galerie/
 # access: ["Réservé aux abonnés"]
 description: "Suzanne Jongmans recycle en photographie les grands maîtres de la peinture renaissance en les parant des rebuts de la société de consommation de masse."
 tags: ["Conceptuel", "Théâtralité", "Palimpseste"]

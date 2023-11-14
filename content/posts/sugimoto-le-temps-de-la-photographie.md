@@ -2,7 +2,7 @@
 title: "Sugimoto, le temps de la photographie"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /sugimoto-le-temps-de-la-photographie/
+url: /sugimoto-le-temps-de-la-photographie/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/sugimoto-le-temps-de-la-photographie/"]
 description: "Hiroshi Sugimoto un des photographes conceptuels les plus connus ne capte pas de qu'il a devant l'objectif mais le temps qui s'écoule au-delà du présent."

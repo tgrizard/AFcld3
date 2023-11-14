@@ -2,7 +2,7 @@
 title: "Antony Gormley sculpture contemporaine et corps abstraits"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /antony-gormley-second-body-les-corps-abstraits/
+url: /antony-gormley-second-body-les-corps-abstraits/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/antony-gormley-second-body-les-corps-abstraits/"]
 description: "Antony Gormley un des sculpteurs contemporains les plus importants a renouvelé la statuaire faisant du corps humain comme réseau le centre de sa démarche."

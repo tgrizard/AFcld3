@@ -2,7 +2,7 @@
 title: "Vivian Maier entre ombres et miroirs"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /vivian-maier-street-photography/
+url: /vivian-maier-street-photography/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/vivian-maier-street-photography/"]
 description: "Vivian Maier, de manière posthume, est passée en quelques années de l'anonymat total à celui de figure centrale de la Street Photography, bien malgré elle ! "

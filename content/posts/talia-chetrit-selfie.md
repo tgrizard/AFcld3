@@ -2,7 +2,7 @@
 title: "Talia chetrit et l'ego-portrait"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /talia-chetrit-selfie/
+url: /talia-chetrit-selfie/
 authors: ["Thierry Grizard"]
 description: "Talia Chetrit est une jeune artiste conceptuelle américaine qui fait de l'image photographiée et de l'objectif qui la capture le centre de sa démarche. "
 tags: ["Conceptuel", "Corporéité", "Féminisme", "Iconographie"]

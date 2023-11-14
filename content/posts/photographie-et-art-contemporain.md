@@ -2,7 +2,7 @@
 title: "Photographie et art contemporain"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /photographie-et-art-contemporain/
+url: /photographie-et-art-contemporain/
 type: page
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/photographie-et-art-contemporain/"]

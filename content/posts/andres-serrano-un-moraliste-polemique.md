@@ -2,7 +2,7 @@
 title: "Andres Serrano photographe et moraliste"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /andres-serrano-un-moraliste-polemique/
+url: /andres-serrano-un-moraliste-polemique/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/andres-serrano-un-moraliste-polemique/"]
 description: "La carrière de Andres Serrano s’est construite sur le scandale or l'artiste américain est surtout un polémiste imprégné de religion et de spiritualité."

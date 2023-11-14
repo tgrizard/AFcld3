@@ -2,7 +2,7 @@
 title: "Jenny Saville, du corps féminin à l’origine du monde"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /jenny-saville/
+url: /jenny-saville/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/jenny-saville/"]
 description: "Jenny Saville une artiste peintre contemporaine qui questionne la représentation du corps féminin dans une manière monumentale proche de la sculpture."

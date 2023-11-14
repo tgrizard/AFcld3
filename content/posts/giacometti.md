@@ -2,7 +2,7 @@
 title: "Giacometti, l'aporie du portrait"
 date: 2023-10-23T22:03:27+02:00
 draft: true
-# url: /giacometti/
+url: /giacometti/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/giacometti/"]
 description: "Giacometti: “L'idée de faire une peinture ou une sculpture de la chose telle que je la vois ne m'effleure plus.” "

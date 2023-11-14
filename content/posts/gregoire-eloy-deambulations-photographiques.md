@@ -2,7 +2,7 @@
 title: "Grégoire Eloy, déambulations photographiques"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /gregoire-eloy-deambulations-photographiques/
+url: /gregoire-eloy-deambulations-photographiques/
 source: ["https://www.artefields.net/gregoire-eloy-deambulations-photographiques/"]
 authors: ["Thierry Grizard"]
 description: "Grégoire Eloy est un photographe documentaire qui a franchi le pas de l'objectivité prétendue à l'intelligence sensible de ce dont il témoigne. "

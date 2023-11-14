@@ -2,7 +2,7 @@
 title: "Araki, une mythologie de l’intime"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /araki/
+url: /araki/
 authors: ["Thierry Grizard"]
 source: 
 description: "Nobuyoshi Araki est un narrateur plus qu'un photographe, il a fait de son oeuvre une mythologie personnelle en forme de journal photographique apocryphe."

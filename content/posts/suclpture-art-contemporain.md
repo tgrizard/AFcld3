@@ -2,7 +2,7 @@
 title: "Berlinde de Bruyckere, sculpture de l'angoisse"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /berlinde-de-bruyckere-sculpture/
+url: /berlinde-de-bruyckere-sculpture/
 authors: ["Thierry Grizard"]
 source: 
 description: "Berlinde de Bruyckere est une plasticienne et sculptrice qui a fait de l'angoisse face à la violence, la souffrance et la mort, le cœur de son travail."

@@ -2,7 +2,7 @@
 title: "Ron Mueck et Sam Jinks dialoguent avec l'histoire de l'art"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /ron-mueck-sam-jinks/
+url: /ron-mueck-sam-jinks/
 authors: ["Thierry Grizard"]
 source: 
 description: "Ron Mueck, Sam Jinks dialoguent avec les grands maîtres, Le Caravage, Michel Ange et Arnold Böcklin. Un échange qui renouvelle le sens de ces chefs d'œuvres."

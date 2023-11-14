@@ -1,7 +1,7 @@
 ---
 title: 'Sara Punt photographier et sculpter les corps'
 date: 2023-10-23T22:03:27+02:00
-# url: /sara-punt-photographier-et-sculpter-les-corps/
+url: /sara-punt-photographier-et-sculpter-les-corps/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/sara-punt-photographier-et-sculpter-les-corps/"]
 description: "Sara Punt est une jeune photographe néerlandaise qui appréhende la photographie comme une chorégraphie qui sculpte et stylise les corps. "

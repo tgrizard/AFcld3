@@ -2,7 +2,7 @@
 title: "Gerhard Richter et la photographie"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /gerhard-richter-et-la-photographie/
+url: /gerhard-richter-et-la-photographie/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/gerhard-richter-et-la-photographie/"]
 description: "Gerhard Richter en se soumettant à la reproduction d'une photographie prétend se libérer de la subjectivité du motif pour ne se consacrer alors qu'à peindre"

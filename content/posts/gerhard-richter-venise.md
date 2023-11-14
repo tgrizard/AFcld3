@@ -2,7 +2,7 @@
 title: "Gerhard Richter, série vénitienne"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /gerhard-richter-venise/
+url: /gerhard-richter-venise/
 source: 
 authors: ["Thierry Grizard"]
 description: "Gerhard Richter dans la série consacrée à Venise donne une sorte d'image concentrée de sa carrière où l'essentiel est la surface picturale. "

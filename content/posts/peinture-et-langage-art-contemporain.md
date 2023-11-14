@@ -2,7 +2,7 @@
 title: "Peinture et langage dans l'art contemporain"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /peinture-et-langage-art-contemporain/
+url: /peinture-et-langage-art-contemporain/
 type: page
 authors: ["Thierry Grizard"]
 source: 

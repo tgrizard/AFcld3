@@ -2,7 +2,7 @@
 title: "Gerhard Richter, monographie et atlas"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /gerhard-richter-atlas-et-monographie/
+url: /gerhard-richter-atlas-et-monographie/
 type: page
 authors: ["Thierry Grizard"]
 source: 

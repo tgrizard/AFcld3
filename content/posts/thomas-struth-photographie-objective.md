@@ -2,7 +2,7 @@
 title: "Thomas Struth ou la photographie de la banalité"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /thomas-struth-photographie-objective/
+url: /thomas-struth-photographie-objective/
 authors: ["Thierry Grizard"]
 source: 
 description: "Thomas Struth est un des représentants majeurs de la Photographie Objective allemande il se caractérise par une photographie suscitant d'étranges décalages. "

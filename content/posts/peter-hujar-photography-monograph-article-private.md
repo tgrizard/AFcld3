@@ -2,7 +2,7 @@
 title: "Peter Hujar portraits de l'underground new-yorkais"
 date: 2023-10-28
 draft: false
-# url: /peter-hujar-photography-monograph-article-private/
+url: /peter-hujar-photography-monograph-article-private/
 authors: ["Thierry Grizard"]
 access: [["Réservé aux abonnés"]]
 source: ["/andres-serrano-un-moraliste-polemique/"]

@@ -2,7 +2,7 @@
 title: "David Altmejd. Artiste de l'entropie"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: david-altmejd-entropie
+url: david-altmejd-entropie
 authors: ["Thierry Grizard"]
 source:
 description: "David Altmejd, dans cette œuvre, Untitled 2 (Bronze Bodybuilders), on retrouve toujours la même obsession pour la narration et les boucles temporelles."

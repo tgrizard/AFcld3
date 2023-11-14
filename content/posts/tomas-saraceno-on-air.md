@@ -2,7 +2,7 @@
 title: "Tomàs Saraceno et les araignées du musée"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /tomas-saraceno-on-air/
+url: /tomas-saraceno-on-air/
 authors: ["Thierry Grizard"]
 source: 
 description: "Tomàs Saraceno l'architecte plasticien nous propose dans ses projets des utopies visibles et palpables la plupart lui sont inspirées par les araignées."

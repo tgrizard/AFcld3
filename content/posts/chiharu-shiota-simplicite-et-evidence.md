@@ -2,7 +2,7 @@
 title: "Chiharu Shiota simplicité et évidence"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /chiharu-shiota-simplicite-et-evidence/
+url: /chiharu-shiota-simplicite-et-evidence/
 authors: ["Thierry Grizard"]
 source:
 description: "Chiharu Shiota est une plasticienne japonaise mondialement connue pour ses installations épurées son œuvre s'avère cependant plus complexe que cette image."

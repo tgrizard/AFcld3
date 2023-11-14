@@ -2,7 +2,7 @@
 title: "La photographie objective"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-# url: /dossier-la-photographie-objective/
+url: /dossier-la-photographie-objective/
 type: page
 authors: ["Thierry Grizard"]
 description: "Le courant de la Photographie Objective a été un des mouvements fondateurs de la photographie contemporaine dans son approche déconstructiviste "
