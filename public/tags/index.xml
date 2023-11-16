@@ -6,31 +6,13 @@
     <description>Recent content in Tags on ARTSTREAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://artstream.net/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Conceptuel</title>
-      <link>https://artstream.net/tags/conceptuel/</link>
-      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://artstream.net/tags/conceptuel/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 28 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://artstream.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formalisme</title>
       <link>https://artstream.net/tags/formalisme/</link>
-      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://artstream.net/tags/formalisme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photographie Objective</title>
-      <link>https://artstream.net/tags/photographie-objective/</link>
-      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://artstream.net/tags/photographie-objective/</guid>
       <description></description>
     </item>
     
@@ -49,6 +31,24 @@
       <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://artstream.net/tags/underground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptuel</title>
+      <link>https://artstream.net/tags/conceptuel/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://artstream.net/tags/conceptuel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photographie Objective</title>
+      <link>https://artstream.net/tags/photographie-objective/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://artstream.net/tags/photographie-objective/</guid>
       <description></description>
     </item>
     
