@@ -16,7 +16,9 @@ featured_image: "/posts/images/banner/shiota.jpg"
 
 **Chiharu Shiota**transmet dans son travail un message très simple qui pourrait paraître presque naïf. Elle veut évoquer dans ces fils qu’elle tend la solitude existentielle, la difficulté à communiquer et la recherche de sens. Or si le message délivré et les moyens utilisés sont élémentaires l’effet esthétique est toujours saisissant, complexe, riche et profond.
 
-![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-2.jpg)© Chiharu Shiota.
+{{< imgc >}} ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-2.jpg) {{< /imgc >}}
+
+
 
 #### Le langage des liens
 
@@ -32,7 +34,8 @@ L’interprétation formelle de Shiota se restreint dans ses variations scéniqu
 ⠀
 Les barques de toile, ou bien élaborées en bois, totalement délabrées, deviennent les véhicules vers ces destinations balbutiantes ou inconnues. Elles peuvent cependant être échouées, comme lors de la 56° Biennale de Venise avec « The Key In The Hand » au Pavillon Japonais, ou au contraire, sillonner les fils de la vie et de la mémoire. C’était notamment le cas pour l’installation « Where are we going ? » au **Bon Marché**.
 
-![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-10.jpg)© Chiharu Shiota. « Where are we going ? », exposition au Bon Marché, 2017. Shiota dans cette installation alterne tunnels arachnéens aux tissages serrés tels des ombilics et des barques composées de plumes blanches qui semblent emportées dans un tourbillon vers des hauteurs que chacun lira selon ses propres résonances.
+{{< imgc >}} ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-10.jpg) {{< /imgc >}}
+ « Where are we going ? », exposition au Bon Marché, 2017. Shiota dans cette installation alterne tunnels arachnéens aux tissages serrés tels des ombilics et des barques composées de plumes blanches qui semblent emportées dans un tourbillon vers des hauteurs que chacun lira selon ses propres résonances.
 
 Les fils tendus sont les parcours associant l’ensemble de ce vocabulaire. Ils constituent une structure arachnéenne. Autrement dit, il s’agit ici d’une syntaxe relativement complexe, où l’indéfini s’articule avec des concepts plutôt banals.
 
@@ -42,7 +45,7 @@ La symbolique est donc presque triviale. Elle parle directement à tout un chacu
 
 On se retrouve davantage dans l’allégorie, ou bien dans la narration à caractère « mythologique ». L’idée même se formule sous forme de généalogies ou de récits familiaux. Et le concept, vu sous cet angle, n’est qu’une sorte de prosopopée, renvoyant à *fictio personae*.
 
-![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-3.jpg)© Chiharu Shiota.
+{{< imgc >}} ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-3.jpg) {{< /imgc >}}
 
 Des questions simples, mais aux réponses innombrables développées sous forme de récits visuels et sensoriels, forment une herméneutique fondée essentiellement sur les émotions. Ce sont des expériences immersives auxquelles Shiota nous convie. Chacune d’entre elles est un parcours émotionnel singulier qui repose sur les échos intimes qu’instillent ces récits, comme dans les grands mythes, grâce à leur universalité interprétée par des formes simples de narration.
 
@@ -55,7 +58,7 @@ Lesdits parcours immersifs, proposés par l’artiste, sont en effet présents d
 * Les tissages de fils passent du dense au vide, et symbolisent le fil de l’existence où chacun s’emploie à communiquer pour ne pas être seul. Ainsi, on peut voir à travers le tissage, entrapercevoir d’autres silhouettes mais aussi les entendre. La sphère de l’intersubjectivité et ses errances est donc rendue évidente de manière physique.
 * Enfin, ces installations sont précaires, fragiles, mouvantes et éphémères. Elles réagissent aux mouvements et flux environnants, exactement comme le cours des vies.
 
-⠀![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-4.jpg)© Chiharu Shiota.
+⠀{{< imgc >}} ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-4.jpg) {{< /imgc >}}
 
 Certes, cette manière de s’exprimer comporte beaucoup de pathos, mais sans pesanteur, pas d’orchestre grandiloquent, ni trop de noirceur post-moderne. Il s’agit plutôt d’une musique de chambre. Ces installations font quelques fois penser à un décor surdimensionné qu’un enfant angoissé aurait monté de bric et de broc, une sorte de refuge et une forme de sublimation des peurs les plus intimes.
 
@@ -67,7 +70,7 @@ Outre ces grandes installations, Chiharu Shiota exécute également des tableaux
 
 Il y est souvent question d’une métaphore du corps avec ses innombrables courants qui le traversent, une sorte d’image intime de l’infini. C’est un peu comme lorsque l’on ferme les yeux et que l’on voit sur fond rougeâtre des bestioles glisser sous nos paupières dans des pulsations inquiétantes. Cela donne une image de cet infini plus ou moins chaotique qu’est notre corps.
 
-![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-5.jpg)© Chiharu Shiota.
+{{< imgc >}} ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-5.jpg) {{< /imgc >}}
 
 Le pendant de ces tableaux blancs et rouges sont les toiles blanches tissées de fils noirs. L’infini est ici celui du cosmos, mais l’image est au fond identique, comme si Shiota voulait nous signifier que les deux sont des abîmes, où l’on peut, de vertige, verser dans le vide.
 
@@ -77,17 +80,19 @@ Dans ces cas de figure, la créatrice développe sous forme de cartographies fil
 
 Il y a un autre aspect du travail de la plasticienne japonaise qui pourrait passer pour un commentaire des grandes installations. En effet, Shiota réalise également des reliquaires de forme cubique la plupart du temps. Ces parallélépipèdes sont habillés fréquemment d’un réseau très dense de fils noirs. Dans ces toiles d’araignée du souvenir sont enchâssés régulièrement des jouets d’antan, vêtements du passé, objets obsolètes, etc. Difficile de déterminer s’il s’agit d’un cocon protecteur qui préserve de l’oubli ou le redoutable tissage d’une déité invisible.
 
-![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-6.jpg)© Chiharu Shiota. Courtesy galerie Daniel Templon.
+{{< imgc >}} ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-6.jpg) {{< /imgc >}}
 
 Étant donné la part importante d’angoisse surgissant de ce travail, on constate qu’il n’est donc pas seulement éthéré et élégant. Prenons l’exemple de l’installation « Sleeping is like death », exposition présentée à la galerie bruxelloise Daniel Templon, en 2016. L’image de dormeurs, plus ou moins agités, alités dans des lits d’hôpitaux, réunis entre eux par un amas de fils noirs parfois denses comme la poigne du Destin, parfois aussi ténus que la fragilité de l’existence, confirme bien la part d’ombre dans le travail de l’artiste.
 
-![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-9.jpg)© Chiharu Shiota, « Sleeping is like death ». Exposition à la galerie Daniel Templon, Bruxelles, 2016. Ici Chiharu Shiota met en scène les traces mémorielles qui hantent les lits d’hôpitaux où l’on nait et meurt. C’est à la fois sombre et positif, puisque Shiota évoque la perte, l’absence et la mémoire qui est une forme de perpétuation. L’artiste japonaise précise que les performances sont une manière d’achever une installation qui ne lui parait pas aboutie. Les vivants peuplent la scène de cette installation, autrement ils viennent habiter les fantasmes du plasticien.
+{{< imgc >}} ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-9.jpg) {{< /imgc >}}
+© Chiharu Shiota, « Sleeping is like death ». 
+Exposition à la galerie Daniel Templon, Bruxelles, 2016. Ici Chiharu Shiota met en scène les traces mémorielles qui hantent les lits d’hôpitaux où l’on nait et meurt. C’est à la fois sombre et positif, puisque Shiota évoque la perte, l’absence et la mémoire qui est une forme de perpétuation. L’artiste japonaise précise que les performances sont une manière d’achever une installation qui ne lui parait pas aboutie. Les vivants peuplent la scène de cette installation, autrement ils viennent habiter les fantasmes du plasticien.
 
 #### La part obscure
 
 Par ailleurs les premiers travaux de Shiota _dont certaines performances_ étaient assez violentes et mortifères. Elle utilisait alors le sang, la terre, la boue, l’eau ruisselante, le feu et s’exposait nue à des confrontations intenses avec la matière. Ces expérimentations de jeunesse portent l’empreinte évidente du mouvement Gutai particulièrement fondateur de l’art contemporain mais aussi d’artistes comme [Ana Mendieta](/ana-mendieta-body-art/), Boltanski ou Yayoi Kusama pour ses premiers « happening ».
 
-![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-7.jpg)© Chiharu Shiota.
+{{< imgc >}} ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-7.jpg) {{< /imgc >}}
 
 Les installations rouges parcourues par des barques (« The key in the hand », 2015) ou clairsemées de chaussures (« If the shoe fits », 2014) ou les valises abandonnées (« Searching for a Destination », 2014) procèdent de la même dynamique plutôt sombre. C’est à l’opposé de ce qui a été mis en place au Bon Marché et qui constitue selon l’aveu même de l’artiste une nouvelle voie, moins obscure peut-être.
 
@@ -97,7 +102,9 @@ La création de Chiharu Shiota est, on le voit, d’une grande variété, en dé
 
 D’ailleurs elle travaille sans maquette, ni dessin préparatoire, avec une grande part d’improvisation selon l’espace qui lui est dédié et l’état d’esprit du moment dans une sorte de communion occulte avec les esprits du lieu, mais toujours avec des moyens rudimentaires, épingles, clous et escabeau. C’est dépouillé et très sophistiqué à la fois.
 
-![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-8.jpg)© Chiharu Shiota, « The key in the hand ». Biennale de Venise 2015, Pavillon Japonais.
+{{< imgc >}} ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-8.jpg) {{< /imgc >}}
+
+© Chiharu Shiota, « The key in the hand ». Biennale de Venise 2015, Pavillon Japonais.
 
 
 ---
@@ -126,12 +133,12 @@ D’ailleurs elle travaille sans maquette, ni dessin préparatoire, avec une gra
 
 ---
 
-![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota.001.jpg)© Chiharu Shiota.
+{{< imgc >}} ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota.001.jpg) {{< /imgc >}}
 
 ---
 
-![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-65-1030x923.jpg)© Chiharu Shiota.
+{{< imgc >}} ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota-bon-marche-65-1030x923.jpg) {{< /imgc >}}
 
 ---
 
-![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota.002.jpg) 
+{{< imgc >}} ![](/posts/images/shiota/chiharu-shiota-contemporary-art-installation-galerie-art-art-daniel-templon-japon-artiste-plasticien-performance-memory-shiota.002.jpg) {{< /imgc >}} 

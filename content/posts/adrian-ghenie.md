@@ -29,16 +29,18 @@ La peinture d’Adrian Ghenie, qui a suivi un enseignement d’arts plastiques �
 Cependant, à l’inverse des idées reçues concernant l’enseignement artistique dans les pays communistes, il n’a pas suivi une formation sous le sceau du réalisme socialiste mais tout au contraire un cursus dominé par l’abstraction. Or de son propre aveu il voulait se consacrer à la figuration.
 
 Après des débuts assez académiques, il découvre pour les ambiances, cadrages, David Lynch et en termes de peinture Francis Bacon, en particulier le pape Innocent X . Œuvre qui constitue pour lui un véritable programme tout aussi bien en terme plastique, que du point de vue du motif.
-
+{{< imgc >}}
 ![](/posts/images/ghenie/adrian-gheniepainting2018jungles-in-paris.002.jpg)
+{{< /imgc >}}
 
 ### **Adrian Ghenie, peinture et histoires**
 
 Adrian Ghenie trouve sa principale source d’inspiration dans l’histoire récente et sa représentation populaire.  Ce qui l’intéresse c’est la relation aux icones de l’histoire, aux images au sens strict. Il se définit lui-même comme un paparazzi qui prenant prétexte d’images historiques populaires cherche par-delà la platitude de ces images ce qu’il appelle la « texture ».
 
 Il voit les photographies de l’histoire récente, telles que les photographies de Hitler, Josef Mengele ou Nicolae Ceausescu comme des portraits de mauvaises qualités où seul le volume est plus ou moins rendu. Il dit vouloir donner à ces images une « texture ». Une texture aussi bien purement picturale, voir visuelle, que la texture d’une certaine humanité.
-
+{{< imgc >}}
 ![](/posts/images/ghenie/adrian-gheniepainting2018jungles-in-parisropacchristiesauction.001-4.jpg)
+{{< /imgc >}}
 
 On pourrait presque dire la tessiture des monstres de l’histoire, mais aussi celle de tout un chacun. C’est alors qu’à l’instar d’un [Jörg Immendorff](/jorg-immendorff/), ou d’un [Markus Lupertz](/markus-lupertz-fauvism-leipzig/), il introduit dans la figuration la « texture » via une peinture très gestuelle. Par-dessus le motif et sa figuration Adrian Ghenie pratique une peinture qui s’approche de l’action painting, voire du happening.
 
@@ -98,7 +100,7 @@ Adrian Ghenie en laissant libre cours à la violence que suscite le travail en g
 
 ### **L’angoisse**
 
-Sur bien des points le travail du peintre roumain fait penser à l’œuvre de [Berlinde de Bruyckere,](https://www.artefields.net/berlinde-de-bruyckere-sculpture/) qui à travers une sculpture scénographique tente de canaliser l’angoisse face à la monstruosité de l’histoire, en exaltant précisément la précarité des chairs, du vivant et ses manifestations les plus surprenantes.
+Sur bien des points le travail du peintre roumain fait penser à l’œuvre de [Berlinde de Bruyckere,](/berlinde-de-bruyckere-sculpture/) qui à travers une sculpture scénographique tente de canaliser l’angoisse face à la monstruosité de l’histoire, en exaltant précisément la précarité des chairs, du vivant et ses manifestations les plus surprenantes.
 
 Chez Ghenie il y a également ce rapport viscéral à l’histoire, filtrée aussi, comme chez la sculptrice belge, par l’histoire de l’art.
 

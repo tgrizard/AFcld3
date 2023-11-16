@@ -20,7 +20,7 @@ featured_image: "/posts/images/banner/ghenie2.jpg"
 
 La virulence habituelle de ses propos, d’ailleurs assez pessimistes, sur l’histoire de l’humanité et sa monstruosité intrinsèque, trouve ici une manière plus personnelle, moins empruntée à Bacon ou autres, de figurer picturalement la brutalité du monde des hommes.
 
-![](/posts/images/ghenie/adrian-gheniejungles-in-parispaintingthaddaeus-ropacexhibitionparisfrance2018-7.jpg)
+{{< imgc >}} ![](/posts/images/ghenie/adrian-gheniejungles-in-parispaintingthaddaeus-ropacexhibitionparisfrance2018-7.jpg) {{< /imgc >}}
 
 **Les voies picturales de la violence**
 
@@ -28,7 +28,7 @@ Ghenie a débuté sa carrière avec quelques tableaux d’histoire aux connotati
 
 Cette première veine donna ensuite naissance aux portraits de monstres échappés des pires cauchemars éveillés de l’histoire moderne ([voir notre article](/adrian-ghenie/)), et figurés dans une facture largement inspirée de la  violence picturale « baconienne ». A l’occasion de la biennale de Venise 2015, les méandres putréfiés de végétaux et les paysages organiques (inspirés de van Gogh) prirent le relais. Cette fois-ci, c’est le Douanier Rousseau qui est convoqué, mais la citation se montre plus anecdotique. Elle ne sert à Adrian Ghenie que de prétexte formel pour dépeindre d’autres catastrophes humaines.
 
-![](/posts/images/ghenie/adrian-gheniejungles-in-parispaintingthaddaeus-ropacexhibitionparisfrance2018-12.jpg)
+{{< imgc >}} ![](/posts/images/ghenie/adrian-gheniejungles-in-parispaintingthaddaeus-ropacexhibitionparisfrance2018-12.jpg) {{< /imgc >}}
 
 **Les dangers de la virtuosité**
 

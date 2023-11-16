@@ -115,11 +115,11 @@ Emmet Gowin a ouvert la voie du journal photographique dans laquelle se sont ens
 
 [Araki](/araki/), avec « A Sentimental Journey », a lui aussi dressé un portrait saisissant de sa femme Yoko aux prises avec le cancer, avant de poursuivre un carnet intime apocryphe où le sexe, la mort et la dissipation dans l’étourdissement hédoniste, se mêlent inextricablement.
 
-[Elina Botherus](/elina-brotherus-carpe-fucking-diem/), qui à travers son autobiographie intitulée « Fucking Carpe Diem », passe de sa souffrance à ne pouvoir enfanter à la mise en situation de son corps dans un appareil esthétique et conceptuel proche de Fluxus.
+[Elina Botherus](/elina-brotherus-photography-private/), qui à travers son autobiographie intitulée « Fucking Carpe Diem », passe de sa souffrance à ne pouvoir enfanter à la mise en situation de son corps dans un appareil esthétique et conceptuel proche de Fluxus.
 
 Nan Goldin a élargi le journal intime à celui de la famille étendue des marginaux New-yorkais préfigurant ainsi « l’image sociale » des réseaux sociaux.
 
-[Wolfgang Tillmans](/wolfgang-tillmans/), sur bien des points, reprend également cette démarche mais dans le cadre de l’ère numérique et d’une forme « mondialisée » du cercle intime.
+[Wolfgang Tillmans](/wolfgang-tillmans-private/), sur bien des points, reprend également cette démarche mais dans le cadre de l’ère numérique et d’une forme « mondialisée » du cercle intime.
 
 L’exposition photographique de l’intime est devenue omniprésente, c’est encore plus frappant avec les réseaux sociaux. Pourtant, « l’image sociale » n’est pas un carnet intime, une révélation, elle en est plutôt la négation. C’est une mise en représentation, une auto-fiction, ayant en vue la reconnaissance et l’identification à un groupe.
 

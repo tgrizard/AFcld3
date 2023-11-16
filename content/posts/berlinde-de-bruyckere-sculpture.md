@@ -32,8 +32,9 @@ Cripplewood, 2013.
  
 En outre, nombre des compositions sculpturales constituant l’œuvre de Berlinde de Bruyckere sont inspirées de références à la peinture ancienne, principalement les grands peintres des Pays Bas du 15° et 16° siècle, (Rogier Van der Weyden, Lucas Girodano, Cranach, Grunwald, etc.), mais également Zurbaran, le maniérisme italien ou les prémices du Baroque. Ce qui intéresse l’artiste visuel c’est avant tout le rendu des épidermes, les déformations anatomiques et la dramaturgie de ces œuvres anciennes dont les reproductions couvrent les murs de son gigantesque atelier de Gand, (une ancienne école religieuse).
 Plus qu’un travail sur l’équilibre, la tension, les pleins et les vides qui définissent traditionnellement la sculpture, Berlinde de Bruyckere élabore des mises en scène, parfois presque caravagesques, qui sont le fruit d’un rituel, une manière d’hommage à la fragilité de la vie dans ses chairs, que l’artiste tente de rendre les plus réalistes possibles. Le rendu à la cire — Elle applique jusqu’à 15 couches superposées de cires colorées — « épidermiques » des chimères est, la plasticienne le souligne constamment, un travail proprement pictural, quelque fois assez proche de la peinture sculpturale des corps représentés par ~[Jenny Saville](/jenny-saville/)~, voire Lucian Freud, ou présentant certaines affinités avec la violence et la théâtralité de Francis Bacon. Les productions visuelles de Bruyckere apparaissent parfois comme des élaborations en volumes de scènes picturales, à ceci près qu’il est fondamental pour elle de pouvoir se situer par rapport à l’objet en trois dimensions, comme on le ferait dans un lieu de culte où l’on aurait le souci de ce qui est donné à honorer. La peintre sculpteur belge veut avant tout susciter, par-delà la stupéfaction, la répugnance voire le dégoût, l’empathie. Le regardeur n’est pas sollicité en vue d’une subjugation esthétique, mais pour participer à une forme d’équilibre entre l’angoisse devant la mort et la compassion, le partage émotionnel face au spectacle beau et tragique de la fragilité confrontée à la destruction, mais qui perdure et persiste tout de même.
-
+{{< imgc >}}
 ![Berlinde de Bruyckere](/posts/images/bruyckere/erlinde-de-bruyckerepietasculpture.001.jpg)
+{{< /imgc >}}
  
 Le travail de Berlinde de Bruyckere est plus visuel que formel, au sens d’un spectacle ou une épiphanie qui s’offre au visiteur plus qu’au regardeur. En ceci, elle se rapproche de ~[Ron Mueck](/ron-mueck-et-sam-jinks/)~, qui utilise la sculpture hyperréaliste afin de produire des glissements de réalités, une sorte d’effraction du réel qui vise à l’empathie ou la subjugation.
 
@@ -57,13 +58,15 @@ Francisco de Zurbarán, Agnus Dei, 1635-40
  
 Le tableau est très réaliste dans le rendu et offre un contraste troublant entre l’animal paisible, la cruauté des liens qui l’assujettissent, l’innocence de l’agneau et l’imminence de son oblation. Une inscription accompagne le tableau : « Il a été mené à la tuerie comme une brebis ; et comme un agneau, muet devant celui qui le tond, il n’a pas ouvert la bouche. », (Actes des Apôtres, 8 :32).
 Le silence innocent et paisible de la victime expiatoire ont subjugué la plasticienne, qui dès lors décida de répondre à cette émotion par un hommage. Cela donna lieu à la pièce intitulée « To Zurbaràn », (2015), qui fut présentée lors de l’installation « No Life Lost » à la galerie Hauser & Wirth, New York.
-
+{{< imgc >}}
 ![Berlinde de Bruyckere](/posts/images/bruyckere/erlinde-de-bruyckeresculptureagnus-deito-zurbaranzurbaran.001.jpg)
+{{< /imgc >}}
  
 Dans sa vision de l’Agnus Dei Berlinge de Bruyckere donne une interprétation très théâtrale et caravagesque du tableau de Zurbaràn, (il le fut lui-même au début de sa carrière). En effet, l’ensemble de l’installation est nimbé d’une lumière crépusculaire, plongeante et âpre. Alors que la vision chrétienne considère l’Agnus Dei comme une promesse positive de rédemption et un message d’amour, elle livre dans un immense espace vide un poulain, mort après une seule journée d’existence, en guise d’agneau. L’animal sacrificiel est en outre disloqué, encapuchonné dans un sac de jute et isolé au fond de l’espace d’exposition, accompagné de cadavres de chevaux en vitrine évoquant certaines images d’archives de la première guerre mondiale et de peaux informes suspendues à des crochets de boucher rappelant la Shoah.
 Dieu s’est retiré du monde, et l’image donnée du sacrifice n’ouvre sur aucun espoir sinon celui, peut-être vain, d’une esthétique macabre de la fragilité se révélant dans le spectacle de sa mise en danger, ou de sa disparition, dont il ne demeure que des restes, des dépouilles.
-
+{{< imgc >}}
 ![Berlinde de Bruyckere](/posts/images/bruyckere/erlinde-de-bruyckeresculptureagnus-deito-zurbaranzurbaran.002.jpg)
+{{< /imgc >}}
  
 Berlinde de Bruyckere explique, d’ailleurs, que s’agissant de la position du très jeune poulain entravé, elle avait aussi en tête la photographie d’Alan Kurdi, l’enfant syrien retrouvé mort sur une plage turque. Une jeune vie privée de son futur par la barbarie des hommes. La plasticienne réagit à l’angoisse d’un monde qui broie la vie en ritualisant la mort ; ici, elle couvre les têtes des chevaux pour les rasséréner ; là, elle bande les plaies et os brisés du jeune poulain. C’est une catharsis où l’empathie manifeste simultanément l’horreur et l’amour dans une solennité proche d’une forme profane de spiritualité.
 
@@ -88,8 +91,9 @@ Avec Cripplewood, (2013, Pavillon belge), de Bruyckere à partir du lieu qui mot
 
 Berlinde, (prénom emprunté à la sainte Berlinde de Meerbeke, une religieuse du X° siècle), de Bruyckere procède comme, on peut le voir fréquemment, par références, qui constituent un corpus iconographique aux connotations religieuses et donc associé à des notions liées à la transcendance et la spiritualité, notamment dans leurs rapports à la chair, au péché, à la souffrance, la mort jusqu’à la transgression et son châtiment.
 La série consacrée au mythe d’Actéon en est une illustration frappante. Actéon puni pour avoir transgressé l’interdiction de porter le moindre regard sur Diane la chasseresse, de surcroît au bain, est métamorphosé en cerf que sa meute de 50 chiens finalement dévore. Les interprétations du mythe sont multiples et reflètent bien davantage l’esprit du temps que l’esprit originel du mythe. On y a vu une allégorie du rituel sacrificiel, la condamnation de l’hubris humaine, une invitation au respect des commandements divins, et ainsi de suite.
-
+{{< imgc >}}
 ![Berlinde de Bruyckere](/posts/images/bruyckere/berlinde-de-bruyckereacteonsculpture.002.jpg)
+{{< /imgc >}}
  
 La constante reste la transgression et la métamorphose. C’est ce que retient de Bruyckere en insistant sur l’interprétation sacrificielle, voire christique. Dans sa vision du mythe ne reste que ce que les chiens n’ont pas dévoré : les bois du cerf. Des bois qui ne sont pas fait d’os mais d’un épiderme tavelé, parcouru de veines visibles et d’une teinte vitreuse. L’artiste dépose avec soin — en interposant du tissu — ces reliefs/reliques d’un festin cynégétique sur des autels de fortunes ou en les accrochant à des crocs non pas de chien mais de boucher, (le père de Berlinde de Bruyckere est chasseur et boucher de profession).
 
@@ -108,8 +112,9 @@ Dans cette série sur Actéon et l’hubris des hommes on voit, avec évidence, 
 {{< /imgc >}}
  
 Berlinde de Bruyckere procède à une sorte de métonymie généralisée, occasion de métamorphoses innombrables, qui se nourrit des angoisses et fantasmes personnels comme de l’histoire de l’art, la religion comme rituelle et le spectacle des violences — perpétuellement répétées — du monde contemporain. La stupéfaction de la sculptrice, peintre et plasticienne, oscille entre la fascination morbide et le dépassement cathartique où l’empathie, le souci et le « soin » de ce qui a été meurtrie sont prépondérants, par-delà le macabre et le trauma.
-
+{{< imgc >}}
 ![Berlinde de Bruyckere](/posts/images/bruyckere/berlinde-de-bruyckerepietasculpture.001.jpg)
+{{< /imgc >}}
 
 
 © Berlinde de Bruyckere.
