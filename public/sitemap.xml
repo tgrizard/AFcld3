@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-11-17T00:27:28+01:00</lastmod>
+    <lastmod>2023-11-17T11:40:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-11-17T00:27:28+01:00</lastmod>
+    <lastmod>2023-11-17T11:40:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -33,17 +33,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-11-17T00:27:28+01:00</lastmod>
+    <lastmod>2023-11-17T11:40:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-11-17T00:27:28+01:00</lastmod>
+    <lastmod>2023-11-17T11:40:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2023-11-17T00:27:28+01:00</lastmod>
+    <lastmod>2023-11-17T11:40:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -123,7 +123,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/arts-visuels/</loc>
-    <lastmod>2023-11-17T00:13:05+01:00</lastmod>
+    <lastmod>2023-11-17T11:40:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -448,7 +448,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/plasticien/</loc>
-    <lastmod>2023-11-15T09:21:29+01:00</lastmod>
+    <lastmod>2023-11-17T11:40:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -699,6 +699,11 @@
   </url><url>
     <loc>https://artstream.net/taryn-simon-decorum-et-pouvoir-private/</loc>
     <lastmod>2023-11-07T13:34:49+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/dan-flavin-minimal-art-concept-immanence/</loc>
+    <lastmod>2023-11-17T11:40:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
