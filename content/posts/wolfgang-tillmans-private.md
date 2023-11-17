@@ -17,8 +17,9 @@ featured_image: "/posts/images/banner/tillmans.jpg"
 ## Wolfgang Tillmans, l’homme sans corpus
 
 Le travail de **Wolfgang Tillmans** (né en 1968 à Remscheid, RDA) se caractérise par un constat agaçant pour nombre de critiques d’art, à savoir qu’il est sans corpus (recueil de pièces, de documents touchant une même discipline). La discipline semble être ce qui fait défaut au photographe allemand. Mieux, il est réfractaire, refuse l’orthodoxie et le dogmatisme, sa méthode est de rejeter tous canons, esthétiques ou autres. L’ensemble de son travail parait donc disparate, hétérogène, discontinu. Le corpus du photographe allemand est éclaté, qu’il s’agisse des sujets, de la facture, voire des supports et formats. Mais si il n’y a pas d’unité du motif ou de concept, pas véritablement de sérialité, il y a tout de même un style voire une méthodologie Tillmans qui se caractérise par le dépouillement, l’absence d’effet, une bonne dose de provocation, le refus de la narration et une forme positive de dilettantisme polysémique esquivant les lourdeurs de l’intellectualisme facile. L’obsession première de sa démarche est de parvenir à une forme paradoxalement sophistiquée d’immédiateté.
-
+{{< imgc >}}
 ![](/posts/images/tillmans/wolfgang-tillmans-photography-fondation-beyeler-techno-nude-concord.017-12.jpg)
+{{< /imgc >}}
 
 © Wolfgang Tillmans.
 

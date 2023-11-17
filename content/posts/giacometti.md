@@ -4,18 +4,19 @@ date: 2023-10-23T22:03:27+02:00
 draft: true
 url: /giacometti/
 authors: ["Thierry Grizard"]
-source: ["https://www.artefields.net/giacometti/"]
-description: "Giacometti: “L'idée de faire une peinture ou une sculpture de la chose telle que je la vois ne m'effleure plus.” "
-tags: ["Sculpture", "Dividu", "Conceptuel"]
+# source: ["https://www.artefields.net/giacometti/"]
+description: "Giacometti: L'idée de faire une peinture ou une sculpture de la chose telle que je la vois ne m'effleure plus"
+summary: "Giacometti: L'idée de faire une peinture ou une sculpture de la chose telle que je la vois ne m'effleure plus"
+tags: ["Sculpture", "Dividu"]
 categories: ["Arts Visuels"]
 featured_image: "/posts/images/banner/giacometti.jpg"
-summary: ""
 ---
 ## Giacometti et le portrait
 
 **Giacometti** qui se questionne sur le problème de l’existence même du modèle et de l’impossibilité de reproduire ce qui est vu.
-
+{{< imgc >}}
 ![](/posts/images/banner/giacometti/giacometti-300x150.jpg)
+{{< /imgc >}}
 
 Catharsis ?
 
