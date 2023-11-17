@@ -1,7 +1,7 @@
 ---
 title: "Piet Mondrian, un grand peintre figuratif"
 date: 2019-12-23
-url: 
+url: /piet-mondrian-figurative-painting/
 # layout: ""
 draft: false
 hidden: false
