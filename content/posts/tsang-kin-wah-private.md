@@ -1,7 +1,7 @@
 ---
 title: "Tsang Kin Wah, l'art peut il être immersif ?"
 date: 2015-08-23
-url: /tsang-kin-wah-private/
+url: /tsang-kin-wah/
 # layout: ""
 draft: false
 hidden: false

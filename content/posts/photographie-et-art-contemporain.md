@@ -56,7 +56,7 @@ La photographie objective aussi bien que plasticienne rentre au musée et devien
 
 © Diane Arbus.
 
-Il ne faut cependant pas trop schématiser, car parallèlement à l’entrée de la photographie dans le champ des arts plastiques de nombreuses autres pistes ont continué à se développer, en particulier la photographie des marges et des sous-cultures avec en précurseur Diane Arbus, puis Larry Clark, Nan Goldin, ou [Wolfgang Tillmans](/wolfgang-tillmans-private/).
+Il ne faut cependant pas trop schématiser, car parallèlement à l’entrée de la photographie dans le champ des arts plastiques de nombreuses autres pistes ont continué à se développer, en particulier la photographie des marges et des sous-cultures avec en précurseur Diane Arbus, puis Larry Clark, Nan Goldin, ou [Wolfgang Tillmans](/wolfgang-tillmans/).
 
 Ces photographes en témoignant tendent un miroir dérangeant au spectateur qui fait aussi, pour certains d’entre eux, office de catharsis personnelle.
 

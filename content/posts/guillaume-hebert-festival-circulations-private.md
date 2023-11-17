@@ -1,7 +1,7 @@
 ---
 title: "Guillaume Hebert paysages et Updated Landscape"
 date: 2023-10-23
-url: /guillaume-hebert-festival-circulations-private/
+url: /guillaume-hebert-festival-circulations/
 # layout: ""
 draft: false
 hidden: false

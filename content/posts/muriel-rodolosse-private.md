@@ -1,7 +1,7 @@
 ---
 title: "Muriel Rodolosse, peindre en transparence"
 date: 2018-05-23
-url: /muriel-rodolosse-private/
+url: /muriel-rodolosse/
 # layout: ""
 draft: false
 hidden: false

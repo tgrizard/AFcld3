@@ -1,7 +1,7 @@
 ---
 title: "Jim Dine revisite Edward Munch et le Cri"
 date: 2018-01-23
-url: /jim-dine-edward-munch-le-cri-private/
+url: /jim-dine-edward-munch-le-cri/
 # layout: ""
 draft: false
 hidden: false

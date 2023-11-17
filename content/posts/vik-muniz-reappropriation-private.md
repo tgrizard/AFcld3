@@ -1,7 +1,7 @@
 ---
 title: "Vik Muniz, les Mandalas des Favelas"
 date: 2015-07-23
-url: /vik-muniz-reappropriation-private/
+url: /vik-muniz-reappropriation/
 # layout: ""
 draft: false
 hidden: false

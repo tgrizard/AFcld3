@@ -1,7 +1,7 @@
 ---
 title: "Michaël Borremans Sixteen Dances & Fire from the Sun"
 date: 2017-10-23
-url: /michael-borremans-sixteen-dances-private/
+url: /michael-borremans-sixteen-dances/
 # layout: ""
 draft: false
 hidden: false

@@ -1,7 +1,7 @@
 ---
 title: "Robert Rauschenberg, vaporous fantasies"
 date: 2020-05-18
-url: /robert-rauschenberg-vaporous-fantasies-private/
+url: /robert-rauschenberg-vaporous-fantasies/
 # layout: ""
 draft: false
 hidden: false

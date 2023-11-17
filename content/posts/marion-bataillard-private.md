@@ -1,7 +1,7 @@
 ---
 title: "Marion Bataillard, le mental et le physique"
 date: 2018-01-23
-url: /marion-bataillard-private/
+url: /marion-bataillard/
 # layout: ""
 draft: false
 hidden: false

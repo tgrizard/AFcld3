@@ -1,7 +1,7 @@
 ---
 title: "Pixy Liao, la voix des corps"
 date: 2023-10-23
-url: /pixy-liao-photography-experimental-relationship-private/
+url: /pixy-liao-photography-experimental-relationship/
 # layout: ""
 draft: false
 hidden: false

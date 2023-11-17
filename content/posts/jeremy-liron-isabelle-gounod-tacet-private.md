@@ -1,7 +1,7 @@
 ---
 title: "Jeremy Liron les géométries venteuses"
 date: 2017-12-23
-url: /jeremy-liron-isabelle-gounod-tacet-private/
+url: /jeremy-liron-isabelle-gounod-tacet/
 # layout: ""
 draft: false
 hidden: false

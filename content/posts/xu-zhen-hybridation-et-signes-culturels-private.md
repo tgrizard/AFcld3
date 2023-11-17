@@ -1,7 +1,7 @@
 ---
 title: "Xu Zhen hybridation des signes culturels"
 date: 2017-06-23
-url: /xu-zhen-hybridation-et-signes-culturels-private/
+url: /xu-zhen-hybridation-et-signes-culturels/
 # layout: ""
 draft: false
 hidden: false

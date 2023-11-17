@@ -1,7 +1,7 @@
 ---
 title: "Julien Salaud, hybridation et indétermination"
 date: 2016-06-23
-url: /julien-salaud-private/
+url: /julien-salaud/
 # layout: ""
 draft: false
 hidden: false

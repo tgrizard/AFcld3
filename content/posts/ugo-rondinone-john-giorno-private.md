@@ -1,7 +1,7 @@
 ---
 title: "John Giorno, Ugo Rondinone, Yes we love him"
 date: 2016-01-23
-url: /ugo-rondinone-john-giorno-private/
+url: /ugo-rondinone-john-giorno/
 # layout: ""
 draft: false
 hidden: false

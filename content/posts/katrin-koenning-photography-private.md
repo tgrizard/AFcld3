@@ -1,7 +1,7 @@
 ---
 title: "Katrin Koenning photographie de la présence"
 date: 2023-10-23
-url: /katrin-koenning-photography-private/
+url: /katrin-koenning-photography/
 # layout: ""
 draft: false
 hidden: false

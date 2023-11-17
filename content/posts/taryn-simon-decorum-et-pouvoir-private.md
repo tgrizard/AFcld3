@@ -1,7 +1,7 @@
 ---
 title: "Taryn Simon, décorum et pouvoir"
 date: 2020-04-23
-url: /taryn-simon-decorum-et-pouvoir-private/
+url: /taryn-simon-decorum-et-pouvoir/
 # layout: ""
 draft: false
 hidden: false

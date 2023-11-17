@@ -1,7 +1,7 @@
 ---
 title: "François Malingrëy, un nouveau réalisme ?"
 date: 2018-10-23
-url: /francois-malingrey-private/
+url: /francois-malingrey/
 # layout: ""
 draft: false
 hidden: false

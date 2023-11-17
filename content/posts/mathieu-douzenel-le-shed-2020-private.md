@@ -2,7 +2,7 @@
 title: "Mathieu Douzenel, portraits de bunkers"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-url: /mathieu-douzenel-le-shed-2020-private/
+url: /mathieu-douzenel-le-shed-2020/
 authors: ["Thierry Grizard"]
 source:
 access: ["Réservé aux abonnés"]

@@ -1,7 +1,7 @@
 ---
 title: "Patrick Laumond et le Métahisme"
 date: 2017-12-23
-url: /patrick-laumond-metahisme-private/
+url: /patrick-laumond-metahisme/
 # layout: ""
 draft: false
 hidden: false

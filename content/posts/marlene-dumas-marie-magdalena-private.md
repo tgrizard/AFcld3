@@ -1,7 +1,7 @@
 ---
 title: "Marlene Dumas le fardeau de l'image"
 date: 2017-12-23
-url: /marlene-dumas-marie-magdalena-private/
+url: /marlene-dumas-marie-magdalena/
 # layout: ""
 draft: false
 hidden: false

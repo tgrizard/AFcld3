@@ -1,7 +1,7 @@
 ---
 title: "Lionel Sabatté poussière et territoires"
 date: 2017-10-23
-url: /lionel-sabatte-la-poussiere-et-les-territoires-private/
+url: /lionel-sabatte-la-poussiere-et-les-territoires/
 # layout: ""
 draft: false
 hidden: false

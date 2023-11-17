@@ -20,7 +20,7 @@ Candida Höfer, de la distance aux détails « C’est la vision du Cyclope, non
 
 {{< imgc >}} ![](/posts/images/photo-objective/ursula-schulz-dornburg_solo-show_mep_paris_2020.003-768x432.jpg) {{< /imgc >}}
 
-#### [Ursula Schulz-Dornburg, Photographe Des Périphéries](/ursula-schulz-dornburg-solo-show-mep-private/)
+#### [Ursula Schulz-Dornburg, Photographe Des Périphéries](/ursula-schulz-dornburg-solo-show-mep/)
 
 Photographie des rémanences Ursula Schulz-Dornburg (née en 1938 à Berlin, Allemagne) est une photographe allemande qui se situe entre le ...
 

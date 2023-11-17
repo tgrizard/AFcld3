@@ -1,7 +1,7 @@
 ---
 title: "Peter Martensen ravages et histoire"
 date: 2017-10-23
-url: /peter-martensen-ravages-et-histoire-private/
+url: /peter-martensen-ravages-et-histoire/
 # layout: ""
 draft: false
 hidden: false

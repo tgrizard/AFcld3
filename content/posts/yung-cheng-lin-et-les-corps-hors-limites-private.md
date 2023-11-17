@@ -1,7 +1,7 @@
 ---
 title: "Yung Cheng Lin et les corps hors limites"
 date: 2022-07-23
-url: /yung-cheng-lin-et-les-corps-hors-limites-private/
+url: /yung-cheng-lin-et-les-corps-hors-limites/
 # layout: ""
 draft: false
 hidden: false

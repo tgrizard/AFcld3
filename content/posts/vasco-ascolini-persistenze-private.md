@@ -1,7 +1,7 @@
 ---
 title: "Vasco Ascolini, Persistenze"
 date: 2023-10-23
-url: /vasco-ascolini-persistenze-private/
+url: /vasco-ascolini-persistenze/
 # layout: ""
 draft: false
 hidden: false

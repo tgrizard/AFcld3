@@ -1,7 +1,7 @@
 ---
 title: "Markus Akesson les apostrophes surréelles"
 date: 2018-02-23
-url: /markus-akesson-2-private/
+url: /markus-akesson-2/
 # layout: ""
 draft: false
 hidden: false

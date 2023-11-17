@@ -1,7 +1,7 @@
 ---
 title: "Hicham Berrada paysages entropiques et alchimie"
 date: 2019-07-23
-url: /hicham-berrada-alchemical-painting-private/
+url: /hicham-berrada-alchemical-painting/
 # layout: ""
 draft: false
 hidden: false

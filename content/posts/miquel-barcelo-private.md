@@ -1,7 +1,7 @@
 ---
 title: "Barcelo, On The Sea & Sol y Sombra"
 date: 2016-06-23
-url: /miquel-barcelo-private/
+url: /miquel-barcelo/
 # layout: ""
 draft: false
 hidden: false

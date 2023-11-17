@@ -1,7 +1,7 @@
 ---
 title: "Karel appel, un humaniste barbare"
 date: 2017-08-23
-url: /karel-appel-humaniste-barbare-private/
+url: /karel-appel-humaniste-barbare/
 # layout: ""
 draft: false
 hidden: false

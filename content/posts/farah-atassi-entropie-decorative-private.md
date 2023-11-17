@@ -1,7 +1,7 @@
 ---
 title: "Farah Atassi entropie décorative"
 date: 2016-06-23
-url: /farah-atassi-entropie-decorative-private/
+url: /farah-atassi-entropie-decorative/
 # layout: ""
 draft: false
 hidden: false

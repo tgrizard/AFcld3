@@ -1,7 +1,7 @@
 ---
 title: "Polly Penrose autoportrait en accessoire"
 date: 2018-12-28
-url: /polly-penrose-body-as-prop-private/
+url: /polly-penrose-body-as-prop/
 # layout: ""
 draft: false
 hidden: false

@@ -1,7 +1,7 @@
 ---
 title: "Marlene Dumas, Figure et figures"
 date: 2016-06-23
-url: /marlene-dumas-figure-et-figures-private/
+url: /marlene-dumas-figure-et-figures/
 # layout: ""
 draft: false
 hidden: false

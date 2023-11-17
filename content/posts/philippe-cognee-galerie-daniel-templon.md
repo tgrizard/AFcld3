@@ -37,7 +37,7 @@ Depuis le Pop Art d’un Rauschenberg et ses « combine painting » ou même de 
 
 Le suburbain comme lieu hybride fascine de nombreux artistes depuis les années cinquante. C’est de plus une sorte d’écho pessimiste aux ruines mélancoliques du romantisme, ou même des Arcadies et paysages élégiaques de la renaissance.
 
-* Chez [Eva Nielsen](/eva-nielsen-serigraphie-private/) par exemple il s’agit de combinaisons à la Ed Ruscha qui décrivent un suburbain où le désordre redonne à la Nature l’occasion de regagner du territoire.
+* Chez [Eva Nielsen](/eva-nielsen-serigraphie/) par exemple il s’agit de combinaisons à la Ed Ruscha qui décrivent un suburbain où le désordre redonne à la Nature l’occasion de regagner du territoire.
 * Chez Jeremy Liron il s’agit avant tout des banlieues et leur quotidien déformé par l’espèce de vide social et presque ontologique qui les caractérise.
 
 ⠀
@@ -121,7 +121,7 @@ Ce flot qui se répand sans plus aucun souci des faits, de vérification et d’
 
 Pour revenir à Cognée il y a comme une forme de nostalgie et de fascination à voir la stabilité du réel s’effondrer. D’ailleurs le travail par stratification et décomposition sur le plan de la toile pourrait être considéré comme une « veduta » et encore peut-être davantage comme un écran, un voile qui se déchire.
 
-Or il y a un jeune peintre français [David Lefebvre](/david-lefebvre-artiste-peintre-private/) qui littéralement transpose la contamination de la surface picturale par le numérique, le pixel et le doute à la Matrix sur le bien fondée de cette tentative de créer un plan où on pourrait lire les ambiguïté de la représentation.
+Or il y a un jeune peintre français [David Lefebvre](/david-lefebvre-artiste-peintre/) qui littéralement transpose la contamination de la surface picturale par le numérique, le pixel et le doute à la Matrix sur le bien fondée de cette tentative de créer un plan où on pourrait lire les ambiguïté de la représentation.
 
 Lefebvre peint des paysages et des tableaux de genre, entre autres à la Courbet, qui se décomposent, se trouent ou s’effilent pour laisser transparaitre un noir total ou des motifs de pixel, comme si déjà la virtualisation l’avait définitivement emporté. Cognée est évidemment moins littéral et aussi probablement plus confiant en le bien fondé de peindre encore.
 

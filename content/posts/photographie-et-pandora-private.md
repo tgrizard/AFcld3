@@ -1,7 +1,7 @@
 ---
 title: "La photographie et la boite de Pandore"
 date: 2017-07-23
-url: /photographie-et-pandora-private/
+url: /photographie-et-pandora/
 # layout: ""
 draft: false
 hidden: false

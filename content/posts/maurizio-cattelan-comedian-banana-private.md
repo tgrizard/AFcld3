@@ -1,7 +1,7 @@
 ---
 title: "Maurizio Catellan et la banane comédienne"
 date: 2020-01-23
-url: /maurizio-cattelan-comedian-banana-private/
+url: /maurizio-cattelan-comedian-banana/
 # layout: ""
 draft: false
 hidden: false

@@ -1,7 +1,7 @@
 ---
 title: "Olafur Eliasson à Versailles"
 date: 2016-08-23
-url: /olafur-eliasson-versailles-private/
+url: /olafur-eliasson-versailles/
 # layout: ""
 draft: false
 hidden: false

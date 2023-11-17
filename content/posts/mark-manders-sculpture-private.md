@@ -1,7 +1,7 @@
 ---
  title: "Mark Manders, Self-portrait as a building"
  date: 2018-07-23
- url: /mark-manders-sculpture-private/
+ url: /mark-manders-sculpture/
  # layout: ""
  draft: false
  hidden: false

@@ -1,7 +1,7 @@
 ---
 title: "Michael Borremans et Zurbaran, une vanité énigmatique !"
 date: 2017-04-23
-url: /le-mystere-michael-borremans-private/
+url: /le-mystere-michael-borremans/
 # layout: ""
 draft: false
 hidden: false

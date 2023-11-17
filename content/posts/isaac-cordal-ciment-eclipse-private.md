@@ -1,7 +1,7 @@
 ---
 title: "Isaac Cordal Le monde est une scène"
 date: 2017-08-23
-url: /isaac-cordal-ciment-eclipse-private/
+url: /isaac-cordal-ciment-eclipse/
 # layout: ""
 draft: false
 hidden: false

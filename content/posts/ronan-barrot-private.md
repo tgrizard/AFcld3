@@ -1,7 +1,7 @@
 ---
 title: "Ronan Barrot peindre l'espace de la toile"
 date: 2015-09-23
-url: /ronan-barrot-private/
+url: /ronan-barrot/
 # layout: ""
 draft: false
 hidden: false

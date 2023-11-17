@@ -1,7 +1,7 @@
 ---
 title: "Trine Søndergaard, photographier le silence"
 date: 2019-03-17
-url: /trine-sondergaard-photography-still-private/
+url: /trine-sondergaard-photography-still/
 # layout: ""
 draft: false
 hidden: false

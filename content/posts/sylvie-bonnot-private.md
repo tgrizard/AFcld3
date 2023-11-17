@@ -1,7 +1,7 @@
 ---
 title: "Sylvie Bonnot de l’extension du domaine de la représentation"
 date: 2016-07-12
-url: /sylvie-bonnot-private/
+url: /sylvie-bonnot/
 # layout: ""
 draft: false
 hidden: false

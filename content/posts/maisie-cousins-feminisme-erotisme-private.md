@@ -1,7 +1,7 @@
 ---
 title: "Maisie Cousins un érotisme juste"
 date: 2021-10-23
-url: /maisie-cousins-feminisme-erotisme-private/
+url: /maisie-cousins-feminisme-erotisme/
 # layout: ""
 draft: false
 hidden: false

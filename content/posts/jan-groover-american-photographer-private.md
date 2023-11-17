@@ -2,7 +2,7 @@
 title: "Jan Groover les formes et sensations du réel"
 date: 2010-10-05
 draft: false
-url: /jan-groover-american-photographer-private/
+url: /jan-groover-american-photographer/
 authors: ["Thierry Grizard"]
 source:
 access: ["Réservé aux abonnés"]

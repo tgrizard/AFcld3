@@ -1,7 +1,7 @@
 ---
 title: "Giulia Andreani. Mythes et histoire"
 date: 2015-03-23
-url: /giulia-andreani-mythes-et-histoire-private/
+url: /giulia-andreani-mythes-et-histoire/
 # layout: ""
 draft: false
 hidden: false

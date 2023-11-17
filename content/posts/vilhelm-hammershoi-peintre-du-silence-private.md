@@ -1,7 +1,7 @@
 ---
 title: "Vilhelm Hammershøi peintre du silence"
 date: 2017-08-23
-url: /vilhelm-hammershoi-peintre-du-silence-private/
+url: /vilhelm-hammershoi-peintre-du-silence/
 # layout: ""
 draft: false
 hidden: false

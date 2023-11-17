@@ -1,7 +1,7 @@
 ---
 title: "Diogo Pimentão, sculpter le geste du dessin"
 date: 2020-02-23
-url: /diogo-pimentao-frac-normandie-2020-private/
+url: /diogo-pimentao-frac-normandie-2020/
 # layout: ""
 draft: false
 hidden: false

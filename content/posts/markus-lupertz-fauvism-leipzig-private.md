@@ -1,7 +1,7 @@
 ---
 title: "Markus Lüpertz, des ruines néo-fauves du classicisme et au-delà"
 date: 2015-06-23
-url: /markus-lupertz-fauvism-leipzig-private/
+url: /markus-lupertz-fauvism-leipzig/
 # layout: ""
 draft: false
 hidden: false

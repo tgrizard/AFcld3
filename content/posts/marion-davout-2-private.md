@@ -1,7 +1,7 @@
 ---
 title: "Marion Davout. La matérialité du temps"
 date: 2015-06-23
-url: /marion-davout-2-private/
+url: /marion-davout-2/
 # layout: ""
 draft: false
 hidden: false

@@ -1,7 +1,7 @@
 ---
 title: "Eva Nielsen la surface du réel"
 date: 2017-06-23
-url: /eva-nielsen-serigraphie-private/
+url: /eva-nielsen-serigraphie/
 # layout: ""
 draft: false
 hidden: false

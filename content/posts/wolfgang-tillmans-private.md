@@ -1,7 +1,7 @@
 ---
 title: "Wolfgang Tillmans la photographie iconoclaste"
 date: 2023-10-23T22:03:27+02:00
-url: /wolfgang-tillmans-private/
+url: /wolfgang-tillmans/
 draft: false
 hidden: false
 authors: ["Thierry Grizard"]

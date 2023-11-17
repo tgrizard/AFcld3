@@ -1,7 +1,7 @@
 ---
 title: "Leonard de Vinci, Salvator Mundi"
 date: 2017-12-23
-url: /leonard-de-vinci-salvator-mundi-private/
+url: /leonard-de-vinci-salvator-mundi/
 # layout: ""
 draft: false
 hidden: false

@@ -1,7 +1,7 @@
 ---
 title: "David Lefebvre le néo réalisme 2.0"
 date: 2018-09-23
-url: /david-lefebvre-artiste-peintre-private/
+url: /david-lefebvre-artiste-peintre/
 # layout: ""
 draft: false
 hidden: false

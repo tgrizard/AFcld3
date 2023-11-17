@@ -1,7 +1,7 @@
 ---
 title: "Elina Brotherus le geste et l'idée"
 date: 2022-10-23
-url: /elina-brotherus-photography-private/
+url: /elina-brotherus-photography/
 # layout: ""
 draft: false
 hidden: false

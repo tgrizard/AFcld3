@@ -1,7 +1,7 @@
 ---
 title: "Lenny Rébéré traces et réflexions"
 date: 2018-06-23
-url: /lenny-rebere-artiste-peintre-private/
+url: /lenny-rebere-artiste-peintre/
 # layout: ""
 draft: false
 hidden: false

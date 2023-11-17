@@ -1,7 +1,7 @@
 ---
 title: "L'Origine du Monde par Magritte"
 date: 2017-06-23
-url: /origine-du-monde-magritte-private/
+url: /origine-du-monde-magritte/
 # layout: ""
 draft: false
 hidden: false

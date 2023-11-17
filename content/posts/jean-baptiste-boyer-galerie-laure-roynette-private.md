@@ -1,7 +1,7 @@
 ---
 title: "Jean-Baptiste Boyer, la satire du néo-réalisme"
 date: 2018-01-23
-url: /jean-baptiste-boyer-galerie-laure-roynette-private/
+url: /jean-baptiste-boyer-galerie-laure-roynette/
 # layout: ""
 draft: false
 hidden: false

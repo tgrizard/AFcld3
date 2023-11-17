@@ -1,7 +1,7 @@
 ---
 title: "Todd Hido, une photographie atmosphérique"
 date: 2023-10-23
-url: /todd-hido-photography-private/
+url: /todd-hido-photography/
 # layout: ""
 draft: false
 hidden: false

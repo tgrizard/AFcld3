@@ -1,7 +1,7 @@
 ---
 title: "Zhang Huan, cendres et histoire"
 date: 2016-03-23
-url: /zhang-huan-a-fondation-louis-vuitton-private/
+url: /zhang-huan-a-fondation-louis-vuitton/
 # layout: ""
 draft: false
 hidden: false

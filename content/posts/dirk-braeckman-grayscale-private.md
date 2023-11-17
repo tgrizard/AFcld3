@@ -1,7 +1,7 @@
 ---
 title: "Dirk Braeckman le réel en échelle de gris"
 date: 2019-01-18
-url: /dirk-braeckman-grayscale-private/
+url: /dirk-braeckman-grayscale/
 # layout: ""
 draft: false
 hidden: false

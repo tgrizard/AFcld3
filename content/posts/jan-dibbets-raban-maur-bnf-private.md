@@ -1,7 +1,7 @@
 ---
 title: "Jan Dibbets, l’art minimal et le moine Raban Maur"
 date: 2019-01-23
-url: /jan-dibbets-raban-maur-bnf-private/
+url: /jan-dibbets-raban-maur-bnf/
 # layout: ""
 draft: false
 hidden: false

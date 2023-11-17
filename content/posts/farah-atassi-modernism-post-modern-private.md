@@ -1,7 +1,7 @@
 ---
 title: "Farah Atassi, les ornements entropiques"
 date: 2019-02-23
-url: /farah-atassi-modernism-post-modern-private/
+url: /farah-atassi-modernism-post-modern/
 # layout: ""
 draft: false
 hidden: false
@@ -16,7 +16,7 @@ featured_image: "/posts/images/banner/atassi2.jpg"
 ---
 ## Farah Atassi, ornements anamorphiques !
 
-Depuis que **Farah Atassi** a quitté la peinture descriptive d’espaces désolés aux connotations narratives inspirées de photographies de maisons communautaires russes ([voir notre article](/farah-atassi-entropie-decorative-private/)), la méthode employée se répète immuablement. Une technique qui tient lieu de procédure et où l’objet de la pratique est la praxis même de la peinture dans sa singularité (picturalité).
+Depuis que **Farah Atassi** a quitté la peinture descriptive d’espaces désolés aux connotations narratives inspirées de photographies de maisons communautaires russes ([voir notre article](/farah-atassi-entropie-decorative/)), la méthode employée se répète immuablement. Une technique qui tient lieu de procédure et où l’objet de la pratique est la praxis même de la peinture dans sa singularité (picturalité).
 {{< imgc >}}
 ![](/posts/images/atassi/farah-atassi_painting_modernism_ornamental.005-3.jpg)
 {{< /imgc >}}

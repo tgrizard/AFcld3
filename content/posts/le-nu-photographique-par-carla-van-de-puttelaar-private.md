@@ -1,7 +1,7 @@
 ---
 title: "Le nu photographique comme portrait"
 date: 2016-10-23
-url: /le-nu-photographique-par-carla-van-de-puttelaar-private/
+url: /le-nu-photographique-par-carla-van-de-puttelaar/
 # layout: ""
 draft: false
 hidden: false

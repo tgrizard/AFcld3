@@ -1,7 +1,7 @@
 ---
 title: "Serban Savu le social réalisme poétique"
 date: 2019-05-23
-url: /serban-savu-romania-painter-private/
+url: /serban-savu-romania-painter/
 # layout: ""
 draft: false
 hidden: false

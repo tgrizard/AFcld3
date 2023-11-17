@@ -2,7 +2,7 @@
 title: "Stéphane Lavoué photo et portraits narratifs"
 date: 2023-10-23T22:03:27+02:00
 draft: false
-url: /stephane-lavoue-histoires-de-portraits-et-de-paysages-private/
+url: /stephane-lavoue-histoires-de-portraits-et-de-paysages/
 authors: ["Thierry Grizard"]
 source:
 access: ["Réservé aux abonnés"]

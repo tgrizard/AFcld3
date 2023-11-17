@@ -1,7 +1,7 @@
 ---
 title: "Laure Albin Guillot. Les charmes modernes de l'antique"
 date: 2016-09-21
-url: /laure-albin-guillot-private/
+url: /laure-albin-guillot/
 # layout: ""
 draft: false
 hidden: false

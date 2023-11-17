@@ -1,7 +1,7 @@
 ---
 title: "Katinka Lampe, le portrait comme icône"
 date: 2016-05-23
-url: /katinka-lampe-art-paris-art-fair-private/
+url: /katinka-lampe-art-paris-art-fair/
 # layout: ""
 draft: false
 hidden: false
