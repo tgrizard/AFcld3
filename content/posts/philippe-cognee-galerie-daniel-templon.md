@@ -29,14 +29,15 @@ Philippe Cognée (1957/…) est exposé du 7 janvier au 4 mars 2017 à la [galer
 Philippe Cognée au même titre qu’une Eva Nielsen, Jeremy Liron ou un Anselm Kiefer semble être fasciné par les ruines, le suburbain et l’étiolement. On oscille avec ces artistes de la ruine, (existante et/ou re-interprétée), entre la dystopie, l’uchronie et une sorte d’archéologie du présent et des ses projections possibles dans le futur.
 
 ### La toile comme sédimentation
-
+{{< imgc >}}
 ![](/posts/images/cognee/philippe-cogn-e.jpg)
+{{< /imgc >}}
 
 Depuis le Pop Art d’un Rauschenberg et ses « combine painting » ou même de Daniel Spoerri en passant par la photographie des marges chez Egglestone ou Nan Golding et aussi le cinéma décrivant la modernité et les villes (Antonioni, Lynch, etc.) la vie urbaine et ses désordres cancéreux est un thème récurrent de l’art moderne et contemporain.
 
 Le suburbain comme lieu hybride fascine de nombreux artistes depuis les années cinquante. C’est de plus une sorte d’écho pessimiste aux ruines mélancoliques du romantisme, ou même des Arcadies et paysages élégiaques de la renaissance.
 
-* Chez [Eva Nielsen](/eva-nielsen/) par exemple il s’agit de combinaisons à la [Ed Ruscha](/edward-ruscha-gagosian/) qui décrivent un suburbain où le désordre redonne à la Nature l’occasion de regagner du territoire.
+* Chez [Eva Nielsen](/eva-nielsen-serigraphie-private/) par exemple il s’agit de combinaisons à la Ed Ruscha qui décrivent un suburbain où le désordre redonne à la Nature l’occasion de regagner du territoire.
 * Chez Jeremy Liron il s’agit avant tout des banlieues et leur quotidien déformé par l’espèce de vide social et presque ontologique qui les caractérise.
 
 ⠀
@@ -63,12 +64,13 @@ L’atelier est lui même un lieu de fermentation, transformation physique des �
 La toile n’est pas simplement décrépie, malmenée, elle est transformée. Elle n’est pas seulement une ruine, un vestige, une strate archéologique, elle est réellement un processus physique.
 
 Le tableau ne représente pas seulement il est la gestation physique, organique de l’idée, souvent labyrinthique chez Kiefer, qui l’a fait naître.
-
+{{< imgc >}}
 ![](/posts/images/cognee/philippe-cogn-e.003.jpg)
+{{< /imgc >}}
 
 ### Règles, spatules et sous-couches
 
-Le travail de Philippe Cognée présente aussi certaines filiations avec la partie abstraite de l’œuvre de [Gerhard Richter](/../gerhard-richter/gerhard-richter-hyperrealisme-flou/) ainsi que son approche de la photographie.
+Le travail de Philippe Cognée présente aussi certaines filiations avec la partie abstraite de l’œuvre de [Gerhard Richter](/gerhard-richter-hyperrealisme-flou/) ainsi que son approche de la photographie.
 
 L’artiste nantais puise comme Richter ses sujets dans la photographie et l’imagerie du web. Ce n’est évidemment pas très original puisque la majorité des peintres contemporains le font. Cependant à l’instar de Richter la relation de Philippe Cognée à la photographie est plus intime.
 
@@ -81,12 +83,13 @@ C’est dans la pratique de la représentation picturale l’expression de la vo
 D’où cette similitude pas exclusivement technique avec les grandes toiles abstraites peintes à la règle de Richter. En effet, un des aspects intriguant des pièces abstraites du peintre allemand est qu’elles peuvent aisément être vues comme des agrandissements démesurés des toiles photo-réalistes. Les grands formats à la règle présentent souvent le même flouté et filé que la partie figurative et photo-réaliste du travail de Richter, les strates et sous-couches en plus.
 
 On peut voir un peu la même chose dans le travail à la cire, au fer et en strates de Cognée. Ce n’est pas qu’une similitude superficielle et technique, cela dénote le même rapport à la photographie et surtout au monde photographié, numérisé, contaminé et dupliqué à l’extrême jusqu’à la confusion. Plus généralement on voit bien le rapport au problème quasi tautologique de l’image peinte représentant une capture photographique du réel.
-
+{{< imgc >}}
 ![](/posts/images/cognee/philippe-cogn-e.007.jpg)
+{{< /imgc >}}
 
 ### La plasticité de la photographie
 
-En reproduisant picturalement la représentation mécanique sinon totalement objective du réel de la photographie l’on peint. Ce qui signifie qu’on figure une image, celle de la photo, avec ses propriétés bien spécifiques. Ce qu’on imite c’est la matière du cliché, d’où [chez Richter](/../art/gerhard-richter-sothebys/) le travail obsessionnel sur les rapports de tons et de lumière à travers des glacis qui troublent l'empreinte du référent initial.
+En reproduisant picturalement la représentation mécanique sinon totalement objective du réel de la photographie l’on peint. Ce qui signifie qu’on figure une image, celle de la photo, avec ses propriétés bien spécifiques. Ce qu’on imite c’est la matière du cliché, d’où chez Richter le travail obsessionnel sur les rapports de tons et de lumière à travers des glacis qui troublent l'empreinte du référent initial.
 
 Ce qui est flou ce n’est pas le tableau, la peinture, mais la figuration. La partie abstraite de ce travail est dès lors comme une plongée grossissante de cette texture et de la surface picturale, la matière propre du tableau.
 
@@ -97,8 +100,9 @@ Ces peintres qui reviennent à la figuration sont intimement des héritiers des 
 Mais à l’inverse de l’abstraction la plus radicale ces artistes figuratifs luttent pour conserver une relation au visible tout en étant lucides sur les paradoxes de toute forme de dédoublement du « réel », à plus forte raison quand on part de sa reproduction mécanique ou de sa virtualisation numérique.
 
 ---
-
+{{< imgc >}}
 ![](/posts/images/cognee/phlippe-cogn-eexhibitiondaniel-templonart-galleryparisfrance2017solo-showpaintingcrowdsarchitecture-e1488057121645.jpg)
+{{< /imgc >}}
 
 ---
 
@@ -111,12 +115,13 @@ En effet, le numérique a contaminé tout l’espace de la représentation du r�
 Ce flot qui se répand sans plus aucun souci des faits, de vérification et d’authenticité, agit comme une contamination et semble invalider bien des questionnements sur le vrai, l’assertion et la démonstration, le privé et le public, etc. La liste est longue. L’exposition Coworkers au MaM en 2016 (vérifier) donnait un aperçu de cette mouvance, questions qui sont aussi le centre du travail d’artistes comme Clement Valla, Rollin Leonard ou Cory Arcangel .
 
 ### De la « veduta » à Matrix
-
+{{< imgc >}}
 ![](/posts/images/cognee/philippe-cogn-e.005.jpg)
+{{< /imgc >}}
 
 Pour revenir à Cognée il y a comme une forme de nostalgie et de fascination à voir la stabilité du réel s’effondrer. D’ailleurs le travail par stratification et décomposition sur le plan de la toile pourrait être considéré comme une « veduta » et encore peut-être davantage comme un écran, un voile qui se déchire.
 
-Or il y a un jeune peintre français [David Lefebvre](/david-lefebvre-artiste-peintre/) qui littéralement transpose la contamination de la surface picturale par le numérique, le pixel et le doute à la Matrix sur le bien fondée de cette tentative de créer un plan où on pourrait lire les ambiguïté de la représentation.
+Or il y a un jeune peintre français [David Lefebvre](/david-lefebvre-artiste-peintre-private/) qui littéralement transpose la contamination de la surface picturale par le numérique, le pixel et le doute à la Matrix sur le bien fondée de cette tentative de créer un plan où on pourrait lire les ambiguïté de la représentation.
 
 Lefebvre peint des paysages et des tableaux de genre, entre autres à la Courbet, qui se décomposent, se trouent ou s’effilent pour laisser transparaitre un noir total ou des motifs de pixel, comme si déjà la virtualisation l’avait définitivement emporté. Cognée est évidemment moins littéral et aussi probablement plus confiant en le bien fondé de peindre encore.
 

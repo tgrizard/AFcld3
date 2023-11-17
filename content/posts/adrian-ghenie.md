@@ -42,7 +42,7 @@ Il voit les photographies de l’histoire récente, telles que les photographies
 ![](/posts/images/ghenie/adrian-gheniepainting2018jungles-in-parisropacchristiesauction.001-4.jpg)
 {{< /imgc >}}
 
-On pourrait presque dire la tessiture des monstres de l’histoire, mais aussi celle de tout un chacun. C’est alors qu’à l’instar d’un [Jörg Immendorff](/jorg-immendorff/), ou d’un [Markus Lupertz](/markus-lupertz-fauvism-leipzig/), il introduit dans la figuration la « texture » via une peinture très gestuelle. Par-dessus le motif et sa figuration Adrian Ghenie pratique une peinture qui s’approche de l’action painting, voire du happening.
+On pourrait presque dire la tessiture des monstres de l’histoire, mais aussi celle de tout un chacun. C’est alors qu’à l’instar d’un Jörg Immendorff, ou d’un [Markus Lupertz](/markus-lupertz-fauvism-leipzig/), il introduit dans la figuration la « texture » via une peinture très gestuelle. Par-dessus le motif et sa figuration Adrian Ghenie pratique une peinture qui s’approche de l’action painting, voire du happening.
 
 Il utilise le couteau, la spatule, de grandes brosses, des projections ou encore des pochoirs pour redonner au motif figuré ce qu’il appelle donc une « texture ». Une peinture figurative qui devient — par l’intrusion de l’abstraction gestuelle — dysmorphique. Apparait alors comme un deuxième moment du motif figuré des monstres, ceux qui sont tapis derrière tous ces portraits souriants de tyrans, dictateurs ou exécutants zélés et psychopathes.
 
@@ -89,28 +89,32 @@ Alors que peint Adrian Ghenie ? Lorsqu’il s’agit de la peinture d’histoire
 ### **Portrait et paysage**
 
 Cette nouvelle source d’inspiration met en avant un trait caractéristique du travail du peintre roumain, à savoir l’indifférenciation progressive entre le paysage et le portrait. Ghenie travaille dans ces portraits soit à l’image de Bacon, c’est à dire qu’il isole la figure sur un fond neutre, et contient la véhémence de la touche dans le profil du personnage ; soit il peint des scènes avec figures, à la perspective parfois très classique, mais aussi, assez fréquemment, dans des basculements du fond qui rapproche l’ensemble d’un magma pictural frontal où les éclaboussures, traces, violences plastiques, se répartissent indistinctement sur le fond comme le « premier plan ». L’influence de Bacon n’est certainement pas étrangère à cette manière.
-
+{{< imgc >}}
 ![](/posts/images/ghenie/adrian-gheniepainting2018jungles-in-parisropacchristiesauction.001-2.jpg)
+{{< /imgc >}}
 
 Bacon utilisait des gestes au couteau, à même le tube ou au chiffon qui venaient par-dessus le plan de la « scène », donnant le sentiment d’un nouveau plan, celui du tableau, s’interposant entre la figuration peinte et le regardeur. La surface picturale se signalait subitement comme une paroi translucide déréalisant la scène peinte, rappelant la voix off du cinéma ou celle du narrateur en littérature, soulignant l’artificialité de la narration.
 
 Adrian Ghenie en laissant libre cours à la violence que suscite le travail en gestation, non seulement conjure la scénographie picturale mais brouille l’étagement des plans. La « texture » se répand indifféremment jusqu’à ruiner délibérément la composition. Portraits et paysages muent en une synthèse fragmentaire et simultanée de moments, récits et pathos. « Texture » et collages temporels ou visuels ne font plus qu’un dans un processus d’engloutissement de la figure, jusqu’à l’ornemental, mais dans un registre organique tiraillé par l’angoisse, qui n’est pas sans rappeler [Jenny Saville](/jenny-saville/).
-
+{{< imgc >}}
 ![](/posts/images/ghenie/adrian-gheniepainting2018jungles-in-parisropacchristiesauction.001-3.jpg)
+{{< /imgc >}}
 
 ### **L’angoisse**
 
 Sur bien des points le travail du peintre roumain fait penser à l’œuvre de [Berlinde de Bruyckere,](/berlinde-de-bruyckere-sculpture/) qui à travers une sculpture scénographique tente de canaliser l’angoisse face à la monstruosité de l’histoire, en exaltant précisément la précarité des chairs, du vivant et ses manifestations les plus surprenantes.
 
 Chez Ghenie il y a également ce rapport viscéral à l’histoire, filtrée aussi, comme chez la sculptrice belge, par l’histoire de l’art.
-
+{{< imgc >}}
 ![](/posts/images/ghenie/adrian-ghenie-biennale-venise-detail-2015-pavillon-roumain-darwin-room.jpg)
+{{< /imgc >}}
 
 L’apparente dichotomie entre l’expressionnisme débridé et violent et la « survivance » de l’appel au réel à travers la figuration ou le « figural » n’est en réalité que théorique et superficielle. En exhumant la « texture » intime de l’histoire et son rapport « angoissé » — c’est-à-dire, en déséquilibre, en insuffisance de sens — à son spectacle, Adrian Ghenie ne peut que faire imploser l’appel mimétique au référent, il le fissure et en exhume les entrailles, à tel point que la surface picturale s’interpose entre la scène représentée et le pathos qui a motivé — dans la violence de l’angoisse — sa figuration.
 
 ---
-
+{{< imgc >}}
 ![](/posts/images/ghenie/adrian-gheniepainting2018jungles-in-parisropaccentre-pompidou.001.jpg)
+{{< /imgc >}}
 
 ---
 
@@ -144,11 +148,8 @@ L’apparente dichotomie entre l’expressionnisme débridé et violent et la «
 
 ⠀
 ---
-
-
+© Adrian Ghenie
 
 Courtesy [Thaddaeus Ropac gallery](https://www.ropac.net/?ref=artefields.net)
 
 Courtesy [Pace Gallery](https://www.pacegallery.com/?ref=artefields.net)
-
-© Adrian Ghenie

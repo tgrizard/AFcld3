@@ -22,8 +22,9 @@ La photographie dés ses débuts a été investie par les artistes qu’il s’a
 Néanmoins grâce aux constructivistes, le Bauhaus et  le surréalisme la photographie gagne ses premières lettres de noblesse. Elle est utilisée principalement pour son pouvoir d’abstraction dû aux jeux de lumières du noir et blanc et la captation du mouvement et de la vitesse.
 
 Pour les surréalistes, Man Ray en tête évidemment, la photographie devient un outil d’expérimentation qui se prête particulièrement bien à l’onirisme et la libre association.‌
-
-![](/posts/images/photographie//gyorgy-kepes_photography.jpg) 
+{{< imgc >}}
+![](/posts/images/photographie/gyorgy-kepes_photography.jpg) 
+{{< /imgc >}}
 
 © Gyorgy Kepes.
 
@@ -35,9 +36,10 @@ Cependant ce sont les artistes conceptuelles qui firent de la photographie, un p
 
 Toutefois il faudra attendre la photographie objective des élèves et héritiers de Bernd et Hilla Becher et l’avènement des artistes plasticiens pour que la photographie deviennent un médium équivalent aux autres, y compris sur le marché de l’art.
 
-Ceci probablement en raison de la qualité intrinsèque du travail d’artistes tels que Gursky, Thomas Ruff ou Candida Höffer entre autres ([voir notre article sur la photographie objective](https://www.artefields.net/photographie-objective/)), mais aussi parce que l’art post duchampien a descendu les médiums classiques de leur piédestal.‌
-
-![](/posts/images/photographie//andreas-gursky-rhein-II.jpg) 
+Ceci probablement en raison de la qualité intrinsèque du travail d’artistes tels que Gursky, Thomas Ruff ou Candida Höffer entre autres ([voir notre article sur la photographie objective](/photographie-objective/)), mais aussi parce que l’art post duchampien a descendu les médiums classiques de leur piédestal.‌
+{{< imgc >}}
+![](/posts/images/photographie/andreas-gursky-rhein-II.jpg) 
+{{< /imgc >}}
 
 © Andreas Gursky.
 
@@ -48,8 +50,9 @@ Les plasticiens, quant à eux, du fait de leur indépendance de tout medium spé
 La photographie objective aussi bien que plasticienne rentre au musée et devient consubstantielle au champ artistique « consacré ». Elle est alors intronisée par le marché et les institutions.
 
 #### PHOTOGRAPHIE ET ART CONTEMPORAIN : LA PHOTOGRAPHIE MIROIR.‌
-
-![](/posts/images/photographie//hb_2001.474-562x579-1.jpg) 
+{{< imgc >}}
+![](/posts/images/photographie/hb_2001.474-562x579-1.jpg) 
+{{< /imgc >}}
 
 © Diane Arbus.
 
