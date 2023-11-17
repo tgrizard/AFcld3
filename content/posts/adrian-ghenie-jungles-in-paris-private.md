@@ -1,7 +1,7 @@
 ---
 title: "Adrian Ghenie Jungles in Paris"
 date: 2023-10-23
-url: /adrian-ghenie-jungles-in-paris-private/ 
+url: /adrian-ghenie-jungles-in-paris/ 
 # layout: ""
 draft: false
 hidden: false

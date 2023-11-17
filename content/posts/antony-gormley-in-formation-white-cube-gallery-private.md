@@ -1,7 +1,7 @@
 ---
 title: "Antony Gormley et l’anthropocène"
 date: 2019-12-23
-url: /antony-gormley-in-formation-white-cube-gallery-private/
+url: /antony-gormley-in-formation-white-cube-gallery/
 # layout: ""
 draft: false 
 hidden: false

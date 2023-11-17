@@ -1,7 +1,7 @@
 ---
 title: "Claire Tabouret et la Femme qui pleure"
 date: 2018-12-23
-url: /claire-tabouret-almine-rech-private/
+url: /claire-tabouret-almine-rech/
 # layout: ""
 draft: false
 hidden: false

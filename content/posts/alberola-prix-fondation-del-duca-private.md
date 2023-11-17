@@ -1,7 +1,7 @@
 ---
 title: "Alberola, mots et peinture"
 date: 2017-06-23
-url: /alberola-prix-fondation-del-duca-private/
+url: /alberola-prix-fondation-del-duca/
 # layout: ""
 draft: false
 hidden: false

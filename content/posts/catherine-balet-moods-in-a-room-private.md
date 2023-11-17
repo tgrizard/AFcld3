@@ -1,7 +1,7 @@
 ---
 title: "Catherine Balet, les images incertaines"
 date: 2019-02-25
-url: /catherine-balet-moods-in-a-room-private/ 
+url: /catherine-balet-moods-in-a-room/ 
 # layout: ""
 draft: false
 hidden: false

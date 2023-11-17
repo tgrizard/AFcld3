@@ -1,7 +1,7 @@
 ---
 title: "Chiharu Shiota mémoire de sang et fils d'Ariane"
 date: 2015-07-23
-url: /chiharu-shiota-biennale-venise-private/
+url: /chiharu-shiota-biennale-venise/
 # layout: ""
 draft: false
 hidden: false

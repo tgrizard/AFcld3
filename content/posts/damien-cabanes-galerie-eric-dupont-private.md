@@ -1,7 +1,7 @@
 ---
 title: "Damien Cabanes, galerie Eric Dupont"
 date: 2017-05-23
-url: /damien-cabanes-galerie-eric-dupont-private/ 
+url: /damien-cabanes-galerie-eric-dupont/ 
 # layout: ""
 draft: false
 hidden: false

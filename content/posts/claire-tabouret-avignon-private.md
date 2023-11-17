@@ -1,7 +1,7 @@
 ---
 title: "Claire Tabouret portrait de groupe en altérité"
 date: 2018-09-23
-url: /claire-tabouret-avignon-private/
+url: /claire-tabouret-avignon/
 # layout: ""
 draft: false
 hidden: false

@@ -1,7 +1,7 @@
 ---
 title: "Ren Hang, nus et portraits de groupe"
 date: 2016-09-23
-url: /ren-hang-private/
+url: /ren-hang/
 # layout: ""
 draft: false
 hidden: false
@@ -14,7 +14,7 @@ tags: [ "Erotisme", "Corporéité"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/hang2.jpg"
 aliases:
-- /rend-hang/
+- /posts/rend-hang-private
 ---
 ## Ren Hang, le fantasme en instamatic
 

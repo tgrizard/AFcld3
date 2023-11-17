@@ -1,7 +1,7 @@
 ---
 title: "Aurore Pallet, les obscurs boréals"
 date: 2018-02-23
-url: /aurore-pallet-isabelle-gounod-private/
+url: /aurore-pallet-isabelle-gounod/
 # layout: ""
 draft: false
 hidden: false

@@ -1,7 +1,7 @@
 ---
 title: "Anna di Prospero autoportrait en ville"
 date: 2022-09-23
-url: /anna-di-prospero-autoportrait-en-ville-private/
+url: /anna-di-prospero-autoportrait-en-ville/
 # layout: ""
 draft: false
 hidden: false

@@ -1,7 +1,7 @@
 ---
 title: "David Altmejd, L’Air, galerie Xavier Hufkens"
 date: 2016-04-23
-url: /david-altmejd-l-air-private/
+url: /david-altmejd-l-air/
 # layout: ""
 draft: false
 hidden: false

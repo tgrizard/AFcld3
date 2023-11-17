@@ -1,7 +1,7 @@
 ---
 title: "César, radical et sensuel"
 date: 2018-03-23
-url: /cesar-centre-pompidou-private/
+url: /cesar-centre-pompidou/
 # layout: ""
 draft: false
 hidden: false

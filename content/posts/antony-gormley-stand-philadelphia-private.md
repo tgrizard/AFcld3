@@ -1,7 +1,7 @@
 ---
 title: "Antony Gormley une sculpture est un évènement"
 date: 2019-05-23
-url: /antony-gormley-stand-philadelphia-private/
+url: /antony-gormley-stand-philadelphia/
 # layout: ""
 draft: false
 hidden: false

@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-11-17T21:25:07+01:00</lastmod>
+    <lastmod>2023-11-17T21:48:21+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-11-17T21:25:07+01:00</lastmod>
+    <lastmod>2023-11-17T21:48:21+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/formalisme/</loc>
-    <lastmod>2023-11-17T18:22:14+01:00</lastmod>
+    <lastmod>2023-11-17T21:47:55+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/iconographie/</loc>
-    <lastmod>2023-11-17T18:47:44+01:00</lastmod>
+    <lastmod>2023-11-17T21:47:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -28,22 +28,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/photographie/</loc>
-    <lastmod>2023-11-17T21:25:07+01:00</lastmod>
+    <lastmod>2023-11-17T21:47:55+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-11-17T21:25:07+01:00</lastmod>
+    <lastmod>2023-11-17T21:48:21+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-11-17T21:25:07+01:00</lastmod>
+    <lastmod>2023-11-17T21:48:21+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2023-11-17T21:25:07+01:00</lastmod>
+    <lastmod>2023-11-17T21:48:21+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -53,12 +53,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/conceptuel/</loc>
-    <lastmod>2023-11-17T21:03:41+01:00</lastmod>
+    <lastmod>2023-11-17T21:46:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/photographie-objective/</loc>
-    <lastmod>2023-11-17T15:57:18+01:00</lastmod>
+    <lastmod>2023-11-17T21:45:09+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -67,13 +67,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/agnes-geoffray-photography-private/</loc>
-    <lastmod>2023-11-14T13:27:36+01:00</lastmod>
+    <loc>https://artstream.net/agnes-geoffray-photography/</loc>
+    <lastmod>2023-11-17T21:44:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/alex-majoli-scene-photojournalism-private/</loc>
-    <lastmod>2023-11-14T13:29:35+01:00</lastmod>
+    <loc>https://artstream.net/alex-majoli-scene-photojournalism/</loc>
+    <lastmod>2023-11-17T21:45:09+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -98,7 +98,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/anthropoc%C3%A8ne/</loc>
-    <lastmod>2023-11-14T13:29:35+01:00</lastmod>
+    <lastmod>2023-11-17T21:46:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -117,13 +117,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/posts/art-et-perception-art-contemporain-private/</loc>
-    <lastmod>2023-11-03T02:13:46+01:00</lastmod>
+    <loc>https://artstream.net/art-et-perception-art-contemporain/</loc>
+    <lastmod>2023-11-17T21:46:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/arts-visuels/</loc>
-    <lastmod>2023-11-17T18:20:17+01:00</lastmod>
+    <lastmod>2023-11-17T21:48:21+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -163,7 +163,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/corpor%C3%A9it%C3%A9/</loc>
-    <lastmod>2023-11-17T21:25:07+01:00</lastmod>
+    <lastmod>2023-11-17T21:47:55+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -203,32 +203,32 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/erotisme/</loc>
-    <lastmod>2023-11-17T21:25:07+01:00</lastmod>
+    <lastmod>2023-11-17T21:46:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/etranget%C3%A9/</loc>
-    <lastmod>2023-11-14T18:47:38+01:00</lastmod>
+    <lastmod>2023-11-17T21:44:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/featured/</loc>
-    <lastmod>2023-11-15T00:37:21+01:00</lastmod>
+    <lastmod>2023-11-17T21:45:09+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/featured/</loc>
-    <lastmod>2023-11-17T15:49:55+01:00</lastmod>
+    <lastmod>2023-11-17T21:45:09+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/f%C3%A9minisme/</loc>
-    <lastmod>2023-11-15T00:49:57+01:00</lastmod>
+    <lastmod>2023-11-17T21:46:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/fluxus/</loc>
-    <lastmod>2023-11-17T21:03:41+01:00</lastmod>
+    <lastmod>2023-11-17T21:47:09+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -408,7 +408,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/peinture/</loc>
-    <lastmod>2023-11-17T17:18:25+01:00</lastmod>
+    <lastmod>2023-11-17T21:48:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -428,7 +428,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/photo-documentaire/</loc>
-    <lastmod>2023-11-14T13:29:35+01:00</lastmod>
+    <lastmod>2023-11-17T21:45:09+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -448,7 +448,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/plasticien/</loc>
-    <lastmod>2023-11-17T14:09:33+01:00</lastmod>
+    <lastmod>2023-11-17T21:47:38+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -503,7 +503,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/sculpture/</loc>
-    <lastmod>2023-11-17T18:20:17+01:00</lastmod>
+    <lastmod>2023-11-17T21:48:21+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -513,7 +513,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/staged-photography/</loc>
-    <lastmod>2023-11-14T13:29:35+01:00</lastmod>
+    <lastmod>2023-11-17T21:45:15+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -533,7 +533,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/surr%C3%A9alisme/</loc>
-    <lastmod>2023-11-17T21:03:41+01:00</lastmod>
+    <lastmod>2023-11-17T21:47:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -553,12 +553,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/th%C3%A9%C3%A2tralit%C3%A9/</loc>
-    <lastmod>2023-11-14T18:47:38+01:00</lastmod>
+    <lastmod>2023-11-17T21:45:09+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/themes/</loc>
-    <lastmod>2023-11-17T18:34:06+01:00</lastmod>
+    <lastmod>2023-11-17T21:46:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -598,22 +598,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/adrian-ghenie/</loc>
-    <lastmod>2023-11-17T15:49:55+01:00</lastmod>
+    <lastmod>2023-11-17T21:43:34+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/adrian-ghenie-jungles-in-paris-private/</loc>
-    <lastmod>2023-11-15T09:06:24+01:00</lastmod>
+    <loc>https://artstream.net/adrian-ghenie-jungles-in-paris/</loc>
+    <lastmod>2023-11-17T21:43:34+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/alex-prager-film-photography-private/</loc>
-    <lastmod>2023-11-06T19:58:05+01:00</lastmod>
+    <loc>https://artstream.net/alex-prager-film-photography/</loc>
+    <lastmod>2023-11-17T21:45:15+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/butzfouque-fetish-bazaar-private/</loc>
-    <lastmod>2023-11-07T01:05:53+01:00</lastmod>
+    <loc>https://artstream.net/butzfouque-fetish-bazaar/</loc>
+    <lastmod>2023-11-17T21:47:09+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -657,8 +657,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/coco-capitan-mep-busy-living-private/</loc>
-    <lastmod>2023-11-14T13:29:35+01:00</lastmod>
+    <loc>https://artstream.net/coco-capitan-mep-busy-living/</loc>
+    <lastmod>2023-11-17T21:47:55+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -667,8 +667,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/anna-di-prospero-autoportrait-en-ville-private/</loc>
-    <lastmod>2023-11-07T01:37:27+01:00</lastmod>
+    <loc>https://artstream.net/anna-di-prospero-autoportrait-en-ville/</loc>
+    <lastmod>2023-11-17T21:45:37+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -682,8 +682,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/bettina-rheims-naked-war-private/</loc>
-    <lastmod>2023-11-07T01:52:54+01:00</lastmod>
+    <loc>https://artstream.net/bettina-rheims-naked-war/</loc>
+    <lastmod>2023-11-17T21:46:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -722,8 +722,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/antony-gormley-in-formation-white-cube-gallery-private/</loc>
-    <lastmod>2023-11-17T18:20:17+01:00</lastmod>
+    <loc>https://artstream.net/antony-gormley-in-formation-white-cube-gallery/</loc>
+    <lastmod>2023-11-17T21:45:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -762,8 +762,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/antony-gormley-stand-philadelphia-private/</loc>
-    <lastmod>2023-11-16T19:20:25+01:00</lastmod>
+    <loc>https://artstream.net/antony-gormley-stand-philadelphia/</loc>
+    <lastmod>2023-11-17T21:45:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -792,13 +792,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/catherine-balet-moods-in-a-room-private/</loc>
-    <lastmod>2023-11-06T13:55:35+01:00</lastmod>
+    <loc>https://artstream.net/catherine-balet-moods-in-a-room/</loc>
+    <lastmod>2023-11-17T21:47:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/ironie/</loc>
-    <lastmod>2023-11-06T13:55:35+01:00</lastmod>
+    <lastmod>2023-11-17T21:47:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -822,18 +822,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/claire-tabouret-almine-rech-private/</loc>
-    <lastmod>2023-11-08T00:43:21+01:00</lastmod>
+    <loc>https://artstream.net/claire-tabouret-almine-rech/</loc>
+    <lastmod>2023-11-17T21:47:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/baptiste-rabichon-photography-private/</loc>
-    <lastmod>2023-11-17T18:22:14+01:00</lastmod>
+    <loc>https://artstream.net/baptiste-rabichon-photography/</loc>
+    <lastmod>2023-11-17T21:46:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/anish-kapoor-my-red-homeland-private/</loc>
-    <lastmod>2023-11-17T12:40:44+01:00</lastmod>
+    <loc>https://artstream.net/anish-kapoor-my-red-homeland/</loc>
+    <lastmod>2023-11-17T21:45:30+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -842,8 +842,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/claire-tabouret-avignon-private/</loc>
-    <lastmod>2023-11-08T00:51:37+01:00</lastmod>
+    <loc>https://artstream.net/claire-tabouret-avignon/</loc>
+    <lastmod>2023-11-17T21:47:49+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -887,13 +887,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/cesar-centre-pompidou-private/</loc>
-    <lastmod>2023-11-16T21:42:06+01:00</lastmod>
+    <loc>https://artstream.net/cesar-centre-pompidou/</loc>
+    <lastmod>2023-11-17T21:47:23+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/aurore-pallet-isabelle-gounod-private/</loc>
-    <lastmod>2023-11-08T00:36:48+01:00</lastmod>
+    <loc>https://artstream.net/aurore-pallet-isabelle-gounod/</loc>
+    <lastmod>2023-11-17T21:46:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -937,8 +937,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/anders-zorn-la-lumiere-des-sensations-private/</loc>
-    <lastmod>2023-11-08T00:31:26+01:00</lastmod>
+    <loc>https://artstream.net/anders-zorn-la-lumiere-des-sensations/</loc>
+    <lastmod>2023-11-17T21:45:22+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -992,8 +992,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/alberola-prix-fondation-del-duca-private/</loc>
-    <lastmod>2023-11-13T18:06:43+01:00</lastmod>
+    <loc>https://artstream.net/alberola-prix-fondation-del-duca/</loc>
+    <lastmod>2023-11-17T21:44:50+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1012,8 +1012,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/damien-cabanes-galerie-eric-dupont-private/</loc>
-    <lastmod>2023-11-12T14:37:46+01:00</lastmod>
+    <loc>https://artstream.net/damien-cabanes-galerie-eric-dupont/</loc>
+    <lastmod>2023-11-17T21:48:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1037,8 +1037,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/ren-hang-private/</loc>
-    <lastmod>2023-11-17T21:25:07+01:00</lastmod>
+    <loc>https://artstream.net/ren-hang/</loc>
+    <lastmod>2023-11-17T21:41:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1082,8 +1082,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/david-altmejd-l-air-private/</loc>
-    <lastmod>2023-11-17T00:09:12+01:00</lastmod>
+    <loc>https://artstream.net/david-altmejd-l-air/</loc>
+    <lastmod>2023-11-17T21:48:21+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1107,13 +1107,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/combas-galerie-laurent-strouk-private/</loc>
-    <lastmod>2023-11-14T00:02:01+01:00</lastmod>
+    <loc>https://artstream.net/combas-galerie-laurent-strouk/</loc>
+    <lastmod>2023-11-17T21:48:06+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/bruce-nauman-fondation-cartier-private/</loc>
-    <lastmod>2023-11-17T12:47:36+01:00</lastmod>
+    <loc>https://artstream.net/bruce-nauman-fondation-cartier/</loc>
+    <lastmod>2023-11-17T21:47:04+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1137,13 +1137,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/chiharu-shiota-biennale-venise-private/</loc>
-    <lastmod>2023-11-17T13:08:05+01:00</lastmod>
+    <loc>https://artstream.net/chiharu-shiota-biennale-venise/</loc>
+    <lastmod>2023-11-17T21:47:29+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/claire-morgan-private/</loc>
-    <lastmod>2023-11-17T13:12:38+01:00</lastmod>
+    <loc>https://artstream.net/claire-morgan/</loc>
+    <lastmod>2023-11-17T21:47:38+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1172,8 +1172,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/albert-renger-patzsch-photography-private/</loc>
-    <lastmod>2023-11-14T13:29:35+01:00</lastmod>
+    <loc>https://artstream.net/albert-renger-patzsch-photography/</loc>
+    <lastmod>2023-11-17T21:45:01+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

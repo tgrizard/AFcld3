@@ -1,7 +1,7 @@
 ---
 title: "Butz&Fouque Fetish Bazaar"
 date: 2023-10-23
-url: /butzfouque-fetish-bazaar-private/
+url: /butzfouque-fetish-bazaar/
 # layout: ""
 draft: false
 hidden: false

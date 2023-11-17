@@ -1,7 +1,7 @@
 ---
 title: "Anders Zorn la lumière des sensations"
 date: 2017-11-23
-url: /anders-zorn-la-lumiere-des-sensations-private/
+url: /anders-zorn-la-lumiere-des-sensations/
 # layout: ""
 draft: false
 hidden: false

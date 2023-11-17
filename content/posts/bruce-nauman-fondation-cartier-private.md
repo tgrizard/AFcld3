@@ -1,7 +1,7 @@
 ---
 title: "Bruce Nauman et l'incommunicabilité à la Fondation Cartier"
 date: 2015-10-23
-url: /bruce-nauman-fondation-cartier-private/
+url: /bruce-nauman-fondation-cartier/
 # layout: ""
 draft: false
 hidden: false

@@ -1,7 +1,7 @@
 ---
 title: "Robert Combas, galerie Laurent Strouk"
 date: 2016-01-23
-url: /combas-galerie-laurent-strouk-private/
+url: /combas-galerie-laurent-strouk/
 # layout: ""
 draft: false
 hidden: false

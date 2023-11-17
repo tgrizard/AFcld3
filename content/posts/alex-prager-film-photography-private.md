@@ -1,7 +1,7 @@
 ---
 title: "Alex Prager le monde en technicolor"
 date: 2023-10-23
-url: /alex-prager-film-photography-private/
+url: /alex-prager-film-photography/
 # layout: ""
 draft: false
 hidden: false

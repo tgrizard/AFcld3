@@ -1,7 +1,7 @@
 ---
 title: "Anish Kapoor My Red Homeland à St Etienne"
 date: 2018-10-23
-url: /anish-kapoor-my-red-homeland-private/
+url: /anish-kapoor-my-red-homeland/
 # layout: ""
 draft: false
 hidden: false

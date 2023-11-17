@@ -1,7 +1,7 @@
 ---
 title: "Bettina Rheims Naked War"
 date: 2021-03-23
-url: /bettina-rheims-naked-war-private/
+url: /bettina-rheims-naked-war/
 # layout: ""
 draft: false
 hidden: false

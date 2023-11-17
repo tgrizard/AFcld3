@@ -1,7 +1,7 @@
 ---
 title: "Baptiste Rabichon le geste et la photographie"
 date: 2018-11-23
-url: /baptiste-rabichon-photography-private/
+url: /baptiste-rabichon-photography/
 # layout: ""
 draft: false
 hidden: false

@@ -1,7 +1,7 @@
 ---
 title: "Claire Morgan la sculpture en resille"
 date: 2015-07-23
-url: /claire-morgan-private/
+url: /claire-morgan/
 # layout: ""
 draft: false
 hidden: false
