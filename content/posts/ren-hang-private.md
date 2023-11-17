@@ -13,6 +13,8 @@ summary: "Ren Hang, photographe chinois héritier de Nobuyoshi Araki qui met en 
 tags: [ "Erotisme", "Corporéité"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/hang2.jpg"
+aliases:
+- /rend-hang/
 ---
 ## Ren Hang, le fantasme en instamatic
 
