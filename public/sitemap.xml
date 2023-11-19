@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-11-19T02:25:53+01:00</lastmod>
+    <lastmod>2023-11-19T21:33:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-11-19T02:25:53+01:00</lastmod>
+    <lastmod>2023-11-19T21:33:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -18,7 +18,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/iconographie/</loc>
-    <lastmod>2023-11-19T02:25:53+01:00</lastmod>
+    <lastmod>2023-11-19T21:33:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -33,17 +33,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-11-19T02:25:53+01:00</lastmod>
+    <lastmod>2023-11-19T21:33:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-11-19T02:25:53+01:00</lastmod>
+    <lastmod>2023-11-19T21:33:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2023-11-19T02:25:53+01:00</lastmod>
+    <lastmod>2023-11-19T21:16:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -93,7 +93,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/anna-migdal/</loc>
-    <lastmod>2023-11-17T00:03:17+01:00</lastmod>
+    <lastmod>2023-11-19T21:33:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -123,7 +123,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/arts-visuels/</loc>
-    <lastmod>2023-11-19T01:46:06+01:00</lastmod>
+    <lastmod>2023-11-19T21:16:59+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/bauhaus/</loc>
+    <lastmod>2023-11-19T21:33:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -188,7 +193,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/duane-hanson-hyperrealisme/</loc>
-    <lastmod>2023-11-14T23:34:16+01:00</lastmod>
+    <lastmod>2023-11-19T21:16:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -233,7 +238,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/focus/</loc>
-    <lastmod>2023-11-17T21:50:52+01:00</lastmod>
+    <lastmod>2023-11-19T21:16:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -288,12 +293,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/histoire-de-lart/</loc>
-    <lastmod>2023-11-14T13:29:35+01:00</lastmod>
+    <lastmod>2023-11-19T21:33:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/hyperr%C3%A9alisme/</loc>
-    <lastmod>2023-11-14T23:34:16+01:00</lastmod>
+    <lastmod>2023-11-19T21:16:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -333,7 +338,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/art-history-modern-art-bauhaus/</loc>
-    <lastmod>2023-11-14T13:29:35+01:00</lastmod>
+    <lastmod>2023-11-19T21:33:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -503,7 +508,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/sculpture/</loc>
-    <lastmod>2023-11-19T01:46:06+01:00</lastmod>
+    <lastmod>2023-11-19T21:16:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -558,7 +563,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/themes/</loc>
-    <lastmod>2023-11-19T02:25:53+01:00</lastmod>
+    <lastmod>2023-11-19T21:33:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -684,11 +689,6 @@
   </url><url>
     <loc>https://artstream.net/bettina-rheims-naked-war/</loc>
     <lastmod>2023-11-17T21:46:57+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/tags/bauhaus/</loc>
-    <lastmod>2023-11-17T21:50:53+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
