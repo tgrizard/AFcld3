@@ -63,4 +63,3 @@ url = "https://www.facebook.com/artefields"
 [frontmatter]
     date = ["date", "publishDate", "lastmod"]
     lastmod = ["lastmod", ":fileModTime", ":default"]
-

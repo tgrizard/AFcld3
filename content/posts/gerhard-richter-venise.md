@@ -42,7 +42,7 @@ Mais, même dans cette démarche continue aux dérivations protéiformes, Richte
 
 ### **Le visible, l’Histoire et les sentiments**
 
-Autre chemin de traverse que le peintre emprunte à maintes reprises, une certaine forme apparente de sentimentalisme et d’historicisme notamment quand il aborde les sujets à connotations intimistes tirés de photographies personnelles en particulier, [Eisberg](https://www.artefields.net/gerhard-richter-iceberg/) et Venedig en sont de bons exemples. Dans les deux cas Richter se situe ouvertement, par le truchement d’une photo banale, dans la perspective de l’histoire de l’art, en particulier le romantisme allemand mais aussi [Turner](https://www.artefields.net/william-turner/) et les peintres italiens de la lumière.
+Autre chemin de traverse que le peintre emprunte à maintes reprises, une certaine forme apparente de sentimentalisme et d’historicisme notamment quand il aborde les sujets à connotations intimistes tirés de photographies personnelles en particulier, [Eisberg](/gerhard-richter-iceberg/) et Venedig en sont de bons exemples. Dans les deux cas Richter se situe ouvertement, par le truchement d’une photo banale, dans la perspective de l’histoire de l’art, en particulier le romantisme allemand mais aussi Turner et les peintres italiens de la lumière.
 
 ![](/posts/images/richter/gerhard-richterpaintingphoto-realismphoto-paintingeisbergatlas.001.jpg)© Gerhard Richter, Eisberg, 1983.
 
