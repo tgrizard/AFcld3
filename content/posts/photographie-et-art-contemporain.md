@@ -36,7 +36,7 @@ Cependant ce sont les artistes conceptuelles qui firent de la photographie, un p
 
 Toutefois il faudra attendre la photographie objective des élèves et héritiers de Bernd et Hilla Becher et l’avènement des artistes plasticiens pour que la photographie deviennent un médium équivalent aux autres, y compris sur le marché de l’art.
 
-Ceci probablement en raison de la qualité intrinsèque du travail d’artistes tels que Gursky, Thomas Ruff ou Candida Höffer entre autres ([voir notre article sur la photographie objective](/photographie-objective/)), mais aussi parce que l’art post duchampien a descendu les médiums classiques de leur piédestal.‌
+Ceci probablement en raison de la qualité intrinsèque du travail d’artistes tels que Gursky, Thomas Ruff ou Candida Höffer entre autres ([voir notre article sur la photographie objective](/dossier-la-photographie-objective/)), mais aussi parce que l’art post duchampien a descendu les médiums classiques de leur piédestal.‌
 {{< imgc >}}
 ![](/posts/images/photographie/andreas-gursky-rhein-II.jpg) 
 {{< /imgc >}}
