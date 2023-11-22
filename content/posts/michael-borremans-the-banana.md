@@ -32,10 +32,12 @@ De prime abord l’on « voit » cette toile comme étant un portrait. Mais le c
 
 ### Le motif est ailleurs
 
-Ici la lumière inspirée des peintres espagnols tels que Goya, Zurbaran ([voir notre article](/michael-borremans-et-zurbaran/)) ou bien entendu Velasquez se concentre vers un modeste fruit sur lequel toute l’attention apparente du personnage est concentrée. Mais cette pose relève moins du portrait que du moment suspendu.
+Ici la lumière inspirée des peintres espagnols tels que Goya, Zurbaran ou bien entendu Velasquez se concentre vers un modeste fruit sur lequel toute l’attention apparente du personnage est concentrée. Mais cette pose relève moins du portrait que du moment suspendu.
  Michaël Borremans prépare avec beaucoup de minutie ses compositions, notamment par des mises en scènes photographiques très élaborées, incluant costumes, accessoires et éclairages dirigés. Dès lors ce temps arrêté n’est autre que celui de la prise de vue. Ce n’est cependant ni un instantané (plus ou moins sans qualité) repris en peinture (Comme Richter par exemple, [voir notre article](/gerhard-richter-et-la-photographie/)) ni un portrait d’atelier à la Lucian Freud.
 
+{{< imgc >}}
 ![](/posts/images/borremans/michael-borremans-artiste-peintre-peinture-portrait-the-banana-6.jpg)
+{{< /imgc >}}
 
 © Michaël Borremans. « The Banana », 2006.
 
@@ -47,9 +49,9 @@ Avec « The Banana », il ne s’agit donc pas du portrait d’un modèle vivant
 
 Au final ce qui est représenté ce n’est ni une nature morte, ni un portrait, ni une scène de genre, mais un « momentum », un élan figé, sous la forme d’une boucle narrative qui ne mène nul part. Le but est atteint, créer une très grande intensité plastique qui dans l’immobilité de l’action et du temps nous laisse concentré dans l’impact du tableau.
 Le personnage central c’est évidemment la lumière et le modelé presque sculptural qui est donné des matières: la brillance des cheveux, les plis et la texture du t-shirt, sa couleur olive très proche de certains tableaux de Velasquez, l’avant bras droit et les mains qui sont à peine esquissés en de grands coups de brosse épais et fluides, et bien sûr le jaune éclatant de la banane par ailleurs assez peu détaillée. Ceci dit, « The Banana » joue tout de même un rôle essentiel dans cette composition, elle introduit l’incongruité. Elle est l’objet accidentel du rébus sans solution que propose le peintre plasticien.
-
+{{< imgc >}}
 ![](/posts/images/borremans/michael-borremans-artiste-peintre-peinture-portrait-the-banana-5.jpg)
-
+{{< /imgc >}}
 © Michaël Borremans. « The Banana », 2006.
 
 ### La dernière bande *

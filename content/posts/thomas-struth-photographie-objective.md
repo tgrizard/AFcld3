@@ -23,7 +23,7 @@ Le travail de Thomas Struth est très marqué par sa formation initiale. De [Ger
 
 Quant à sa filiation avec Bernd et Hilla Becher elle est évidente. Les Becher ont entrepris un travail documentaire strict du patrimoine industriel de la fin du 19° et 20° siècles. Ils procédaient suivant une méthodologie rigoureuse se caractérisant par la frontalité, une lumière étale, un niveau de détail très poussé, l’absence de toute figure humaine et le travail en série.
 
-Thomas Struth respecte ces deux voies particulièrement fécondes dans l’art contemporain, tout spécialement concernant la photographie dite objective à laquelle sont apparentés : [Thomas Ruff](/thomas-ruff/), Candida Höfer, [Andreas Gursky](/andreas-gursky-le-vertige-du-reel/), Thomas Demand, etc. En outre, cette démarche est à rapprocher de la [Nouvelle Objectivité](/photographie-objective/) qui donna en Allemagne ses lettres de noblesse à la photographie auparavant ravalée au rang de pâle copie de la peinture ou de piètre moyen de documentation anecdotique.
+Thomas Struth respecte ces deux voies particulièrement fécondes dans l’art contemporain, tout spécialement concernant la photographie dite objective à laquelle sont apparentés : [Thomas Ruff](/thomas-ruff/), Candida Höfer, [Andreas Gursky](/andreas-gursky-le-vertige-du-reel/), Thomas Demand, etc. En outre, cette démarche est à rapprocher de la [Nouvelle Objectivité](/dossier-la-photographie-objective/) qui donna en Allemagne ses lettres de noblesse à la photographie auparavant ravalée au rang de pâle copie de la peinture ou de piètre moyen de documentation anecdotique.
 
 ![](/posts/images/struth/thomas-struthnasaphotographyallemagnephotographie-objective.018.jpg)© Thomas Struth.
 

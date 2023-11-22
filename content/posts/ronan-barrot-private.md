@@ -16,11 +16,12 @@ featured_image: "/posts/images/banner/barrot.jpg"
 ---
 ## Ronan Barrot : « Tout a été peint quand pourtant tout reste à peindre »
 
-**Ronan Barrot** (né à Argol le 13 Février 1973) est un artiste peintre contemporain français qui s’inscrit explicitement dans l’histoire de la peinture à l’image d’un [Eugène Leroy](/eugene-leroy-neo-expressionisme/), Rebeyrolle ou [Markus Lupertz](/markus-lupertz-fauvism-leipzig/). Ronan Barrot est surtout préoccupé par l’espace, la construction dynamique de l’espace dans le champ de la peinture et par principe du report sur la planéité de la toile.
+**Ronan Barrot** (né à Argol le 13 Février 1973) est un artiste peintre contemporain français qui s’inscrit explicitement dans l’histoire de la peinture à l’image d’un Eugène Leroy, Rebeyrolle ou [Markus Lupertz](/markus-lupertz-fauvism-leipzig/). Ronan Barrot est surtout préoccupé par l’espace, la construction dynamique de l’espace dans le champ de la peinture et par principe du report sur la planéité de la toile.
 
 ---
-
+{{< imgc >}}
 ![](/posts/images/barrot/ronan-barrot-claude-bernard-peinture-art-contemporain-gustave-courbet-realisme.701.jpg)
+{{< /imgc >}}
 
 ---
 
@@ -31,8 +32,9 @@ C’est la une des grandes spécificités de la peinture de vouloir redonner la 
 Il s’attèle spécialement au « problème » de la profondeur du paysage, et ses structures reportées, reconstruites dans la fenêtre de la toile. Une fenêtre qui depuis le renversement de l’art moderne ne prétend plus imiter mais qui se donne à voir pour elle même. Une fenêtre qui n’ouvre donc ni sur l’extérieur de la représentation de la Nature, pas davantage sur l’expression romantique de la subjectivité, mais ne cesse de se replier sur elle même pour forcer le regard, capter l’attention sur sa propre structure. La toile est comme une boucle paradoxale qui veut arrêter le regard par sa singularité, sa propre force gravitationnelle.
 
 ---
-
+{{< imgc >}}
 ![](/posts/images/barrot/ronan-barrot-claude-bernard-peinture-art-contemporain-gustave-courbet-realisme.700.jpg)
+{{< /imgc >}}
 
 ---
 

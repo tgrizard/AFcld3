@@ -146,7 +146,7 @@ Et, même chez ceux qui veulent échapper à cette caractéristique en prenant d
 
 Une autre voie est celle héritée de l’art conceptuel où la photographie est en quelque sorte documentaire.
 
-Enfin à mi-chemin, on trouve une tendance qui mêle la manière conceptuelle aux expériences surréalistes. **[Francesca Woodman](/woodman/)** en est un bon exemple. Dans cette veine la photographie n’est pas une fin en soi mais un moyen d’illustrer une idée. La photographie est alors une mise en image, au même titre que certains tableaux.
+Enfin à mi-chemin, on trouve une tendance qui mêle la manière conceptuelle aux expériences surréalistes. **[Francesca Woodman](/francesca-woodman/)** en est un bon exemple. Dans cette veine la photographie n’est pas une fin en soi mais un moyen d’illustrer une idée. La photographie est alors une mise en image, au même titre que certains tableaux.
 {{< imgc >}}
 ![](/posts/images/sugimoto/francesca-woodman-photography-fluxus-conceptual-art-surrealism.jpg)
 {{< /imgc >}}

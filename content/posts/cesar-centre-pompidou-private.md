@@ -15,12 +15,14 @@ categories: ["Arts Visuels"]
 featured_image: "/posts/images/banner/cesar.jpg"
 ---
 ## César entre modernité et classicisme
+{{< imgc >}}
 ![](/posts/images/cesar/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018expansion.001-2.jpg)
+{{< /imgc >}}
 **César Baldaccini**, dit César, est un artiste un peu tombé dans l’oubli, victime de sa surexposition médiatique de son vivant ; de l’ambiguïté de son travail soupçonné, dans les années 1990, d’être plus classique que moderne ; et d’une succession chaotique jetant un doute sur l’authenticité de nombreuses pièces.
 La rétrospective produite par Bernard Blistène au [Centre Pompidou](https://www.centrepompidou.fr/), rassemblant une centaine d’œuvres, souligne néanmoins un certain retour de l’artiste marseillais sur le marché de l’art et du goût des amateurs comme du grand public pour le « revival » permettant de redécouvrir les mouvements artistiques des années 1960, en l’occurrence, les fameux Nouveaux Réalistes.
 Or ce qui frappe dès l’entrée de la scénographique ouverte, en un seul plateau d’exposition, c’est la diversité de l’œuvre et sa grande sensualité.
 **César est un sculpteur !**
-César a voulu après ses années de formation académique s’éloigner de cet héritage en se revendiquant avec talent, entre autres, de [Giacometti](/giacometti/) qu’il rencontre en 1946 et Germaine Richier dont il fait la connaissance en 1950.
+César a voulu après ses années de formation académique s’éloigner de cet héritage en se revendiquant avec talent, entre autres, de Giacometti qu’il rencontre en 1946 et Germaine Richier dont il fait la connaissance en 1950.
 
 {{< imgc >}}
 ![](/posts/images/cesar/cesarcentre-pompidouexpositionnouveaux-realistesart-modernesculpture2018.029.jpg)

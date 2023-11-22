@@ -21,7 +21,7 @@ featured_image: "/posts/images/banner/savu.jpg"
 
 L’École de Cluj (appellation qui vit le jour avec le critique d’art italien Giancarlo Politi en 2007 par corrélation avec l’École expressionniste et néo-expressionniste de Leipzig) ne constitue pas cependant un groupe homogène d’artistes.
 
-Il s’agit plutôt d’une dénomination de circonstance désignant une génération de peintres profitant de l’intérêt de certains galeristes pour les pays de l’Europe de l’Est fraichement sortis de l’aire d’influence communiste. Alors qu’Adrian Ghenie ([voir nos articles]((/adrian-ghenie-biographie-galerie/)) est à situer dans l’héritage expressionniste, Serban Savu pratique un « style » réaliste aux formes simplifiées qui renvoie au réalisme socialiste, en outre les motifs employés sont pour la plupart d’ordre social et décrivent avec désenchantement la transition du communisme à une économie de marché et des valeurs propres aux démocraties occidentales actuelles dominées par le néolibéralisme.
+Il s’agit plutôt d’une dénomination de circonstance désignant une génération de peintres profitant de l’intérêt de certains galeristes pour les pays de l’Europe de l’Est fraichement sortis de l’aire d’influence communiste. Alors qu’Adrian Ghenie [voir nos articles](/adrian-ghenie-biographie-galerie/) est à situer dans l’héritage expressionniste, Serban Savu pratique un « style » réaliste aux formes simplifiées qui renvoie au réalisme socialiste, en outre les motifs employés sont pour la plupart d’ordre social et décrivent avec désenchantement la transition du communisme à une économie de marché et des valeurs propres aux démocraties occidentales actuelles dominées par le néolibéralisme.
 {{< imgc >}}
 ![](/posts/images/savu/serban-savu_painting_romania.008.jpg)
 {{< /imgc >}}
