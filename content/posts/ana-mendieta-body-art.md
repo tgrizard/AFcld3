@@ -4,8 +4,9 @@ date: 2023-10-23T22:03:27+02:00
 url: /ana-mendieta-body-art/
 draft: false
 authors: ["Thierry Grizard"]
-source: 
-description: "Ana Mendieta était une artiste de la performance et du body art il est pourtant impossible de la cantonner dans ces frontières bien trop étroites pour elle."
+# source: 
+description: "Ana Mendieta était une artiste de la performance et du body art il est pourtant impossible de la cantonner dans ces frontières bien trop étroites pour elle"
+summary: "Ana Mendieta était une artiste de la performance et du body art il est pourtant impossible de la cantonner dans ces frontières bien trop étroites pour elle"
 tags: ["Body Art", "Fluxus", "Performance", "Sensorialité", "Corporéité", "Destin singulier"]
 categories: ["Arts Visuels"]
 featured_image: "/posts/images/banner/mendieta.jpg"

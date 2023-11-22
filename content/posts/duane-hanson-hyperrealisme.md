@@ -4,8 +4,9 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /duane-hanson-hyperrealisme/
 authors: ["Thierry Grizard"]
-source: 
-description: "Duane Hanson a révolutionné la sculpture moderne en la détachant de toute recherche formelle ou expressive au profit de mises en scènes hyperréalistes."
+# source: 
+description: "Duane Hanson a révolutionné la sculpture moderne en la détachant de toute recherche formelle ou expressive au profit de mises en scènes hyperréalistes"
+summary: "Duane Hanson a révolutionné la sculpture moderne en la détachant de toute recherche formelle ou expressive au profit de mises en scènes hyperréalistes"
 tags: ["Sculpture", "Hyperréalisme"]
 categories: ["Arts Visuels", "Focus"]
 featured_image: "/posts/images/banner/hanson.jpg"

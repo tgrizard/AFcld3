@@ -5,7 +5,8 @@ draft: false
 url: /andres-serrano-un-moraliste-polemique/
 authors: ["Thierry Grizard"]
 source: ["https://www.artefields.net/andres-serrano-un-moraliste-polemique/"]
-description: "La carrière de Andres Serrano s’est construite sur le scandale or l'artiste américain est surtout un polémiste imprégné de religion et de spiritualité."
+description: "La carrière de Andres Serrano s’est construite sur le scandale or l'artiste américain est surtout un polémiste imprégné de religion et de spiritualité"
+summary: "La carrière de Andres Serrano s’est construite sur le scandale or l'artiste américain est surtout un polémiste imprégné de religion et de spiritualité"
 tags: ["Conceptuel", "Iconographie"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/serrano.jpg"

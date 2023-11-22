@@ -4,8 +4,9 @@ date: 2023-10-23T22:03:27+02:00
 draft: false
 url: /chiharu-shiota-simplicite-et-evidence/
 authors: ["Thierry Grizard"]
-source:
-description: "Chiharu Shiota est une plasticienne japonaise mondialement connue pour ses installations épurées son œuvre s'avère cependant plus complexe que cette image."
+# source:
+description: "Chiharu Shiota est une plasticienne japonaise mondialement connue pour ses installations épurées son œuvre s'avère cependant plus complexe que cette image"
+summary: "Chiharu Shiota est une plasticienne japonaise mondialement connue pour ses installations épurées son œuvre s'avère cependant plus complexe que cette image"
 tags: ["Body Art", "Performance", "Plasticien", "Japon", "Temporalité", "Corporéité", "Chiharu Shiota"]
 categories: ["Arts Visuels", "Featured"]
 featured_image: "/posts/images/banner/shiota.jpg"
