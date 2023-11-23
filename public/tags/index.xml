@@ -6,34 +6,7 @@
     <description>Recent content in Tags on ARTSTREAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 28 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://artstream.net/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Formalisme</title>
-      <link>https://artstream.net/tags/formalisme/</link>
-      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://artstream.net/tags/formalisme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iconographie</title>
-      <link>https://artstream.net/tags/iconographie/</link>
-      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://artstream.net/tags/iconographie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Underground</title>
-      <link>https://artstream.net/tags/underground/</link>
-      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://artstream.net/tags/underground/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 23 Oct 2023 22:03:27 +0200</lastBuildDate><atom:link href="https://artstream.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anthropocène</title>
       <link>https://artstream.net/tags/anthropoc%C3%A8ne/</link>
@@ -170,6 +143,15 @@
     </item>
     
     <item>
+      <title>Formalisme</title>
+      <link>https://artstream.net/tags/formalisme/</link>
+      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
+      
+      <guid>https://artstream.net/tags/formalisme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gerhard Richter</title>
       <link>https://artstream.net/tags/gerhard-richter/</link>
       <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
@@ -193,6 +175,15 @@
       <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
       
       <guid>https://artstream.net/tags/hyperr%C3%A9alisme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iconographie</title>
+      <link>https://artstream.net/tags/iconographie/</link>
+      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
+      
+      <guid>https://artstream.net/tags/iconographie/</guid>
       <description></description>
     </item>
     
@@ -436,6 +427,15 @@
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://artstream.net/tags/emptiness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Underground</title>
+      <link>https://artstream.net/tags/underground/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://artstream.net/tags/underground/</guid>
       <description></description>
     </item>
     

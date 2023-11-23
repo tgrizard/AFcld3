@@ -2,56 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/tags/formalisme/</loc>
-    <lastmod>2023-11-23T12:30:37+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/tags/iconographie/</loc>
-    <lastmod>2023-11-23T12:30:37+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/peter-hujar-photography-monograph-article/</loc>
-    <lastmod>2023-11-23T12:30:37+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/categories/photographie/</loc>
-    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/tags/underground/</loc>
-    <lastmod>2023-11-23T12:30:37+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://artstream.net/agnes-geoffray-photography/</loc>
     <lastmod>2023-11-17T21:44:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -112,6 +62,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/authors/</loc>
+    <lastmod>2023-11-23T22:58:31+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/tags/bauhaus/</loc>
     <lastmod>2023-11-19T21:33:41+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -132,6 +87,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/categories/</loc>
+    <lastmod>2023-11-23T22:58:31+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/tags/chiharu-shiota/</loc>
     <lastmod>2023-11-22T02:26:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -148,7 +108,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/conceptuel/</loc>
-    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
+    <lastmod>2023-11-23T22:53:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -158,7 +118,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/corpor%C3%A9it%C3%A9/</loc>
-    <lastmod>2023-11-22T23:46:43+01:00</lastmod>
+    <lastmod>2023-11-23T22:53:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -218,7 +178,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/f%C3%A9minisme/</loc>
-    <lastmod>2023-11-22T02:26:38+01:00</lastmod>
+    <lastmod>2023-11-23T22:53:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -229,6 +189,11 @@
   </url><url>
     <loc>https://artstream.net/categories/focus/</loc>
     <lastmod>2023-11-22T02:28:04+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/formalisme/</loc>
+    <lastmod>2023-11-23T22:58:31+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -294,6 +259,11 @@
   </url><url>
     <loc>https://artstream.net/ron-mueck-george-segal-duane-hanson-lhyperrealisme-dans-la-sculpture-contemporaine/</loc>
     <lastmod>2023-11-23T12:27:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/iconographie/</loc>
+    <lastmod>2023-11-23T22:58:31+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -427,6 +397,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/categories/photographie/</loc>
+    <lastmod>2023-11-23T22:58:31+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/tags/photographie-contingente/</loc>
     <lastmod>2023-11-22T23:49:14+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -459,6 +434,11 @@
   </url><url>
     <loc>https://artstream.net/tags/portraits/</loc>
     <lastmod>2023-11-17T21:50:54+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/</loc>
+    <lastmod>2023-11-23T22:58:31+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -542,8 +522,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/talia-chetrit-selfie/</loc>
-    <lastmod>2023-11-14T13:29:35+01:00</lastmod>
+    <loc>https://artstream.net/tags/</loc>
+    <lastmod>2023-11-23T22:58:31+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -559,6 +539,11 @@
   </url><url>
     <loc>https://artstream.net/categories/themes/</loc>
     <lastmod>2023-11-23T12:27:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/authors/thierry-grizard/</loc>
+    <lastmod>2023-11-23T22:58:31+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -717,6 +702,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/peter-hujar-photography-monograph-article/</loc>
+    <lastmod>2023-11-23T22:58:31+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/underground/</loc>
+    <lastmod>2023-11-23T22:58:31+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/lavinia-fontana-mars-venus/</loc>
     <lastmod>2023-11-07T19:59:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -809,6 +804,11 @@
   </url><url>
     <loc>https://artstream.net/farah-atassi-modernism-post-modern/</loc>
     <lastmod>2023-11-17T21:50:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/talia-chetrit-selfie/</loc>
+    <lastmod>2023-11-23T22:53:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
