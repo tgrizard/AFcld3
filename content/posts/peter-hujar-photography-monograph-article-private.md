@@ -1,11 +1,10 @@
 ---
 title: "Peter Hujar portraits de l'underground new-yorkais"
-date: 2023-10-28
+date: 2020-01-12
 draft: false
 url: /peter-hujar-photography-monograph-article/
 authors: ["Thierry Grizard"]
-access: [["Réservé aux abonnés"]]
-# source: ["/andres-serrano-un-moraliste-polemique/"]
+access: ["Réservé aux abonnés"]
 description: "Peter Hujar est un photographe américain emblématique des années underground new-yorkaises des années 70/80 Il réalisait des portraits saisissants du temps"
 summary: "Peter Hujar est un photographe américain emblématique des années underground new-yorkaises des années 70/80 Il réalisait des portraits saisissants du temps"
 tags: ["Formalisme", "Iconographie", "Underground"]
@@ -14,7 +13,7 @@ featured_image: "/posts/images/banner/hujar.jpg"
 ---
 ## Peter Hujar, “Portrait In Life And Death”
 
-> « Mon travail est dans le droit fil de ma vie. Les gens que je photographie ne m’apparaissent ni comme des monstres, ni comme des curiosités. J’aime les gens qui osent. » Peter Hujar
+« Mon travail est dans le droit fil de ma vie. Les gens que je photographie ne m’apparaissent ni comme des monstres, ni comme des curiosités. J’aime les gens qui osent. » Peter Hujar
 ⠀
 **Peter Hujar** (1934/1987, né à Trenton dans le New Jersey, États-Unis) est un photographe majeur des années 1970/80, très associé au New York « underground » de l’époque, dont l’East Village où il demeurait parmi les jeunes artistes. Son travail oscille entre commandes commerciales, reportages personnels et portraits rigoureux de célébrités des avant-gardes, d’anonymes, d’amis ou d’animaux qu’il ne distingue pas du point de vue de sa démarche de portraitiste. Il était également parfois « street photographer ». Le travail de Peter Hujar est donc assez éclectique, très marqué par l’ambiance new-yorkaise des marges et les prémices du mouvement pour les droits des homosexuels.
 {{< imgc >}}

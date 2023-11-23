@@ -1,0 +1,99 @@
+---
+title: "Serban Savu le social réalisme poétique"
+date: 2019-05-23
+url: /serban-savu-romania-painter/
+# layout: ""
+draft: true
+hidden: false
+authors: ["Thierry Grizard"]
+# access: ["Réservé aux abonnés"]
+# source: [""]
+description: "Serban Savu avec Adrian Ghenie fait partie de l'Ecole de Cluj mais chez Savu l'expressionnisme fait place à une sorte de post réalisme socialiste poétique"
+summary: "Serban Savu avec Adrian Ghenie fait partie de l'Ecole de Cluj mais chez Savu l'expressionnisme fait place à une sorte de post réalisme socialiste poétique"
+tags: [ "Peinture"]
+categories: ["Arts Visuels"]
+featured_image: "/posts/images/banner/savu.jpg"
+---
+# Serban Savu le social réalisme poétique - ARTEFIELDS
+## Serban Savu et l’école de Cluj
+
+**Serban Savu**, (né en 1978 à Sighișoara, Roumanie, vit et travaille à Cluj-Napoca, Roumanie) fait partie du groupe de peintres qui émergèrent au début des années 2000 en Roumanie en compagnie d’Adrian Ghenie, Mircea Cantor, Ciprian Muresan et quelques autres. Il est parmi ces derniers le moins connu.
+
+L’École de Cluj (appellation qui vit le jour avec le critique d’art italien Giancarlo Politi en 2007 par corrélation avec l’École expressionniste et néo-expressionniste de Leipzig) ne constitue pas cependant un groupe homogène d’artistes.
+
+Il s’agit plutôt d’une dénomination de circonstance désignant une génération de peintres profitant de l’intérêt de certains galeristes pour les pays de l’Europe de l’Est fraichement sortis de l’aire d’influence communiste. Alors qu’Adrian Ghenie ([voir nos articles](/adrian-ghenie-biographie-galerie/) est à situer dans l’héritage expressionniste, Serban Savu pratique un « style » réaliste aux formes simplifiées qui renvoie au réalisme socialiste, en outre les motifs employés sont pour la plupart d’ordre social et décrivent avec désenchantement la transition du communisme à une économie de marché et des valeurs propres aux démocraties occidentales actuelles dominées par le néolibéralisme.
+{{< imgc >}}
+![](/posts/images/savu/serban-savu_painting_romania.008.jpg)
+{{< /imgc >}}
+
+### Du réalisme magique au désenchantement
+
+La peinture de Serban Savu est une peinture réaliste, elle décrit un contexte sociologique et un moment de l’histoire. C’est pourquoi elle pourrait passer pour descriptive. Pourtant si la manière évoque le réalisme socialiste par ses personnages simplifiés et « cubo-naïfs » on ne peut se départir d’un puissant sentiment d’irréalité devant les scènes nimbées d’une lumière iridescente que le peintre donne à chacune de ses toiles.
+
+La lumière est toujours soigneusement reproduite mais, comme au cinéma ou en photographie, une tulle semble posée devant l’œil du peintre qui « floute » la scène picturale et l’irise à la manière des photo-painting de Gerhard Richter [voir nos articles](/gerhard-richter-atlas-et-monographie/), notamment les séries concernant la bande à Baader, la série vénitienne et en particulier Eisberg [voir notre article](/gerhard-richter-iceberg/). Cet effet de flou et d’irisation contredit évidemment la description précise de scènes paraissant tirées sur le vif et nous offrant des moments de la vie ordinaire de gens qui, selon les générations, subissent ou profitent de l’ouverture de la Roumanie.
+{{< imgc >}}
+![](/posts/images/savu/serban-savu_painting_romania.008-8.jpg) 
+{{< /imgc >}}
+
+Au-delà de l’anecdote à la Pieter Breughel on découvre de nombreuses autres perspectives de lecture. Tout d’abord ces scènes ne sont jamais des portraits, les personnages sont indistincts, les individus en tant que tels ne prennent jamais corps, tout au contraire on pressent, parfois aisément, la part d’allégorie dans le motif réaliste. Les titres n’hésitent pas à nous orienter d’ailleurs.
+
+En effet, derrière la description sociale, il y a le recours à l’histoire de l’art et notamment à certains de ses grands thèmes par le truchement d’une iconographie très fournie : Saint Jérôme à sa grotte, les processions profanes, Flora la printanière, le sanglier, la forêt, le cerf, le gardien de musée et la Madone de miséricorde, etc. Tout ceci parfois sous des aspects évoquant de manière lointaine les miniatures byzantines.
+
+L’œuvre de Serban Savu oscille, par conséquent, entre l’onirisme, l’allégorie et la peinture sociale mélancolique. L’ouverture à la démocratie et l’ère post-libérale ne sont donc pas une libération joyeuse, nombreux sont les laissés pour comptes, les solidarités s’effondrent, le cadre social d’antan se délite et laisse place à un inconnu largement prévisible. En deçà de cette description Serban Savu entrevoit des tragédies universelles, celles des générations qui se succèdent, des jeunes et des anciens, de la nouveauté et la tradition, de l’individualisme et de la communauté sociale.
+
+Le réalisme du jeune artiste peintre roumain est un réalisme magique comme il s’est pratiqué en peinture avec Edward Hopper ou Andrew Wyeth par exemple ou dans le réalisme poétique du cinéma français des années 1930/40. L’allégorie et le symbolisme viennent habiter la description sociologique pour lui procurer une dimension à la fois plus universelle mais aussi et dans le même mouvement plus personnel, à cette différence près qu’avec Serban Savu les individus n’existent qu’à peine, les personnages du tableau sont des attitudes, des figures picturales et sociologiques.
+
+Ainsi de Flora représentée en jeune femme sexy et moderne sur fond de ruine en béton parcourant un chemin de campagne en nous tournant le dos. La scène est descriptive de l’ère post-industrielle et en même temps allégorique, le printemps et la jeunesse s’éloignent, la jeunesse livre les ruines post-communistes à l’oubli, tout ceci dans un paysage rural qui appartient déjà au passé.
+{{< imgc >}}
+![](/posts/images/savu/serban-savu_painting_romania.008-4.jpg)
+{{< /imgc >}}
+© Serban Savu, « Flora », 2018.
+
+### Entomologie et photographie de la déréliction
+
+Serban Savu est aussi un bon photographe qui peint, en ceci que les compositions presque photoréalistes du peintre roumain sont avant tout des cadrages photographiques. Les compositions picturales de Serban Savu correspondent à des prises de vue lointaines en longue focale, fréquemment en plongée et dans presque tous les cas fragmentées et désaxées. Les perspectives sont également écrasées. Le point d’observation est clairement indiqué comme lointain, détaché, voyeur et non participatif. Mais paradoxalement le « téléobjectif » en marquant l’éloignement de la scène anéantit aussi les distances. C’est une sorte de point de vue de Dieu, indifférent, qui marque l’agitation des foules qui s’agitent au loin.
+
+Quant à la lumière irisée si caractéristique des toiles du peintre elle correspond à l’épaisseur atmosphérique qui sépare l’observateur du sujet, lequel est inconscient d’être vu, mais surtout insouciant de ce que le peintre entrevoit de son futur. Les figures ou personnages humains sont réduits en dimensions, ils apparaissent tels des jouets, des marionnettes, ils sont à peine réels. La mélancolie du peintre roumain est bien celle d’un entomologiste observant une société déchirée se précipitant vers un nouvel avenir fallacieux.
+
+Le Réalisme Magique ou le Réalisme Poétique permettent au peintre de dresser un portrait en déréliction de la Roumanie. Les portraits sociétaux transfigurés de Serban Savu sont l’équivalent des portraits isolés de la société américaine qu’Edvard Hopper dressait au début du XX siècle.
+{{< imgc >}}
+![](/posts/images/savu/serban-savu_painting_romania.008-7.jpg)
+{{< /imgc >}}
+
+### Serban Savu et la ruine (romantique) post industrielle
+
+La peinture de Serban Savu relève d’une sorte de Social Réalisme poétique mais aussi paradoxalement d’un postromantisme sarcastique. En effet sa peinture est avant tout une peinture de paysage, certes de paysages à connotations sociales mais des paysages tout de même. L’homme est représenté dans un cadre large où prévaut l’environnement où le tout domine et relativise la place de l’individu. L’iconographie romantique est omniprésente. On retrouve notamment le thème et la symbolique des ruines, mais si celles-ci sont élégiaques ([voir notre article sur Eva Nielsen](/eva-nielsen-serigraphie/) elles ne parlent plus d’uchronie, c’est à dire d’un temps meilleur de l’Arcadie quand bien même il serait révolu, mais au moins positif en matière de rêverie salvatrice. Tout au contraire, les ruines de Serban Savu sont dystopiques, ceux sont des traces de contamination et non les signes d’une époque qui fut meilleure et à laquelle on pourrait pour un temps rêver. Ces ruines rappellent celles d’Anselm Kiefer [voir nos articles](/tags/anselm-kiefer/), elles renvoient à un passé récent qui n’annoncent rien de positif. L’idéalisme n’est plus possible.
+
+Dans la peinture de Serban Savu ne demeure du romantisme que le rapport d’échelle entre le paysage effectif ou signifié et l’individu écrasé, non par la Nature en tant qu’occasion de la manifestation du sentiment du sublime mais l’environnement historique, écologique et social réels qui broient des êtres en déréliction.
+
+L’élégie romantique, en d’autres termes la fuite mélancolique vers l’uchronie ou l’utopie, est ici rivée à terre par un pessimisme lucide qui anticipe les impasses du développement économique débridé. La ruine romantique des empires se manifeste dans les toiles du peintre roumain de manière dérisoire dans le spectacle déprimant des reliefs de l’ère post-industrielle et communiste.
+{{< imgc >}}
+![](/posts/images/savu/serban-savu_painting_romania.008-5.jpg)
+{{< /imgc >}}
+
+---
+{{< imgc >}}
+![](/posts/images/savu/serban-savu_painting_romania.008-2.jpg)
+{{< /imgc >}}
+
+---
+{{< imgc >}}
+![](/posts/images/savu/serban-savu_painting_romania.008-6.jpg)
+{{< /imgc >}}
+
+---
+{{< imgc >}}
+![](/posts/images/savu/serban-savu_painting_romania.008-3.jpg)
+{{< /imgc >}}
+
+---
+
+Serban Savu est représenté par :
+
+[Plan B gallery](https://www.plan-b.ro/?ref=artefields.net)
+
+[Nicodim gallery](http://www.nicodimgallery.com/?ref=artefields.net)
+
+[David Nolan gallery](http://www.davidnolangallery.com/?ref=artefields.net)
+{{< br >}}
+© Serban Savu.

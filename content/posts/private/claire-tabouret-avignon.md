@@ -1,0 +1,79 @@
+---
+title: "Claire Tabouret portrait de groupe en altérité"
+date: 2018-09-23
+url: /claire-tabouret-avignon/
+# layout: ""
+draft: true
+hidden: false
+authors: ["Thierry Grizard"]
+# access: ["Réservé aux abonnés"]
+# source: [""]
+description: "Claire Tabouret la jeune artiste peintre française au succès foudroyant expose à la Collection Lambert en Avignon sous le thème des Veilleurs"
+summary: "Claire Tabouret la jeune artiste peintre française au succès foudroyant expose à la Collection Lambert en Avignon sous le thème des Veilleurs"
+tags: [ "Peinture"]
+categories: ["Arts Visuels"]
+featured_image: "/posts/images/banner/tabouret2.jpg"
+---
+## Claire Tabouret, le portrait comme altérité
+
+### Portrait de groupe ?
+
+**Claire Tabouret** dans toutes ses séries passées, en cours ou simultanées ­— (« Les Maisons Inondées », « Les Migrants », « Les Tentes » plus ou moins entrebâillées, « Les Débutantes », « Les Amazones », « Les Héroïnes » féminines sous l’angle de la violence, « Isabelle Eberhardt », « Les Grandes Camisoles », etc.) — aborde une problématique constante, celle d’un univers en retrait, fermé qui semble animé d’un mouvement contradictoire de vacillement vers la dissolution et de surgissement sourd depuis le fond du tableau, de l’en deçà, à travers une lumière spectrale (omniprésente dans son travail) irradiant faiblement mais avec obstination.
+
+![](/posts/images/tabouret/claire-tabouretpaintingcollection-lambertavignon2018veilleurs.024-8.jpg)
+
+Dans la série exposée à la [Collection Lambert](http://www.collectionlambert.fr/?ref=artefields.net), du 5 juillet au 4 novembre 2018, sous le titre « Les Veilleurs », composée de toiles récentes ainsi que de quelques-unes plus anciennes, la jeune artiste française reprend le thème de l’enfance, une enfance grave et en rébellion. Elle tente avec les grands formats, en reprenant le portrait de groupe, de rendre présents dans leur altérité de jeunes gens rétifs qui refusent de se plier à ce que, dans la représentation en tant que groupe, on attend d’eux. Ces figures d’adolescents représentés comme un tout n’ont pas d’individualité marquée, la peintre n’en dresse pas, en réalité, un portrait réaliste. Elle porte surtout son attention sur la particularité de l’ensemble en tant que tel, notamment dans sa réaction aux pesanteurs de la coercition et des conventions collectives. Mais de quelles conventions s’agit-il ? Les images archétypales, que Claire Tabouret prélève dans des archives de papier ou des archives numériques, ne retiennent son attention qu’autant qu’elles constituent des images d’Épinal, souvent assez désuètes, d’un autre temps bien souvent. Le décalage est donc déjà dans le réfèrent.
+
+La jeune artiste peintre ne fait ainsi qu’accroitre l’écart, en vidant de la sorte définitivement l’image de ses derniers lambeaux de matérialités. On est, bien plutôt, dans le champ du pictural, il n’y a aucune description, ni même de transcription, et aucune transfiguration. Le modèle, un portrait de groupe composite et arbitraire, artificiel, ne portraiture rien, les personnages ne sont rien de plus que des figures, tout au plus des « persona », c’est-à-dire des représentations picturales plus ou moins eidétiques de ce que l’adolescence ou l’enfance illustre en tant que moment de rupture, de basculement et d’hésitations (hostiles) à la lisière du monde adultéré des grandes personnes, de ceux qui sont déjà de plein de pied et de manière irréversible dans le monde social et matériel des conventions. Cette image grave et inversée de l’enfance prétendument insouciante s’appuie, elle-même, sur le stéréotype d’une enfance « innocente » (avant l’adultération), « sauvage », en retrait de l’état de société, comme si le microcosme de l’enfance n’était pas déjà le reflet réduit, simplifié, du monde soumis à la responsabilité sociale et aux contraintes du monde matériel de l’échange et du travail.
+
+![](/posts/images/tabouret/claire-tabouretpaintingcollection-lambertavignon2018veilleurs.024-18.jpg)
+
+Les portraits de groupe de Claire Tabouret ne sont donc ni des portraits d’individus rassemblés plus ou moins fortuitement, ni davantage la « peinture » d’un groupe social, ceux sont des figures iconiques — (rappelant [Katinka Lampe](/katinka-lampe-art-paris-art-fair/) ainsi que [Marlene Dumas](/marlene-dumas-figure-et-figures/)) — ne se différenciant les unes des autres que par la noirceur des yeux, l’expression des sourcils, le rictus des lèvres. Ils sont caractérisés par le défi, l’angoisse, la colère sourde, le retrait, mais rien de psychologique ne les distinguent. Ils sont des figures réunies par les signes picturaux de la rébellion.
+
+Quant au groupe, il n’existe lui-même qu’à peine, car les groupes sont solidifiés, pétrifiés et agrégés dans des drapés solides ou des chevelures végétales qui les habillent d’une seule et même camisole (costume, déguisement social) aux allures de cheveux ou de crème glacées italiennes à la saveur verdâtre. La communauté est, au sens littéral, extrinsèque.
+
+![](/posts/images/tabouret/claire-tabouretpaintingcollection-lambertavignon2018veilleurs.024-15.jpg)
+
+Ainsi donc, les portraits de Claire Tabouret n’en sont pas, ils ne décrivent ou n’analysent pas. Ils énoncent dans la perspective de répondre aux interrogations de l’artiste, tout en espérant interpeller le regardeur par leur pénombres phosphorescentes. Cette manière de concevoir la toile comme un nœud qui fixe l’attention par l’irrésolu fait penser à [Michaël Borremans](/michael-borremans-art-disruptif/) qui, lui aussi, voit la figuration comme une mise en scène plus ou moins abyssale.
+
+### Poses, catatonie et masque, « ce qui est face aux yeux »
+
+Dans cet ensemble de toiles sur l’enfance le rapport à l’altérité est immédiat, les enfants rebelles ne se dissimulent pas. Il n’y pas d’un côté une identité personnelle authentique et de l’autre un visage emprunté qui se dissimulerait. Ils sont traversés, sans détour, par l’hostilité, le rejet et la crainte. Le masque expressif des enfants, le « prosopôn » (titre d’une des expositions de Claire Tabouret en 2013 chez Isabelle Gounod) ne cache pas, il n’occulte pas, il rend par contre le visage invisible au sens littéral, la particularité est suspendue, permettant ainsi d’être en acte le personnage que le peintre veut représenter, à savoir : la posture à la lisière de l’âge adulte. Les enfants de Claire Tabouret nous attendent de pied ferme depuis leur monde, leurs abris, leurs cabanes à eux. Postés à l’orée de leur univers déjà menacé de disparition les enfants sont sur leur garde, figés. C’est le paradoxe de ces poses convenues de photographies de classe ou autres, elles enjoignent à l’enfant d’endosser son rôle de bon élève ou tout du moins d’élèves domestiqués. Claire Tabouret en profite alors pour disloquer l’appareil coercitif qui donne ici l’occasion aux « rebelles » d’afficher leur hostilité dans un replis farouche. Cet instant d’équilibre, presque belliqueux, s’exprime dans une immobilité totale. Il n’y a aucun mouvement chez Tabouret, tout est raide et catatonique, tout simplement parce que l’espace n’est pas celui de l’action des corps, et encore moins celui d’individus. Les figures de l’enfance, que dépeint Claire Tabouret, relèvent de l’espace mental, pour s’en convaincre il suffit de s’approcher de la toile, de voir comment chaque silhouette n’est faite que par de grands coups de brosse aux jus transparents, aux lacis végétaux à la manière parfois des Nymphéas de Claude Monet. Les figures ne sont que des silhouettes de chiffon sans anatomie, se chevauchant quasiment et laissant fréquemment apparaitre en réserve le fond phosphorescent, bleu, jaune, ou vert cadavérique. Ces figures sont comme barbouillées de peinture, des masques génériques qui ne cachent rien puisqu’il n’y a rien de naturaliste à révéler. Il s’agit avant tout d’une tension à exprimer qui exsudent des visages (prosopôn), lesquels esquissent dans des traits sommaires : la colère, la résistance, l’éloignement et le défi.
+
+![](/posts/images/tabouret/claire-tabouretpaintingcollection-lambertavignon2018veilleurs.024-6.jpg)
+
+
+D’ailleurs, parallèlement aux grands formats dévolus aux portraits de groupe, à l’instar de tableaux d’Histoire, Claire Tabouret peint, le plus souvent, des portraits serrés d’adolescentes, qui arborent des maquillages outranciers défigurant le visage plus individualisé puisqu’il s’agit, dans ce cas, de portraits au sens classique. Pourtant la jeune peintre française ne peut retenir sa brosse et couvre le visage de gestes niant le modelé lui-même de la face juvénile, le visage bascule invariablement vers le masque pour nous dire que ce visage n’est en réalité qu’une figure, un habit, que l’intériorité est multiple et liquide, qu’elle est probablement inaccessible au peintre.
+
+### Insolations spectrales et évocation
+
+Les solarisations tonales de Claire Tabouret au bleu électrique, jaune aigre ou vert acide sont autant d’insolations nocturnes qui oscillent entre nausée existentielle et fièvre exaspérée. Les figures de la peinture, quand elles ne sont pas des portraits psychologiques (Goya, Rembrandt) ou des examens existentiels (Lucian Freud, Francis Bacon), ne se voient pas elles-mêmes, comme l’œil qui ne peut se voir, elles ne sont pas dans un retour réflexif sur elles-mêmes. Cela ne les empêche pas, dans le cas précis de Claire Tabouret, de nous dévisager ostensiblement, elles peuvent alors se mirer dans le regard du spectateur. Ces figures spectrales, existent de par leur frontalité en altérité que le peintre a voulu poser d’emblée, à l’image des Sabines de Jacques-Louis David, où la mise en scène allait jusqu’à poster en réciproque du tableau une psyché.
+
+![](/posts/images/tabouret/claire-tabouretpaintingcollection-lambertavignon2018veilleurs.024.jpg)
+
+
+Claire Tabouret ne se contente pas du assez classique jeu de regard de la figure picturale en interaction, elle s’efforce de faire surgir ses figures depuis le fond du tableau, comme si elles irradiaient d’une lumière propre à l’espace pictural. En effet, les sous-couches de la plupart des toiles exposées sourdent faiblement à travers de nombreuses réserves et les teintes translucides brossées au lavis. Les personnages sont comme les masques multiples et presque anonymes d’une même identité tonale sous-jacente, que l’artiste peintre annote des signes d’un type d’expression faciale réduit à son symptôme le plus caractéristique. Cette identité est comme pour l’âme d’Alcibiade à laquelle s’adresse Socrate dans l’ouvrage homonyme de Platon. Socrate ne s’adresse pas à l’âme du fameux sophiste, mais à l’âme en lui qui ne lui est pas particulière, qui lui préexistait et qui s’est réincarnée en lui. Les figures barbouillées de l’enfance que peint Claire Tabouret sont les portraits multiples de l’enfance envisagée comme moment (« universel », impersonnel) de bascule plus ou moins vertigineux. Ceux sont des spectres surgissant faiblement de la toile parce qu’ils tendent déjà à se dissoudre dans un autre état. Les masques/personnages de l’enfance révélés par Claire Tabouret sont comme des forces surgies de l’informe, d’un lieu où les ombres n’ont pas de visages, et ne sont plus ou pas encore des personnes.
+
+![](/posts/images/tabouret/claire-tabouretpaintingcollection-lambertavignon2018veilleurs.024-4.jpg)
+
+### La peinture cabane, entre abris et engloutissement
+
+Claire Tabouret dit avoir voulu être peintre depuis la petite enfance. Elle cite à maintes reprises le sentiment de fascination et d’engloutissement qui l’avait saisie lors d’une visite des nymphéas de Monet au musée de l’Orangerie. Elle voulut dès lors ne rien faire d’autre que peindre. La peinture était pour la petite fille comme un abris, un lieu d’immersion accueillant, mais aussi une source de suffocation, d’engloutissement. Le rapport qu’elle entretient avec la peinture se rapproche de la cabane refuge des enfants. Un abri où l’imaginaire peut laisser s’insinuer les pires angoisses. Un « omphalos » protecteur mais aussi inquiétant, comme une béance vers l’inconnu. Les tableaux de Claire Tabouret, particulièrement les grands formats, sont comme des points de bascule où l’équilibre indécis émerge du fond, pour paraître verser vers un autre état hors le cadre de la toile.
+
+Claire Tabouret ne nous montre pas « l’Enfance » mais son regard déterminé sur « l’Enfance », une vision différente de la représentation la plus conventionnelle, mais, en réalité, pas si originale que cela ! « L’Enfance » grave et angoissée est aussi une image assez stéréotypée de l’enfance. L’essentiel est ailleurs, pour Claire Tabouret il réside principalement dans la manière dont le fond de la toile, avec sa charge envahissante de mystère, peut resurgir à la surface.
+
+![](/posts/images/tabouret/claire-tabouretpaintingcollection-lambertavignon2018veilleurs.024-12.jpg)
+{{< br >}}
+@ Claire Tabouret.
+
+⠀
+### Repères biographiques
+
+* Née en 1981 à Pertuis, France.
+* Claire Tabouret vit et travaille entre Los Angeles et Paris.
+* Diplômée de École Nationale Supérieure des Beaux-Arts, Paris en 2006.
+* 2014 Prix Les femmes en Or.
+* 2013 Prix Marin.
+* 2009 Prix Jeune Créateur.
+* 2013 entre dans la collection François Pinault.
+* Représentée par les galeries [Bugada & Cargnel](https://www.bugadacargnel.com/fr?ref=artefields.net) et [Night Gallery](http://www.nightgallery.ca/?ref=artefields.net).

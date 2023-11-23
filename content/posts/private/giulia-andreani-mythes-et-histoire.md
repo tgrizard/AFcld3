@@ -1,0 +1,40 @@
+---
+title: "Giulia Andreani. Mythes et histoire"
+date: 2015-03-23
+url: /giulia-andreani-mythes-et-histoire/
+# layout: ""
+draft: true
+hidden: false
+authors: ["Thierry Grizard"]
+# access: ["Réservé aux abonnés"]
+# source: [""]
+description: "Giulia Andreani peint comme si elle exhumait de l'Histoire la petite histoire des fictions/mythes politiques et totalitaires qu'elle déstructure avec ironie"
+summary: "Giulia Andreani peint comme si elle exhumait de l'Histoire la petite histoire des fictions/mythes politiques et totalitaires qu'elle déstructure avec ironie"
+tags: [ "Peinture"]
+categories: ["Arts Visuels"]
+featured_image: "/posts/images/banner/andreani.jpg"
+---
+## Giulia Andreani, grande et petite histoire
+
+#### Travail d’archiviste !
+
+Giulia Andreani, une jeune artiste prometteuse qui travaille à partir de documents photographiques d’archive. Une filiation évidente avec la photographie objective issue de l’Académie des Beaux Arts de Düsseldorf, entre autres : Thomas Demand, mais aussi Thomas Ruff, Thomas Struth, voire Gerhard Richter dans ses séries sur Ulrike Meinhof ou son fameux Atlas. Bien d’autres rapprochements pourraient être faits, mais c’est toujours un peu vain et ne retire rien à l’originalité de cette artiste, qui dans son approche picturalement décalée donne une touche de dérision réjouissante à la représentation des grandes icônes ou mythes populaires de l’histoire, la grande ou la petite.
+
+#### Gris de Payne.
+
+Cet aspect délavé, obtenu par l’usage intensif du gris bleuté et chaud de Payne, souligne le travail du temps et la distance nécessaire à la relecture de l’histoire. Par ailleurs, les visages ou corps effacés et fantomatiques, mettent en évidence la part vaine et périlleuse pour les peuples des grands récits politico-historiques. Quant aux sourires figés, parfois de pure façade, ils octroient à ces représentations une banalité souvent inquiétantes et pleine d’ironie cruelle.
+
+#### Justice !
+
+Le caractère critique de la peinture de Giulia Andreani semble toujours vouloir rendre justice aux anonymes qui ont été broyés et bernés par la grande imagerie cynique des dictateurs, mais aussi des discours normatifs et coercitifs à l’égard des femmes et de l’ensemble des minorités. Comme dans le tableau saisissant intitulé « Miss Europa », où l’une des « miss » gît au sol dans l’indifférence des autres compétitrices, ou encore l’effacement de certains visages.
+
+---
+
+![](/posts/images/andreani/giulia_andreanipaintingnarrationhistorygrispayne.005.jpg)
+
+**Exposition personnelle de Giulia Andreani**
+Galerie Max Hetzler
+« Art must hang »
+12 September – 19 October 2019
+
+![](/posts/images/andreani/giulia-andreani_solo-show_max-hetzler_paris_2019.008.jpg) 

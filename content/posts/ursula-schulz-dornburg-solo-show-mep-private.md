@@ -1,12 +1,13 @@
 ---
 title: "Ursula Schulz-Dornburg photographe des périphéries"
-date: 2023-10-27
+date: 2020-02-13
 url: /ursula-schulz-dornburg-solo-show-mep/
 draft: false
 authors: ["Thierry Grizard"]
 source:
 access: ["Réservé aux abonnés"]
-description: "Ursula Schulz-Dornburg est exposée à la MEP dans le cadre d'une importante rétrospective permettant de découvrir une photographie des confins et lisières."
+description: "Ursula Schulz-Dornburg est exposée à la MEP dans le cadre d'une importante rétrospective permettant de découvrir une photographie des confins et lisières"
+summary: "Ursula Schulz-Dornburg est exposée à la MEP dans le cadre d'une importante rétrospective permettant de découvrir une photographie des confins et lisières"
 tags: ["Photographie Objective", "conceptuel"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/dornburg.jpg"

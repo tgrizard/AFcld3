@@ -1,0 +1,53 @@
+---
+title: "Coco Capitan, busy living à la MEP"
+date: 2023-04-06
+url: 
+# layout: ""
+draft: true
+hidden: false
+authors: ["Thierry Grizard"]
+# access: ["Réservé aux abonnés"]
+# source: [""]
+description:  "Coco Capitan est une jeune photographe plasticienne au succès fulgurant, à 27 ans tout juste, une importante rétrospective lui est consacrée à la MEP, intitulée *Busy Living*"
+summary: "Coco Capitan est une jeune photographe plasticienne au succès fulgurant, à 27 ans tout juste, une importante rétrospective lui est consacrée à la MEP, intitulée Busy Living"
+tags: [ "Formalisme", "Corporéité"]
+categories: ["Photographie"]
+featured_image: "/posts/images/banner/coco.jpg"
+---
+## Coco Capitan et la danse éffrénée de la vie
+
+### Un succès fulgurant !
+
+**Coco Capitan** à seulement 27 ans a déjà franchi de nombreuses étapes. En effet, la jeune artiste plasticienne et photographe peut d’ores et déjà compter deux rétrospectives l’une au Daelim Museum à Séoul en 2018, une autre cette année à la Maison Européenne de la Photographie.
+
+![](/posts/images/coco/coco-capitan_mep_paris_2019_photography.011.jpg)
+
+Il faut dire que la jeune espagnole a connu avant même la fin de ses études au London College of Fashion suivi par un Master en Beaux-Arts au Royal College of Art une ascension fulgurante en commençant tout d’abord par travailler pour des magazines de mode indépendants, tel que Dust, puis pour des suppléments proposés par le Le Monde et le New York Times, suivis de prestations pour la Maison Margiela, Mulberry ou Paco Rabanne mais surtout Gucci par l’entremise de Alessandro Michele le directeur artistique de la marque qui lui confia le lookbook homme été 2015. En 2019 elle initie par ailleurs une campagne avec la marque espagnole de chaussures Camper qui lui a confié la « réécriture » d’un de leurs modèles fétiches.
+
+![](/posts/images/coco/coco-capitan_mep_paris_2019_photography.001.jpg)
+
+### Pluridisciplinaire et éclectique
+
+Ce succès commercial ne résume pas tout le travail de la plasticienne, qui pratique tout aussi bien l’écriture, la peinture, les installations que la photographie conceptuelle (la série : After the big pop ») et de témoignage (« Middle point between my house and China »).
+
+C’est donc une artiste pluridisciplinaire, mais surtout éclectique qui se nourrit du post Pop Art et des avatars du structuralisme. Très cultivée, post-moderne, Coco Capitan pratique les arts visuels comme un « sampling » sémiotique, un mélange des signes et des iconographies sans aucun souci de cohérence ou systématisme, si ce n’est la narration plus ou moins fictionnelle, en tous cas toujours mise en scène, de sa « vie », on serait tenté de dire sa « life », ou encore la « story » de sa « life ». En effet, la connotation post internet et « digitale » est extrêmement forte et constitue, notamment à travers son compte Instagram, le squelette de sa démarche. Le fil conducteur de la rétrospective n’est autre que la suite des enchantements, révoltes et mélancolies de Coco.
+
+![](/posts/images/coco/coco-capitan_mep_paris_2019_photography.005.jpg)
+
+### L’écriture
+
+Coco Capitan s’exprime à travers des références nombreuses à l’art contemporain, en particulier la « Picture Generation », c’est-à-dire [Cindy Sherman](/cindy-sherman-picture-generation/) ou Richard Prince, qu’elle cite d’ailleurs ouvertement dans un de ses tableaux. Il y a bien d’autres filiations [Edward Ruscha](/robert-rauschenberg-vaporous-fantasies/) est par exemple réapproprié dans plusieurs clichés (en particulier dans la série : « Highway to disappearance »), Andy Warhol évidemment ou Robert Mapplethorpe également, ouvertement détourné dans certaines pièces. On trouve encore des séries dont  « I have more fun when home alone », à la manière de Fluxus qui comme chez [Elina Brotherus](/elina-brotherus-photography/), [Francesca Woodman](/francesca-woodman/) ou [Ren Hang](/ren-hang/) fonctionnent suivant le principe d’une performance guidée par un concept se ramenant la plupart du temps à un jeu de mot visuel.
+
+La caractéristique néanmoins la plus significative de sa démarche est l’écriture. Reprenant nombre de ses devanciers tels que Jenny Holzer, Barbara Kruger ou Christopher Wool, la jeune photographe ponctue une bonne partie de sa production de notes écrites en lettres bâtons, maladroites et enfantines. Les aphorismes à caractère visuel de Coco Capitan expriment de manière faussement ingénue et ironique des paradoxes sur l’existence post-moderne et consumériste. La particularité de ces « sentences » visuelles est qu’elles sont publiques mais dans un registre « littéraire » de méditations d’ordre personnel à la lisière de l’intime, à l’image d’ellipses paradoxales et parfois abstruses qui nous viendraient à l’esprit dans les moments d’abandon, d’ennui, de translations.
+
+Les notes de Coco Capitan vont de multiples carnets, aux post-it Instagram à la Hans-Ulrich Obrist, en passant par des tableaux évoquant les Nouveaux Réalistes, le Bad Painting ou Jean-Michel Basquiat. Les carnets de notes en moleskine ou plus « arty » exposés en vitrine à la Mep sont symptomatiques dans la mesure où ils mêlent précisément l’intime et la mise en représentation. En effet, Coco Capitan remplit compulsivement des quantités effarantes de « notebook » avec la rédaction de  poèmes, réflexions sur le structuralisme, le néolibéralisme ou l’obsession de l’autoreprésentation propre à l’ère numérique, tout ceci dans une graphie aux allures d’inscriptions cunéiformes.
+
+![](/posts/images/coco/coco-capitan_mep_paris_2019_photography.006.jpg)
+
+### \#CocoCapitanWritings
+
+Les \#CocoCapitanWritings représentent donc probablement la part la plus originale du travail de la plasticienne. C’est enjoué, distancié, sarcastique, jamais pesant, voire quelque peu superficiel. En d’autres termes, ceux sont des « réflexions » destinées aux réseaux sociaux, plus propres à faire sourire ou à s’identifier qu’à susciter une approche critique. D’autant plus que les formules de Coco Capitan relèvent bien souvent d’un anticonformisme sage, presque conventionnel, très consumériste finalement.
+
+Cette première rétrospective européenne au titre alambiqué « Busy living : everything with everyone, everywhere, all of the time » est donc assez œcuménique et légère. Il y a beaucoup de vitalité joviale et communicative, un talent certain mais une polysémie, une dispersion qui, si elle enchante sur l’instant, laisse un arrière gout, plutôt agréable, d’éphémère.
+
+![](/posts/images/coco/coco-capitan_mep_paris_2019_photography.009.jpg) 

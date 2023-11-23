@@ -1,0 +1,71 @@
+---
+title: "Dirk Braeckman le réel en échelle de gris"
+date: 2019-01-18
+url: /dirk-braeckman-grayscale/
+# layout: ""
+draft: true
+hidden: false
+authors: ["Thierry Grizard"]
+# access: ["Réservé aux abonnés"]
+# source: [""]
+description: "Dirk Braeckamn est un photographe plasticien belge qui à travers une infinité de nuances de gris tente de rendre la surface sensible et sensuelle du réel."
+summary: "Dirk Braeckamn est un photographe plasticien belge qui à travers une infinité de nuances de gris tente de rendre la surface sensible et sensuelle du réel."
+tags: [ "Conceptuel", "Lumière", "Métaphysique"]
+categories: ["Photographie"]
+featured_image: "/posts/images/banner/braeckman.jpg"
+---
+## Dirk Braeckman, lieux et surface photographique
+
+### Photo Painting et minimalisme photographique
+
+**Dirk Braeckman**, (né en 1958, vit et travaille à Gand, Belgique), est un photographe plasticien belge qui, de manière paradoxale, applique à son médium la ligne programmatique du peintre allemand Gerhard Richter.
+
+En effet, Gerhard Richter avec le Réalisme Capitaliste et ses « Photo Painting » souhaitait en se soumettant à la reproduction de photographies banales, (sans qualité esthétique), se déprendre autant que possible de tout subjectivisme et du pathos propre à l’expressionnisme figuratif ou abstrait en vogue dans les décennies précédant les prémices de sa carrière. Gerhard Richter souhaitait appliquer à la peinture dans ses qualités figurales et sa surface même certains des principes du minimalisme, tout en restant viscéralement attaché à son médium, comme à l’idée de figuration picturale en tant que surface de représentation.
+
+![](/posts/images/braeckman/dirk-braeckman_photography_belgium_grayscale-6.jpg)© Dirk Braeckman
+
+### Le lieu, le temps et le laboratoire
+
+Or, précisément, Dirk Braeckman pratique la photographie non pas pour reporter quoique ce soit du référent mais pour les qualités mêmes de la surface photographique, en ceci il a en commun avec Sally Mann ([voir notre article](/sally-mann-american-photographer/)), tout du moins dans ses premiers travaux, l’approche sensualiste du tirage photographique, à la lisière du pictorialisme. Mais contrairement à la photographe américaine entièrement guidée par l’empathie et une sorte de panthéisme romantique, Dirk Braeckman procède, à l’image du minimalisme et du mouvement Support Surface, par réduction aux « principes » du médium. Il en résulte que le sujet de la photographie, ce qui est capturé et représenté, n’a pas nécessairement un rôle essentiel. Pour le photographe gantois l’objet de l’image photographique n’est pas l’objet photographié mais le plan de projection sur lequel vient s’imprimer, puis se révéler un lieu et un temps.
+
+Exactement comme Gerhard Richter, qui ne s’est jamais strictement tenu à son programme, Dirk Braeckman n’expulse pas pour autant le référent. Il pourrait tel Thomas Ruff ([voir notre article](/thomas-ruff/)), qui a également questionné le médium, décomposer les moyens de la production de photographies jusqu’à l’abstraction, ou à l’instar de Cindy Sherman ([voir notre article](/cindy-sherman-picture-generation/)) se livrer au jeu de la réappropriation ou l’écart métonymique. Tout au contraire Dirk Braeckman se tient éloigné de l’héritage critique et ironique du Pop Art. Le concept ne doit pas conduire à une distanciation désengagée. Pour le photographe belge la relation au réel, à travers la surface problématique du plan de projection, est avant tout une affaire « sensible », quasi existentielle de relation perceptuelle et cognitive avec le « monde » (voir nos articles sur [Gerhard Richter](/gerhard-richter-atlas-et-monographie/) et [Tomàs Saraceno](/tomas-saraceno-on-air/)).
+
+![](/posts/images/braeckman/dirk-braeckman_photography_belgium_grayscale.jpg)© Dirk Braeckman
+
+### Le lieu, histoires et narration
+
+Le plasticien belge conserve donc à ses « photo-surfaces » une dimension scénique sinon narrative. Il est très attentif dans son processus de réduction des informations, détails visuels et accessoires à ce qui « reste » à l’image. Il faut saisir le sens de ces précipitations visuelles dans toutes leurs acceptions. Les reliefs de la « digestion photographique » de la prise de vue au laboratoire sont à comprendre de manière riche et variée. La « partialité » contradictoire de la photographie est une des caractéristiques qui la définit. En effet, Il y a ce qui est effectivement dans le cadre et ce que le photographe exclut. En d’autres termes, l’état temporel d’un lieu, c’est-à-dire son histoire particulière (extrinsèque au travail de prise de vue) et sa relation ponctuelle au photographe, et… Ce qui est hors champ, ce qui « fait contenu », ce qui se tient aux frontières de l’image capturée.
+
+Cet aspect plus ou moins « narratif » de l’image demeure essentiel pour Dirk Braeckman, non pour proposer un sujet à la photographie ou offrir au regardeur une métaphore, allégorie ou une vision subjective, voire intime, mais parce que l’attachement au référent est constitutif de la photographie. Sans reproduction mécanique d’un objet et d’une source de lumière impactant la surface sensible la photographie ne se distingue plus de la peinture, si ce n’est par son extrême pauvreté de moyen en regard de la matière et surface picturales.
+
+Les lieux reproduits mécaniquement par Dirk Braeckman ne sont donc pas purement accidentels et totalement vidés de signification, quand bien même il souhait réduire à l’extrême la quantité d’éléments significatifs et anecdotiques, que ce soit au déclenchement comme au laboratoire (en écrêtant les contrastes).
+
+![](/posts/images/braeckman/dirk-braeckman_photography_belgium_grayscale-5.jpg)© Dirk Braeckman
+
+### Une photographie sans qualité
+
+D’ailleurs, le photographe belge précise qu’il tente autant que possible de se tenir à distance des académismes photographiques, sans se soucier de la qualité esthétique et technique de ses prises de vues. Il souhaite que ses « images photographiques » soient sans qualité (esthétique), pas de dramaturgie, ni davantage de pathos. Ce qui lui importe c’est la qualité intrinsèque, surfacique (plane) de l’image telle qu’il l’anticipe au déclenchement et l’exacerbe et la « développe » ensuite. Il précise d’ailleurs que ce qui l’intéresse dans ces captures de lieux, qui en général lui sont familiers et ordinaires, c’est déjà, dès la prise de vue, la qualité des gris de tel carrelage de salle de bain ou le velours de tel rideau agité par le vent, ou l’éclat (le blanc brûlé de la surexposition) presque amateur du flash direct sur des boiseries.
+
+Par ailleurs, Dirk Braeckman ne capture pas que des lieux physiques, une partie de ses travaux sont en réalité des photographies de photographies (les siennes notamment), ou des prélèvements issus du web ou tout autre support. Il y a chez l’artiste belge, hormis le travail de réduction des éléments et des contrastes, de la luminosité, un effet d’accrétion et de maturation à l’image des ateliers d’artistes comme celui Anselm Kiefer ([voir notre article](/anselm-kiefer-monographie/)), David Altmejd ([voir notre article](/david-altmejd-entropie/)) ou Francis Bacon. L’atelier, réel ou mental, de Dirk Braeckman est un processus de décantation en accord parfait avec la démarche de réduction qui constitue la marque la plus flagrante de son travail.
+
+![](/posts/images/braeckman/dirk-braeckman_photography_belgium_grayscale-3.jpg)© Dirk Braeckman
+
+### Rémanences photographiques
+
+Dirk Braeckman au cours du temps a vidé les lieux de toute anecdote, de manière à offrir probablement le moins de prise possible au regard. Les possibilités narratives, spécifiques de toute figuration du réel, se sont amenuisées. Pour autant les images récentes du plasticien gantois ne sont ni des photographies d’architecture d’intérieur, ni des natures mortes, mais des rémanences d’un lieu et de sa perpétuation sous forme d’images détachées du référent, isolées du temps et s’éloignant dans une obscurité atonale où toutes les notes (du gris fauve au noir éteint) seraient certes égales mais par réduction du spectre. Finalement, Dirk Braeckman aurait pu opter pour les blancs ou les noirs, il a privilégié les gris sous exposés, avec, au début de sa carrière, un penchant pour l’angoisse des pénombres, les portraits énigmatiques. Aujourd’hui ses images relèvent d’une sorte d’état neutre des lieux où l’attention se porte sur la qualité de rendu des espaces comme plan, (la surface d’enregistrement), mais aussi au titre de phénomène persistant. L’atonalité indifférenciée des débuts est allée de la dissonance étouffée au sérialisme des gris sombres et des noirs affaiblis.
+
+![](/posts/images/braeckman/dirk-braeckman_photography_belgium_grayscale-7.jpg)© Dirk Braeckman
+
+---
+
+![](/posts/images/braeckman/dirk-braeckman_photography_belgium_grayscale-2.jpg)© Dirk Braeckman
+
+---
+
+![](/posts/images/braeckman/dirk-braeckman_photography_belgium_grayscale-81.jpg)
+
+---
+
+{{< imgc >}}
+![](/posts/images/braeckman/dirk-braeckman_photography_belgium_grayscale-91.jpg) 
+{{< /imgc >}}

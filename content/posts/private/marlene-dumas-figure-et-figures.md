@@ -1,0 +1,88 @@
+---
+title: "Marlene Dumas, Figure et figures"
+date: 2016-06-23
+url: /marlene-dumas-figure-et-figures/
+# layout: ""
+draft: true
+hidden: false
+authors: ["Thierry Grizard"]
+# access: ["Réservé aux abonnés"]
+# source: [""]
+description: "Marlene Dumas n’est préoccupée que d’une chose la figure, durant toute sa carrière elle n’a peint que portraits, vanités, masques"
+summary: "Marlene Dumas n’est préoccupée que d’une chose la figure, durant toute sa carrière elle n’a peint que portraits, vanités, masques"
+tags: [ "Peinture"]
+categories: ["Arts Visuels"]
+featured_image: "/posts/images/banner/dumas2.jpg"
+---
+## La figure ça ne va pas de soi !
+
+**Marlene Dumas**, peintre hollandaise d’origine sud africaine, née le 3 août 1953 au Cap, n’est préoccupée que d’une chose: la figure.
+
+![](/posts/images/dumas/marlene-dumas--expressionism--figure--moma--painting--nederland--grave.400.jpg)
+
+Marlene Dumas a presque essentiellement fait durant toute sa carrière que des portraits, des vanités, des masques anthropomorphes ou des personnages en pied.
+
+Bien que ne se souciant que de la figure humaine, elle ne travaille pourtant pas d’après modèle. Les principales sources d’inspiration de Marlene Dumas sont d’origine photographique. Ce qu’elle extrait du flux des images, catalogues, presses ou autres, porte presque toujours sur de grands thèmes universels, la mort, le sexe, la solitude. Cependant la connotation historico-politique est fréquemment présente et contextualise ces grands thèmes, ou inversement ces cas particuliers , qui sont alors universalisés.
+
+Cependant, pour Marlene Dumas la figure est un sujet propre à la peinture, et ces grands et petits sujets, si ils ne sont pas sans importance, n’en sont pas moins que le prétexte sincère, ou purement occasionnel, subjectif, pour se livrer à l’exercice de coucher sur le papier ou la toile une forme picturale représentant en pied ou depuis la taille une personne. Or pour Marlene Dumas dresser un portrait sous forme de figure ne va pas de soi. En effet, selon l’artiste hollandaise, la figure, (les formes, taches, couleurs représentant un humain), ne tient pas d’elle même dans le cadre limité de la feuille ou de la toile. La figure est : ou emprisonnée, ou s’échappe, ou ne trouve aucune place dans le cadre ; parvenir à maintenir un équilibre esthétique et éthique entre le geste pictural et l’appel à des êtres qui ont une histoire, qui ont été là, c’est ce qui motive Marlene Dumas à reprendre perpétuellement le portrait comme motif.
+
+![](/posts/images/dumas/marlene-dumas_image-as-burden.jpg)
+
+Peindre juste et vite !
+
+C’est aussi pourquoi Marlene Dumas s’efforce, dans la réalisation de  ces figures, de les peindre dans un temps court, quitte à y revenir “rapidement” durant plusieurs mois ou années. Il y a toujours une grande énergie, pour ne pas dire presque une certaine brutalité, dans la touche de Marlene Dumas. L’aspect expressionniste et très brut, voire quasiment « bad painting », de son œuvre trouve son origine dans cette approche très concentrée. Si la figure est représentée dans une gestuelle rapide, et si pour Marlène Dumas l’objet est avant tout plastique, elle n’en est pas moins soucieuse de la justesse de sa figuration par rapport au sujet. L'empathie gestuelle est une forme de communion, une façon de ne pas perdre la sincérité fugace de l’émotion et l’équilibre entraperçu d’une intuition « esthétique ».
+
+C’est un des autres aspects de son œuvre, dans la relation au thème, plus ou moins narratif, elle tente d’être juste sinon fidèle. Il y a la part subjective, c’est à dire la part de névrose qui se dépose dans l’œuvre via le prétexte du sujet, mais il y a également un désir d’être “juste” humainement, moralement par rapport à lui. La balance n’est évidemment pas toujours équilibrée. Parfois le fantasme prend le dessus. Mais lorsqu’il s’agit de portrait ou de références à connotation politique on constate aisément que Marlène Dumas fait montre d’une forme de respect.
+
+---
+
+![](/posts/images/dumas/marlene-dumas-expressionism-painting-watercolor-figure-portrait-sex-death-grave-skull.037-1024x734.jpg)
+
+---
+
+### La question du sexe
+
+Concernant la sexualité, l’équilibre devient plus précaire, on oscille de la fascination, plus ou moins morbide, à la révolte d’une femme face aux représentations dominantes du nu féminin, en passant par l’humour noir ou la dérision.
+
+Comme [Jenny Saville](https://www.artefields.net/jenny-saville/), et bien d’autres artistes femmes, Marlene Dumas rejette l’esthétisme du nu féminin et souligne à quel point le corps, le désir, et le sexe de la femme échappent dans sa réalité crue aux conventions. Ce qui peut paraître choquant dans ses aquarelles à caractère ouvertement sexuel n’est jamais que le reflet du conformisme de celui qui regarde. Il y a en outre une volonté évidente de provocation puisque que les images photographiques ayant servies de source d’inspiration sont parfois extraites de publications pornographiques, spécialement normatives.
+
+![](/posts/images/dumas/marlene-dumas_expressionnisme.jpg)
+
+Un humour…un peu noir
+
+Entre ses portraits-masques, ses figures bancales parfois presque calligraphiques,  ses nues organiques, crus, quelque fois provocateurs, et ses vanités cabossées, Marlene Dumas donne, malgré sa démarche concentrée sur la figure comme sujet presque exclusif, une vision du monde pas si noire que cela, c’est un peu comme une farce grotesque et cataleptique. C’est sombre mais joyeux !
+
+En effet, Marlene Dumas s’amuse de l’étonnement des gens à découvrir, lors de ses interview, qu’elle parait bien moins dépressive que ce qu’elle représente dans ses œuvres. En réalité elle fait preuve de beaucoup de dérision et d’humour dans ses sujets. Si le ton général n’est évidemment pas à la gaité, la noirceur expressionniste est plutôt un parti pris plastique et une forme  de constat lucide face à la cruauté de l’histoire et l’indifférence de l’Univers.
+
+C’est avec virulence plastique en se concentrant presque exclusivement sur son métier et ses problématiques spécifiques qu’elle délivre finalement une vision plus large.
+
+---
+
+![](/posts/images/dumas/marlene-dumas-expressionism-painting-watercolor-figure-portrait-sex-death-grave-skull.006-1024x618.jpg)
+
+---
+
+**A lire également :**
+
+#### Noli me Tangere !
+
+> Marlene Dumas a amorcé la série des “Magdalena” dans les années 1990 après avoir réalisés des portraits du Christ. Marie Madeleine est dans la tradition chrétienne un personnage composite, qui réunit de nombreux thèmes parfois contradictoires. Il y a la prostituée repentie, l’épouse possible et controversée, voire calomniée de Jesus, le personnage historique, celle qui est affligée des 7 démons interprétés soit comme une image du vice ou de la maladie, celle qui désirait le Christ qui la tînt éloignée.
+> Tous ces aspects de l’icône chrétienne ont intéressé l’artiste, cela lui permet de développer ses figures ambivalentes autour du désir, de la vulnérabilité, de la nudité et de l’individualité exposée.
+
+[En savoir plus](/marlene-dumas-marie-magdalena/)
+
+---
+
+![](/posts/images/dumas/marlene-dumas-magdelena-naomi-campbell.001.jpg)© Marlene Dumas.
+
+---
+
+![](/posts/images/dumas/marlene-dumas-centre-pompidou-painter.007-1024x512.jpg)
+
+---
+
+Marlene Dumas est représentée aux Etats Unis par: [David Zwirner gallery](http://www.davidzwirner.com/artists/marlene-dumas/?ref=artefields.net).
+
+---
+
+Courtesy galerie David Zwirner.

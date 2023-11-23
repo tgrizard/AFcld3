@@ -1,0 +1,79 @@
+---
+title: "Michaël Borremans Sixteen Dances & Fire from the Sun"
+date: 2017-10-23
+url: /michael-borremans-sixteen-dances/
+# layout: ""
+draft: true
+hidden: false
+authors: ["Thierry Grizard"]
+# access: ["Réservé aux abonnés"]
+# source: [""]
+description: "Michaël Borremans à la galerie Zeno X. Chérubins barbares, portraits en latex, rituels étranges et Annonciations composent cette nouvelle exposition"
+summary: "Michaël Borremans à la galerie Zeno X. Chérubins barbares, portraits en latex, rituels étranges et Annonciations composent cette nouvelle exposition"
+tags: [ "Peinture", "Michael Borremans"]
+categories: ["Arts Visuels"]
+featured_image: "/posts/images/banner/borremans3.jpg"
+---
+## Le cru, le cuit et les chérubins
+
+**Michaël Borremans** expose de nouvelles œuvres à la galerie Zeno X, puis à la galerie David Zwirner. Des tableaux toujours exécutés dans le même « théâtre » qui lui sert aux séances photographiques, un théâtre d’abstraction et lieu de collisions improbables d’idées visuelles, ([voir notre article](/michael-borremans/)).
+
+Cet ensemble de petites pièces sur bois ou de toile de grandes dimensions aborde plusieurs thèmes iconographiques, très chargés sur le plan symbolique.
+
+![](/posts/images/borremans/michael-borremans-artiste-peintre-painting-art-exhibition-sixteen-dances-zeno-x-gallery-2017.029-27.jpg)
+
+© Michaël Borremans. Fire From The Sun, 2017, 19 x 24 cm, oil on wooden panel. Courtesy Zeno X gallery.
+
+L’artiste peintre reprend l’iconographie des chérubins mais déplacés dans une « enfance de l’humanité » barbare, où des bambins chahutent, gesticulent et découvrent ce qui pourrait être le feu, et par conséquent passent du cru au cuit. C’est, tout du moins, ce que suggèrent les titres. Mais comment faire confiance au peintre belge, maîtres des énigmes sans solution, d’autant qu’il n’y a probablement aucune interrogation précise dès l’origine de l’œuvre. Toujours est-il que ces chérubins couverts de peinture de guerre à la couleur sang ou d’argile rouge, sont comme toujours chez Borremans équivoques sinon paradoxaux.
+
+En effet, ils sont complètement modernes dans leur gestuelle telle que saisie par l’appareil photo, cette manière si spécifique qu’ont les reflex d’arrêter le mouvement, mais les rondeurs stylisées à la Rubens ou Boucher et les jouets-objets qu’ils manipulent les déplacent dans un univers tribal et barbare beaucoup plus inquiétant.
+
+![](/posts/images/borremans/michael-borremans-artiste-peintre-painting-art-exhibition-sixteen-dances-zeno-x-gallery-2017.029-3.jpg)
+
+© Michaël Borremans. Fire from the Sun (Four Figures), 2017, 174 x 220 cm, oil on canvas. Courtesy Zeno X gallery.
+
+L’introduction de 2001 de Kubrick ne semble pas très lointaine et constitue probablement une des sources d’inspiration. On se situe entre la découverte (du feu), la violence, et peut-être le cannibalisme, autant dire un univers étranger à l’image conventionnelle de l’enfance et des innombrables chérubins de l’histoire de l’art. Pari gagné pour Michaël Borremans, l’esprit est arrêté, le regard se poursuit.
+
+### Tarzan et les rituels
+
+D’autres petits tableaux sur bois complètent dans un style enlevé, à coup de brosses rapides, la série des rondes enfantines. Il s’agit d’images de danses cette fois ouvertement tribales. Des individus encagoulés, à la peau noire se livrent à la transe et ce qui semble être du cannibalisme. Autre particularité de ces saynètes, l’échelle incertaine des personnages qui jette le trouble quant au plan de réalité où se situent ces rituels primordiaux. C’est un procédé que Michaël Borremans utilise depuis ses débuts. En mêlant les échelles on hésite entre être le spectateur direct d’une scène ou se considérer comme le spectateur d’un premier observateur de l’action, sans même évoquer la possibilité qu’il s’agisse d’échelles symboliques et de la valeur respective des personnages à l’instar de l’art médiéval et religieux en général. Ces petites pièces paraissent provenir de vieux films hollywoodiens ethnocentriques et d’un racisme ordinaire, les films de Tarzan ou King Kong pourraient être convoqués sans difficulté. En outre, la manière très schématique, parfois à peine esquissée rappelle les vieilles photos sur verre aux formes imprécises, fantomatiques. Là encore Borremans illustre son goût pour les nœuds picturaux, ce qui arrêtent le regardeur et le plonge dans une narration elliptique.
+
+![](/posts/images/borremans/michael-borremans-artiste-peintre-painting-art-exhibition-sixteen-dances-zeno-x-gallery-2017.029-21.jpg)
+
+© Michaël Borremans. Buggin, 2017, 24,1 x 29,8 cm, oil on wooden panel. Courtesy Zeno X gallery.
+
+### Le latex est bien rendu
+
+Toujours dans la même veine sombre et violente on peut découvrir des portraits paradoxalement sans visage aux identités pourtant clairement déclinées. Becky ou Miranda posent dans des combinaisons de latex ou de tissu, certaines sanguinolentes. Les brillances et « drapés » sont rendus avec virtuosité sur des fonds de toiles tendues brossées dans une touche véhémente. C’est le sujet premier de ces toiles.
+
+![](/posts/images/borremans/michael-borremans-artiste-peintre-painting-art-exhibition-sixteen-dances-zeno-x-gallery-2017.029-6.jpg)
+
+© Michaël Borremans. Becky, 2017, 82 x 65 cm, oil on canvas. Courtesy Zeno X gallery.
+
+### Madones déchues et « Sixtine/six-teen » dances
+
+Enfin, on peut voir de surprenants chevalets oubliés et recouverts d’un drap qui rappellent nombre de tableaux religieux, on hésite entre crucifixions, madones ou Annonciations reléguées dans l’oubli d’un coin sombre de sacristie à l’abandon.
+
+Michaël Borremans continue donc de piéger le regardeur, il le laisse interloqué et subjugué par la maestria du peintre.
+
+![](/posts/images/borremans/michael-borremans-artiste-peintre-painting-art-exhibition-sixteen-dances-zeno-x-gallery-2017.029-7.jpg)
+
+© Michaël Borremans. Mercy, 2017, 280 x 205 cm, oil on canvas. Courtesy Zeno X gallery.
+
+![](/posts/images/borremans/michael-borremans-artiste-peintre-painting-art-exhibition-sixteen-dances-zeno-x-gallery-featured.jpg)
+
+---
+
+[David Zwirner gallery](https://www.davidzwirner.com/?ref=artefields.net), Hong Kong : « Fire from the sun », du 27 janvier au 10 mars 2018.
+
+---
+
+« Sixteen Dances » : [galerie Zeno X](http://www.zeno-x.com/exhibitions/current/current_exhibition_MB_works.html?ref=artefields.net) du 6 Septembre au 14 Octobre 2017.
+
+---
+
+© Michaël Borremans.
+
+Courtesy galerie Zeno X.
+
+Courtesy David Zwirner gallery.

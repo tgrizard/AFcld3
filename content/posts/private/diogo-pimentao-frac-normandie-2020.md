@@ -1,0 +1,132 @@
+---
+title: "Diogo Pimentão, sculpter le geste du dessin"
+date: 2020-02-23
+url: /diogo-pimentao-frac-normandie-2020/
+# layout: ""
+draft: true
+hidden: false
+authors: ["Thierry Grizard"]
+# access: ["Réservé aux abonnés"]
+# source: [""]
+description: "Diogo Pimentão est un artiste portugais réputé qui sculpte en dessinant, non sur un plan, mais dans l'espace, le geste du dessin trace des lignes en volume"
+summary: "Diogo Pimentão est un artiste portugais réputé qui sculpte en dessinant, non sur un plan, mais dans l'espace, le geste du dessin trace des lignes en volume"
+tags: [ "Sculpture"]
+categories: ["Arts Visuels"]
+featured_image: "/posts/images/banner/pimentao.jpg"
+--- 
+# Diogo Pimentão dessiner pour sculpter le vide
+**Diogo Pimentão** est un artiste plasticien portugais d’une quarantaine d’années à la silhouette élancée et athlétique, qui depuis les falaises de Sintra a pratiqué le plongeon à des hauteurs vertigineuses et est également amateur de parachutisme en chute libre. Ces détails biographiques ne sont pas anecdotiques tant la démarche de cet artiste est marquée par le rapport au vide de la feuille de dessin étendue au vide de l’espace, mais aussi la résistance et la plasticité du support, en l’occurrence la feuille de papier, et la posture du corps relativement au support d’expression.
+
+{{< imgc >}} ![](/posts/images/pimentao/diogo-pimentao_art-exhibition_frac-normandie_2020.002.jpg) {{< /imgc >}}
+
+ 
+
+{{< imgc >}} ![](/posts/images/pimentao/diogo-pimentao_art-exhibition_frac-normadie_2020-print.002.jpg) {{< /imgc >}}
+
+ 
+### La geste du dessin amplifié
+Diogo Pimentão est à la fois sculpteur et dessinateur. Plus précisément, il dessine comme un sculpteur en agissant sur la matière du dessin, à savoir le graphite et le vide que la ligne contourne. Le dessin étendu de l’artiste a, depuis ses débuts, débordé la surface étroite de la feuille sans jamais pourtant la quitter. Il dessine non pas seulement sur le plan mais avec le plan qu’il plie, casse, étreint et déborde. Il déplace également la ligne au-delà du papier pour la matérialiser sous la forme d’inscriptions solides ou imaginaires.
+
+A l’image de la ligne périlleuse d’un plongeon, ou la trace d’une chute dans le vide, il marque l’espace des trajets que le mouvement imprime. La ligne et le plein sont chez Diogo Pimentão comme le résultat de la chorégraphie de l’acte d’inscrire. L’objet même des dessins spatiaux du plasticien n’est rien d’autre que la mémoire du geste. Il y a pourtant dans son travail sans narration un récit, parfois éminemment biographique, en ce sens qu’il s’efforce de noter, y compris à l’échelle de l’atelier, le geste en tant que tel. Le gestuaire graphique devient la geste d’une appréhension du volume. Le dessin performatif tridimensionnel de l’artiste occupe toute son énergie et semble prolonger son gout pour la chute dans ce qu’elle contient d’expérience de la résistance, du centre de gravité et de la posture.
+{{< imgc >}} ![](/posts/images/pimentao/diogo-pimentao_art-exhibition_frac-normandie_2020_inline.009.jpg) {{< /imgc >}}
+
+ 
+### Les éléments résiduels de l’atelier
+On saisit encore plus finement la dimension biographique et haptique ([voir notre article sur Raoul Hausmann et la Sensorialité Excentrique](/raoul-hausmann-dadasophe-et-photographe/)) du travail de Diogo Pimentão quand on apprend sa compulsion à tout conserver dans son atelier. A l’instar d’un [Anselm Kiefer](/anselm-kiefer-monographie/) ou d’un [David Altmejd](/tags/david-altmejd/) l’artiste portugais voit dans l’espace de l’atelier un écosystème qui ne se différencie pas de son processus créatif. Il conserve le moindre des objets, reprend des éléments du travail, des traces accidentelles de découpages ou pliures par exemple, mais également les marques que le graphite laisse de toute part dans l’atelier, sur le sol ou les murs et réutilise tout cela comme s’il s’agissait d’une extension de lui-même. Nombre de pièces sont telles des fragments de « l’umwelt » de l’atelier.
+C’est ainsi qu’il détache des dessins du mur et en recompose les lambeaux en un autre dessin notamment en modifiant le plan, puisqu’il dépose (dans toutes les acceptions du terme), tel un archéologue, la peau déchirée du dessin à même le sol, muant ainsi un élément vertical en un plan horizontal.
+Il conserve aussi parfois les salissures du graphite présente sur des calques ou toute autre surface et la réserve délicatement comme quelque chose de précieux dans des tubes de verre, qui sont alors comme autant de coups de crayon verticaux, ou encore il malaxe des fragments de ciment jusqu’à ce qu’ils durcissent conservant de la sorte la marque des mains du dessinateur agrémentés quelque fois d’une inscription.
+Le geste, l’atelier et les outils sont donc convoqués dans une installation globale dont l’artiste détient seul les clés puisque la structure mentale en est confondue avec l’histoire intime du dessinateur chorégraphe.
+{{< imgc >}} ![](/posts/images/pimentao/diogo-pimentao_art-exhibition_frac-normandie_2020_inline.007.jpg) {{< /imgc >}}
+
+ 
+
+{{< imgc >}} ![](/posts/images/pimentao/diogo-pimentao_art-exhibition_frac-normandie_2020_inline.004.jpg) {{< /imgc >}}
+
+ 
+### Diogo Pimentão et l’art minimal
+Ce qui se donne à voir avec Diogo Pimentão n’est pas strictement la ligne ou la surface, mais le geste et le vide, ce qui est hors de la ligne et le mouvement qui l’a tracée.
+De même, la texture et la couleur monochromatique du graphite ne s’offrent pas de manière tautologique comme dans l’art minimal (« ce que vous voyez est ce qui est à voir » Frank Stella) mais bien plutôt comme le récit d’un effort, d’une danse de la main et du corps. Le geste, l’outil, le support et, bien évidemment, la lumière réfléchie, sont les matériaux de Diogo Pimentão. Il y a donc bien une parenté dans la réduction du travail à la surface et au contexte spatial avec « l’Art Minimal », nonobstant cette différence notable que la danse « calligraphique » est au centre de sa production artistique. Là où cependant l’artiste portugais s’éloigne encore plus radicalement de l’art minimaliste c’est bien plutôt dans le recours à l’historicité, la procédure plus ou moins contingente. Cet aspect est essentiel dans son travail qui s’appuie presque toujours sur le contexte événementiel, ainsi que l’histoire de l’atelier où sont conviés par exemple ses enfants, ou la mémoire du travail passé, les traces, marques de pliures sur le sol ou un quelconque autre outil ou support participant de la constitution de la pièce finale. L’œuvre est donc ce qui a été à l’œuvre, c’est-à-dire les gestes de l’artiste comme son environnement physique, émotionnel, et privé.
+Chaque pièce est comme le précipité narratif d’un contexte particulier. En cela le travail de Diogo se distingue du minimalisme pour se rapprocher du Body Art ([voir notre article sur Ana Mendieta](/ana-mendieta-body-art/)) et tous les arts performatifs ou interagissant avec le « milieu ». Qu’il s’agisse de la lumière, de la collaboration des « visiteurs » qui sont conviés à marquer la réciproque vierge d’un plan de graphite, ou le jeu, les avions en papier réutilisés pour leurs pliures, les anneaux enduits d’encre que ses enfants lancent sur une feuille vierge marquée d’un point à atteindre, chez Diogo Pimentão, il est constamment question de performance et performativité. L’acte de dire gestuellement produit l’objet, la résultante ressort d’une sorte de mémoire qui porte la trace d’un « objet-acte » révolu.
+
+{{< imgc >}} ![](/posts/images/pimentao/diogo-pimentao_art-exhibition_frac-normandie_2020-inline.008.jpg) {{< /imgc >}}
+
+ 
+### Chorégraphie et calligraphie
+L’histoire personnelle comme processus et l’aléatoire font, par conséquent, partie des « lignes » (de vie !) dessinées par Diogo Pimentão. Le dessin spatial de l’artiste portugais est marqué de manière intime par une phénoménologie de l’acte créatif, c’est à dire de l’invention préméditée mêlée inextricablement au hasard et à l’héritage culturel aussi bien que personnel.
+Le contexte et la ligne font la spatialité du dessin performatif de Diogo Pimentão. Il n’y a pas, à proprement parler, d’objet mais des processus arrêtés à un état que la subjectivité de l’artiste a défini comme moment d’accrétion final sinon définitif. Les dessins gestuels sont tels des singularités, des haeccéités historicisées.
+L’art de Diogo Pimentão est, d’un certain point de vue, plus proche du constructivisme et de Fluxus que du formalisme de l’art minimaliste, tout en rentrant néanmoins, dans la catégorie des « objets spécifiques » tels que définis par Donald Judd (des objets tridimensionnels qui ne sont ni peinture, ni sculpture tout en relevant du domaine de l’art et son héritage), en ce sens que l’interaction, le geste et la procédure ne sont pas bouclés sur eux-mêmes mais comme des flux constitués d’une temporalité particulièrement prégnante chez cet artiste.
+Le dessin phénoménologique de Diogo Pimentão est imprégné par la temporalité du geste, de la transformation, le résiduel et les traces. Il semble intimement lié aux expériences de la durée qu’il a vécues lors des plongeons à Sintra. L’intensité de la sensation du corps sans entrave, qui flotte brièvement et tombe à la fois, habite le cœur de son œuvre.
+
+{{< imgc >}} ![](/posts/images/pimentao/diogo-pimentao_art-exhibition_frac-normandie_2020-inline.005.jpg) {{< /imgc >}}
+
+ 
+{{< imgc >}} ![](/posts/images/pimentao/diogo-pimentao_art-exhibition_frac-normandie_2020-inline.013.jpg) {{< /imgc >}}
+
+© Diogo Pimentão, courtesy FRAC Normadie-Rouen.
+
+**Repères biographiques :**
+* Naissance en 1973 à Lisbonne.
+* Vit et travaille à Londres.
+* Formation :
+* 1998, Ar.Co, Lisbon, Portugal.
+* 1996, Sculpture Seminar, Gotland, Suède.
+* 1995, International Center of Sculpture, Pêro Pinheiro, Portugal.
+
+⠀**Représenté par :**
+* [Galerie Cristina Guerra](https://www.cristinaguerra.com/), Lisbonne.
+* [Galerie Rocio Santa Cruz](https://rociosantacruz.com/), Barcelone.
+
+⠀**Collections :**
+* Collection Lambert, Avignon, FR
+* Centre Georges Pompidou, FR
+* Fondazione Sandretto Re Rebaudengo (FSRR), IT
+* Pomeranz Collection, Vienna, AT
+* Fondation Thalie, Brussels, BE
+* Carmona e Costa Foundation, Lisbon, PT
+* European Central Bank, Berlin, DEU
+* Portugal Telecom Foundation, Lisbon, PT
+* JoAnn Gonzalez Hickey Collection, New York, US
+* Fonds National d’art contemporain, Paris, FR
+* PLMJ Foundation, Lisbon, PT
+* Serralves Foundation, Porto, PT
+* Kablanc Otazu Foundation, Pamplona, SP
+* EDP Foundation, Lisbon, PT
+* Museu de Arte Contemporânea – Colecção António Cachola, Elvas, PT
+* FRAC Alsace, Sélestat, FR
+* Leal Rios,Foundation, Lisbon Portugal PT
+* MONA, Museum of old and new art, AU
+* Thaddaeus Ropac, Salzburg, AT
+* European Central Bank
+* Fondation Calouste Gulbenkian, Lisbon PT
+* FRAC Normandie, Rouen, FR
+
+⠀**Corollaires :**
+* [Carl Andre](https://www.artefields.net/carl-andre/)
+* [Art Abstrait](https://www.artefields.net/topic-abstract-art/)
+* Le Minimalisme (à venir)
+* [Art et narration](https://www.artefields.net/arts-visuels-narration/)
+* [Les avatars de l’expressionnisme](https://www.artefields.net/art-contemporain-expressionnisme/)
+* [La sensorialité excentrique](https://www.artefields.net/raoul-hausmann-dadasophe-et-photographe/)
+
+⠀
+[EXPOSITION « DESSINER À REBOURS »](https://www.artefields.net/diogo-pimentao-frac-normandy-2020/)
+[FRAC NORMANDIE](http://www.fracnormandierouen.fr/)
+Du 25 janvier au 1° avril 2020
+Commissaire de l’exposition : Véronique Souben, directrice du Frac Normandie Rouen
+
+{{< imgc >}} ![](/posts/images/pimentao/diogo-pimentao_art-exhibition_frac-normandie_2020_inline.003.jpg) {{< /imgc >}}
+
+ 
+
+{{< imgc >}} ![](/posts/images/pimentao/diogo-pimentao_art-exhibition_frac-normadie_2020-details.002.jpg) {{< /imgc >}}
+
+ 
+
+{{< imgc >}} ![](/posts/images/pimentao/diogo-pimentao_art-exhibition_frac-normadie_2020-details.004.jpg) {{< /imgc >}}
+
+ 
+
+{{< imgc >}} ![](/posts/images/pimentao/diogo-pimentao_art-exhibition_frac-normadie_2020-details.003.jpg) {{< /imgc >}}
+
+⠀
+*Photographies © Thierry Grizard hors mention « FRAC Normandie-Rouen ».*

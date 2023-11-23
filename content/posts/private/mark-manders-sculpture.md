@@ -1,0 +1,67 @@
+---
+ title: "Mark Manders, Self-portrait as a building"
+ date: 2018-07-23
+ url: /mark-manders-sculpture/
+ # layout: ""
+ draft: true
+ hidden: false
+ authors: ["Thierry Grizard"]
+ # access: ["Réservé aux abonnés"]
+ # source: [""]
+ description: "art contemporain - Mark Manders est un plasticien néerlandais qui met en scène d'étranges personnages de glaise qu'il dissèque, sectionne, hybride comme autant d'autoportraits"
+ summary: "art contemporain - Mark Manders est un plasticien néerlandais qui met en scène d'étranges personnages de glaise qu'il dissèque, sectionne, hybride comme autant d'autoportraits"
+ tags: [ "Sculpture"]
+ categories: ["Arts Visuels"]
+ featured_image: "/posts/images/banner/manders.jpg"
+--- 
+## Installations et auto-fictions
+**Mark Manders**, de manière probablement ambiguë, définit sa démarche comme un autoportrait conçu à l’image d’une construction devenant un lieu où, par relations croisées et plus ou moins accidentelles, l’espace intime prend sa forme.
+Cette définition de l’autoportrait en tant que projection mentale pourrait passer pour quelque peu banale si on ne la comprenait pas avant tout comme une « fausse » piste, laquelle nous invite à voir de plus près ce que sont ces lieux parcourus de cloisons, d’êtres et d’espaces découpés, qu’érige avec obstination Mark Manders.
+{{< imgc >}}
+![](/posts/images/manders/mark-manders_tilted-head_new-york_social-1030x515.jpg)
+
+{{< /imgc >}}
+
+En réalité, pour le plasticien néerlandais, l’autoportrait est essentiellement une autofiction de l’artiste dans la posture de l’auspice, paré des atours dissimulateurs d’un Praxitèle post-moderne érigeant des stèles à l’identité neutre et aux messages sibyllins. L’autoportrait est à saisir comme une mise en scène relevant d’un processus d’identification, d’ouvertures, de découpes et d’enfermements parfois presque prophylactiques et toujours labyrinthiques.
+
+
+### Combinatoires
+Mark Manders est sur bien des points l’héritier des artistes de la combinatoire tels que Takis, Tinguely ou Ipoustéguy. Il est surtout très proche de [David Altmejd](/david-altmejd-entropie/). Ce dernier a pour particularité de vouloir exposer de manière quasi obsessionnelle le processus de création lui-même, au point d’y apposer le moulage de sa main qu’il duplique dans un mouvement mimant la création à l’œuvre. Le plasticien canadien voit son travail comme une gestation puissamment organique qui digère, parfois au sens strict, les déplacements névrotiques, les signes culturels de tous horizons, le rapport à son propre corps, lequel somatise et exsude ce que lui impose la compulsion à s’exprimer. Cela aboutit à d’immenses machines désirantes où le spectateur « pénètre» littéralement.
+Mark Manders est également accaparé par la question, presque épistémologique, de comprendre ce qu’est, non pas le Beau, mais l’art, une œuvre d’art, qu’est ce qui la différencie des objets courants, hormis l’énonciation performative et revendiquée de manière ostentatoire par Duchamp, ou bien encore l’identification sociologique. Manders comme Altmejd sont persuadés que cette différenciation n’est pas que cela, qu’il y a une grammaire qui détache certains assemblages sémiotiques et visuels du flux des « choses » fabriquées ou portées au regard. Vu sous cet angle, l’art est, selon eux, une sorte de métissage fertile. L’autoportrait comme interaction et processus constructif n’est autre chose que le « sampling » des signes culturels hérités, des obsessions personnelles, des hasards fructueux et de la décision totalement arbitraire du « créateur », qui « déclare » à un instant « T » que le point d’équilibre est atteint, que « l’installation » est complète.
+{{< imgc >}}
+![](/posts/images/manders/mark-manders-sculpture-zeno-x-gallery.003.jpg)
+
+{{< /imgc >}}
+
+ 
+### Baroque et néo-classicisme
+Alors que les artistes tels que Takis, Ipoustéguy ou Altmejd sont dionysiaques et baroques, Manders est en quelque sorte néo-classique. Le syncrétisme du post-modernisme est bien entendu omniprésent mais encadré d’une rigueur et d’un dépouillement extrême. L’entropie domine chez Altmejd, le désir chez Takis et Ipoustéguy, quant à Mark Manders, chez lui l’ordre règne de manière implacable. Un ordonnancement souvent ironique, on n’échappe pas si aisément à la critique moderniste et au Pop Art. Pourtant, plus que [l’ironie](/art-et-ironie/), c’est la distanciation qui prévaut chez l’artiste néerlandais, ainsi que la fragmentation et une tonalité générale mortifère. Les « appareils », (ensemble d’éléments constituant un tout en vue d’une fonction déterminée), du plasticien sont des « machines célibataires » où une autorité omnipotente mais « atopique » (ce qui n’est pas à sa place, de travers, malséant, pervers), scande l’espace et les chairs. Tout est amputé, séparé, immobile, encadré étroitement, jusqu’à la torture. Les gisants, dormeurs introspectifs, les « kouroï » de glaise — en réalité du bronze traité en trompe l’œil —  ne sont pas de simples citations iconographiques de l’art classique, néo-classique ou de l’Antiquité, elle-même. Ces figures qui symbolisent l’harmonie, le Beau, l’équilibre et la mesure sont littéralement disséquées, encloisonnées, soumises à une inquisition sadique et impitoyable, mais avec une sévérité de style (et méthode) toute néoclassique, une violence ordonnée donc, mais susceptible de confiner au délire paranoïaque. Les figures de Manders sont comme des vestiges archéologiques encore animés que le plasticien soumettrait à la Question. D’ailleurs, on retrouve dans certaines installations de l’artiste l’effet glaçant du Marat de Jacques-Louis David, où le spectateur pourrait être celui qui a laissé tomber le couteau ensanglanté de l’avant plan, tout en étant également le premier à assister à l’agonie de la victime, devenant ainsi tortionnaire et témoin. Cet effet de stupeur et de connivence macabre inextricablement imbriqués est constant chez Manders.
+{{< imgc >}}
+![](/posts/images/manders/mark-manders-sculpture-zeno-x-gallery.004.jpg)
+
+{{< /imgc >}}
+
+
+ 
+### Les nouveaux arrangements
+Les hybridations de Manders nous font donc à la fois participer à la dissection, tout en nous maintenant éloignés, tant les installations sont fermées sur elles-mêmes, jusqu’à l’hostilité. Les épissures savantes du plasticien rappellent les croisements improbables de [Berlinde De Bruyckere](/berlinde-de-bruyckere-sculpture/). La similitude n’est cependant qu’apparente. La plasticienne belge, quant à elle, fait reposer tout son travail sur l’effroi et l’empathie, une sollicitude angoissée. Rien de tout cela dans le monde « post olympien» de Manders. Les nouveaux arrangements de l’artiste sont de métal, de bois industriel, de glaise, dans une grisaille contagieuse, couplés à des accessoires au design raide et rigoureux. Là où De Bruyckere dispose précautionneusement ses dépouilles de chevaux ou de jeune poulain sur des couvertures ou dans des vitrines protectrices, Manders sectionne comme à la guillotine. Berlinde De Bruyckere est presque « gothique », elle ressent, face aux menaces du monde contemporain, la même frayeur compassionnelle qu’au Moyen Age. Manders semble par opposition proche de l’esprit sadien, de l’itération neutre de la raison et du redéploiement de l’angoisse dans des combinaisons d’épuisement des pulsions. Les êtres démantelés, absents à leur supplice, qu’expose Manders n’appartiennent pas au même lieu que nous, ils sont hors de toute compassion et laissent le spectateur confronté à lui-même.
+{{< imgc >}}
+![](/posts/images/manders/mark-manders-sculpture-zeno-x-gallery-artefields.jpg)
+
+{{< /imgc >}}
+
+ 
+### Les Sabines et le hiératisme
+David, lors de la révélation au public des « Sabines », avait organisé l’exposition du tableau en corrélation à une psyché qui permettait aux visiteurs de se voir eux-mêmes dans la fureur suspendue de la bataille. Le dispositif allait encore plus loin puisque plusieurs personnages, notamment les enfants hurlants presque indifférents au chaos environnant et d’autres acteurs de ladite représentation, regardent de manière insistante vers le spectateur, comme s’ils sommaient ce dernier de répondre, politiquement et moralement, du chaos de l’histoire.  L’œuvre de Manders est cette psyché, elle nous confronte à une violence morbide sans exutoire, car les victimes indifférentes demeurent mutiques, enfermées en elles-mêmes. Néanmoins leur présence solennelle et obsédante oblige le regardeur à organiser ses propres angoisses.
+Le hiératisme du récit fictionnel de l’autoportrait en artiste est, chez Mark Manders, comme un martyre où absolument aucune interaction n’est proposée au regardeur.
+{{< imgc >}}
+![](/posts/images/manders/mark-manders-sculpture-21.jpg)
+
+{{< /imgc >}}
+
+© Mark Manders
+ 
+**Repères biographiques :**
+Mark Manders est né en 1968 à Volkel, Pays Bas.
+Il vit et travaille à Ronse, Belgique.
+Il est représenté en Belgique par la galerie Zeno X, aux Etats Unis par la galerie Tanya Bonakdar.

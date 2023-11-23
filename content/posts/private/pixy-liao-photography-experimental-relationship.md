@@ -1,0 +1,80 @@
+---
+title: "Pixy Liao, la voix des corps"
+date: 2023-10-23
+url: /pixy-liao-photography-experimental-relationship/
+# layout: ""
+draft: true
+hidden: false
+authors: ["Thierry Grizard"]
+# access: ["Réservé aux abonnés"]
+# source: [""]
+description: "Pixy Liao est une jeune plasticienne chinoise qui à travers l'écriture photographique et les jeux de mots visuels interroge les conventions qui régissent les relations de couples, l'hétérosexualité et les relations humaines en général. Experimental relationship tel est son credo"
+summary: "Pixy Liao est une jeune plasticienne chinoise qui à travers l'écriture photographique et les jeux de mots visuels interroge les conventions qui régissent les relations de couples, l'hétérosexualité et les relations humaines en général. Experimental relationship tel est son credo"
+tags: [ "Féminisme", "Corporéité", "Iconographie"]
+categories: ["Photographie"]
+featured_image: "/posts/images/banner/liao.jpg"
+---
+## Une histoire de couple et de genres
+
+**Pixy Liao**, est une jeune photographe chinoise, née à Shanghai, qui après avoir suivi un cursus universitaire aux Etats-Unis, s’est installée à Brooklyn. Elle dit avoir adopté la photographie comme outil d’écriture à la suite de sa découverte du film Blow-up d’Antonioni. Elle retient du cinéma et de la peinture que les arts visuels peuvent articuler un discours de manière parfois plus efficace que le langage lui-même. La peinture est en effet un moyen d’expression immédiat et synthétique dans sa résultante. C’est encore plus vrai de la photographie, qui permet de fixer visuellement des idées sans s’encombrer d’un long travail d’exécution.
+
+![](/posts/images/liao/pixy-liaophotographychinagendercontemporary-art.015.jpg)
+
+### Experimental Relationship
+
+Pixy Liao débute il y a une dizaine d’années un travail de réflexion sur ce qui alors la préoccupait, à savoir la relation qu’elle inaugurait avec son compagnon Moro, plus jeune qu’elle et d’origine japonaise. Situation qui en Chine et de manière générale suscite souvent la désapprobation. Elle développera dès lors un projet critique partant de la mise en évidence des stéréotypes qui peuvent gouverner la vie de couple, le genre, l’hétérosexualité jusqu’à des question plus larges sur l’intersubjectivité, les relations personnelles et sociales en général. Cependant la photographe chinoise choisira toujours de construire son projet, intitulé « Experimental Relationship », à travers le prisme privé et particulier de son couple.
+
+“As a woman brought up in China, I used to think I could only love someone who is older and more mature than me, who can be my protector and mentor. Then I met my current boyfriend, Moro, who is five years younger than me…I felt that whole concept of relationships changed, all the way around. I became the person who has more authority and power.” – Pixy Liao, interview dans Lenscratch.
+
+Cette façon de traiter d’un programme d’ordre plus ou moins conceptuel n’est évidemment pas nouveau, ni complétement original. L’art conceptuel lui-même et les mouvements artistiques proches, tel que Fluxus, ont tous fait de l’impact visuel un moyen de représenter des idées. La photographie qui n’était parfois qu’un moyen de fixer des performances visant à rapprocher, dans le cas de Fluxus, l’art du social et du politique, est devenu rapidement un langage propre permettant de construire visuellement des jeux de mots et d’idées. La particularité de Pixy Liao est de circonscrire sa démarche dans la sphère intime.
+
+![](/posts/images/liao/pixy-liaophotographychinagendercontemporary-art.001-3-1.jpg)
+
+### Les idées photographiques
+
+Depuis les surréalistes, en passant par Francesca Woodman, Elina Botherus et Ren Hang, la photographie a articulé dans le champ des arts plastiques un univers bien particulier qui se caractérise fréquemment par le dépouillement et la rapidité de mise œuvre. Il y a en quelque sorte du point de vue de la photographie non documentaire et narrative deux grands axes, tous deux tributaires, quelque fois à leur corps défendant, de la peinture pour sa capacité à « raconter » en un seul plan un discours sophistiqué qui juxtapose la complexité et la temporalité d’une représentation.
+
+Le premier axe de la photographie « narrative » est celui du « concept » visuel. La photographie est alors littéralement un langage iconographique, souvent épuré et direct : une idée une image, [Francesca Woodman](/francesca-woodman/) en est une illustration brillante.
+
+L’autre axe, inspiré du cinéma, mais également très proche de la peinture classique et figurative, reconstruit, parfois à renfort de moyens impressionnants, des scènes qui fonctionnent plus ou moins sur le mode allégorique. C’est le cas de photographes tels que [Jeff Wall](/jeff-wall-la-photographie-mise-en-scene/) ou [Gergory Crewdson](/gregory-crewdson-cathedral-of-the-pines/).
+
+Bien entendu, d’autres pistes ont été explorées, telle que la Nouvelle Objectivité qui depuis [Albert Renger Patzsch](/albert-renger-patzsch-photography/) a engendré de nombreux mouvements artistiques dont l’Ecole de Dusseldorf à travers des artistes comme [Thomas Ruff](/thomas-ruff/), [Struth](/thomas-struth-photographie-objective/) ou [Gursky](/andreas-gursky-le-vertige-du-reel/). Cette photographie là est radicalement opposée à la dimension narrative et subjective, même si on peut observer bien des écarts, paradoxes ou contradictions.
+
+![](/posts/images/liao/pixy-liaophotographychinagendercontemporary-art.025.jpg)
+
+### Le geste, l’image et le concept
+
+Pixy Liao s’inscrit, on le voit bien, dans une histoire déjà longue, y compris en Chine et en Asie. Ren Hang, par exemple, a développé une photographie-happening, où l’image est un geste comme une idée, un gag ou un paradoxe.
+
+Mais alors que Ren Hang, empêtré dans ses problèmes existentiels, pratiquait une photographie fantasmatique, de collisions visuelles parfois sans argumentation sous-jacente, Pixy Liao procède à une mise en image minimaliste d’un propos précis et sériel, avec quelque fois des références à l’histoire de l’art (Gabrielle D’Estrée telle que figurée dans l’Ecole de Fontainebleau notamment) ou des représentations populaires et stéréotypées. Le travail de la photographe chinoise, s’il peut donc, superficiellement, faire penser à Ren Hang pour la frontalité, l’inexpressivité des modèles, l’éclairage étal et la nudité frustre, sans apprêt, est cependant plus proche de la photographe finlandaise [Elina Brotherus](/../exposition/elina-brotherus-photography/), qui à travers un récit en partie autobiographique, déploie un travail fixant en actes photographiques des partitions à la Fluxus.
+
+Mais alors que Brotherus se confronte constamment à l’histoire de l’art, la plasticité des corps et des lieux dans des compositions au cordeau, l’espace, ainsi que l’agencement des plans est quasiment absent chez Liao, le fond n’est pour elle qu’une connotation sociologique de plus, lui permettant de prolonger sa réflexion visuelle sur les genres et le poids des archétypes.
+
+![](/posts/images/liao/pixy-liaophotographychinagendercontemporary-art.017-1.jpg)
+
+### L’inversion
+
+Elles procèdent d’ailleurs, le plus souvent, par inversion directe des conventions, la femme porte l’homme, c’est elle qui pince le sein de son partenaire ou une pastèque se substitue au sexe de Moro le partenaire modèle. La représentation de la femme demeure neutre. Il n’y a pas de réel trouble des genres, mais exclusivement une mise en cause de l’image masculine et du rôle dévolu aux femmes dans une société patriarcale.
+
+Les photographies de Pixy Liao résonnent donc le plus souvent comme des gestes visuels revendicatifs, jusqu’au sexe masculin empoigné et comme écrasé sur une raquette de ping pong particulièrement significative en Chine. Ou encore l’homme suspendu tel un linge, image faisant probablement référence à la fameuse pièce de Maurizio Cattelan où celui-ci s’épingle en personne à un portant comme un vulgaire vêtement, une dépouille vidée de toute substance. Ici, Liao l’applique au genre masculin lui-même, qui ne serait rien de plus qu’un masque, une convention aux fonctions coercitives.
+
+![](/posts/images/liao/pixy-liaophotographychinagendercontemporary-art.008.jpg)
+
+### L’entre deux
+
+Dans certains cas, relativement rares, Pixy Liao s’évade de sa dénonciation du pouvoir phallocratique pour explorer l’intersubjectivité. On peut, d’ailleurs, déceler l’influence de l’artiste japonaise Chiharu Shiota qui depuis fort longtemps met en scène l‘intersubjectivité entendue dans un sens très large. Chez Liao cela donne des portraits sous forme d’inclusion des corps, d’amorces d’hybridation, d’enchevêtrement des corps à la [Yung Cheng](/yung-cheng-lin-et-les-corps-hors-limites/) ou [Choi Xooang](/choi-xooang/). Précisément, le cliché intitulé « We are connected » est probablement une référence à la plasticienne japonaise.
+
+Le propos de Pixy Liao semble donc être dicté à la fois par la dénonciation des archétypes du genre, mais aussi par la mise en évidence du poids sociétal sur les individus, ce qui se retrouve dans tous les mouvements artistiques de l’art contemporain chinois des Réalistes Cyniques à Yue Minjun ou [Zhang Huan](/zhang-huan-a-fondation-louis-vuitton/).
+
+![](/posts/images/liao/pixy-liaophotographychinagendercontemporary-art.022.jpg)
+
+
+© Pixy Liao. « We are connected ».
+
+---
+
+![](/posts/images/liao/pixy-liaophotographychinagendercontemporary-art.006.jpg)
+
+---
+
+![](/posts/images/liao/pixy-liaophotographychinagendercontemporary-art.005.jpg)

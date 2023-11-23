@@ -1,0 +1,103 @@
+---
+title: "Agnès Geoffray, photographe de l’intranquillité"
+date: 2023-10-23T22:03:27+02:00
+draft: true
+url: /agnes-geoffray-photography/
+authors: ["Thierry Grizard"]
+source:
+access: ["Réservé aux abonnés."]
+description: "Agnès Geoffray est une photographe plasticienne française qui questionne la circulation des images et l'intranquillité qui les habite."
+tags: ["Surréalisme", "Etrangeté"]
+categories: ["Photographie"]
+featured_image: "/posts/images/banner/geoffray.jpg"
+---
+## L’inquiétante étrangeté d’Agnès Geoffray
+
+**Agnès Geoffray** n’est pas à proprement parler photographe mais plutôt une manipulatrice de signes, qu’il s’agisse de l’écriture qui représente une grande partie de son travail (relativement peu connue) ou des images qu’elle manipule, soit en détournant par réappropriation des photographies glanées, soit en mettant en scène des situations auxquelles elle donne un aspect ordinaire, comme si elles appartenaient à la première catégorie des images récupérées (collectionnées, altérées, réassignées). Dans son travail d’écriture le procédé est identique, elle récupère, oblique, altère des textes existants ou crées mais qu’elle traite comme des éléments abandonnés, trouvés, retrouvés.
+
+Toute son oeuvre est marquée donc par le palimpseste, la réécriture sur ce qui a déjà existé, qui n’est plus tout à fait là et qu’elle réactive. L’image photographique est toujours déjà absente. Elle appartient d’emblée à la grande circulation des signes de la mémoire collective et personnelle qui fonctionnent par identification assimilatrice, projection, appropriation et récupération. C’est dans cet interstice que les obsessions d’Agnès Geoffray viennent se loger.
+
+![](/posts/images/geoffray/agnes-geoffray_photography.033.jpg)
+
+© Agnès Geoffray.
+
+### Agnès Geoffray et la circulation des images
+
+Agnès Geoffray, quand elle parle de son travail, en appelle fréquemment au flux (rhizomique) qui relie les images par associations ou disjonctions. Les images sont, au même titre que les mots, des signes d’une grammaire générale qui fait que l’on ne voit pas des nuances mais une forme identifiable, un arbre, un geste, un bourgeois, une femme du peuple, une photographie de famille ou un moment de l’histoire collective. Les images sont des éléments mémoriels qui ont, en outre, une valeur d’indice. Elles se réfèrent à un moment irrémédiablement révolu que notre travail de gestation, une sorte de parturition de seconde main, réactualise.
+
+C’est là, dans la relation de réappropriation ([voir notre article sur Cindy Sherman](/cindy-sherman-picture-generation/)), qu’intervient Agnès Geoffray. La photographie n’est totalement révélée que dans une forme chimique et sensible de palimpseste. C’est ce que la plasticienne photographe s’évertue à distordre par retouches ou mises en scène. Elle interfère dans la circulation globale des signes visuels photographiques, mais aussi dans le moment où l’image interpelle le regardeur. Alors que l’image picturale est en quelque sorte immanente, elle se donne comme un tout juxtaposé inséré dans l’histoire des arts, la photographie appelle toujours, dès le premier regard, quelque chose d’autre qu’elle-même. Le travail d’Agnès Geoffray oscille entièrement dans cet interstice où ses propres digressions sémiotiques tentent de provoquer l’altérité par laquelle l’Inquiétante Etrangeté (Unheimliche) pourra surgir et conduire à d’autres associations plus ou moins dérangeantes, selon l’histoire de chacun.
+
+![](/posts/images/geoffray/agnes-geoffray_photography.038.jpg)
+
+© Agnès Geoffray.
+
+### L’angoisse et le palimpseste
+
+L’Inquiétante Étrangeté est, pour faire court, le moment où l’identification dysfonctionne, c’est l’instant où ce qui est familier se dérobe parce qu’il est impossible d’assigner clairement à ce qui se produit une identité fixe et claire, l’altérité surgit dans l’ordre familier et génère une angoisse inexplicable. Dans son travail de réécriture Agnès Geoffray vise à susciter, par des décalages subtils, un glissement similaire qui conduit inexorablement vers l’indéfinissable.
+
+Dans le corpus de l’artiste plasticienne il y a autant de réappropriations que de créations, pourtant, il n’est pas toujours aisé de faire le partage. Chaque image paraît ordinaire, les gris sont ceux des anciennes photographies familiales, les cadrages sans effet formel, les situations souvent banales, la position du photographe frontale, à hauteur d’œil. La banalité formelle est une chausse-trappe. Le regardeur ne se méfie pas plus que lorsqu’il feuillette un album de famille. Pourtant rien ne « colle » dans ces compositions (collages, rencontres arbitraires) ou recompositions.
+
+![](/posts/images/geoffray/agnes-geoffray_photography.028.jpg)
+
+© Agnès Geoffray.
+
+### L’ordinaire, l’Histoire et la fiction
+
+Dans le travail photographique d’Agnès Geoffray, il y a grossièrement trois typologies.
+
+* Les images ordinaires glanées qui sont retouchées, où il manque toujours quelque chose. L’incongruité de la situation vise alors essentiellement à conduire au malaise, à la disruption angoissante, à une association qui en appelle à la subjectivité du regardeur.
+* On trouve également d’autres images, collectées de-ci de-là, qui se référent à l’histoire collective. Dans ce cas de figure, Agnès Geoffray ne retire pas, elle rajoute, parfois en effaçant. Elle semble vouloir rendre justice à une situation qui est en soi angoissante, celles des victimes de l’Histoire. Elle efface la corde d’une jeune noire lynchée par pendaison en Amérique du nord, elle couvre la nudité d’une femme victime de l’épuration à la Libération en 1945. Cette partie du corpus rappelle le travail de [Berlinde de Bruyckere](/berlinde-de-bruyckere-sculpture/), qui dans sa représentation des corps victimaires, cherche à rendre justice tout en jugulant par la même occasion l’angoisse suscitée par la violence pure infligée aux corps individués ou pas.
+* Il y a enfin, les mises en scène, qui, se parant de qualités formelles identiques aux images réappropriées, induisent le regardeur en erreur puisqu’il ne les distingue pas immédiatement des images détournées. Le propos est légèrement différent, les situations relèvent néanmoins de la même intention d’amener l’étrangeté. Dans ces séries de photographies composées il y a, évidemment, les mêmes invraisemblances disruptives mais aussi des mises en situation de jeux de mots visuels, proches de la démarche d’[Elina Brotherus](/elina-brotherus-photography/). Agnès Geoffray décline alors des séries (Veiled, Monsieur Vernet et Pierre, Choregraphy) se situant entre le surréalisme et Fluxus (une idée, une partition, une image-happening).
+* Le second versant des mises en scène se rapproche parfois de la narration cinématographique, notamment de celle des thrillers où la menace est latente mais invisible, ou encore d’un David Lynch qui s’est lui-même beaucoup inspiré de ce genre pour le déconstruire totalement en y instillant l’angoisse d’un inconscient qui semble débonder de toutes parts. Cette influence est particulièrement patente dans la série Nights réalisée au moyen d’une prise de vue infrarouge, qui agit comme une fascination pour les ombres effrayantes du quotidien mais aussi une conjuration.
+
+⠀![](/posts/images/geoffray/agnes-geoffray_photography.031.jpg)
+
+© Agnès Geoffray.
+
+Le travail narratif d’Agnès Geoffray est entièrement centré sur la latence, sur ce qui attend d’être associé pour exister à nouveau, soit par souci de cautériser les plaies des images victimaires, soit pour bousculer ce qui paraît pourtant si familier. Les images et mots, les palimpsestes d’Agnès Geoffray, sont « intranquilles », l’angoisse et le souci les traversent dans une adresse elliptique aux regardeurs qui croiseront ces apostrophes visuelles.
+
+![](/posts/images/geoffray/agnes-geoffray_photography.039.jpg)
+
+© Agnès Geoffray.
+
+---
+
+![](/posts/images/geoffray/agnes-geoffray_photography.025-1.jpg)
+
+© Agnès Geoffray.
+
+![](/posts/images/geoffray/agnes-geoffray_photography.036.jpg)
+
+© Agnès Geoffray.
+
+---
+
+#### Repères biographiques :
+
+* Née en 1973.
+* Elle vit et travaille à Paris et Bruxelles.
+* 1997 . Ecole Nationale Supérieure des Beaux-Arts – Paris, France.
+* 1991-1996 . Ecole Nationale des Beaux-Arts – Lyon, France.
+
+⠀
+#### Publications :
+
+* 2017 . Before the eye-lid’s laid, Edition La Lettre volée, Bruxelles, Belgique.
+* 2015 . Les Captives, Edition La Lettre volée, Bruxelles, Belgique.
+* 2009 . Profond Silence, Edition La Lettre volée, Bruxelles, Belgique.
+* 2008 . Ultieme Hallucinatie, Edition La Lettre volée, Bruxelles, Belgique.
+* 2005 . Bloc, multiples coedited with La Lettre volée, Bruxelles, Belgique.
+* 2003 . Agnès, Sainte Agnès, fsyeofgaar ng, coedited with Fréderic Dumond
+
+⠀
+#### Collections :
+
+* 2017 [Centre Pompidou](https://www.centrepompidou.fr/?ref=artefields.net), Paris, France.
+* 2017 Musée d’Ixelles, Bruxelles, Belgique.
+* 2017 Collection départementale de Seine Saint-Denis, France.
+* 2017 Fond Municipal d’Art Contemporain, Paris, F. 2016 Musée de l’Elysée, Lausanne, Suisse.
+* 2015 MAC VAL, Vitry-sur-Seine, France.
+* 2014 [Frac Auvergne](https://www.frac-auvergne.fr/?ref=artefields.net), Clermont-Ferrand, F. 2013 Fondation Antoine de Galbert, Paris, France.
+* 2013 Fond National d’Art Contemporain, Paris, France.
+* 2009 Fond National d’Art Contemporain, Paris, France.
+* 2002 Fond National d’Art Contemporain, Paris, France.

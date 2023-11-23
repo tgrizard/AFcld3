@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-11-23T12:33:23+01:00</lastmod>
+    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-11-23T12:33:23+01:00</lastmod>
+    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -28,42 +28,27 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/photographie/</loc>
-    <lastmod>2023-11-23T12:30:37+01:00</lastmod>
+    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-11-23T12:33:23+01:00</lastmod>
+    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-11-23T12:33:23+01:00</lastmod>
+    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2023-11-23T12:33:23+01:00</lastmod>
+    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/underground/</loc>
     <lastmod>2023-11-23T12:30:37+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/tags/conceptuel/</loc>
-    <lastmod>2023-11-22T23:46:42+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/tags/photographie-objective/</loc>
-    <lastmod>2023-11-22T23:46:42+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/ursula-schulz-dornburg-solo-show-mep/</loc>
-    <lastmod>2023-11-17T21:50:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -159,6 +144,11 @@
   </url><url>
     <loc>https://artstream.net/cindy-sherman-picture-generation/</loc>
     <lastmod>2023-11-22T02:26:38+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/conceptuel/</loc>
+    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -452,6 +442,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/tags/photographie-objective/</loc>
+    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/tags/plasticien/</loc>
     <lastmod>2023-11-23T12:32:43+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -712,6 +707,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://artstream.net/ursula-schulz-dornburg-solo-show-mep/</loc>
+    <lastmod>2023-11-23T22:41:26+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/maurizio-cattelan-comedian-banana/</loc>
     <lastmod>2023-11-22T23:09:53+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -919,6 +919,11 @@
   </url><url>
     <loc>https://artstream.net/marion-bataillard/</loc>
     <lastmod>2023-11-17T21:50:52+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/albert-renger-patzsch-photography/</loc>
+    <lastmod>2023-11-23T22:36:17+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1174,11 +1179,6 @@
   </url><url>
     <loc>https://artstream.net/jan-groover-american-photographer/</loc>
     <lastmod>2023-11-17T21:50:52+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/albert-renger-patzsch-photography/</loc>
-    <lastmod>2023-11-17T21:45:01+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
