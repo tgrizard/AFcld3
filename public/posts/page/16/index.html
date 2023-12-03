@@ -44,6 +44,15 @@
 <meta name="twitter:description" content="Welcome to my blog and the art stream of consciousness."/>
 
 	
+
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch.min.css"/>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch-theme-algolia.min.css"/>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-theme-classic"/>
+
+
+
+
   </head>
 
   <body class="ma0 avenir bg-white">
@@ -130,8 +139,26 @@
     <main class="pb7" role="main">
       
   <article class="pa3 pa4-ns nested-copy-line-height ">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"></section>
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"><div id="hits">
+          
+      </div>
+    </section>
     <section class="flex-ns flex-wrap justify-around mt5">
+      
+        <div class="relative w-100 w-30-l mb4 bg-white">
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <h1 class="f3 near-black">
+      <a href="/michael-borremans-the-banana/" class="link black dim">
+        Michaël Borremans The Banana est un nœud
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Michaël Borremans dans un tableau intitulé The Banana se livre avec une bonne dose d&rsquo;ironie à un exercice de style virtuose et particulièrement efficace
+    </div>
+  </div>
+</div>
+        </div>
       
         <div class="relative w-100 w-30-l mb4 bg-white">
           <div class="relative w-100 mb4 bg-white nested-copy-line-height">
@@ -253,21 +280,6 @@
 </div>
         </div>
       
-        <div class="relative w-100 w-30-l mb4 bg-white">
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <h1 class="f3 near-black">
-      <a href="/le-nu-photographique-par-carla-van-de-puttelaar/" class="link black dim">
-        Le nu photographique comme portrait
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Le nu photographique avec Carla van de Puttelaar s&rsquo;érige, par son souci du détail sa proximité avec l&rsquo;épiderme du modèle au rang de portrait de femmes nues
-    </div>
-  </div>
-</div>
-        </div>
-      
     </section>
     <ul class="pagination pagination-default">
       <li class="page-item">
@@ -347,5 +359,12 @@
 </body>
 </html>
 </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-js"></script>
+    <script> const { autocomplete } = window['@algolia/autocomplete-js'];</script>
+
+
   </body>
 </html>

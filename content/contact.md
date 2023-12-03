@@ -26,6 +26,9 @@ Très bonne lecture !
 
 {{<br>}}
 
+---
+
+## [Recherche](https://dashboard.algolia.com/interface-demos/a376e091-cef8-4439-a1a6-b514934c0957?utm_medium=page_link&utm_source=dashboard)
 
 
 

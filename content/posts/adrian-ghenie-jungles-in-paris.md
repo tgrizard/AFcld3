@@ -1,10 +1,12 @@
 ---
+_build:
+  list: false
 title: "Adrian Ghenie Jungles in Paris"
 date: 2023-10-23
 url: /adrian-ghenie-jungles-in-paris/ 
 # layout: ""
 draft: true
-hidden: false
+hidden: true
 authors: ["Thierry Grizard"]
 # access: ["Réservé aux abonnés"]
 # source: [""]

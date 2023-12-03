@@ -7,21 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language><atom:link href="https://artstream.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Agnès Geoffray, photographe de l’intranquillité</title>
-      <link>https://artstream.net/agnes-geoffray-photography/</link>
-      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
+      <title>Outil de recherche</title>
+      <link>https://artstream.net/search/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://artstream.net/agnes-geoffray-photography/</guid>
-      <description>L’inquiétante étrangeté d’Agnès Geoffray Agnès Geoffray n’est pas à proprement parler photographe mais plutôt une manipulatrice de signes, qu’il s’agisse de l’écriture qui représente une grande partie de son travail (relativement peu connue) ou des images qu’elle manipule, soit en détournant par réappropriation des photographies glanées, soit en mettant en scène des situations auxquelles elle donne un aspect ordinaire, comme si elles appartenaient à la première catégorie des images récupérées (collectionnées, altérées, réassignées).</description>
-    </item>
-    
-    <item>
-      <title>Alex Majoli, un photojournaliste baroque</title>
-      <link>https://artstream.net/alex-majoli-scene-photojournalism/</link>
-      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
-      
-      <guid>https://artstream.net/alex-majoli-scene-photojournalism/</guid>
-      <description>Alex Majoli est un photojournaliste éminent de l&amp;rsquo;agence Magnum depuis 8 années il parcourt le monde pour en donner une autre image profondément théâtrale</description>
+      <guid>https://artstream.net/search/</guid>
+      <description>Recherche d&amp;rsquo;un article dans la base de données</description>
     </item>
     
     <item>
@@ -31,15 +22,6 @@
       
       <guid>https://artstream.net/ana-mendieta-body-art/</guid>
       <description>Ana Mendieta était une artiste de la performance et du body art il est pourtant impossible de la cantonner dans ces frontières bien trop étroites pour elle</description>
-    </item>
-    
-    <item>
-      <title>Andreas Gursky le vertige du réel</title>
-      <link>https://artstream.net/andreas-gursky-le-vertige-du-reel/</link>
-      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
-      
-      <guid>https://artstream.net/andreas-gursky-le-vertige-du-reel/</guid>
-      <description>Andreas Gursky, qui est historiquement affilié à la photographie objective allemande et l’Ecole de Düsseldorf, est formellement assez proche de ce courant mais sur le fond il se rapproche davantage d’une certaine forme de romantisme en particulier s’agissant du sentiment du sublime</description>
     </item>
     
     <item>
@@ -698,12 +680,30 @@ Thomas Struth et l’Ecole de Düsseldorf Le travail de Thomas Struth est très 
     </item>
     
     <item>
+      <title>Monstres &amp; hybridations dans l&#39;art</title>
+      <link>https://artstream.net/monstres-et-hybridations-dans-lart-contemporain/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://artstream.net/monstres-et-hybridations-dans-lart-contemporain/</guid>
+      <description>Dans le champ de l&amp;rsquo;art contemporain la sculpture, en particulier, se caractérise par un retour de la statuaire anthropomorphique au prix d&amp;rsquo;étranges hybridations qui interrogent son identité</description>
+    </item>
+    
+    <item>
       <title>Bettina Rheims Naked War</title>
       <link>https://artstream.net/bettina-rheims-naked-war/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://artstream.net/bettina-rheims-naked-war/</guid>
       <description>Bettina rheims à fait de la féminité le centre de sa démarche en dépit des controverses et ceci dans une démarche transgressive affranchie de tout machisme</description>
+    </item>
+    
+    <item>
+      <title>Agnès Geoffray, photographe de l’intranquillité</title>
+      <link>https://artstream.net/agnes-geoffray-photography/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://artstream.net/agnes-geoffray-photography/</guid>
+      <description>Agnès Geoffray est une photographe plasticienne française qui questionne la circulation des images et l&amp;rsquo;intranquillité qui les habite</description>
     </item>
     
     <item>
@@ -875,6 +875,15 @@ Thomas Struth et l’Ecole de Düsseldorf Le travail de Thomas Struth est très 
       
       <guid>https://artstream.net/luc-tuymans-subtractive-painting/</guid>
       <description>Luc Tuymans pratique la peinture comme une oscillation entre dissipation et révélation du visible, son art s&amp;rsquo;efforce de figurer l&amp;rsquo;ineffable</description>
+    </item>
+    
+    <item>
+      <title>Alex Majoli, un photojournaliste baroque</title>
+      <link>https://artstream.net/alex-majoli-scene-photojournalism/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://artstream.net/alex-majoli-scene-photojournalism/</guid>
+      <description>Alex Majoli est un photojournaliste éminent de l&amp;rsquo;agence Magnum depuis 8 années il parcourt le monde pour en donner une autre image profondément théâtrale</description>
     </item>
     
     <item>
@@ -1166,6 +1175,15 @@ Thomas Struth et l’Ecole de Düsseldorf Le travail de Thomas Struth est très 
     </item>
     
     <item>
+      <title>Andreas Gursky le vertige du réel</title>
+      <link>https://artstream.net/andreas-gursky-le-vertige-du-reel/</link>
+      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://artstream.net/andreas-gursky-le-vertige-du-reel/</guid>
+      <description>Andreas Gursky, qui est historiquement affilié à la photographie objective allemande et l’Ecole de Düsseldorf, est formellement assez proche de ce courant mais sur le fond il se rapproche davantage d’une certaine forme de romantisme en particulier s’agissant du sentiment du sublime</description>
+    </item>
+    
+    <item>
       <title>Lionel Sabatté poussière et territoires</title>
       <link>https://artstream.net/lionel-sabatte-la-poussiere-et-les-territoires/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
@@ -1226,6 +1244,15 @@ Thomas Struth et l’Ecole de Düsseldorf Le travail de Thomas Struth est très 
       
       <guid>https://artstream.net/vilhelm-hammershoi-peintre-du-silence/</guid>
       <description>Vilhelm Hammershøi peint l&amp;rsquo;architecture comme des vivants et les humains aussi muets que des objets, une œuvre à caractère intimiste et méditatif</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://artstream.net/searching/</link>
+      <pubDate>Sat, 29 Jul 2017 19:57:50 +0800</pubDate>
+      
+      <guid>https://artstream.net/searching/</guid>
+      <description></description>
     </item>
     
     <item>

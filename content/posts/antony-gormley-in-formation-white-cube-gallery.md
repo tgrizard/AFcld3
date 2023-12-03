@@ -26,16 +26,16 @@ Antony Gormley pose donc la question : « Is the body the product of the block, 
 Ainsi les éléments dissociés du corps désuni, celui de l’individu aussi bien que celui du tout, sont comme autant de particules élémentaires en perdition, ou tout du moins d’un flux d’informations techniques comme physiques qui s’affole en apparence, qui échappe à notre saisie intellectuelle dans la mesure où l’homme anticipe bien maintenant un avenir sombre mais où sa création (la techno-sphère) lui échappe. La civilisation de l’information et de la production de masse semble être incoercible sinon à s’autodétruire ou à tuer le père.
 Les bloques composant la statuaire d’Antony Gormley sont aussi une manière de représenter la virtualisation du monde humain, ceux sont des pixels à l’apparence de briques simples soumises à une mutabilité volatile incessante.
 ### Antony Gormley précurseur
-L’approche d’Antony Gormley a non seulement restituée l’importance de la statuaire mais a aussi inspiré de très nombreux artistes contemporains des générations suivantes. La biennale de Lyon 2019 (~[voir notre article sur la 15° biennale de Lyon](/biennale-lyon-2019-images-expositions/)~), qui est dominée par le thème de l’anthropocène et de la faillite de la technologie en est une preuve frappante. D’autres plasticiens ont emprunté la même voie qu’Antony Gormley, il en va ainsi de Tomás Saraceno (~[voir notre article sur Saraceno au Palais de Tokyo](/tomas-saraceno-on-air/)~) et son exposition « On Air » au Palais de Tokyo, ou encore de Hicham Berrada qui simule de nouveaux paysages produits à l’aide d’une chimie côtoyant l’alchimie et l’héritage pictural. On peut également signaler Olafur Eliasson (~[voir nos articles](/olafur-eliasson-versailles/)~), ou encore la sculpture hyperréaliste actuelle qui hybride les genres et les espèces (~[voir notre dossier sur l’hyperréalisme en sculpture et peinture](/sculpture-peinture-hyperrealiste/)~).
+L’approche d’Antony Gormley a non seulement restituée l’importance de la statuaire mais a aussi inspiré de très nombreux artistes contemporains des générations suivantes. La biennale de Lyon 2019, qui est dominée par le thème de l’anthropocène et de la faillite de la technologie en est une preuve frappante. D’autres plasticiens ont emprunté la même voie qu’Antony Gormley, il en va ainsi de Tomás Saraceno [voir notre article sur Saraceno au Palais de Tokyo](/tomas-saraceno-on-air/) et son exposition « On Air » au Palais de Tokyo, ou encore de Hicham Berrada qui simule de nouveaux paysages produits à l’aide d’une chimie côtoyant l’alchimie et l’héritage pictural. On peut également signaler Olafur Eliasson [voir nos articles](/olafur-eliasson-versailles/), ou encore la sculpture hyperréaliste actuelle qui hybride les genres et les espèces [voir notre dossier sur l’hyperréalisme en sculpture et peinture](/tags/hyperréalisme/).
 
 **Antony Gormley, « In Formation »**
-13 Novembre 2019 – 18 Janvier 2020 ~[White Cube Mason’s Yard](https://whitecube.com/)~
+13 Novembre 2019 – 18 Janvier 2020 [White Cube Mason’s Yard](https://whitecube.com/)
 {{< imgc >}}
 ![](/posts/images/gormley/antony-gormley-art-exhibition-white-cube-galllery-2019.007-1-1030x579.jpg)
 {{< /imgc >}}
 
 **Corollaires :**
-Les artistes relevant pour partie de cette mouvance et ayant fait l’objet d’un article dans notre magazine Artefields sont à voir dans notre dossier : « ~[Hybridation, transhumanisme et anthropocène](/dossier-transhumanisme-art-contemporain/)~ »
+Les artistes relevant pour partie de cette mouvance et ayant fait l’objet d’un article dans notre magazine Artefields sont à voir dans notre dossier : «[Hybridation, transhumanisme et anthropocène](/tags/anthropocène/)»
 * David Altmejd
 * Olafur Eliasson
 * Hicham Berrada

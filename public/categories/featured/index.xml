@@ -8,24 +8,6 @@
     <language>fr</language>
     <lastBuildDate>Mon, 23 Oct 2023 22:03:27 +0200</lastBuildDate><atom:link href="https://artstream.net/categories/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alex Majoli, un photojournaliste baroque</title>
-      <link>https://artstream.net/alex-majoli-scene-photojournalism/</link>
-      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
-      
-      <guid>https://artstream.net/alex-majoli-scene-photojournalism/</guid>
-      <description>Alex Majoli est un photojournaliste éminent de l&amp;rsquo;agence Magnum depuis 8 années il parcourt le monde pour en donner une autre image profondément théâtrale</description>
-    </item>
-    
-    <item>
-      <title>Andreas Gursky le vertige du réel</title>
-      <link>https://artstream.net/andreas-gursky-le-vertige-du-reel/</link>
-      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
-      
-      <guid>https://artstream.net/andreas-gursky-le-vertige-du-reel/</guid>
-      <description>Andreas Gursky, qui est historiquement affilié à la photographie objective allemande et l’Ecole de Düsseldorf, est formellement assez proche de ce courant mais sur le fond il se rapproche davantage d’une certaine forme de romantisme en particulier s’agissant du sentiment du sublime</description>
-    </item>
-    
-    <item>
       <title>Chiharu Shiota simplicité et évidence</title>
       <link>https://artstream.net/chiharu-shiota-simplicite-et-evidence/</link>
       <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
@@ -62,12 +44,30 @@
     </item>
     
     <item>
+      <title>Alex Majoli, un photojournaliste baroque</title>
+      <link>https://artstream.net/alex-majoli-scene-photojournalism/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://artstream.net/alex-majoli-scene-photojournalism/</guid>
+      <description>Alex Majoli est un photojournaliste éminent de l&amp;rsquo;agence Magnum depuis 8 années il parcourt le monde pour en donner une autre image profondément théâtrale</description>
+    </item>
+    
+    <item>
       <title>Berlinde de Bruyckere, sculpture de l’angoisse</title>
       <link>https://artstream.net/berlinde-de-bruyckere-sculpture/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://artstream.net/berlinde-de-bruyckere-sculpture/</guid>
       <description>Berlinde de Bruyckere est une plasticienne et sculptrice qui a fait de l&amp;rsquo;angoisse face à la violence, la souffrance et la mort, le cœur de son travail</description>
+    </item>
+    
+    <item>
+      <title>Andreas Gursky le vertige du réel</title>
+      <link>https://artstream.net/andreas-gursky-le-vertige-du-reel/</link>
+      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://artstream.net/andreas-gursky-le-vertige-du-reel/</guid>
+      <description>Andreas Gursky, qui est historiquement affilié à la photographie objective allemande et l’Ecole de Düsseldorf, est formellement assez proche de ce courant mais sur le fond il se rapproche davantage d’une certaine forme de romantisme en particulier s’agissant du sentiment du sublime</description>
     </item>
     
   </channel>

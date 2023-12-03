@@ -23,10 +23,9 @@ featured_image: "/posts/images/banner/marquet.jpg"
 Une exposition qui rend bien compte de la modernité de l’artiste tout en montrant l’aspect protéiforme et relativement inclassable de l’œuvre. On peut y voir les grands courants du début du 20° siècle, à l’exception peut-être du cubisme.
 Tout d’abord la connotation la plus évidente: le fauvisme, lisible dans l’extreme simplification des formes et des tons francs mais, et c’est l’appropriation propre à Albert Marquet, adoucis par des “dégradés”, complémentarités hérités de l’impressionnisme.
 Une touche quasi expressionniste mais sans excès de pathos.
-
+{{< imgc >}}
 ![](/posts/images/marquet/albert-marquet-painting-post-impressionism-fauvism-matisse-vallotton-exhibition-paris-france-2016-mam.069.jpg)
-
-© Albert Marquet. Courtesy MaM, Paris.
+{{< /imgc >}}
 
 ### Des instantanés !
 
@@ -40,13 +39,13 @@ Une ligne quand il s’agit de la végétation très cursive proche de Valloton 
 ### Inclassable !
 
 Toutefois, dés lors qu’on a égrené toutes ces références ou plutôt toutes ces appropriations stylistiques on constate que Marquet demeure un électron libre. Ce qui pourrait donc passer pour des influences ne sont que des emprunts techniques au service d’une construction constante, à savoir rendre dans une apparence de rapidité, d’instantanéité, de vitesse les vibrations non plus seulement de la lumière (impressionnisme) mais de la mobilité fuyante d’un certain “réel”, une “umwelt” pour ainsi dire, ou l’interaction du regard d’Albert Marquet avec l’agitation, les fluctuations de la nature ou de la ville.
-
+{{< imgc >}}
 ![](/posts/images/marquet/albert-marquet-painting-post-impressionism-fauvism-matisse-vallotton-exhibition-paris-france-2016-mam-strip-2-1024x512.jpg)
-
-© Albert Marquet. Courtesy MaM, Paris.
+{{< /imgc >}}
 
 ---
-
+{{< imgc >}}
 ![](/posts/images/marquet/albert-marquet-painting-post-impressionism-fauvism-matisse-vallotton-exhibition-paris-france-2016-mam-strip-1-1024x512.jpg)
+{{< /imgc >}}
 
 © Albert Marquet. Courtesy MaM, Paris.

@@ -1,12 +1,13 @@
 ---
 title: "Agnès Geoffray, photographe de l’intranquillité"
-date: 2023-10-23T22:03:27+02:00
+date: 2020-07-23
 draft: false
 authors: ["Thierry Grizard"]
 url: /agnes-geoffray-photography/
 source:
 access: ["Réservé aux abonnés."]
-description: "Agnès Geoffray est une photographe plasticienne française qui questionne la circulation des images et l'intranquillité qui les habite."
+description: "Agnès Geoffray est une photographe plasticienne française qui questionne la circulation des images et l'intranquillité qui les habite"
+summary: "Agnès Geoffray est une photographe plasticienne française qui questionne la circulation des images et l'intranquillité qui les habite"
 tags: ["Surréalisme", "Etrangeté"]
 categories: ["Photographie"]
 featured_image: "/posts/images/banner/geoffray.jpg"

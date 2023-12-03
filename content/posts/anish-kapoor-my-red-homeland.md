@@ -19,8 +19,9 @@ featured_image: "/posts/images/banner/kapoor.jpg"
 **Anish Kapoor** expose une de ses pièces maîtresses : « My Red Homeland » au Mamc de Saint Etienne, à l’occasion de la commémoration des 30 années d’existence du musée. L’œuvre occupe le centre de l’espace accompagnée de « Red images in the red », 2006, d’un grand tableau longitudinal, ainsi que deux miroirs.
 
 Cette installation spatiale, ou cette sculpture environnementale, a été créée la première fois en 2003 au [Kunsthaus Bregenz](http://www.kunsthaus-bregenz.at/?ref=artefields.net).
-
+{{< imgc >}}
 ![](/posts/images/kapoor/anish-kapoorsculpturemam-saint-etiennemy-red-homelandart-exhibition2017.026-5.jpg)
+{{< /imgc >}}
 
 Dans la démarche générale d’Anish Kapoor, qui rejette la sculpture traditionnelle dans ce qu’elle a d’expression idiosyncrasique, cette œuvre n’en est pas une, elle n’est ni un objet sculptural, ni une expression subjective, ni même une installation au sens strict. C’est un processus, un état dans un lieu, une action (ici arrêtée) à connotation spiritualiste.
 
@@ -33,20 +34,23 @@ Dans la lignée de Duchamp il tente de minimiser l’intervention manuelle de l�
 La simple description de cette non-sculpture en forme de processus plus ou moins entropique soulève d’emblée de nombreux paradoxes, voire même des contradictions qui n’ont évidemment pas échappées à Anish Kapoor.
 
 Ce paysage désordonné mêle une chose et son contraire, l’informe, le chaos, l’ordre géométrique parfait de la machine et le démembrement organique de la matière. Ce paysage, en forme d’oxymore, qui se veut originaire, porte les traces de « l’entendement », ou l’esprit —pour être moins ethnocentrique— qui imprime brutalement une forme.
-
+{{< imgc >}}
 ![](/posts/images/kapoor/anish-kapoorsculpturemam-saint-etiennemy-red-homelandart-exhibition2017.026-10.jpg) 
+{{< /imgc >}}
 
 Mais ce n’est pas tout, l’intelligence, qui informe la matière et la violente pour lui procurer un état ordonné, prétend être celle d’une forme de « divinité » extérieure, quelque chose qui n’appartient pas à ce monde, qui résonne profondément en tout un chacun, le « sentiment » de la transcendance. C’est l’état émotionnel que l’artiste cherche ouvertement à provoquer. Pour Kapoor cette bouillie de chairs, l’aiguille et le cercle font un, ils sont en interdépendance. Il reprend le concept Bouddhiste de vacuité, qui n’a rien d’une manifestation du néant, ou d’une négation de l’être, ni l’un ni l’autre ne font sens dans la philosophie bouddhiste.
 
 « Nous appelons vacuité ce qui apparaît en dépendance », Nāgārjuna, Traité du Milieu. Ce qui pour faire très court signifie que rien ne possède d’essence propre, que tout est devenir, contingence et phénomènes en interdépendance, y compris ce qui s’oppose, en réalité, se complète ou plutôt s’auto-génère. Ce qui a donné lieu à une autre pièce fameuse du sculpteur : « Svayambh », 2007, un gigantesque bloc de cire et de vaseline qui en traversant l’espace physique et métaphorique se désagrège pour adopter une « autre » forme, une image du Devenir dans la pluralité de ses significations.
-
+{{< imgc >}}
 ![](/posts/images/kapoor/anish-kapoorSvayambhsculpturecontemporary-art.001.jpg)
+{{< /imgc >}}
 
 Anish Kapoor semble appliquer à la lettre ce principe de la « Sunyata » développé à l’extrême chez le logicien et philosophe indien Nāgārjuna. Suivant ce principe Kapoor procède à un syncrétisme constant mêlant les acquis de l’art moderne occidental, la liturgie et la symbolique hindous, ainsi que certaines notions centrales du bouddhisme indien.
 
 Il n’est pas difficile de voir dans « My Red Homeland » des rappels des monochromes minimalismes et des actions du mouvement Fluxus, de déceler un symbolisme « spiritualiste » empruntant entre autres choses l’union des contraires ou la vacuité comme « mouvement » perpétuel dépourvu d’en soi, mais aussi la « Broyeuse de chocolat » en particulier pour la masse travaillant la matière ou encore les « Neuf Moules Malic » de Marcel Duchamp.
-
+{{< imgc >}}
 ![](/posts/images/kapoor/marcel-duchampbroyeuse-de-chocolatmodern-artdada.001.jpg)
+{{< /imgc >}}
 
 © Marcel Duchamp, « Broyeuse de chocolat n° 2 », 1914.
 
@@ -57,8 +61,9 @@ En outre, la démarche du plasticien s’inscrit dans le mouvement de la nouvell
 « My Red Homeland » n’est donc pas qu’un paysage originaire, avant le langage, dans la sensation pure. C’est aussi l’évocation du sentiment archaïque du sacré. C’est un rituel/processus qui engendre un lieu allant de l’amorphe à l’ordonnancé. Ce paysage tente probablement du point de vue du plasticien de découper dans le lieu contingent de l’ex-position un espace autre, « sacralisé » relevant d’une sorte de chamanisme à la Beuys. Fluxus pour sa part de rituels, d’actions et de désir de décloisonner l’art, de sculpter la matière sociale semble être constamment en arrière-plan chez Anish Kapoor, tout autant que le minimalisme et sa culture d’origine.
 
 D’autre part, la forme phallique de la masse en giration (faisant penser à une centrifugeuse de l’aérospatiale) et la cavité qui en résulte se réfèrent probablement au symbolisme indien du « lingam/yoni ». Un thème très utilisé chez Anish Kapoor qui dans son désir de créer des sculptures perceptuelles convoquent toutes les formes d’énergies primales qu’il s’agisse des grandes notions religieuses comprises dans leur impact émotionnel, ou de la réception du « visiteur », (plus que « regardeur »), que l’artiste anglais veut confronter à ses pulsions les plus enfouies. D’où l’usage paradoxal de la culture et d’un symbolisme universel et primaire.
-
+{{< imgc >}}
 ![](/posts/images/kapoor/anish-kapoormy-red-homelandmam-saint-etienneexhibition.001-2.jpg)
+{{< /imgc >}}
 
 Cette œuvre processus issue du mouvement d’une machine, pour ainsi dire autarcique, unit donc des notions très importantes chez Kapoor pour qui les contraires ne s’excluent pas mais reproduisent par génération et décomposition.
 
@@ -67,8 +72,9 @@ Au bout du compte, on a l’impression, que malgré ses dénis, il transpose des
 ### La peau et la viande
 
 Voici pour le processus, la dynamique mécanique et intellectuelle de la pièce. Mais celle-ci est complexe, à multiple niveaux sinon à multiples lectures. D’autant plus que Kapoor veut interrompre autant que possible le geste de l’artiste et la lecture du regardeur-visiteur. Il est exclusivement occupé par l’interaction et non par l’intersubjectivité du créateur et le « spectateur » de ses prodiges.
-
+{{< imgc >}}
 ![](/posts/images/kapoor/anish-kapoorsculpturemam-saint-etiennemy-red-homelandart-exhibition2017.026-22.jpg)
+{{< /imgc >}}
 
 Anish Kapoor empile par conséquent les effets. Il veut s’assurer de la puissance émotionnelle du lieu « processuel » et ritualiste. La couleur intervient. Ce fameux pigment rouge (Le rouge est une des couleurs de la Shakti, symbolisant l’énergie) qui imprègne des tonnes de cire malmenée, rappelant aussi bien le sang, les chairs, les excréments, la terre qu’une sorte de magma primordial. La couleur primale est écœurante aussi bien dans son désordre, son obscénité charnelle que sa fragilité. Le rituel du pendule baratte la viande du vivant. Le paysage en forme de non-lieu est aussi un écorché.
 
@@ -77,8 +83,9 @@ Anish Kapoor empile par conséquent les effets. Il veut s’assurer de la puissa
 C’est ce que confirme les pièces disposées autour de l’espace de surgissement du sacré, le fameux « Temenos » dont Kapoor a fait une pièce en 2010, qui fait penser à un trou de ver (« wormhole », plus évocateur en anglais) faisant communiquer les dimensions.
 
 En effet, au mur sont accrochés des morceaux de viandes sanguinolents, l’un exposé à vif, l’autre voilé par une peau très fine. Dans les deux cas on est dans le registre de la vanité, de la viande suppliciée, autant de références à l’art occidental qu’il s’agisse de Rembrandt, Soutine, Francis Bacon ou du mythe grec de Marsyas dont Kapoor a tiré en 2002 une pièce éponyme exposée à la Tate Modern. La chair crie, dégouline, s’épand ou croît, impossible de dire si c’est positif ou non, probablement les deux dans la dialectique de l’artiste.
-
+{{< imgc >}}
 ![](/posts/images/kapoor/anish-kapoortate-modernmarsyascontemporary-art.001.jpg)
+{{< /imgc >}}
 
 Cette barbaque pourrait d’ailleurs aussi, comme dans un banal film d’horreur, surgir, suinter des murs, contaminer le lieu.
 
@@ -87,12 +94,14 @@ C’est ce que les deux portes en forme de miroirs suggèrent. Perpendiculaireme
 ### La mare originelle ou la porte des enfers
 
 Pour finir une grande toile se présente comme une sorte de tableau des enfers qui se compose de rouge chair à la limite du fécal avec des linéaments blancs évoquant le sperme. C’est une image du chaos, de l’avant, quand l’univers n’était pas séparé, une sorte de continuum répugnant.
-
+{{< imgc >}}
 ![](/posts/images/kapoor/anish-kapoorsculpturemam-saint-etiennemy-red-homelandart-exhibition2017.026-16.jpg)
+{{< /imgc >}}
 
 La mise en scène est complète et finalement assez allégorique, le « Tenemos » entropique au centre, les « wormhole » en périphérie qui ouvrent le lieu, des appendices monstrueux qui suintent du mur et une vue sur le chaos originelle. De la répulsion à la fascination Kapoor tente d’éveiller en nous des ressorts primordiaux, qu’il considère comme universels au-delà de toute appartenance culturelle.
-
-![](/posts/images/kapoor/anish-kapoormy-red-homelandmam-saint-etienneexhibition.001.jpg)
+{{< imgc >}}
+![](/posts/images/kapoor/anish-kapoormy-red-homelandmam-saint-etienneexhibition.001.jpg) 
+{{< /imgc >}}
 
 ---
 

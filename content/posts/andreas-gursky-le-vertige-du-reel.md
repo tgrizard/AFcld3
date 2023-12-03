@@ -1,6 +1,6 @@
 ---
 title: "Andreas Gursky le vertige du réel"
-date: 2023-10-23T22:03:27+02:00
+date: 2017-11-23
 draft: false
 url: /andreas-gursky-le-vertige-du-reel/
 authors: ["Thierry Grizard"]

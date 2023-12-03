@@ -44,6 +44,15 @@
 <meta name="twitter:description" content="Welcome to my blog and the art stream of consciousness."/>
 
 	
+
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch.min.css"/>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch-theme-algolia.min.css"/>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-theme-classic"/>
+
+
+
+
   </head>
 
   <body class="ma0 avenir bg-white">
@@ -130,38 +139,11 @@
     <main class="pb7" role="main">
       
   <article class="pa3 pa4-ns nested-copy-line-height ">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"></section>
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"><div id="hits">
+          
+      </div>
+    </section>
     <section class="flex-ns flex-wrap justify-around mt5">
-      
-        <div class="relative w-100 w-30-l mb4 bg-white">
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <h1 class="f3 near-black">
-      <a href="/yung-cheng-lin-et-les-corps-hors-limites/" class="link black dim">
-        Yung Cheng Lin et les corps hors limites
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Yung Cheng Lin est un artiste taïwanais illustrateur, sculpteur et photographe qui soumet le corps féminin à d&rsquo;étranges métamorphoses
-    </div>
-  </div>
-</div>
-        </div>
-      
-        <div class="relative w-100 w-30-l mb4 bg-white">
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <h1 class="f3 near-black">
-      <a href="/maisie-cousins-feminisme-erotisme/" class="link black dim">
-        Maisie Cousins un érotisme juste
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Maisie Cousins est une jeune photographe britannique qui conjugue avec beaucoup de force le féminisme à un érotisme subversif dionysiaque et enjoué
-    </div>
-  </div>
-</div>
-        </div>
       
         <div class="relative w-100 w-30-l mb4 bg-white">
           <div class="relative w-100 mb4 bg-white nested-copy-line-height">
@@ -173,6 +155,21 @@
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       Bettina rheims à fait de la féminité le centre de sa démarche en dépit des controverses et ceci dans une démarche transgressive affranchie de tout machisme
+    </div>
+  </div>
+</div>
+        </div>
+      
+        <div class="relative w-100 w-30-l mb4 bg-white">
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <h1 class="f3 near-black">
+      <a href="/agnes-geoffray-photography/" class="link black dim">
+        Agnès Geoffray, photographe de l’intranquillité
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Agnès Geoffray est une photographe plasticienne française qui questionne la circulation des images et l&rsquo;intranquillité qui les habite
     </div>
   </div>
 </div>
@@ -268,6 +265,21 @@
 </div>
         </div>
       
+        <div class="relative w-100 w-30-l mb4 bg-white">
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <h1 class="f3 near-black">
+      <a href="/peter-hujar-photography-monograph-article/" class="link black dim">
+        Peter Hujar portraits de l&#39;underground new-yorkais
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Peter Hujar est un photographe américain emblématique des années underground new-yorkaises des années 70/80 Il réalisait des portraits saisissants du temps
+    </div>
+  </div>
+</div>
+        </div>
+      
     </section>
     <ul class="pagination pagination-default">
       <li class="page-item">
@@ -347,5 +359,12 @@
 </body>
 </html>
 </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-js"></script>
+    <script> const { autocomplete } = window['@algolia/autocomplete-js'];</script>
+
+
   </body>
 </html>

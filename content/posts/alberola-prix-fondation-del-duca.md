@@ -19,26 +19,30 @@ featured_image: "/posts/images/banner/alberola.jpg"
 **Alberola**, dans sa démarche est un artiste au pied léger qui affleure avec humour et distance le réel.
 
 Ce qui caractérise le travail d’Alberola, au vu de la rétrospective que lui consacre la Palais de Tokyo, c’est le questionnement avant tout non pas le la Peinture mais du quotidien. Beaucoup des pièces exposées ne sont pas des œuvres autonomes mais autant de maillons d’un entretien intime avec le réel, la vie en société.
-
+{{< imgc >}}
 ![](/posts/images/alberola/jean-maichel-alberola-alberola-daniel-templon-palais-de-tokyo-solo-show-2016-painting.017-1024x1024.jpg)
+{{< /imgc >}}
 
 ---
 
 L’œuvre d’Alberola est traversée par la relation au langage et le signifié plus que le sens des choses. L’on entrevoit des jeux de mots et formes qui sont comme les miroirs subtils de moments singuliers.
-
+{{< imgc >}}
 ![](/posts/images/alberola/jean-maichel-alberola-alberola-daniel-templon-palais-de-tokyo-solo-show-2016-painting.013-1024x512.jpg)
+{{< /imgc >}}
 
 ---
 
 La forme ici est presque toujours une interrogation en forme de rébus qui est probablement une évocation pudique et détournée de tel ou tel événement privé ou public du moment. L’œuvre est un donc une sorte de journal qui à travers le dialogue érudit avec les formes picturales, photographiques, cinématographiques ou Pop Art tente de rendre compte de l’étonnement presque ingénu face à la complexité et la singularité de la vie de l’homme comme “animal politique”. C’est un autre élément notable chez Alberola, il ne s’agit presque toujours que des humains et de leur environnement matériel et social. Il n’y a pas ou peu de référence à la Nature ou le paysage dans le travail d’Alberola
-
+{{< imgc >}}
 ![](/posts/images/alberola/Alberola-palais-de-tokyo-solo-show-2016-painting-paris-france-aventure-des-details.004-1024x520.jpg)
+{{< /imgc >}}
 
 ---
 
 Hormis la période de jeunesse un peu académique, quoique formellement séduisante, le travail d’Alberola s’égrène donc comme un carnet de notes protéiforme. C’est souvent positif, humoristique, léger comme un gai savoir qui refuse de s’appesantir sur la gratuité des choses et au contraire essaie d’y adhérer et d’en rendre compte avec subtilité.
-
+{{< imgc >}}
 ![](/posts/images/alberola/Alberola-palais-de-tokyo-solo-show-2016-painting-paris-france-aventure-des-details.003-1024x520.jpg)
+{{< /imgc >}}
 
 ---
 
