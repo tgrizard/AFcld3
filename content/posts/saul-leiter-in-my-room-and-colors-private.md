@@ -68,7 +68,7 @@ Le « modèle » n’est probablement autre que Jean Pearson, une comédienne 
 
 
 {{< text-center >}}
-[Lire la suite de l'article](https://www.artefields.net/saul-leiter-in-my-room-and-colors/) 
+[Lire la suite de l'article](https://link.artefields.net/saul-leiter-as) 
 {{< /text-center >}}
 
 
