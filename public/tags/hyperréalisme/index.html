@@ -45,13 +45,14 @@
 
 	
 
+  
+  
+  <script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"> </script>"
+
+ 
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch.min.css"/>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch-theme-algolia.min.css"/>
-
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-theme-classic"/>
-
-
-
 
   </head>
 
@@ -602,11 +603,21 @@ Doit-on voir des similitudes ou le fruit du hasard dans les rappels historiques 
 </html>
 </footer>
 
-    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1"></script>
 
-    <script src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-js"></script>
-    <script> const { autocomplete } = window['@algolia/autocomplete-js'];</script>
+    <script>
+      const app = document.getElementById("app");
+      const algolia = algoliasearch("5W6X0K9ES3","256981be0d6a3f638d9ad15bdfa0f43c");
+      const index = algolia.initIndex("ASindex");
 
+      index.search("").then(results=> {
+        console.log(results);
+        const hits = results.hits.map(hit=>'<p>${hit.name}</p>')
+        app.innerHTML = hits.join("");
+      })
+    </script>
 
+    
+    
+    
   </body>
 </html>

@@ -24,8 +24,9 @@ Ce n’est pas en soi une démarche particulièrement originale à ceci près qu
 Toutefois quand on prend le temps d’analyser le pouvoir de séduction de ces images on comprend rapidement que l’originalité de ce travail repose sur une forme de spontanéité octroyant à la démarche un supplement d’authenticité.
 
 On trouve chez Anna di Prospero quelque chose de commun avec une de ses devancières: Francesca Woodman ([voir notre article ici](/francesca-woodman/)). En effet, il y a quelques similitudes: la rapidité d’exécution, le dépouillement visuel, le rapport à l’identité à travers la mise en scène du corps, entre autres choses.
-
+{{< imgc >}}
 ![](/posts/images/prospero/anna-di-prospero-photography-3.jpg)
+{{< /imgc >}}
 
 Alors que le « selfie » ou le portrait en situation est avant tout marqué par la relation aux autres et une certaine irréflexion, les autoportraits « in situ » de la plasticienne italienne relève plutôt d’une forme de meditation par rupture. Comme chez Francesca Woodman Anna di Prospero cherche à ouvrir des failles dans le réel:
 – Soit par le décalage: la nudité en public ou le mouvement en opposition à la rigidité de l’architecture.

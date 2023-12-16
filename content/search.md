@@ -22,3 +22,10 @@ type: page
 {{< br >}}
 {{< br >}}
 
+
+{{< br >}}
+{{< br >}}
+{{<algolia-logo>}}{{<search2>}}
+{{< br >}}
+{{< br >}}
+

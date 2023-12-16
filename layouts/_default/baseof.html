@@ -41,13 +41,14 @@
     {{ end }}
 	{{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
 
+  <!-- script Alogolia: instantsearch academy course*/}}-->
+  <!-- import JS client here -->
+  <script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"> </script>"
+
+ {{/* links Alogolia: instantsearch */}}
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch.min.css"/>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch-theme-algolia.min.css"/>
-
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-theme-classic"/>
-
-
-
 
   </head>
 
@@ -59,11 +60,22 @@
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
 
-    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1"></script>
+<!-- Alogolia: instantsearch academy course*/}}-->
+    <script>
+      const app = document.getElementById("app");
+      const algolia = algoliasearch("5W6X0K9ES3","256981be0d6a3f638d9ad15bdfa0f43c");
+      const index = algolia.initIndex("ASindex");
 
-    <script src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-js"></script>
-    <script> const { autocomplete } = window['@algolia/autocomplete-js'];</script>
+      index.search("").then(results=> {
+        console.log(results);
+        const hits = results.hits.map(hit=>'<p>${hit.name}</p>')
+        app.innerHTML = hits.join("");
+      })
+    </script>
 
-
+    <!--{{/* script Alogolia: instantsearch */}}-->
+    <!--<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1"></script>-->
+    <!--<script src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-js"></script>
+    <script> const { autocomplete } = window['@algolia/autocomplete-js'];</script> */}}-->
   </body>
 </html>

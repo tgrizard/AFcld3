@@ -45,13 +45,14 @@
 
 	
 
+  
+  
+  <script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"> </script>"
+
+ 
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch.min.css"/>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch-theme-algolia.min.css"/>
-
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-theme-classic"/>
-
-
-
 
   </head>
 
@@ -144,6 +145,21 @@
       </div>
     </section>
     <section class="flex-ns flex-wrap justify-around mt5">
+      
+        <div class="relative w-100 w-30-l mb4 bg-white">
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <h1 class="f3 near-black">
+      <a href="/saul-leiter-in-my-room-and-colors/" class="link black dim">
+        Saul Leiter, une photographie sensitive et picturale
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Saul Leiter a pratiqué durant toute sa carrière une photographie sensitive, la texture de la lumière ou des couleurs étaient son sujet. Dans In My Room il laisse courre à l&rsquo;échange sensuel baigné de lumière
+    </div>
+  </div>
+</div>
+        </div>
       
         <div class="relative w-100 w-30-l mb4 bg-white">
           <div class="relative w-100 mb4 bg-white nested-copy-line-height">
@@ -267,21 +283,6 @@ Candida Höfer est une des chefs de file de la Photographie Objective allemande.
 </div>
         </div>
       
-        <div class="relative w-100 w-30-l mb4 bg-white">
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <h1 class="f3 near-black">
-      <a href="/cindy-sherman-picture-generation/" class="link black dim">
-        Cindy Sherman The Picture Generation
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Cindy Sherman a fondé tout son travail sur le travestissement, en portant des masques parodiques elle tente de montrer ce qui se cache derrière eux
-    </div>
-  </div>
-</div>
-        </div>
-      
     </section>
     <ul class="pagination pagination-default">
       <li class="page-item disabled">
@@ -362,11 +363,21 @@ Candida Höfer est une des chefs de file de la Photographie Objective allemande.
 </html>
 </footer>
 
-    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1"></script>
 
-    <script src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-js"></script>
-    <script> const { autocomplete } = window['@algolia/autocomplete-js'];</script>
+    <script>
+      const app = document.getElementById("app");
+      const algolia = algoliasearch("5W6X0K9ES3","256981be0d6a3f638d9ad15bdfa0f43c");
+      const index = algolia.initIndex("ASindex");
 
+      index.search("").then(results=> {
+        console.log(results);
+        const hits = results.hits.map(hit=>'<p>${hit.name}</p>')
+        app.innerHTML = hits.join("");
+      })
+    </script>
 
+    
+    
+    
   </body>
 </html>

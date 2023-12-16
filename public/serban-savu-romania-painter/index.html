@@ -34,10 +34,10 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://artstream.net/serban-savu-romania-painter/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2019-05-23T00:00:00+00:00" />
-<meta property="article:modified_time" content="2023-11-23T12:33:23+01:00" />
+<meta property="article:modified_time" content="2023-12-16T02:48:04+01:00" />
 <meta itemprop="name" content="Serban Savu le social réalisme poétique">
 <meta itemprop="description" content="Serban Savu avec Adrian Ghenie fait partie de l&#39;Ecole de Cluj mais chez Savu l&#39;expressionnisme fait place à une sorte de post réalisme socialiste poétique"><meta itemprop="datePublished" content="2019-05-23T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2023-11-23T12:33:23+01:00" />
+<meta itemprop="dateModified" content="2023-12-16T02:48:04+01:00" />
 <meta itemprop="wordCount" content="363">
 <meta itemprop="keywords" content="Peinture," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Serban Savu le social réalisme poétique"/>
@@ -45,13 +45,14 @@
 
 	
 
+  
+  
+  <script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"> </script>"
+
+ 
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch.min.css"/>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch-theme-algolia.min.css"/>
-
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-theme-classic"/>
-
-
-
 
   </head>
 
@@ -354,11 +355,21 @@
 </html>
 </footer>
 
-    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1"></script>
 
-    <script src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-js"></script>
-    <script> const { autocomplete } = window['@algolia/autocomplete-js'];</script>
+    <script>
+      const app = document.getElementById("app");
+      const algolia = algoliasearch("5W6X0K9ES3","256981be0d6a3f638d9ad15bdfa0f43c");
+      const index = algolia.initIndex("ASindex");
 
+      index.search("").then(results=> {
+        console.log(results);
+        const hits = results.hits.map(hit=>'<p>${hit.name}</p>')
+        app.innerHTML = hits.join("");
+      })
+    </script>
 
+    
+    
+    
   </body>
 </html>

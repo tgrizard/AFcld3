@@ -4,8 +4,8 @@ date: 2019-04-23
 draft: true
 url: /alex-majoli-scene-photojournalism/
 authors: ["Thierry Grizard"]
-source:
-access: ["Réservé aux abonnés"]
+#source:
+#access: ["Réservé aux abonnés"]
 description: "Alex Majoli est un photojournaliste éminent de l'agence Magnum depuis 8 années il parcourt le monde pour en donner une autre image profondément théâtrale"
 summary: "Alex Majoli est un photojournaliste éminent de l'agence Magnum depuis 8 années il parcourt le monde pour en donner une autre image profondément théâtrale"
 tags: ["Photo documentaire", "Théâtralité", "Photographie Objective"]

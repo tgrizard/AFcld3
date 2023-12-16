@@ -8,7 +8,7 @@ hidden: false
 authors: ["Thierry Grizard"]
 access: ["Réservé aux abonnés"]
 # source: [""]
-description: "Ronan Barrot est un artiste peintre français contemporain qui s’inscrit dans l’histoire de la peinture à l’image d’un Eugène Leroy ou Rebeyrolle"
+description: "Ronan Barrot est un artiste peintre français contemporain qui s’inscrit dans l’histoire de la peinture à l’image d’un enene Leroy ou Rebeyrolle"
 summary: "Ronan Barrot est un artiste peintre français contemporain qui s’inscrit dans l’histoire de la peinture à l’image d’un Eugène Leroy ou Rebeyrolle"
 tags: [ "Peinture"]
 categories: ["Arts Visuels"]

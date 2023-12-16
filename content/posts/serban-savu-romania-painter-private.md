@@ -11,7 +11,7 @@ access: ["Réservé aux abonnés"]
 description: "Serban Savu avec Adrian Ghenie fait partie de l'Ecole de Cluj mais chez Savu l'expressionnisme fait place à une sorte de post réalisme socialiste poétique"
 summary: "Serban Savu avec Adrian Ghenie fait partie de l'Ecole de Cluj mais chez Savu l'expressionnisme fait place à une sorte de post réalisme socialiste poétique"
 tags: [ "Peinture"]
-categories: ["Arts Visuels"]
+categories: ["Arts Visuels","Featured"]
 featured_image: "/posts/images/banner/savu.jpg"
 ---
 # Serban Savu le social réalisme poétique - ARTEFIELDS
