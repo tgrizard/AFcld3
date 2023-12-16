@@ -6,7 +6,7 @@ url: /saul-leiter-in-my-room-and-colors/
 draft: false
 hidden: false
 authors: ["Thierry Grizard"]
-access: ["Réservé aux abonnés"]
+#access: ["Réservé aux abonnés"]
 #source: ["https://www.artefields.net/saul-leiter-in-my-room-and-colors/"]
 description: "Saul Leiter a pratiqué durant toute sa carrière une photographie sensitive, la texture de la lumière ou des couleurs étaient son sujet. Dans In My Room il laisse courre à l'échange sensuel baigné de lumière"
 summary: "Saul Leiter a pratiqué durant toute sa carrière une photographie sensitive, la texture de la lumière ou des couleurs étaient son sujet. Dans In My Room il laisse courre à l'échange sensuel baigné de lumière"
