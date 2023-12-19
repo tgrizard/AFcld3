@@ -1,7 +1,7 @@
 ---
 title: "Raphaël Dallaporta les vacillements de la photographie"
 date: 2019-05-27
-url: 
+url: /raphael-dallaporta-niepce-photography/
 # layout: ""
 draft: true
 hidden: false

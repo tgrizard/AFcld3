@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-12-16T12:30:22+01:00</lastmod>
+    <lastmod>2023-12-19T16:11:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-12-16T12:30:22+01:00</lastmod>
+    <lastmod>2023-12-19T16:11:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/categories/photographie/</loc>
+    <lastmod>2023-12-19T16:11:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/photographie-punctum/</loc>
+    <lastmod>2023-12-19T16:11:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/</loc>
+    <lastmod>2023-12-19T16:11:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/punctum/</loc>
+    <lastmod>2023-12-19T16:11:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/</loc>
+    <lastmod>2023-12-19T16:11:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/temporalit%C3%A9/</loc>
+    <lastmod>2023-12-19T16:11:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/authors/thierry-grizard/</loc>
+    <lastmod>2023-12-19T16:11:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -22,27 +57,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/categories/photographie/</loc>
-    <lastmod>2023-12-16T12:30:22+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-12-16T12:30:22+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://artstream.net/saul-leiter-in-my-room-and-colors/</loc>
-    <lastmod>2023-12-16T12:30:22+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-12-16T12:30:22+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/authors/thierry-grizard/</loc>
     <lastmod>2023-12-16T12:30:22+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -308,7 +323,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/dossier-la-photographie-objective/</loc>
-    <lastmod>2023-11-17T21:50:52+01:00</lastmod>
+    <lastmod>2023-12-19T15:13:32+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -433,7 +448,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/photographie-objective/</loc>
-    <lastmod>2023-11-29T00:09:16+01:00</lastmod>
+    <lastmod>2023-12-19T15:13:32+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -532,18 +547,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/tags/temporalit%C3%A9/</loc>
-    <lastmod>2023-11-22T23:11:34+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://artstream.net/tags/th%C3%A9%C3%A2tralit%C3%A9/</loc>
     <lastmod>2023-11-29T00:08:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/themes/</loc>
-    <lastmod>2023-11-29T01:24:50+01:00</lastmod>
+    <lastmod>2023-12-19T15:13:32+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
