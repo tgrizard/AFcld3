@@ -8,7 +8,7 @@ DefaultContentLanguage = "fr"
 # SectionPagesMenu = "main"
 Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
-enableRobotsTXT = false
+enableRobotsTXT = true
 
 summaryLength = 35
 
