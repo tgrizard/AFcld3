@@ -13,7 +13,7 @@ summary: "Anna Weyant est une jeune peintre canadienne à la notoriété fulgura
 copyright: ["© Anna Weyant"]
 tags: [ "Peinture"]
 categories: ["Arts Visuels"]
-featured_image: "/posts/images/banner/weyant.jpg"
+featured_image: "/posts/images/banner/weyant-2.jpg"
 ---
 
 
