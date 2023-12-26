@@ -6,7 +6,16 @@
     <description>Recent content in Tags on ARTSTREAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://artstream.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://artstream.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peinture</title>
+      <link>https://artstream.net/tags/peinture/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://artstream.net/tags/peinture/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Punctum</title>
       <link>https://artstream.net/tags/punctum/</link>
@@ -274,15 +283,6 @@
       <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
       
       <guid>https://artstream.net/tags/paysages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peinture</title>
-      <link>https://artstream.net/tags/peinture/</link>
-      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
-      
-      <guid>https://artstream.net/tags/peinture/</guid>
       <description></description>
     </item>
     

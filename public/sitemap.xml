@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://artstream.net/anna-weyant-and-art-market/</loc>
+    <lastmod>2023-12-26T20:36:54+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/categories/arts-visuels/</loc>
+    <lastmod>2023-12-26T20:36:54+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2023-12-19T16:16:47+01:00</lastmod>
+    <lastmod>2023-12-26T20:36:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2023-12-26T20:31:04+01:00</lastmod>
+    <lastmod>2023-12-26T20:36:54+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/peinture/</loc>
+    <lastmod>2023-12-26T20:36:54+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/</loc>
+    <lastmod>2023-12-26T20:36:54+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/</loc>
+    <lastmod>2023-12-26T20:36:54+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/authors/thierry-grizard/</loc>
+    <lastmod>2023-12-26T20:36:54+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -22,27 +52,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/posts/</loc>
-    <lastmod>2023-12-26T20:31:04+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://artstream.net/tags/punctum/</loc>
     <lastmod>2023-12-19T16:16:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/tags/</loc>
-    <lastmod>2023-12-26T20:31:04+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://artstream.net/tags/temporalit%C3%A9/</loc>
-    <lastmod>2023-12-19T16:16:47+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/authors/thierry-grizard/</loc>
     <lastmod>2023-12-19T16:16:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -104,11 +119,6 @@
   </url><url>
     <loc>https://artstream.net/art-et-perception-art-contemporain/</loc>
     <lastmod>2023-11-17T21:46:13+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/categories/arts-visuels/</loc>
-    <lastmod>2023-12-26T20:31:04+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -407,11 +417,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/tags/peinture/</loc>
-    <lastmod>2023-12-26T20:31:04+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://artstream.net/peinture-et-langage-art-contemporain/</loc>
     <lastmod>2023-11-14T13:29:35+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -649,11 +654,6 @@
   </url><url>
     <loc>https://artstream.net/coco-capitan-mep-busy-living/</loc>
     <lastmod>2023-11-17T21:47:55+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/anna-weyant-and-art-market/</loc>
-    <lastmod>2023-12-26T20:31:04+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -1219,11 +1219,6 @@
   </url><url>
     <loc>https://artstream.net/jan-groover-american-photographer/</loc>
     <lastmod>2023-11-17T21:50:52+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/posts/anna-weyant-and-art-market-private/</loc>
-    <lastmod>2023-12-26T20:18:23+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
