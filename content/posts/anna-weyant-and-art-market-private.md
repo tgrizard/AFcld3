@@ -25,6 +25,7 @@ featured_image: "/posts/images/banner/weyant.jpg"
 ### Anna Weyant, une biographie en forme de conte de fée
 
 Anna Weyant est une artiste canadienne née en 1995. Après avoir obtenu un diplôme en arts plastiques section peinture (BFA) à la Rhode Island School of Design, elle s'installe à New York puis étudie la peinture à l'Académie des beaux-arts de Chine à Hangzhou. De son passage en Chine on peut immédiatement remarquer l'influence, entre autres, de Yue Minjun qui pratique une critique foncièrement Pop-Art de la société chinoise. Il est l'initiateur du *réalisme cynique*, un mouvement artistique particulièrement critique détournant le style *réaliste socialiste* au profit d'une subversion satirique et relativement désabusée.  Le travail, à la facture classique décalée, d'Anna Weyant oscille donc entre surréalisme, Pop-Art et peinture narrative, puisant son inspiration dans la culture vernaculaire, notamment les séries, films, publicités et l'univers des banlieues américaines.
+
 {{< imgc >}}
 ![](/posts/images/weyant/anna-weyant.00033-2.jpg) 
 © Anna Weyant 
