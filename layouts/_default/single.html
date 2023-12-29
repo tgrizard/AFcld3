@@ -62,8 +62,16 @@
         {{ . }}
       {{ end }}
       </span>
+      <br>
       <span>
-        - Source : <a href="https://artefields.net">artefields.net</a> 
+        Source de l'article :
+        {{ range .Param "source-article" }}
+        {{ . }}
+      {{ end }}
+      </span>
+      <br>
+      <span>
+        Site de référence : <a href="https://artefields.net">artefields.net</a> 
         {{/* {{ range .Param "source" }}
         {{ . }}
       {{ end }} */}}

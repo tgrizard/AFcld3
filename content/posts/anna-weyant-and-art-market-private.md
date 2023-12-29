@@ -7,7 +7,7 @@ draft: false
 hidden: false
 authors: ["Thierry Grizard"]
 access: ["Réservé aux abonnés"]
-# source: [""]
+source-article: ["https://www.artefields.net/anna-weyant-and-art-market/"]
 description: "Anna Weyant est une jeune peintre canadienne à la notoriété fulgurante. Sa démarche consiste dans une facture classique à dépeindre les temps modernes"
 summary: "Anna Weyant est une jeune peintre canadienne à la notoriété fulgurante. Sa démarche consiste dans une facture classique à dépeindre les temps modernes"
 copyright: ["© Anna Weyant"]
@@ -18,7 +18,7 @@ featured_image: "/posts/images/banner/weyant-2.jpg"
 
 
 {{< imgc >}}
-![](/posts/images/weyant/anna-weyant.0002.jpg)
+![Anna Weyant](/posts/images/weyant/anna-weyant.0002.jpg)
 © Anna Weyant      
 {{< /imgc >}}
 
