@@ -6,7 +6,7 @@ url: /anna-weyant-and-art-market/
 draft: false
 hidden: false
 authors: ["Thierry Grizard"]
-access: ["Réservé aux abonnés"]
+#access: ["Réservé aux abonnés"]
 source-article: ["https://www.artefields.net/anna-weyant-and-art-market/"]
 description: "Anna Weyant est une jeune peintre canadienne à la notoriété fulgurante. Sa démarche consiste dans une facture classique à dépeindre les temps modernes"
 summary: "Anna Weyant est une jeune peintre canadienne à la notoriété fulgurante. Sa démarche consiste dans une facture classique à dépeindre les temps modernes"
@@ -40,3 +40,10 @@ Anna Weyant est une artiste canadienne née en 1995. Après avoir obtenu un dipl
 De prime abord la facture d'Anna Weyant semble s'inspirer de l'âge d'or de la peinture flamande, par le naturalisme, le gout des détails, les tons parfois éteints, aux dominantes sépia, vertes et jaunes. Ce style néo-classique se retrouve chez de nombreux artistes contemporains qui l'utilisent par fascination pour un moment glorieux de la peinture, mais également par ironie. En effet, qu'il s'agisse de peintres tels que [Michaël Borremans](/michael-borremans/), [Oda Jaune](/oda-jaune-biographie-galerie/), [Jean-Baptiste Boyer](/jean-baptiste-boyer-galerie-laure-roynette/), [Apolonia Sokol](/apolonia-sokol-portrait-autoportrait/) et bien d'autres peintres contemporains, le style est évidemment détourné et opère une sorte de rupture sémiotique. Le néo-classicisme ne répète pas le passé, il représente le présent. Ce seul fait provoque un premier décalage. Par ailleurs, ces artistes ont une approche conceptuelle de la facture. Les incongruités se révèlent rapidement. Le style ne colle pas au sujet. On oscille du surréalisme retors de Michaël Borremans, aux réappropriations de Boyer en passant par toutes sortes de glissements signifiants.
 
 Chez Anna Weyant les fractures sémiotiques sont de l'ordre du grotesque contrôlé, induit par de nombreux détails prosaïques, discontinus, une main bandée, un sein bizarrement positionné. Des distorsions empruntées à Balthus et par conséquent aux maîtres du Quattrocento, mais aussi à John Currin qui voue un véritable culte à Lucas Cranach, qui en pleine Renaissance restait très influencé par la stylisation gothique peu soucieuse de réalisme. Quant à Balthasar Kłossowski, dit Balthus, il jouait de poses inspirées de Piero della Francesca pour imprimer aux modèles un aspect hiératique, aux décors une théâtralité monumentale typique du Quattrocento...
+
+{{< text-center >}}
+[Lire la suite de l'article](https://bit.ly/AF-article-anna-weyant-AS-bl) 
+{{< /text-center >}}
+{{< br >}}
+
+
