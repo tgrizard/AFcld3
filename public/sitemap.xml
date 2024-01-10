@@ -3,46 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://artstream.net/categories/arts-visuels/</loc>
-    <lastmod>2024-01-03T09:12:00+01:00</lastmod>
+    <lastmod>2024-01-10T23:52:49+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2024-01-03T09:12:00+01:00</lastmod>
+    <lastmod>2024-01-10T23:52:49+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
-    <lastmod>2024-01-03T09:12:00+01:00</lastmod>
+    <lastmod>2024-01-10T23:52:49+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/featured/</loc>
-    <lastmod>2024-01-03T09:12:00+01:00</lastmod>
+    <lastmod>2024-01-10T23:52:49+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/images/marthe/</loc>
+    <lastmod>2024-01-10T23:52:49+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/peinture/</loc>
-    <lastmod>2024-01-03T09:12:00+01:00</lastmod>
+    <lastmod>2024-01-10T23:52:49+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/posts/</loc>
-    <lastmod>2024-01-03T09:12:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/sean-landers-recit-pictural-de-soi/</loc>
-    <lastmod>2024-01-03T09:12:00+01:00</lastmod>
+    <lastmod>2024-01-10T23:52:49+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/tags/</loc>
-    <lastmod>2024-01-03T09:12:00+01:00</lastmod>
+    <lastmod>2024-01-10T23:52:49+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/authors/thierry-grizard/</loc>
+    <lastmod>2024-01-10T23:52:49+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/sean-landers-recit-pictural-de-soi/</loc>
     <lastmod>2024-01-03T09:12:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
