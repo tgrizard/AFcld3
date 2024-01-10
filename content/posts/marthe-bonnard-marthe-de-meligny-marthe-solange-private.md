@@ -7,7 +7,7 @@ draft: false
 hidden: false
 authors: ["Thierry Grizard"]
 # access: ["Réservé aux abonnés"]
-# source: [""]
+source: ["https://www.artefields.net/marthe-bonnard-marthe-de-meligny-marthe-solange/"]
 description: "Marthe Bonnard, la femme et égérie de Pierre Bonnard, est souvent considérée comme un mystère. L'origine même de sa relation à son futur mari repose sur une invention"
 summary: "Marthe Bonnard, la femme et égérie de Pierre Bonnard, est souvent considérée comme un mystère. L'origine même de sa relation à son futur mari repose sur une invention"
 tags: [ "Peinture"]
@@ -35,3 +35,5 @@ Puisqu'il est aventureux d'esquisser une biographie de Maria Boursin à Marthe B
 
 Marthe, de constitution fragile, était extrêmement soucieuse des soins du corps. On constate à travers la série des "tub" que Bonnard travaillait également depuis photo. Un héritage qu'il doit probablement à l'influence de Degas...
 
+
+[Lire la suite de l'article](https://www.artefields.net/marthe-bonnard-marthe-de-meligny-marthe-solange/)
