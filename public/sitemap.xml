@@ -2,17 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://artstream.net/categories/arts-visuels/</loc>
-    <lastmod>2024-01-10T23:57:45+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2024-01-10T23:57:45+01:00</lastmod>
+    <lastmod>2024-01-13T20:12:02+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
+    <lastmod>2024-01-13T20:12:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/f%C3%A9minisme/</loc>
+    <lastmod>2024-01-13T20:12:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/categories/photographie/</loc>
+    <lastmod>2024-01-13T20:12:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/photographie-conceptuelle/</loc>
+    <lastmod>2024-01-13T20:12:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/</loc>
+    <lastmod>2024-01-13T20:12:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/sophy-rickett-pissing-women-inversion-subversion/</loc>
+    <lastmod>2024-01-13T20:12:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/</loc>
+    <lastmod>2024-01-13T20:12:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/authors/thierry-grizard/</loc>
+    <lastmod>2024-01-13T20:12:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/categories/arts-visuels/</loc>
     <lastmod>2024-01-10T23:57:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -32,21 +67,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/posts/</loc>
-    <lastmod>2024-01-10T23:57:45+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/tags/</loc>
-    <lastmod>2024-01-10T23:57:45+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2024-01-10T23:57:45+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://artstream.net/sean-landers-recit-pictural-de-soi/</loc>
     <lastmod>2024-01-03T09:12:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -54,11 +74,6 @@
   </url><url>
     <loc>https://artstream.net/anna-weyant-and-art-market/</loc>
     <lastmod>2023-12-29T16:44:50+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/categories/photographie/</loc>
-    <lastmod>2023-12-19T16:16:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -229,11 +244,6 @@
   </url><url>
     <loc>https://artstream.net/tags/featured/</loc>
     <lastmod>2023-11-29T00:09:16+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/tags/f%C3%A9minisme/</loc>
-    <lastmod>2023-11-23T22:53:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
