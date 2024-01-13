@@ -24,7 +24,7 @@ L'une de ses séries les plus provocantes et intrigantes est sans aucun doute "P
 La série "Pissing Women," réalisée en 1994-1995, représente une exploration subversive des conventions culturelles et des codes artistiques patriarcaux.
 
 {{< imgc >}}
-![](/posts/images/rickett/sophy-rickett.0003-1.jpg)
+![](/posts/images/rickett/sophy-rickett_pissing-women.003.jpg)
 © Sophy Rickett
 {{< /imgc >}}
 
