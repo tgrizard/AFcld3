@@ -6,7 +6,25 @@
     <description>Recent content in Tags on ARTSTREAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 27 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://artstream.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://artstream.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peinture</title>
+      <link>https://artstream.net/tags/peinture/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://artstream.net/tags/peinture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surréalisme</title>
+      <link>https://artstream.net/tags/surr%C3%A9alisme/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://artstream.net/tags/surr%C3%A9alisme/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Mode</title>
       <link>https://artstream.net/tags/mode/</link>
@@ -31,15 +49,6 @@
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://artstream.net/tags/photographie-conceptuelle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peinture</title>
-      <link>https://artstream.net/tags/peinture/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://artstream.net/tags/peinture/</guid>
       <description></description>
     </item>
     
@@ -418,15 +427,6 @@
       <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
       
       <guid>https://artstream.net/tags/street-photography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Surréalisme</title>
-      <link>https://artstream.net/tags/surr%C3%A9alisme/</link>
-      <pubDate>Mon, 23 Oct 2023 22:03:27 +0200</pubDate>
-      
-      <guid>https://artstream.net/tags/surr%C3%A9alisme/</guid>
       <description></description>
     </item>
     
