@@ -2,17 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://artstream.net/categories/arts-visuels/</loc>
-    <lastmod>2024-02-02T14:02:38+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://artstream.net/authors/</loc>
-    <lastmod>2024-02-02T14:02:38+01:00</lastmod>
+    <lastmod>2024-02-15T09:49:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://artstream.net/categories/</loc>
+    <lastmod>2024-02-15T09:49:59+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/corpor%C3%A9it%C3%A9/</loc>
+    <lastmod>2024-02-15T09:49:59+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/irving-penn-photographer-nudes/</loc>
+    <lastmod>2024-02-15T09:49:59+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/mode/</loc>
+    <lastmod>2024-02-15T09:49:59+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/categories/photographie/</loc>
+    <lastmod>2024-02-15T09:49:59+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/posts/</loc>
+    <lastmod>2024-02-15T09:49:59+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/tags/</loc>
+    <lastmod>2024-02-15T09:49:59+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/authors/thierry-grizard/</loc>
+    <lastmod>2024-02-15T09:49:59+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://artstream.net/categories/arts-visuels/</loc>
     <lastmod>2024-02-02T14:02:38+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -27,11 +62,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/posts/</loc>
-    <lastmod>2024-02-02T14:02:38+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://artstream.net/tags/surr%C3%A9alisme/</loc>
     <lastmod>2024-02-02T14:02:38+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -42,27 +72,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://artstream.net/tags/</loc>
-    <lastmod>2024-02-02T14:02:38+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/authors/thierry-grizard/</loc>
-    <lastmod>2024-02-02T14:02:38+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://artstream.net/juergen-teller-iconoclaste-private/</loc>
-    <lastmod>2024-01-27T22:41:05+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/tags/mode/</loc>
-    <lastmod>2024-01-27T22:41:05+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/categories/photographie/</loc>
     <lastmod>2024-01-27T22:41:05+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -214,11 +224,6 @@
   </url><url>
     <loc>https://artstream.net/contact/</loc>
     <lastmod>2023-12-02T01:36:03+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://artstream.net/tags/corpor%C3%A9it%C3%A9/</loc>
-    <lastmod>2023-11-23T22:53:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
